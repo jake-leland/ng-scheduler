@@ -7,6 +7,7 @@
 
     Inspect.$inject = ['$scope', '$http'];
 
+    /* @ngInject */
     function Inspect($scope, $http) {
         $http.get('content/tamu.json')
             .then(function (res) {

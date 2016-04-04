@@ -3,6 +3,7 @@
 
     angular
         .module('app', [
+            'app.core',
             'app.inspect',
             'app.schedule'
         ]);

@@ -24,23 +24,18 @@
         </thead>
         <tbody>
         <tr>
-            <td>
-
+            <td id="sched-times">
+                <div>
+                    <hr ng-repeat="line in lines" class="sched-line" ng-style="line.style">
+                </div>
             </td>
-            <td id="sched-M" class="sched-day">
-                <!--<div class="class" ng-repeat="classes.M"></div>-->
-            </td>
-            <td id="sched-T" class="sched-day">
-                <!--<div class="class" ng-repeat="classes.T"></div>-->
-            </td>
-            <td id="sched-W" class="sched-day">
-                <!--<div class="class" ng-repeat="classes.W"></div>-->
-            </td>
-            <td id="sched-R" class="sched-day">
-                <!--<div class="class" ng-repeat="classes.T"></div>-->
-            </td>
-            <td id="sched-F" class="sched-day">
-                <!--<div class="class" ng-repeat="classes.F"></div>-->
+            <td ng-repeat="day in ['M', 'T', 'W', 'R', 'F']" class="sched-day">
+                <div>
+                    <hr ng-repeat="line in lines" class="sched-line" ng-style="line.style">
+                </div>
+                <div ng-repeat="class in classes[day]" class="class" ng-style="class.style">
+                    {{ class.title }}
+                </div>
             </td>
         </tr>
         </tbody>

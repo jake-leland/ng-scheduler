@@ -8,17 +8,21 @@
 
 </head>
 <body>
-<div data-ng-controller="Inspect">
+<div ng-controller="Inspect">
     <input type="text" ng-model="subject" placeholder="Subject">
     <input type="text" ng-model="course" placeholder="Course">
     <input type="text" ng-model="section" placeholder="Section">
-    <button ng-click="parseSection(data[subject][course][section])"></button>
-    <h1>{{ subject }} {{ course }} {{ section }}</h1>
-    {{ data[subject][course][section] }}
+    <button ng-click="parseSection(data[subject.toUpperCase()][course][section])"></button>
+    <h1>{{ subject.toUpperCase() }} {{ course }} {{ section }}</h1>
+    {{ data[subject.toUpperCase()][course][section] }}
 </div>
-<div data-ng-include="'app/schedule/schedule.html'"></div>
+<div ng-include="'app/schedule/schedule.html'"></div>
 
 <script src="app/app.module.js"></script>
+
+<script src="app/core/core.module.js"></script>
+<script src="app/core/common.js"></script>
+<script src="app/core/config.js"></script>
 
 <script src="app/inspect/inspect.module.js"></script>
 <script src="app/inspect/inspect.js"></script>

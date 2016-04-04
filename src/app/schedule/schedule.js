@@ -5,42 +5,47 @@
         .module('app')
         .controller('Schedule', Schedule);
 
-    Schedule.$inject = ['$scope'];
+    Schedule.$inject = ['$scope', 'common', 'config'];
 
-    var minTime = 7;
-    var maxTime = 21;
+    /* @ngInject */
+    function Schedule($scope, common, config) {
+        var h = parseInt($('#sched-times').css('height'));
 
-    function Schedule($scope) {
+        $scope.lines = [];
+        for (var i = Math.floor(common.timeToHrs(config.schedule.minTime)); i < Math.ceil(common.timeToHrs(config.schedule.maxTime)); i++) {
+            $scope.lines.push({
+                style: {
+                    'top': h * common.hrsToPct(i) + 'px'
+                }
+            });
+        }
+
+        $scope.classes = {};
+        $scope.classes.M = {};
+        $scope.classes.T = {};
+        $scope.classes.W = {};
+        $scope.classes.R = {};
+        $scope.classes.F = {};
+
         function parseSection(section) {
             for (var i = 0; i < section.instructor.length; i++) {
                 for (var j = 0; j < section.days[i].length; j++) {
-                    createClass(section.days[i][j], section.time[i]);
+                    createClass(section.crn + '-' + i, section.days[i][j], section.time[i]);
                 }
             }
 
-            function createClass(day, time) {
+            function createClass(id, day, time) {
                 time = time.split('-');
                 var startTime = time[0];
                 var endTime = time[1];
-                var day = $('#sched-' + day);
-                var h = parseInt(day.css('height'));
-                var c = $('<div/>', {
-                    class: 'class'
-                }).css({
-                    top: h * timeToPct(startTime),
-                    height: h * (timeToPct(endTime) - timeToPct(startTime))
-                });
-                day.append(c);
-
-                function timeToPct(time) {
-                    time = time.split(/:| /);
-                    var hours = parseInt(time[0].replace('12', '00'));
-                    var minutes = parseInt(time[1]);
-                    if (time[2] == 'pm') {
-                        hours += 12;
-                    }
-                    return ((hours + minutes / 60) - minTime) / (maxTime - minTime);
-                }
+                $scope.classes[day][id] = {
+                    style: {
+                        'top': h * common.timeToPct(startTime) + 'px',
+                        'height': h * (common.timeToPct(endTime) - common.timeToPct(startTime)) + 'px',
+                        'margin-bottom': -h * (common.timeToPct(endTime) - common.timeToPct(startTime)) + 'px'
+                    },
+                    title: common.toTitleCase(section.title)
+                };
             }
         }
 
