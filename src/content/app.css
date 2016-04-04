@@ -1,0 +1,33 @@
+table.schedule {
+    width: 1000px;
+    height: 500px;
+    border-spacing: 0;
+    border: 2px solid gray;
+}
+
+tr.sched-head {
+    background: gray;
+    border-radius: 10px;
+}
+
+th.sched-day {
+    border-left: 1px solid dimgray;
+}
+
+td {
+    margin: 0;
+    padding: 0;
+    background-color: darkgray;
+}
+
+td.sched-day {
+    border-left: 1px solid darkgray;
+    vertical-align: baseline;
+    width: 18%;
+    background-color: lightgray;
+}
+
+div.class {
+    position: relative;
+    background: rgba(0, 0, 0, .5);
+}
