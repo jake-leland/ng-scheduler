@@ -1,0 +1,211 @@
+{
+  "101": {
+    "501": {
+      "select": "SR",
+      "subject": "ARAB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "BEGINNING ARABIC I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Turkia Arfaoui (P)"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "MTWRF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ACAD 227"
+      ],
+      "time": [
+        "08:00 am-08:50 am"
+      ],
+      "crn": "10243"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ARAB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "BEGINNING ARABIC I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Turkia Arfaoui (P)"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "MTWRF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ACAD 227"
+      ],
+      "time": [
+        "09:10 am-10:00 am"
+      ],
+      "crn": "13030"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "ARAB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "503",
+      "title": "BEGINNING ARABIC I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Turkia Arfaoui (P)"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "MTWRF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 115"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "16490"
+    }
+  },
+  "321": {
+    "500": {
+      "select": "SR",
+      "subject": "ARAB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "BUSINESS ARABIC",
+      "remaining": "22",
+      "capacity": "22",
+      "instructor": [
+        "Natalie M. Khazaal (P)"
+      ],
+      "credits": "3",
+      "course": "321",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 104"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "25174"
+    }
+  },
+  "201": {
+    "501": {
+      "select": "SR",
+      "subject": "ARAB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "INTERMEDIATE ARABIC I",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Salah Ayari (P)"
+      ],
+      "credits": "3",
+      "course": "201",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 264"
+      ],
+      "time": [
+        "09:10 am-10:00 am"
+      ],
+      "crn": "10244"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ARAB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "INTERMEDIATE ARABIC I",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Salah Ayari (P)"
+      ],
+      "credits": "3",
+      "course": "201",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 104"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "13613"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "ARAB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "503",
+      "title": "INTERMEDIATE ARABIC I",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Salah Ayari (P)"
+      ],
+      "credits": "3",
+      "course": "201",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 104"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "10245"
+    }
+  }
+}

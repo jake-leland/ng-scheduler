@@ -1,0 +1,95 @@
+{
+  "5000": {
+    "600": {
+      "select": "SR",
+      "subject": "OMSF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "ORAL MAXILLOFACIAL SURG ROT",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Likith Reddy (P)"
+      ],
+      "credits": "1",
+      "course": "5000",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/15-12/16"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "22991"
+    }
+  },
+  "5233": {
+    "600": {
+      "select": "SR",
+      "subject": "OMSF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "PHYSICAL DIAGNOSIS",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Sterling R. Schow (P)"
+      ],
+      "credits": "1",
+      "course": "5233",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/15-12/16"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-08:50 am"
+      ],
+      "crn": "22990"
+    }
+  },
+  "5218": {
+    "600": {
+      "select": "SR",
+      "subject": "OMSF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "CONSCIOUS SEDATION",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Bryan N. Henderson (P)"
+      ],
+      "credits": "1",
+      "course": "5218",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/15-12/16"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "22992"
+    }
+  }
+}

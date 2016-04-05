@@ -1,0 +1,189 @@
+{
+  "101": {
+    "501": {
+      "select": "SR",
+      "subject": "CHIN",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "BEGINNING CHINESE I",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Wei Dong Shi (P)",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "MTWRF",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ACAD 227",
+        "TBA"
+      ],
+      "time": [
+        "12:40 pm-01:30 pm",
+        "TBA"
+      ],
+      "crn": "10843"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CHIN",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "BEGINNING CHINESE I",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Wei Dong Shi (P)"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "MTWRF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ACAD 227"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "14029"
+    }
+  },
+  "201": {
+    "501": {
+      "select": "SR",
+      "subject": "CHIN",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "INTERMEDIATE CHINESE I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Jun Lei (P)"
+      ],
+      "credits": "3",
+      "course": "201",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 264"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "24324"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CHIN",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "INTERMEDIATE CHINESE I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Jun Lei (P)"
+      ],
+      "credits": "3",
+      "course": "201",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HELD 120"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "25971"
+    }
+  },
+  "301": {
+    "500": {
+      "select": "SR",
+      "subject": "CHIN",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "READING & COMPOSITION",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Wei Dong Shi (P)"
+      ],
+      "credits": "3",
+      "course": "301",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 264"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "24326"
+    }
+  },
+  "491": {
+    "500": {
+      "select": "C",
+      "subject": "CHIN",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 264"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "28501"
+    }
+  }
+}

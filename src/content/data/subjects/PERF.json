@@ -1,0 +1,546 @@
+{
+  "101": {
+    "900": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "900",
+      "title": "INTRO PERF STUDIES",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "James R. Ball III (P)"
+      ],
+      "credits": "3",
+      "course": "101",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 262"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "24880"
+    }
+  },
+  "202": {
+    "500": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "INTRO TO PERFORMANCE TECH",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "202",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 262"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "27512"
+    }
+  },
+  "301": {
+    "500": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "PERF IN WORLD CULTURES",
+      "remaining": "43",
+      "capacity": "43",
+      "instructor": [
+        "Leonardo Cardoso De Cardoso (P)"
+      ],
+      "credits": "3",
+      "course": "301",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HECC 209"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "24647"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "PERF IN WORLD CULTURES",
+      "remaining": "43",
+      "capacity": "43",
+      "instructor": [
+        "Leonardo Cardoso De Cardoso (P)"
+      ],
+      "credits": "3",
+      "course": "301",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HECC 209"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "24648"
+    }
+  },
+  "489": {
+    "501": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "SPTP:PERFORMING THE U.S. SOUTH",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Kimberly A. Kattari (P)"
+      ],
+      "credits": "3",
+      "course": "489",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 109"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "27701"
+    }
+  },
+  "600": {
+    "600": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "GRAD SCHOLARSHIP PERF",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "600",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 227"
+      ],
+      "time": [
+        "01:00 pm-03:00 pm"
+      ],
+      "crn": "19052"
+    }
+  },
+  "601": {
+    "600": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "THEORIES OF PERF",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Harris Berger (P)"
+      ],
+      "credits": "3",
+      "course": "601",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 227"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "13252"
+    }
+  },
+  "327": {
+    "500": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "POP MUS IN AFRICAN DIASP",
+      "remaining": "23",
+      "capacity": "23",
+      "instructor": [
+        "David Donkor (P)"
+      ],
+      "credits": "3",
+      "course": "327",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "CHEN 102"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "19548"
+    }
+  },
+  "602": {
+    "600": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "RESEARCH METHODS IN PERF",
+      "remaining": "7",
+      "capacity": "7",
+      "instructor": [
+        "Kirsten Pullen (P)"
+      ],
+      "credits": "3",
+      "course": "602",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 227"
+      ],
+      "time": [
+        "10:00 am-12:30 pm"
+      ],
+      "crn": "28533"
+    }
+  },
+  "691": {
+    "601": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "601",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Harris Berger (P)"
+      ],
+      "credits": "3",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16516"
+    },
+    "602": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "602",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "David Donkor (P)"
+      ],
+      "credits": "3",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16517"
+    },
+    "603": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "603",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Kirsten Pullen (P)"
+      ],
+      "credits": "3",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16518"
+    },
+    "604": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "604",
+      "title": "RESEARCH",
+      "remaining": "7",
+      "capacity": "7",
+      "instructor": [
+        "Kimberly A. Kattari (P)"
+      ],
+      "credits": "3",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25711"
+    },
+    "605": {
+      "select": "SR",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "605",
+      "title": "RESEARCH",
+      "remaining": "7",
+      "capacity": "7",
+      "instructor": [
+        "Rumya Putcha (P)"
+      ],
+      "credits": "1-3",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25712"
+    },
+    "606": {
+      "select": "C",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "606",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-3",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "28297"
+    },
+    "607": {
+      "select": "C",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "607",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-3",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "28298"
+    }
+  },
+  "285": {
+    "500": {
+      "select": "C",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "0-3",
+      "course": "285",
+      "days": [
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "28301"
+    }
+  },
+  "483": {
+    "500": {
+      "select": "C",
+      "subject": "PERF",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "PERFORMANCE PRACTICUM",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-3",
+      "course": "483",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26081"
+    }
+  }
+}

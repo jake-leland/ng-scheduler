@@ -28,7 +28,7 @@
         $scope.classes.F = {};
 
         function parseSection(section) {
-            for (var i = 0; i < section.instructor.length; i++) {
+            for (var i = 0; i < section.classes; i++) {
                 for (var j = 0; j < section.days[i].length; j++) {
                     createClass(section.crn + '-' + i, section.days[i][j], section.time[i]);
                 }
@@ -44,7 +44,11 @@
                         'height': h * (common.timeToPct(endTime) - common.timeToPct(startTime)) + 'px',
                         'margin-bottom': -h * (common.timeToPct(endTime) - common.timeToPct(startTime)) + 'px'
                     },
-                    title: common.toTitleCase(section.title)
+                    title: common.toTitleCase(section.title),
+                    subject: section.subject,
+                    course: section.course,
+                    section: section.section
+
                 };
             }
         }

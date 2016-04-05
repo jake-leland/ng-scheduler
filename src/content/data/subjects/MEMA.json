@@ -1,0 +1,126 @@
+{
+  "611": {
+    "600": {
+      "select": "SR",
+      "subject": "MEMA",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "ENG FRACTURE MECHANICS",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Vikram Kinra (P)"
+      ],
+      "credits": "3",
+      "course": "611",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 204"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "24170"
+    }
+  },
+  "602": {
+    "600": {
+      "select": "SR",
+      "subject": "MEMA",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "CONTINUUM MECHANICS",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Theocharis Baxevanis (P)"
+      ],
+      "credits": "3",
+      "course": "602",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "12090"
+    }
+  },
+  "646": {
+    "600": {
+      "select": "C",
+      "subject": "MEMA",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "INTRO FINITE ELEMENTS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "646",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 105"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "28351"
+    }
+  },
+  "606": {
+    "600": {
+      "select": "C",
+      "subject": "MEMA",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "MULTIFUNCTNAL MATERIALS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "606",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 204"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "27137"
+    }
+  }
+}

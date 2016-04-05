@@ -1,0 +1,194 @@
+{
+  "101": {
+    "501": {
+      "select": "SR",
+      "subject": "ITAL",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "BEGINNING ITALIAN I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Manuela Marchesini (P)",
+        "Manuela Marchesini (P)"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 104",
+        "ACAD 124"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm",
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "14253"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ITAL",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "BEGINNING ITALIAN I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Manuela Marchesini (P)",
+        "Manuela Marchesini"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 104",
+        "ACAD 124"
+      ],
+      "time": [
+        "12:40 pm-01:30 pm",
+        "12:40 pm-01:30 pm"
+      ],
+      "crn": "14254"
+    }
+  },
+  "453": {
+    "500": {
+      "select": "SR",
+      "subject": "ITAL",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "ITALIAN LITERATURE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Manuela Marchesini (P)"
+      ],
+      "credits": "3",
+      "course": "453",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 104"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "27331"
+    }
+  },
+  "201": {
+    "501": {
+      "select": "SR",
+      "subject": "ITAL",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "INTERMED ITALIAN I",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Fabiana Cecchini (P)"
+      ],
+      "credits": "3",
+      "course": "201",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ACAD 227"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "16762"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ITAL",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "INTERMED ITALIAN I",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Fabiana Cecchini (P)"
+      ],
+      "credits": "3",
+      "course": "201",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PETR 106"
+      ],
+      "time": [
+        "12:40 pm-01:30 pm"
+      ],
+      "crn": "16763"
+    }
+  },
+  "303": {
+    "500": {
+      "select": "SR",
+      "subject": "ITAL",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "COMP AND CONVERSATION",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Fabiana Cecchini (P)"
+      ],
+      "credits": "3",
+      "course": "303",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ACAD 226"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "16764"
+    }
+  }
+}

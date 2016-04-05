@@ -1,0 +1,153 @@
+{
+  "682": {
+    "700": {
+      "select": "SR",
+      "subject": "TEED",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "SEMINAR IN",
+      "remaining": "75",
+      "capacity": "75",
+      "instructor": [
+        "Larry Kelly (P)"
+      ],
+      "credits": "3",
+      "course": "682",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "EDCT 303"
+      ],
+      "time": [
+        "08:00 am-04:00 pm"
+      ],
+      "crn": "13974"
+    }
+  },
+  "684": {
+    "700": {
+      "select": "SR",
+      "subject": "TEED",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "INTERNSHIP",
+      "remaining": "75",
+      "capacity": "75",
+      "instructor": [
+        "Larry Kelly (P)"
+      ],
+      "credits": "3-9",
+      "course": "684",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "14191"
+    }
+  },
+  "425": {
+    "550": {
+      "select": "SR",
+      "subject": "TEED",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "550",
+      "title": "SPRVSD STDNT TCHNG:IN-ABSENTIA",
+      "remaining": "50",
+      "capacity": "50",
+      "instructor": [
+        "Kimberly B. Parish (P)"
+      ],
+      "credits": "12",
+      "course": "425",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "13007"
+    },
+    "551": {
+      "select": "C",
+      "subject": "TEED",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "551",
+      "title": "SUPERVISED STDNT TCHNG: IN-AB",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Kimberly B. Parish (P)"
+      ],
+      "credits": "12",
+      "course": "425",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20057"
+    },
+    "500": {
+      "select": "SR",
+      "subject": "TEED",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "SUPERVISED CLINICAL TEACHING",
+      "remaining": "50",
+      "capacity": "50",
+      "instructor": [
+        "Kimberly B. Parish (P)"
+      ],
+      "credits": "12",
+      "course": "425",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "13006"
+    }
+  }
+}

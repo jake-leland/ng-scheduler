@@ -1,0 +1,8659 @@
+{
+  "470": {
+    "501": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "QUALITY ASSURANCE FOOD IND",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley N. Osburn (P)"
+      ],
+      "credits": "3",
+      "course": "470",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 200"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "27930"
+    }
+  },
+  "351": {
+    "501": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "CURRENT ISSUES IN ANIMAL AG",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Gary C. Smith (P)"
+      ],
+      "credits": "3",
+      "course": "351",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 400"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "27929"
+    }
+  },
+  "670": {
+    "601": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "601",
+      "title": "QUALITY ASSURANCE FOOD IND",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Wesley N. Osburn (P)"
+      ],
+      "credits": "3",
+      "course": "670",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 200"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "27932"
+    }
+  },
+  "310": {
+    "901": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 3,
+      "active": "0",
+      "section": "901",
+      "title": "BEHVR & MGMT OF DMSTC",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Courtney L. Daigle (P)",
+        "TBA",
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "310",
+      "days": [
+        "WF",
+        "W",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123",
+        "KLCT 121",
+        "TBA"
+      ],
+      "time": [
+        "11:30 am-12:20 pm",
+        "03:00 pm-04:50 pm",
+        "TBA"
+      ],
+      "crn": "10200"
+    },
+    "902": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "902",
+      "title": "BEHVR & MGMT OF DMSTC",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "TBA",
+        "Courtney L. Daigle (P)"
+      ],
+      "credits": "3",
+      "course": "310",
+      "days": [
+        "T",
+        "WF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123",
+        "KLCT 123"
+      ],
+      "time": [
+        "01:00 pm-02:50 pm",
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "10201"
+    }
+  },
+  "311": {
+    "901": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "901",
+      "title": "EQUINE BEHAVIOR & TRNG",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Martha M. Vogelsang",
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "3",
+      "course": "311",
+      "days": [
+        "MTWRF",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EQCT 100",
+        "KLCT 123"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm",
+        "10:20 am-11:10 am"
+      ],
+      "crn": "10202"
+    },
+    "902": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "902",
+      "title": "EQUINE BEHAVIOR & TRNG",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Martha M. Vogelsang",
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "3",
+      "course": "311",
+      "days": [
+        "MTWRF",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EQCT 100",
+        "KLCT 123"
+      ],
+      "time": [
+        "04:10 pm-05:00 pm",
+        "10:20 am-11:10 am"
+      ],
+      "crn": "10203"
+    }
+  },
+  "630": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "REPRODUCTIVE BIOLOGY I",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Fuller Bazer (P), Thomas Welsh , Gary L. Williams"
+      ],
+      "credits": "4",
+      "course": "630",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25291"
+    }
+  },
+  "312": {
+    "501": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "EQUESTRIAN TECHNOLOGY",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Amanda N. Bradbery (P)",
+        "Amanda N. Bradbery"
+      ],
+      "credits": "2",
+      "course": "312",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123",
+        "EQCT 100"
+      ],
+      "time": [
+        "10:20 am-11:10 am",
+        "01:00 pm-02:20 pm"
+      ],
+      "crn": "21031"
+    },
+    "502": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "EQUESTRIAN TECHNOLOGY",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Amanda N. Bradbery",
+        "Amanda N. Bradbery (P)"
+      ],
+      "credits": "2",
+      "course": "312",
+      "days": [
+        "MW",
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EQCT 100",
+        "KLCT 123"
+      ],
+      "time": [
+        "01:00 pm-02:20 pm",
+        "10:20 am-11:10 am"
+      ],
+      "crn": "10204"
+    }
+  },
+  "433": {
+    "200": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-REPROD IN FARM ANIMALS",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "David W. Forrest (P)",
+        "David W. Forrest"
+      ],
+      "credits": "3",
+      "course": "433",
+      "days": [
+        "TR",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 021A",
+        "KLCT 016A"
+      ],
+      "time": [
+        "09:35 am-10:25 am",
+        "12:40 pm-02:30 pm"
+      ],
+      "crn": "19614"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "REPROD IN FARM ANIMALS",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Kathrin A. Dunlap",
+        "Kathrin A. Dunlap (P)"
+      ],
+      "credits": "3",
+      "course": "433",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 016A",
+        "KLCT 113"
+      ],
+      "time": [
+        "12:40 pm-02:30 pm",
+        "09:35 am-10:25 am"
+      ],
+      "crn": "10213"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "REPROD IN FARM ANIMALS",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Kathrin A. Dunlap",
+        "Kathrin A. Dunlap (P)"
+      ],
+      "credits": "3",
+      "course": "433",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 016A",
+        "KLCT 113"
+      ],
+      "time": [
+        "03:00 pm-04:50 pm",
+        "09:35 am-10:25 am"
+      ],
+      "crn": "10214"
+    },
+    "503": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "REPROD IN FARM ANIMALS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Kathrin A. Dunlap",
+        "Kathrin A. Dunlap (P)"
+      ],
+      "credits": "3",
+      "course": "433",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "10215"
+    },
+    "504": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "REPROD IN FARM ANIMALS",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Kathrin A. Dunlap (P)",
+        "Kathrin A. Dunlap"
+      ],
+      "credits": "3",
+      "course": "433",
+      "days": [
+        "TR",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113",
+        "KLCT 016A"
+      ],
+      "time": [
+        "09:35 am-10:25 am",
+        "03:00 pm-04:50 pm"
+      ],
+      "crn": "10216"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "REPROD IN FARM ANIMALS",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Kathrin A. Dunlap (P)",
+        "Kathrin A. Dunlap"
+      ],
+      "credits": "3",
+      "course": "433",
+      "days": [
+        "TR",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113",
+        "KLCT 016A"
+      ],
+      "time": [
+        "09:35 am-10:25 am",
+        "12:40 pm-02:30 pm"
+      ],
+      "crn": "10217"
+    },
+    "506": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "506",
+      "title": "REPROD IN FARM ANIMALS",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Kathrin A. Dunlap (P)",
+        "Kathrin A. Dunlap"
+      ],
+      "credits": "3",
+      "course": "433",
+      "days": [
+        "TR",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113",
+        "KLCT 016A"
+      ],
+      "time": [
+        "09:35 am-10:25 am",
+        "12:40 pm-02:30 pm"
+      ],
+      "crn": "10218"
+    },
+    "507": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "507",
+      "title": "REPROD IN FARM ANIMALS",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Kathrin A. Dunlap (P)",
+        "Kathrin A. Dunlap"
+      ],
+      "credits": "3",
+      "course": "433",
+      "days": [
+        "TR",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113",
+        "KLCT 016A"
+      ],
+      "time": [
+        "09:35 am-10:25 am",
+        "03:00 pm-04:50 pm"
+      ],
+      "crn": "10219"
+    }
+  },
+  "434": {
+    "501": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "ANIMAL REPRODUCTION MGMT",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Michael C. Satterfield (P)",
+        "Michael C. Satterfield"
+      ],
+      "credits": "3",
+      "course": "434",
+      "days": [
+        "TR",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123",
+        "KLCT 016B"
+      ],
+      "time": [
+        "11:10 am-12:00 pm",
+        "01:00 pm-02:50 pm"
+      ],
+      "crn": "10220"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "ANIMAL REPRODUCTION MGMT",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Michael C. Satterfield (P)",
+        "Michael C. Satterfield"
+      ],
+      "credits": "3",
+      "course": "434",
+      "days": [
+        "TR",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123",
+        "KLCT 016B"
+      ],
+      "time": [
+        "11:10 am-12:00 pm",
+        "03:00 pm-04:50 pm"
+      ],
+      "crn": "10221"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "ANIMAL REPRODUCTION MGMT",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Michael C. Satterfield (P)",
+        "Michael C. Satterfield"
+      ],
+      "credits": "3",
+      "course": "434",
+      "days": [
+        "TR",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123",
+        "KLCT 016B"
+      ],
+      "time": [
+        "11:10 am-12:00 pm",
+        "01:00 pm-02:50 pm"
+      ],
+      "crn": "10222"
+    }
+  },
+  "314": {
+    "900": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "900",
+      "title": "WOOL EVAL & GRADING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley S. Ramsey (P)",
+        "Wesley S. Ramsey"
+      ],
+      "credits": "2",
+      "course": "314",
+      "days": [
+        "T",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101",
+        "PRPV 101"
+      ],
+      "time": [
+        "03:00 pm-04:50 pm",
+        "03:00 pm-04:50 pm"
+      ],
+      "crn": "10205"
+    }
+  },
+  "117": {
+    "500": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "TEXAS BARBECUE",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jeffrey Savell (P)"
+      ],
+      "credits": "1",
+      "course": "117",
+      "days": [
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100"
+      ],
+      "time": [
+        "04:10 pm-05:50 pm"
+      ],
+      "crn": "22745"
+    }
+  },
+  "315": {
+    "930": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 3,
+      "active": "0",
+      "section": "930",
+      "title": "LIVESTOCK JUDGING",
+      "remaining": "60",
+      "capacity": "60",
+      "instructor": [
+        "Allen B. Poe (P)",
+        "Allen B. Poe",
+        "Allen B. Poe"
+      ],
+      "credits": "2",
+      "course": "315",
+      "days": [
+        "T",
+        "T",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123",
+        "KLCT 123",
+        "KLCT 123"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm",
+        "04:00 pm-04:50 pm",
+        "03:00 pm-04:50 pm"
+      ],
+      "crn": "13459"
+    }
+  },
+  "437": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "MKTG&GRDG LVSTCK &MEAT",
+      "remaining": "130",
+      "capacity": "130",
+      "instructor": [
+        "Jeffrey Savell (P)",
+        "Jeffrey Savell"
+      ],
+      "credits": "3",
+      "course": "437",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113",
+        "KLCT 113"
+      ],
+      "time": [
+        "01:00 pm-01:50 pm",
+        "01:50 pm-02:50 pm"
+      ],
+      "crn": "10223"
+    }
+  },
+  "317": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 3,
+      "active": "0",
+      "section": "500",
+      "title": "MEAT SELECT,EVAL&GRAD",
+      "remaining": "67",
+      "capacity": "67",
+      "instructor": [
+        "Leslie L. Frenzel (P)",
+        "Leslie L. Frenzel , Davey B. Griffin",
+        "Leslie L. Frenzel (P)"
+      ],
+      "credits": "2",
+      "course": "317",
+      "days": [
+        "T",
+        "T",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "MSTC 100",
+        "MSTC 100"
+      ],
+      "time": [
+        "03:55 pm-04:45 pm",
+        "04:55 pm-05:45 pm",
+        "03:55 pm-05:45 pm"
+      ],
+      "crn": "13310"
+    }
+  },
+  "318": {
+    "501": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "FEEDS & FEEDING",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Gordon Carstens",
+        "Gordon Carstens (P)"
+      ],
+      "credits": "3",
+      "course": "318",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 021A",
+        "KLCT 113"
+      ],
+      "time": [
+        "12:40 pm-03:30 pm",
+        "08:00 am-08:50 am"
+      ],
+      "crn": "10206"
+    },
+    "502": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "FEEDS & FEEDING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Gordon Carstens (P)",
+        "Gordon Carstens"
+      ],
+      "credits": "3",
+      "course": "318",
+      "days": [
+        "TR",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113",
+        "KLCT 021A"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "12:40 pm-03:30 pm"
+      ],
+      "crn": "10207"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "FEEDS & FEEDING",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Gordon Carstens (P)",
+        "Gordon Carstens"
+      ],
+      "credits": "3",
+      "course": "318",
+      "days": [
+        "TR",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113",
+        "KLCT 021A"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "12:00 pm-02:50 pm"
+      ],
+      "crn": "10208"
+    },
+    "504": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "FEEDS & FEEDING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Gordon Carstens",
+        "Gordon Carstens (P)"
+      ],
+      "credits": "3",
+      "course": "318",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 021A",
+        "KLCT 113"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "10209"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "FEEDS & FEEDING",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Gordon Carstens (P)",
+        "Gordon Carstens"
+      ],
+      "credits": "3",
+      "course": "318",
+      "days": [
+        "TR",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113",
+        "KLCT 021A"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "03:00 pm-05:50 pm"
+      ],
+      "crn": "10210"
+    },
+    "506": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "506",
+      "title": "FEEDS & FEEDING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Gordon Carstens",
+        "Gordon Carstens (P)"
+      ],
+      "credits": "3",
+      "course": "318",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "16493"
+    }
+  },
+  "439": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "FEEDLOT RISK MGMT",
+      "remaining": "40",
+      "capacity": "40",
+      "instructor": [
+        "William Mies (P)"
+      ],
+      "credits": "2",
+      "course": "439",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 127"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "13127"
+    }
+  },
+  "481": {
+    "700": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "SEMINAR",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley N. Osburn (P)"
+      ],
+      "credits": "1",
+      "course": "481",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "27931"
+    },
+    "901": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "901",
+      "title": "SEMINAR",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "1",
+      "course": "481",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "18702"
+    },
+    "902": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "902",
+      "title": "SEMINAR",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "H R. Cross (P), Christopher R. Kerth"
+      ],
+      "credits": "1",
+      "course": "481",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "18704"
+    },
+    "903": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "903",
+      "title": "SEMINAR",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Thomas Welsh (P)"
+      ],
+      "credits": "1",
+      "course": "481",
+      "days": [
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "18706"
+    },
+    "904": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "904",
+      "title": "SEMINAR",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1",
+      "course": "481",
+      "days": [
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "18707"
+    },
+    "905": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "905",
+      "title": "SEMINAR",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Wesley N. Osburn (P)"
+      ],
+      "credits": "1",
+      "course": "481",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 121"
+      ],
+      "time": [
+        "12:45 pm-02:00 pm"
+      ],
+      "crn": "20206"
+    }
+  },
+  "681": {
+    "601": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "601",
+      "title": "SEMINAR",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Jason J. Gill (P)"
+      ],
+      "credits": "1",
+      "course": "681",
+      "days": [
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 300"
+      ],
+      "time": [
+        "03:00 pm-04:00 pm"
+      ],
+      "crn": "16447"
+    },
+    "602": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "602",
+      "title": "SEMINAR",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "David W. Forrest (P)"
+      ],
+      "credits": "1",
+      "course": "681",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 200"
+      ],
+      "time": [
+        "04:00 pm-05:00 pm"
+      ],
+      "crn": "10236"
+    },
+    "603": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "603",
+      "title": "SEMINAR",
+      "remaining": "7",
+      "capacity": "7",
+      "instructor": [
+        "Christopher R. Kerth (P)"
+      ],
+      "credits": "1",
+      "course": "681",
+      "days": [
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "AGLS 109"
+      ],
+      "time": [
+        "09:10 am-10:00 am"
+      ],
+      "crn": "23044"
+    }
+  },
+  "484": {
+    "500": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "LIVESTOCK PRACTICUM",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley S. Ramsey (P)"
+      ],
+      "credits": "1",
+      "course": "484",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "01:00 pm-04:00 pm"
+      ],
+      "crn": "14293"
+    }
+  },
+  "320": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "ANIMAL NUTR & FEEDING",
+      "remaining": "120",
+      "capacity": "120",
+      "instructor": [
+        "Whitney L. Crossland (P)"
+      ],
+      "credits": "3",
+      "course": "320",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113"
+      ],
+      "time": [
+        "09:10 am-10:00 am"
+      ],
+      "crn": "10211"
+    },
+    "700": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "ANIMAL NUTR & FEEDING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Whitney L. Crossland (P)"
+      ],
+      "credits": "3",
+      "course": "320",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "27928"
+    }
+  },
+  "485": {
+    "550": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "550",
+      "title": "DIRECTED STUDIES: IN-ABSENTIA",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26348"
+    },
+    "213": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "213",
+      "title": "HNR-DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "David W. Forrest (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "22546"
+    },
+    "510": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "510",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Fuller Bazer (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24123"
+    },
+    "555": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "555",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Penny K. Riggs (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18368"
+    },
+    "578": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "578",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15058"
+    },
+    "513": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "513",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "David W. Forrest (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15759"
+    },
+    "535": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "535",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18117"
+    },
+    "514": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "514",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Theodore Friend (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23447"
+    },
+    "515": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "515",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Leslie L. Frenzel (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14294"
+    },
+    "537": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "537",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Clay A. Cavinder (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "17882"
+    },
+    "517": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "517",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Dennis Sigler (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18832"
+    },
+    "518": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "518",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16221"
+    },
+    "519": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "519",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20641"
+    },
+    "263": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "263",
+      "title": "HNR-DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley S. Ramsey (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14581"
+    },
+    "563": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "563",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley S. Ramsey (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14582"
+    },
+    "542": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "542",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Andy D. Herring (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18904"
+    },
+    "586": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "586",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Rhonda K. Miller (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20212"
+    },
+    "565": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "565",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jason J. Cleere (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24124"
+    },
+    "587": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "587",
+      "title": "DIRECTED STUDIES",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Christopher R. Kerth (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25965"
+    },
+    "522": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "522",
+      "title": "DIRECTED STUDIES",
+      "remaining": "4",
+      "capacity": "4",
+      "instructor": [
+        "Nancy Ing (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26678"
+    },
+    "566": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "566",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Allen B. Poe (P)",
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "15643"
+    },
+    "523": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "523",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Luis Tedeschi (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14295"
+    },
+    "227": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "227",
+      "title": "HNR-DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jeffrey Savell (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "22547"
+    },
+    "524": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "524",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Ronald Randel (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18891"
+    },
+    "527": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "527",
+      "title": "DIRECTED STUDIES",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Jeffrey Savell (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15057"
+    },
+    "507": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "507",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Anna L. Morrison (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "21954"
+    },
+    "508": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "508",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Kathrin A. Dunlap (P)"
+      ],
+      "credits": "1-4",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "17752"
+    }
+  },
+  "684": {
+    "650": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "650",
+      "title": "PROFESSIONAL INTRNSHIP: IN-AB",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "David W. Forrest (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14322"
+    },
+    "615": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "615",
+      "title": "PROFESSIONAL INTRNSHIP",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "David W. Forrest (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20736"
+    }
+  },
+  "201": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "INTRO EQUINE CARE",
+      "remaining": "140",
+      "capacity": "140",
+      "instructor": [
+        "Haley C. Collins (P)"
+      ],
+      "credits": "2",
+      "course": "201",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100"
+      ],
+      "time": [
+        "11:10 am-12:00 pm"
+      ],
+      "crn": "10185"
+    }
+  },
+  "685": {
+    "673": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "673",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24127"
+    },
+    "663": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "663",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Wesley S. Ramsey (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18550"
+    },
+    "642": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "642",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Andy D. Herring (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15907"
+    },
+    "653": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "653",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Guoyao Wu (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18759"
+    },
+    "686": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "686",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Rhonda K. Miller (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14325"
+    },
+    "610": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "610",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Fuller Bazer (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20606"
+    },
+    "632": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "632",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Thomas Welsh (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18121"
+    },
+    "676": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "676",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "David G. Riley (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23357"
+    },
+    "655": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "655",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Penny K. Riggs (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18672"
+    },
+    "612": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "612",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Chad Paulk (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24125"
+    },
+    "678": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "678",
+      "title": "DIRECTED STUDIES",
+      "remaining": "7",
+      "capacity": "7",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14324"
+    },
+    "613": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "613",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "David W. Forrest (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16215"
+    },
+    "635": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "635",
+      "title": "DIRECTED STUDIES",
+      "remaining": "6",
+      "capacity": "6",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14323"
+    },
+    "614": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "614",
+      "title": "DIRECTED STUDIES",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Theodore Friend (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16319"
+    },
+    "636": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "636",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16105"
+    },
+    "615": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "615",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Stephen B. Smith (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20073"
+    },
+    "637": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "637",
+      "title": "DIRECTED STUDIES",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Dennis Sigler (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "17842"
+    },
+    "638": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "638",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Thomas Taylor (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23277"
+    },
+    "639": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "639",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Jason J. Gill (P)"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20630"
+    },
+    "629": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "629",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24126"
+    }
+  },
+  "325": {
+    "501": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "ADV LVSTK & PROD EVAL",
+      "remaining": "37",
+      "capacity": "37",
+      "instructor": [
+        "Wesley S. Ramsey (P)",
+        "Wesley S. Ramsey"
+      ],
+      "credits": "2",
+      "course": "325",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "24121"
+    }
+  },
+  "402": {
+    "500": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "EXPLORE ANIMAL INDUSTR",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Leslie L. Frenzel (P)"
+      ],
+      "credits": "2",
+      "course": "402",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "04:00 pm-04:50 pm"
+      ],
+      "crn": "13436"
+    },
+    "900": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "900",
+      "title": "EXPLORE ANIMAL INDUSTR",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Leslie L. Frenzel (P)"
+      ],
+      "credits": "2",
+      "course": "402",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100"
+      ],
+      "time": [
+        "04:00 pm-04:50 pm"
+      ],
+      "crn": "10212"
+    }
+  },
+  "447": {
+    "501": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "ADVANCED MEAT SCI & TECH",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Rhonda K. Miller (P)",
+        "Christopher R. Kerth"
+      ],
+      "credits": "4",
+      "course": "447",
+      "days": [
+        "MWF",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 121",
+        "KLCT 200"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "01:00 pm-03:50 pm"
+      ],
+      "crn": "10224"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "ADVANCED MEAT SCI & TECH",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Rhonda K. Miller (P)",
+        "Christopher R. Kerth"
+      ],
+      "credits": "4",
+      "course": "447",
+      "days": [
+        "MWF",
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 121",
+        "KLCT 200"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "01:00 pm-03:50 pm"
+      ],
+      "crn": "10225"
+    }
+  },
+  "601": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "GEN ANIMAL NUTRITION",
+      "remaining": "22",
+      "capacity": "22",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "3",
+      "course": "601",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 021A"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "10228"
+    }
+  },
+  "647": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "TECH OF MEAT PROC&DIST",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Rhonda K. Miller (P)"
+      ],
+      "credits": "3",
+      "course": "647",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 300"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "10234"
+    }
+  },
+  "406": {
+    "931": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "931",
+      "title": "BEEF CATTLE PROD & MGM",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Andy D. Herring",
+        "Andy D. Herring (P)"
+      ],
+      "credits": "4",
+      "course": "406",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "13460"
+    },
+    "932": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "932",
+      "title": "BEEF CATTLE PROD & MGM",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Andy D. Herring (P)",
+        "Andy D. Herring"
+      ],
+      "credits": "4",
+      "course": "406",
+      "days": [
+        "MWF",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123",
+        "TBA"
+      ],
+      "time": [
+        "09:10 am-10:00 am",
+        "03:00 pm-04:50 pm"
+      ],
+      "crn": "16498"
+    }
+  },
+  "604": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "RUMINANT NUTRITION",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Luis Tedeschi (P)"
+      ],
+      "credits": "3",
+      "course": "604",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 200"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "10229"
+    }
+  },
+  "605": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "ADV BEEF PRODUCTION",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Andy D. Herring (P)"
+      ],
+      "credits": "3",
+      "course": "605",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 300"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "19176"
+    }
+  },
+  "607": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "PH&BICH OF MUS AS FOOD",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Stephen B. Smith (P)"
+      ],
+      "credits": "3",
+      "course": "607",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 123"
+      ],
+      "time": [
+        "03:00 pm-04:15 pm"
+      ],
+      "crn": "10230"
+    }
+  },
+  "609": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "PHYSIOL GROWTH STRESS",
+      "remaining": "18",
+      "capacity": "18",
+      "instructor": [
+        "Thomas Welsh (P)"
+      ],
+      "credits": "3",
+      "course": "609",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 300"
+      ],
+      "time": [
+        "11:30 am-12:45 pm"
+      ],
+      "crn": "10231"
+    }
+  },
+  "291": {
+    "273": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "273",
+      "title": "HNR-RESEARCH",
+      "remaining": "26",
+      "capacity": "26",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15250"
+    },
+    "573": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "573",
+      "title": "RESEARCH",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15405"
+    },
+    "532": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "532",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Thomas Welsh (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15095"
+    },
+    "555": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "555",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Penny K. Riggs (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20211"
+    },
+    "512": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "512",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Chad Paulk (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26738"
+    },
+    "578": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "578",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15249"
+    },
+    "535": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "535",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18130"
+    },
+    "515": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "515",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Leslie L. Frenzel (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16340"
+    },
+    "537": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "537",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23354"
+    },
+    "517": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "517",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Dennis Sigler (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23402"
+    },
+    "518": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "518",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "17881"
+    },
+    "519": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "519",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "13064"
+    },
+    "263": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "263",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley S. Ramsey (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16053"
+    },
+    "560": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "560",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Thomas Taylor (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23393"
+    },
+    "563": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "563",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley S. Ramsey (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23476"
+    },
+    "542": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "542",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Andy D. Herring (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18924"
+    },
+    "586": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "586",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Rhonda K. Miller (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20221"
+    },
+    "587": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "587",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Christopher R. Kerth (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26703"
+    },
+    "500": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26595"
+    },
+    "522": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "522",
+      "title": "RESEARCH",
+      "remaining": "7",
+      "capacity": "7",
+      "instructor": [
+        "Nancy Ing (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23403"
+    },
+    "566": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "566",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15642"
+    },
+    "568": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "568",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Michael C. Satterfield (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18802"
+    },
+    "505": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "505",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "22812"
+    },
+    "527": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "527",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jeffrey Savell (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14292"
+    },
+    "507": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "507",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Anna L. Morrison (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26313"
+    },
+    "508": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "508",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Kathrin A. Dunlap (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "22921"
+    }
+  },
+  "491": {
+    "908": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "908",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Kathrin A. Dunlap (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "17753"
+    },
+    "273": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "273",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15008"
+    },
+    "592": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "592",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jason E. Sawyer (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26621"
+    },
+    "593": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "593",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Gordon Carstens (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16335"
+    },
+    "572": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "572",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16170"
+    },
+    "573": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "573",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14299"
+    },
+    "530": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "530",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Stephen B. Smith (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26737"
+    },
+    "596": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "596",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley N. Osburn (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20252"
+    },
+    "993": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "993",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Gordon Carstens (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16275"
+    },
+    "532": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "532",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Thomas Welsh (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23410"
+    },
+    "236": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "236",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Thomas Welsh (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15287"
+    },
+    "555": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "555",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Penny K. Riggs (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26677"
+    },
+    "973": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "973",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15353"
+    },
+    "512": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "512",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Chad Paulk (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26484"
+    },
+    "578": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "578",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14300"
+    },
+    "535": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "535",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23356"
+    },
+    "536": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "536",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jason J. Gill (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20830"
+    },
+    "537": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "537",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23230"
+    },
+    "978": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "978",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23370"
+    },
+    "517": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "517",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Dennis Sigler (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23491"
+    },
+    "913": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "913",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "David W. Forrest (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15862"
+    },
+    "518": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "518",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23433"
+    },
+    "915": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "915",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Leslie L. Frenzel (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18588"
+    },
+    "263": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "263",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley S. Ramsey (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14583"
+    },
+    "563": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "563",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley S. Ramsey (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14584"
+    },
+    "521": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "521",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "17883"
+    },
+    "522": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "522",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Nancy Ing (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26679"
+    },
+    "523": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "523",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Luis Tedeschi (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16222"
+    },
+    "568": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "568",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Michael C. Satterfield (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18839"
+    },
+    "921": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "921",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Nancy Ing (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "17884"
+    },
+    "526": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "526",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "James Sanders (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23477"
+    },
+    "900": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "900",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18577"
+    },
+    "527": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "527",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jeffrey Savell (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20378"
+    },
+    "901": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "901",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16098"
+    },
+    "902": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "902",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "James Sanders (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20831"
+    },
+    "507": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "507",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Anna L. Morrison (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26541"
+    },
+    "903": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "903",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Gordon Carstens (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23561"
+    },
+    "508": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "508",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Kathrin A. Dunlap (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18224"
+    },
+    "927": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "927",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jeffrey Savell (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15324"
+    }
+  },
+  "691": {
+    "690": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "690",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Alejandro Castillo Ayala (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24134"
+    },
+    "692": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "692",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Jason E. Sawyer (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14316"
+    },
+    "693": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "693",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Gordon Carstens (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14317"
+    },
+    "650": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "650",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "David W. Forrest (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14311"
+    },
+    "673": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "673",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14313"
+    },
+    "630": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "630",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Stephen B. Smith (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "17840"
+    },
+    "696": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "696",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Wesley N. Osburn (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20555"
+    },
+    "653": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "653",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Guoyao Wu (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23278"
+    },
+    "697": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "697",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Clare Gill (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18587"
+    },
+    "610": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "610",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Fuller Bazer (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16106"
+    },
+    "632": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "632",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Thomas Welsh (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15912"
+    },
+    "676": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "676",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "David G. Riley (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14314"
+    },
+    "611": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "611",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Kerri B. Harris (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14302"
+    },
+    "655": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "655",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Penny K. Riggs (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20637"
+    },
+    "612": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "612",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Chad Paulk (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24129"
+    },
+    "678": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "678",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18747"
+    },
+    "613": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "613",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "David W. Forrest (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14303"
+    },
+    "635": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "635",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14308"
+    },
+    "614": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "614",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Theodore Friend (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14304"
+    },
+    "636": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "636",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Thomas Welsh (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14309"
+    },
+    "615": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "615",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18580"
+    },
+    "637": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "637",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15911"
+    },
+    "638": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "638",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Thomas Taylor (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15094"
+    },
+    "617": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "617",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Dennis Sigler (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14305"
+    },
+    "639": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "639",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Jason J. Gill (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20632"
+    },
+    "619": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "619",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18500"
+    },
+    "663": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "663",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Gary L. Williams (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24133"
+    },
+    "642": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "642",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Andy D. Herring (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14310"
+    },
+    "686": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "686",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Rhonda K. Miller (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14315"
+    },
+    "621": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "621",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Duane Kraemer (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16396"
+    },
+    "687": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "687",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Christopher R. Kerth (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14318"
+    },
+    "622": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "622",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Nancy Ing (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20753"
+    },
+    "623": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "623",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Luis Tedeschi (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14306"
+    },
+    "624": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "624",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Ronald Randel (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24130"
+    },
+    "668": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "668",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Michael C. Satterfield (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14312"
+    },
+    "647": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "647",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Gary L. Williams (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24132"
+    },
+    "626": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "626",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "James Sanders (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18388"
+    },
+    "627": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "627",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Jeffrey Savell (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14307"
+    },
+    "629": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "629",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Gary C. Smith (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24131"
+    },
+    "608": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "608",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Kathrin A. Dunlap (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24128"
+    }
+  },
+  "494": {
+    "550": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "550",
+      "title": "ANSC INTERNSHIP: IN-ABSENTIA",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Leslie L. Frenzel (P)"
+      ],
+      "credits": "1-5",
+      "course": "494",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "10227"
+    },
+    "551": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "551",
+      "title": "ANSC INTERNSHIP: IN-ABSENTIA",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "1-5",
+      "course": "494",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20612"
+    },
+    "501": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "ANSC INTERNSHIP",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Leslie L. Frenzel (P)"
+      ],
+      "credits": "1-5",
+      "course": "494",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "13476"
+    },
+    "502": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "ANSC INTERNSHIP",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "1-5",
+      "course": "494",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20611"
+    }
+  },
+  "210": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "COMPANION ANIMAL SCIENCE",
+      "remaining": "120",
+      "capacity": "120",
+      "instructor": [
+        "Nancy Ing (P)"
+      ],
+      "credits": "3",
+      "course": "210",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "14585"
+    }
+  },
+  "412": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "SWINE PROD & MGMT",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Chad Paulk (P)",
+        "Chad Paulk"
+      ],
+      "credits": "4",
+      "course": "412",
+      "days": [
+        "MWF",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPCT 102",
+        "KLCT 300"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "01:00 pm-02:50 pm"
+      ],
+      "crn": "25127"
+    }
+  },
+  "610": {
+    "600": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "600",
+      "title": "APPLIED ANIM ETHOLOGY",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "610",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "16500"
+    }
+  },
+  "457": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "HACCP SYSTEMS",
+      "remaining": "35",
+      "capacity": "35",
+      "instructor": [
+        "Kerri B. Harris (P)"
+      ],
+      "credits": "3",
+      "course": "457",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 127"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "10226"
+    }
+  },
+  "611": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "EQUINE NUTRITION",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "611",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "AGLS 117"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "25090"
+    }
+  },
+  "414": {
+    "501": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "SHEEP & GOAT PROD & MG",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley S. Ramsey (P)",
+        "Wesley S. Ramsey"
+      ],
+      "credits": "4",
+      "course": "414",
+      "days": [
+        "MWF",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "TBA"
+      ],
+      "time": [
+        "10:20 am-11:10 am",
+        "12:40 pm-02:40 pm"
+      ],
+      "crn": "25931"
+    },
+    "502": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "SHEEP & GOAT PROD & MG",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Wesley S. Ramsey (P)",
+        "Wesley S. Ramsey"
+      ],
+      "credits": "4",
+      "course": "414",
+      "days": [
+        "MWF",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "TBA"
+      ],
+      "time": [
+        "10:20 am-11:10 am",
+        "03:00 pm-05:00 pm"
+      ],
+      "crn": "25932"
+    },
+    "901": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "901",
+      "title": "SHEEP & GOAT PROD & MG",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Wesley S. Ramsey (P)",
+        "Wesley S. Ramsey"
+      ],
+      "credits": "4",
+      "course": "414",
+      "days": [
+        "MWF",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "TBA"
+      ],
+      "time": [
+        "10:20 am-11:10 am",
+        "12:40 pm-02:40 pm"
+      ],
+      "crn": "20290"
+    },
+    "902": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "902",
+      "title": "SHEEP & GOAT PROD & MG",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Wesley S. Ramsey (P)",
+        "Wesley S. Ramsey"
+      ],
+      "credits": "4",
+      "course": "414",
+      "days": [
+        "MWF",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "TBA"
+      ],
+      "time": [
+        "10:20 am-11:10 am",
+        "03:00 pm-05:00 pm"
+      ],
+      "crn": "20782"
+    }
+  },
+  "612": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "EQUINE REPRODUCTION",
+      "remaining": "18",
+      "capacity": "18",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "3",
+      "course": "612",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 021A"
+      ],
+      "time": [
+        "08:00 am-08:50 am"
+      ],
+      "crn": "10232"
+    }
+  },
+  "657": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "HACCP SYSTEMS",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Kerri B. Harris (P)"
+      ],
+      "credits": "3",
+      "course": "657",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 127"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "10235"
+    }
+  },
+  "418": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "EQUINE EXERCISE PHYSIOL",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Martha M. Vogelsang (P)",
+        "Martha M. Vogelsang"
+      ],
+      "credits": "3",
+      "course": "418",
+      "days": [
+        "MW",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 021A",
+        "EQCT 100"
+      ],
+      "time": [
+        "09:10 am-10:00 am",
+        "01:00 pm-03:00 pm"
+      ],
+      "crn": "24122"
+    }
+  },
+  "419": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "EQUINE REPRODUCTION",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Martha M. Vogelsang (P)"
+      ],
+      "credits": "3",
+      "course": "419",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 021A"
+      ],
+      "time": [
+        "08:00 am-08:50 am"
+      ],
+      "crn": "28073"
+    }
+  },
+  "221": {
+    "501": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "EQUINE HANDLING & SAFETY",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Anna L. Morrison",
+        "Anna L. Morrison (P)"
+      ],
+      "credits": "3",
+      "course": "221",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EQCT 100",
+        "KLCT 121"
+      ],
+      "time": [
+        "11:30 am-01:20 pm",
+        "09:35 am-10:25 am"
+      ],
+      "crn": "24118"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "EQUINE HANDLING & SAFETY",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Anna L. Morrison (P)",
+        "Anna L. Morrison"
+      ],
+      "credits": "3",
+      "course": "221",
+      "days": [
+        "TR",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 121",
+        "EQCT 100"
+      ],
+      "time": [
+        "09:35 am-10:25 am",
+        "11:30 am-01:20 pm"
+      ],
+      "crn": "24119"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "EQUINE HANDLING & SAFETY",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Anna L. Morrison (P)",
+        "Anna L. Morrison"
+      ],
+      "credits": "3",
+      "course": "221",
+      "days": [
+        "TR",
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 121",
+        "EQCT 100"
+      ],
+      "time": [
+        "09:35 am-10:25 am",
+        "11:30 am-01:20 pm"
+      ],
+      "crn": "24120"
+    },
+    "504": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "EQUINE HANDLING & SAFETY",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Anna L. Morrison",
+        "Anna L. Morrison (P)"
+      ],
+      "credits": "3",
+      "course": "221",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EQCT 100",
+        "KLCT 121"
+      ],
+      "time": [
+        "01:00 pm-02:50 pm",
+        "09:35 am-10:25 am"
+      ],
+      "crn": "25933"
+    }
+  },
+  "302": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "BASIC BEEF CATTLE PROD",
+      "remaining": "120",
+      "capacity": "120",
+      "instructor": [
+        "Jason J. Cleere (P)"
+      ],
+      "credits": "3",
+      "course": "302",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "12978"
+    },
+    "700": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "BASIC BEEF CATTLE PROD",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jason J. Cleere (P)"
+      ],
+      "credits": "3",
+      "course": "302",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "26780"
+    }
+  },
+  "303": {
+    "200": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-PRIN OF ANIM NUTRITION",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "3",
+      "course": "303",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPCT 123"
+      ],
+      "time": [
+        "09:10 am-10:00 am"
+      ],
+      "crn": "10186"
+    },
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "PRIN OF ANIM NUTRITION",
+      "remaining": "250",
+      "capacity": "250",
+      "instructor": [
+        "Tryon A. Wickersham (P)"
+      ],
+      "credits": "3",
+      "course": "303",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113"
+      ],
+      "time": [
+        "08:00 am-08:50 am"
+      ],
+      "crn": "10187"
+    }
+  },
+  "107": {
+    "200": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-GENERAL ANIMAL SCIENCE",
+      "remaining": "8",
+      "capacity": "8",
+      "instructor": [
+        "Kathrin A. Dunlap (P)"
+      ],
+      "credits": "3",
+      "course": "107",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 127"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "13457"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "340",
+      "capacity": "340",
+      "instructor": [
+        "Leslie L. Frenzel (P)"
+      ],
+      "credits": "3",
+      "course": "107",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 115"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "10164"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "340",
+      "capacity": "340",
+      "instructor": [
+        "Wesley S. Ramsey (P)"
+      ],
+      "credits": "3",
+      "course": "107",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 115"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "10165"
+    },
+    "700": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Kathrin A. Dunlap (P)"
+      ],
+      "credits": "3",
+      "course": "107",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "27925"
+    },
+    "503": {
+      "select": "NR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "503",
+      "title": "FOCUS: GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Wesley S. Ramsey (P)"
+      ],
+      "credits": "3",
+      "course": "107",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPCT 123"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "18358"
+    }
+  },
+  "305": {
+    "501": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "ANIMAL BREEDING",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "James Sanders",
+        "James Sanders (P)"
+      ],
+      "credits": "3",
+      "course": "305",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 127",
+        "KLCT 113"
+      ],
+      "time": [
+        "12:40 pm-02:30 pm",
+        "11:10 am-12:00 pm"
+      ],
+      "crn": "10188"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "ANIMAL BREEDING",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "TBA",
+        "James Sanders (P)"
+      ],
+      "credits": "3",
+      "course": "305",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "10189"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "ANIMAL BREEDING",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "James Sanders",
+        "James Sanders (P)"
+      ],
+      "credits": "3",
+      "course": "305",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 121",
+        "KLCT 113"
+      ],
+      "time": [
+        "03:00 pm-04:50 pm",
+        "11:10 am-12:00 pm"
+      ],
+      "crn": "10190"
+    },
+    "504": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "ANIMAL BREEDING",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "TBA",
+        "James Sanders (P)"
+      ],
+      "credits": "3",
+      "course": "305",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "10191"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "ANIMAL BREEDING",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "James Sanders (P)",
+        "James Sanders"
+      ],
+      "credits": "3",
+      "course": "305",
+      "days": [
+        "TR",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 113",
+        "KLCT 123"
+      ],
+      "time": [
+        "11:10 am-12:00 pm",
+        "01:00 pm-02:50 pm"
+      ],
+      "crn": "16448"
+    }
+  },
+  "624": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "MAMMALIAN DEVEL GENETICS",
+      "remaining": "11",
+      "capacity": "11",
+      "instructor": [
+        "Penny K. Riggs (P)"
+      ],
+      "credits": "3",
+      "course": "624",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 021A"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "19177"
+    }
+  },
+  "108": {
+    "510": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "510",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Allen B. Poe (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "10:00 am-11:50 am"
+      ],
+      "crn": "10176"
+    },
+    "511": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "511",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Allen B. Poe (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "03:00 pm-04:50 pm"
+      ],
+      "crn": "10177"
+    },
+    "512": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "512",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Allen B. Poe (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "08:00 am-09:50 am"
+      ],
+      "crn": "10178"
+    },
+    "513": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "513",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Allen B. Poe (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "10:00 am-11:50 am"
+      ],
+      "crn": "10179"
+    },
+    "514": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "514",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "01:00 pm-02:50 pm"
+      ],
+      "crn": "10180"
+    },
+    "515": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "515",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "03:00 pm-04:50 pm"
+      ],
+      "crn": "10181"
+    },
+    "516": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "516",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "08:00 am-09:50 am"
+      ],
+      "crn": "10182"
+    },
+    "517": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "517",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "10:00 am-11:50 am"
+      ],
+      "crn": "10183"
+    },
+    "518": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "518",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "12:40 pm-02:30 pm"
+      ],
+      "crn": "10184"
+    },
+    "519": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "519",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "05:00 pm-06:50 pm"
+      ],
+      "crn": "15681"
+    },
+    "200": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "12:40 pm-02:30 pm"
+      ],
+      "crn": "10166"
+    },
+    "520": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "520",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "05:00 pm-06:50 pm"
+      ],
+      "crn": "15682"
+    },
+    "521": {
+      "select": "NR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "521",
+      "title": "FOCUS: GENERAL ANIMAL SCIENCE",
+      "remaining": "24",
+      "capacity": "24",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "05:00 pm-06:50 pm"
+      ],
+      "crn": "18359"
+    },
+    "500": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20247"
+    },
+    "522": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "522",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20245"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "08:00 am-09:50 am"
+      ],
+      "crn": "10167"
+    },
+    "523": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "523",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "05:00 pm-06:50 pm"
+      ],
+      "crn": "20246"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "10:00 am-11:50 am"
+      ],
+      "crn": "10168"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "503",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "12:40 pm-02:30 pm"
+      ],
+      "crn": "10169"
+    },
+    "504": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "504",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "03:00 pm-04:50 pm"
+      ],
+      "crn": "10170"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "505",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "08:00 am-09:50 am"
+      ],
+      "crn": "10171"
+    },
+    "506": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "506",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "10:00 am-11:50 am"
+      ],
+      "crn": "10172"
+    },
+    "507": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "507",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Chris L. Skaggs (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "01:00 pm-02:50 pm"
+      ],
+      "crn": "10173"
+    },
+    "508": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "508",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Allen B. Poe (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "03:00 pm-04:50 pm"
+      ],
+      "crn": "10174"
+    },
+    "509": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "509",
+      "title": "GENERAL ANIMAL SCIENCE",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Allen B. Poe (P)"
+      ],
+      "credits": "1",
+      "course": "108",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PRPV 101"
+      ],
+      "time": [
+        "08:00 am-09:50 am"
+      ],
+      "crn": "10175"
+    }
+  },
+  "307": {
+    "501": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "MEATS",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Jeffrey Savell (P)",
+        "Jeffrey Savell"
+      ],
+      "credits": "3",
+      "course": "307",
+      "days": [
+        "MW",
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "MSTC 100"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "12:40 pm-03:30 pm"
+      ],
+      "crn": "10192"
+    },
+    "502": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "MEATS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jeffrey Savell (P)",
+        "Jeffrey Savell"
+      ],
+      "credits": "3",
+      "course": "307",
+      "days": [
+        "MW",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "MSTC 100"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "08:00 am-10:50 am"
+      ],
+      "crn": "10193"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "MEATS",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Jeffrey Savell (P)",
+        "Jeffrey Savell"
+      ],
+      "credits": "3",
+      "course": "307",
+      "days": [
+        "MW",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "MSTC 100"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "08:00 am-10:50 am"
+      ],
+      "crn": "10194"
+    },
+    "504": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "MEATS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jeffrey Savell (P)",
+        "Jeffrey Savell"
+      ],
+      "credits": "3",
+      "course": "307",
+      "days": [
+        "MW",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "MSTC 100"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "12:40 pm-03:30 pm"
+      ],
+      "crn": "10195"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "MEATS",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Jeffrey Savell (P)",
+        "Jeffrey Savell"
+      ],
+      "credits": "3",
+      "course": "307",
+      "days": [
+        "MW",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "MSTC 100"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "12:40 pm-03:30 pm"
+      ],
+      "crn": "10196"
+    },
+    "506": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "506",
+      "title": "MEATS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jeffrey Savell (P)",
+        "Jeffrey Savell"
+      ],
+      "credits": "3",
+      "course": "307",
+      "days": [
+        "MW",
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "MSTC 100"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "08:00 am-10:50 am"
+      ],
+      "crn": "10197"
+    },
+    "507": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "507",
+      "title": "MEATS",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Jeffrey Savell (P)",
+        "Jeffrey Savell"
+      ],
+      "credits": "3",
+      "course": "307",
+      "days": [
+        "MW",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "MSTC 100"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "12:40 pm-03:30 pm"
+      ],
+      "crn": "10198"
+    },
+    "508": {
+      "select": "C",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "508",
+      "title": "MEATS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jeffrey Savell (P)",
+        "Jeffrey Savell"
+      ],
+      "credits": "3",
+      "course": "307",
+      "days": [
+        "MW",
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "MSTC 100"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "12:40 pm-03:30 pm"
+      ],
+      "crn": "10199"
+    }
+  },
+  "309": {
+    "500": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "APPLIED ANIMAL RECORD KEEPING",
+      "remaining": "50",
+      "capacity": "50",
+      "instructor": [
+        "Christopher R. Kerth (P)",
+        "Christopher R. Kerth"
+      ],
+      "credits": "3",
+      "course": "309",
+      "days": [
+        "MW",
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MSTC 100",
+        "HPCT 103"
+      ],
+      "time": [
+        "11:30 am-12:20 pm",
+        "04:10 pm-06:00 pm"
+      ],
+      "crn": "24860"
+    }
+  },
+  "629": {
+    "600": {
+      "select": "SR",
+      "subject": "ANSC",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "APPLIED ANIMAL GENOMICS",
+      "remaining": "6",
+      "capacity": "6",
+      "instructor": [
+        "Clare Gill (P)"
+      ],
+      "credits": "3",
+      "course": "629",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "KLCT 400"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "10233"
+    }
+  }
+}

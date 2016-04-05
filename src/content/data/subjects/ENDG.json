@@ -1,0 +1,152 @@
+{
+  "105": {
+    "501": {
+      "select": "C",
+      "subject": "ENDG",
+      "campus": "CS",
+      "classes": 3,
+      "active": "0",
+      "section": "501",
+      "title": "ENGINEERING GRAPHICS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA",
+        "TBA"
+      ],
+      "credits": "2",
+      "course": "105",
+      "days": [
+        "M",
+        "M",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EABA 118",
+        "EABA 118",
+        "EABA 118"
+      ],
+      "time": [
+        "09:00 am-09:50 am",
+        "09:51 am-10:50 am",
+        "09:00 am-10:50 am"
+      ],
+      "crn": "27669"
+    },
+    "502": {
+      "select": "C",
+      "subject": "ENDG",
+      "campus": "CS",
+      "classes": 3,
+      "active": "0",
+      "section": "502",
+      "title": "ENGINEERING GRAPHICS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA",
+        "TBA"
+      ],
+      "credits": "2",
+      "course": "105",
+      "days": [
+        "T",
+        "T",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EABA 118",
+        "EABA 118",
+        "EABA 118"
+      ],
+      "time": [
+        "09:00 am-09:50 am",
+        "09:51 am-10:50 am",
+        "09:00 am-10:50 am"
+      ],
+      "crn": "27670"
+    },
+    "503": {
+      "select": "C",
+      "subject": "ENDG",
+      "campus": "CS",
+      "classes": 3,
+      "active": "0",
+      "section": "503",
+      "title": "ENGINEERING GRAPHICS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA",
+        "TBA"
+      ],
+      "credits": "2",
+      "course": "105",
+      "days": [
+        "T",
+        "T",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EABA 118",
+        "EABA 118",
+        "EABA 118"
+      ],
+      "time": [
+        "01:00 pm-01:50 pm",
+        "01:51 pm-02:50 pm",
+        "01:00 pm-02:50 pm"
+      ],
+      "crn": "27671"
+    }
+  },
+  "407": {
+    "500": {
+      "select": "C",
+      "subject": "ENDG",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "COMPUTER DESIGN GRAPHICS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "407",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "EABA 118"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "27672"
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "631": {
+    "601": {
+      "select": "SR",
+      "subject": "BUSH",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "601",
+      "title": "QUANT METH PUB MGMT I",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Kalena E. Cortes (P)"
+      ],
+      "credits": "3",
+      "course": "631",
+      "days": [
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALLN 1017"
+      ],
+      "time": [
+        "04:35 pm-07:20 pm"
+      ],
+      "crn": "16692"
+    },
+    "602": {
+      "select": "SR",
+      "subject": "BUSH",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "602",
+      "title": "QUANT METH PUB MGMT I",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Kalena E. Cortes (P)"
+      ],
+      "credits": "3",
+      "course": "631",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALLN 1017"
+      ],
+      "time": [
+        "04:35 pm-07:20 pm"
+      ],
+      "crn": "10478"
+    },
+    "603": {
+      "select": "SR",
+      "subject": "BUSH",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "603",
+      "title": "QUANT METH PUB MGMT I",
+      "remaining": "17",
+      "capacity": "17",
+      "instructor": [
+        "Joanna Lahey (P)"
+      ],
+      "credits": "3",
+      "course": "631",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALLN 1017"
+      ],
+      "time": [
+        "09:35 am-12:15 pm"
+      ],
+      "crn": "10479"
+    },
+    "604": {
+      "select": "SR",
+      "subject": "BUSH",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "604",
+      "title": "QUANT METH PUB MGMT I",
+      "remaining": "21",
+      "capacity": "21",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "631",
+      "days": [
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALLN 1017"
+      ],
+      "time": [
+        "04:35 pm-07:20 pm"
+      ],
+      "crn": "21924"
+    },
+    "605": {
+      "select": "SR",
+      "subject": "BUSH",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "605",
+      "title": "QUANT METH PUB MGMT I",
+      "remaining": "19",
+      "capacity": "19",
+      "instructor": [
+        "Joanna Lahey (P)"
+      ],
+      "credits": "3",
+      "course": "631",
+      "days": [
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALLN 1110"
+      ],
+      "time": [
+        "09:35 am-12:15 pm"
+      ],
+      "crn": "25078"
+    },
+    "606": {
+      "select": "C",
+      "subject": "BUSH",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "606",
+      "title": "QUANT METH PUB MGMT I",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "631",
+      "days": [
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALLN 1110"
+      ],
+      "time": [
+        "01:30 pm-04:20 pm"
+      ],
+      "crn": "28398"
+    }
+  },
+  "600": {
+    "550": {
+      "select": "SR",
+      "subject": "BUSH",
+      "campus": "CS",
+      "classes": 1,
+      "active": "3",
+      "section": "550",
+      "title": "BUSH GRAD STUDY ABROAD",
+      "remaining": "TBA",
+      "capacity": "0",
+      "instructor": [
+        "08/29-12/14"
+      ],
+      "credits": "1-12",
+      "course": "600",
+      "days": [
+        "TBA"
+      ],
+      "date (mm/dd)": [
+        "TBA"
+      ],
+      "location": [
+        " "
+      ],
+      "time": [
+        "3"
+      ],
+      "crn": "28416"
+    }
+  },
+  "602": {
+    "600": {
+      "select": "SR",
+      "subject": "BUSH",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "WRITING MEDAL OF EXCELLENCE",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1",
+      "course": "602",
+      "days": [
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALLN 1107"
+      ],
+      "time": [
+        "04:35 pm-05:35 pm"
+      ],
+      "crn": "28600"
+    }
+  }
+}

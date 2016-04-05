@@ -1,0 +1,218 @@
+{
+  "420": {
+    "900": {
+      "select": "SR",
+      "subject": "SEFB",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "900",
+      "title": "EDU EMPLOY ISS SECD SPED",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Patricia S. Lynch (P)",
+        "Patricia S. Lynch (P)"
+      ],
+      "credits": "3",
+      "course": "420",
+      "days": [
+        "F",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EDCT 614",
+        "TBA"
+      ],
+      "time": [
+        "01:00 pm-03:00 pm",
+        "TBA"
+      ],
+      "crn": "21656"
+    }
+  },
+  "630": {
+    "600": {
+      "select": "C",
+      "subject": "SEFB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "PRACTICUM IN ABA",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Amy K. Heath (P)"
+      ],
+      "credits": "3",
+      "course": "630",
+      "days": [
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "12:30 pm-03:30 pm"
+      ],
+      "crn": "22696"
+    },
+    "700": {
+      "select": "C",
+      "subject": "SEFB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "PRACTICUM IN ABA",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Amy K. Heath (P)"
+      ],
+      "credits": "3",
+      "course": "630",
+      "days": [
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "12:30 pm-03:30 pm"
+      ],
+      "crn": "22710"
+    }
+  },
+  "425": {
+    "550": {
+      "select": "SR",
+      "subject": "SEFB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "550",
+      "title": "STDNT TCHNG SPED:IN-ABSENTIA",
+      "remaining": "17",
+      "capacity": "17",
+      "instructor": [
+        "Kelly D. Schmid (P)"
+      ],
+      "credits": "6",
+      "course": "425",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15409"
+    },
+    "500": {
+      "select": "SR",
+      "subject": "SEFB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "STDNT TCHNG SPED",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Kelly D. Schmid (P)"
+      ],
+      "credits": "6",
+      "course": "425",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "12647"
+    }
+  },
+  "618": {
+    "699": {
+      "select": "C",
+      "subject": "SEFB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "699",
+      "title": "BEHAVIOR MANAGEMENT",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Mack Burke (P)"
+      ],
+      "credits": "3",
+      "course": "618",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "05:30 pm-08:00 pm"
+      ],
+      "crn": "15061"
+    },
+    "700": {
+      "select": "SR",
+      "subject": "SEFB",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "BEHAVIOR MANAGEMENT",
+      "remaining": "40",
+      "capacity": "40",
+      "instructor": [
+        "Mack Burke (P)"
+      ],
+      "credits": "3",
+      "course": "618",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "05:30 pm-08:00 pm"
+      ],
+      "crn": "13964"
+    }
+  }
+}

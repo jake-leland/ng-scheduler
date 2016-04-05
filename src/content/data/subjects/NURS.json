@@ -1,0 +1,990 @@
+{
+  "462": {
+    "700": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "PATH & PHARM FOR THE RN",
+      "remaining": "23",
+      "capacity": "23",
+      "instructor": [
+        "Matt F. Hoffman (P)"
+      ],
+      "credits": "4",
+      "course": "462",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "22099"
+    }
+  },
+  "320": {
+    "500": {
+      "select": "C",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "ADULT NURSING I",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "6",
+      "course": "320",
+      "days": [
+        "T",
+        "RF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPEB LL44",
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-11:00 am",
+        "06:30 am-05:00 pm"
+      ],
+      "crn": "28081"
+    }
+  },
+  "386": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "DIRECTED CLINICAL STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Willa Decker (P)"
+      ],
+      "credits": "1-3",
+      "course": "386",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23144"
+    }
+  },
+  "430": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "TRANS INTO PROF NURS PRACTICE",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Rebecca Burns (P)",
+        "Rebecca Burns"
+      ],
+      "credits": "5",
+      "course": "430",
+      "days": [
+        "T",
+        "RF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPEB ",
+        "HPEB "
+      ],
+      "time": [
+        "08:00 am-11:00 am",
+        "06:30 am-05:00 pm"
+      ],
+      "crn": "25007"
+    }
+  },
+  "420": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "ADULT NURSING II",
+      "remaining": "72",
+      "capacity": "72",
+      "instructor": [
+        "Angela Mountain (P)",
+        "TBA"
+      ],
+      "credits": "6",
+      "course": "420",
+      "days": [
+        "T",
+        "RF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPEB LL46",
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-11:00 am",
+        "06:30 am-05:00 pm"
+      ],
+      "crn": "22090"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "ADULT NURSING II",
+      "remaining": "21",
+      "capacity": "21",
+      "instructor": [
+        "Angela Mountain (P)",
+        "TBA"
+      ],
+      "credits": "6",
+      "course": "420",
+      "days": [
+        "T",
+        "RF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "AVERY S100",
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-11:00 am",
+        "06:30 am-05:00 pm"
+      ],
+      "crn": "22091"
+    }
+  },
+  "464": {
+    "700": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "HLTH PROM ACROSS LSPAN FOR RN",
+      "remaining": "23",
+      "capacity": "23",
+      "instructor": [
+        "Matt F. Hoffman (P)"
+      ],
+      "credits": "3",
+      "course": "464",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "22103"
+    },
+    "701": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "701",
+      "title": "HLTH PROM ACROSS LSPAN FOR RN",
+      "remaining": "14",
+      "capacity": "14",
+      "instructor": [
+        "Matt F. Hoffman (P)"
+      ],
+      "credits": "3",
+      "course": "464",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "22105"
+    }
+  },
+  "552": {
+    "700": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "SCHOLARSHIP: INTEG & APP",
+      "remaining": "32",
+      "capacity": "32",
+      "instructor": [
+        "Jodie C. Gary (P)"
+      ],
+      "credits": "3",
+      "course": "552",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "22111"
+    }
+  },
+  "421": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "CARE OF COMMUNITY HLTH CLIENTS",
+      "remaining": "35",
+      "capacity": "35",
+      "instructor": [
+        "Colleen Neal (P)",
+        "TBA"
+      ],
+      "credits": "5",
+      "course": "421",
+      "days": [
+        "M",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPEB LL44",
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-10:00 am",
+        "08:00 am-05:00 pm"
+      ],
+      "crn": "22092"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "CARE OF COMMUNITY HLTH CLIENTS",
+      "remaining": "22",
+      "capacity": "22",
+      "instructor": [
+        "Colleen Neal (P)",
+        "TBA"
+      ],
+      "credits": "5",
+      "course": "421",
+      "days": [
+        "M",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "AVERY S100",
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-10:00 am",
+        "08:00 am-05:00 pm"
+      ],
+      "crn": "22093"
+    }
+  },
+  "432": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "TEAMWORK AND COMMUNICATION",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Suzanne M. Van (P)"
+      ],
+      "credits": "1",
+      "course": "432",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPEB LL44"
+      ],
+      "time": [
+        "01:00 pm-04:00 pm"
+      ],
+      "crn": "25005"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "TEAMWORK AND COMMUNICATION",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Suzanne M. Van (P)"
+      ],
+      "credits": "1",
+      "course": "432",
+      "days": [
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "AVERY S100"
+      ],
+      "time": [
+        "01:00 pm-04:00 pm"
+      ],
+      "crn": "25581"
+    }
+  },
+  "312": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "INTRO TO PATHOPHYSIOLOGY",
+      "remaining": "100",
+      "capacity": "100",
+      "instructor": [
+        "Nora Balke (P)"
+      ],
+      "credits": "3",
+      "course": "312",
+      "days": [
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPEB LL44"
+      ],
+      "time": [
+        "09:00 am-12:00 pm"
+      ],
+      "crn": "25015"
+    }
+  },
+  "323": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "NRSNG CARE OF WOMEN, FAM",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Shelley White-Corey (P)",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "323",
+      "days": [
+        "MW",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "09:00 am-12:00 pm",
+        "TBA"
+      ],
+      "crn": "22095"
+    }
+  },
+  "411": {
+    "900": {
+      "select": "C",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "900",
+      "title": "EVIDENCE-BASED PRAC FOR NURSES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "411",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "28082"
+    }
+  },
+  "313": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 3,
+      "active": "0",
+      "section": "500",
+      "title": "NURSING FUNDAMENTALS",
+      "remaining": "76",
+      "capacity": "76",
+      "instructor": [
+        "Angela Mountain (P)",
+        "TBA",
+        "TBA"
+      ],
+      "credits": "5",
+      "course": "313",
+      "days": [
+        "T",
+        "R",
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPEB LL44",
+        "HPEB CLRC",
+        "HPEB "
+      ],
+      "time": [
+        "08:00 am-11:00 am",
+        "08:00 am-05:00 pm",
+        "06:30 am-05:00 pm"
+      ],
+      "crn": "22080"
+    }
+  },
+  "412": {
+    "500": {
+      "select": "C",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "CARE OF MENTAL HLTH CLIENTS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "412",
+      "days": [
+        "T",
+        "S"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPEB LL46",
+        "TBA"
+      ],
+      "time": [
+        "01:00 pm-03:00 pm",
+        "06:30 am-05:00 pm"
+      ],
+      "crn": "28083"
+    }
+  },
+  "467": {
+    "700": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "LEADERSHIP & MGMT FOR THE RN",
+      "remaining": "23",
+      "capacity": "23",
+      "instructor": [
+        "Jane Kosarek (P), Virginia A. Utterback"
+      ],
+      "credits": "5",
+      "course": "467",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "22107"
+    },
+    "701": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "701",
+      "title": "LEADERSHIP & MGMT FOR THE RN",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Jane Kosarek (P), Virginia A. Utterback"
+      ],
+      "credits": "5",
+      "course": "467",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "22109"
+    }
+  },
+  "314": {
+    "900": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "900",
+      "title": "HEALTH ASSESSMENT",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Willa Decker (P)",
+        "Willa Decker (P)"
+      ],
+      "credits": "3",
+      "course": "314",
+      "days": [
+        "T",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "MREB 1151",
+        "HPEB CLRC"
+      ],
+      "time": [
+        "09:00 am-11:00 am",
+        "01:00 pm-04:00 pm"
+      ],
+      "crn": "25977"
+    }
+  },
+  "413": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "NURSINGCARE OF CHILDREN FAMILI",
+      "remaining": "26",
+      "capacity": "26",
+      "instructor": [
+        "Alison L. Pittman (P)",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "413",
+      "days": [
+        "M",
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPEB LL11A",
+        "HPEB CLRC"
+      ],
+      "time": [
+        "09:00 am-11:00 am",
+        "12:00 pm-03:00 pm"
+      ],
+      "crn": "22097"
+    }
+  },
+  "523": {
+    "700": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "PRIMARY CARE OF FAMILIES II",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Cynthia G. Weston (P)"
+      ],
+      "credits": "6",
+      "course": "523",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "25955"
+    }
+  },
+  "556": {
+    "700": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "LEADERSHIP & HEALTH POLICY II",
+      "remaining": "32",
+      "capacity": "32",
+      "instructor": [
+        "Nora Montalvo-Liendo (P)"
+      ],
+      "credits": "3",
+      "course": "556",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "22114"
+    }
+  },
+  "315": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "NURSING AND THE AGED",
+      "remaining": "40",
+      "capacity": "40",
+      "instructor": [
+        "Wanda Seaback (P)",
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "315",
+      "days": [
+        "M",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "10:30 am-12:30 pm",
+        "TBA"
+      ],
+      "crn": "22082"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "NURSING AND THE AGED",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Patricia Ehlert (P), Wanda Seaback",
+        "Patricia Ehlert"
+      ],
+      "credits": "3",
+      "course": "315",
+      "days": [
+        "M",
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "AVERY S100",
+        "HPEB CLRC"
+      ],
+      "time": [
+        "10:30 am-12:30 pm",
+        "01:00 pm-03:00 pm"
+      ],
+      "crn": "25546"
+    }
+  },
+  "305": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "NURSING DIMENSIONS & INFORMATI",
+      "remaining": "100",
+      "capacity": "100",
+      "instructor": [
+        "Jane Kosarek (P)"
+      ],
+      "credits": "3",
+      "course": "305",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "25767"
+    }
+  },
+  "316": {
+    "500": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "PHARMACOLOGY PRINCIPLES",
+      "remaining": "100",
+      "capacity": "100",
+      "instructor": [
+        "Vicky A. Keys (P)"
+      ],
+      "credits": "3",
+      "course": "316",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HPEB LL44"
+      ],
+      "time": [
+        "09:00 am-12:00 pm"
+      ],
+      "crn": "25536"
+    }
+  },
+  "503": {
+    "700": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "TEACHING STRATEGIES",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Lavern P. Holyfield (P), Ernestine S. Lacy , Kathleen B. Muzzin"
+      ],
+      "credits": "3",
+      "course": "503",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "25009"
+    }
+  },
+  "508": {
+    "700": {
+      "select": "SR",
+      "subject": "NURS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "700",
+      "title": "ADV CLINICAL PRACT & PROJECT",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Karen A. Landry (P)"
+      ],
+      "credits": "4",
+      "course": "508",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "25008"
+    }
+  }
+}

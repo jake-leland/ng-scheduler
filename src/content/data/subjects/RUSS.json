@@ -1,0 +1,259 @@
+{
+  "101": {
+    "501": {
+      "select": "SR",
+      "subject": "RUSS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "BEGINNING RUSSIAN I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Leighton Cooke (P)",
+        "Leighton Cooke"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "MTWF",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 115",
+        "ACAD 124"
+      ],
+      "time": [
+        "12:40 pm-01:30 pm",
+        "12:40 pm-01:30 pm"
+      ],
+      "crn": "12618"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "RUSS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "BEGINNING RUSSIAN I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Leighton Cooke (P)",
+        "Leighton Cooke"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "MTWF",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 115",
+        "ACAD 124"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm",
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "12619"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "RUSS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "BEGINNING RUSSIAN I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Leighton Cooke (P)",
+        "Leighton Cooke"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "MTWF",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 115",
+        "ACAD 124"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm",
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "24344"
+    }
+  },
+  "201": {
+    "501": {
+      "select": "SR",
+      "subject": "RUSS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "INTERMEDIATE RUSS I",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Elisabeth Rich (P)"
+      ],
+      "credits": "3",
+      "course": "201",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HELD 120"
+      ],
+      "time": [
+        "12:40 pm-01:30 pm"
+      ],
+      "crn": "19226"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "RUSS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "INTERMEDIATE RUSS I",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Elisabeth Rich (P)"
+      ],
+      "credits": "3",
+      "course": "201",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HELD 120"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "19227"
+    }
+  },
+  "443": {
+    "500": {
+      "select": "SR",
+      "subject": "RUSS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "CONTEMP RUSSIAN PROSE",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Elisabeth Rich (P)"
+      ],
+      "credits": "3",
+      "course": "443",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ACAD 226"
+      ],
+      "time": [
+        "04:10 pm-05:25 pm"
+      ],
+      "crn": "27335"
+    }
+  },
+  "301": {
+    "900": {
+      "select": "SR",
+      "subject": "RUSS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "900",
+      "title": "ADV GRAMMAR & COMP I",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Olga Cooke (P)"
+      ],
+      "credits": "3",
+      "course": "301",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 264"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "27334"
+    }
+  },
+  "447": {
+    "500": {
+      "select": "SR",
+      "subject": "RUSS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "RUSSIAN ART CULTURE II",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Olga Cooke (P)"
+      ],
+      "credits": "3",
+      "course": "447",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 104"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "27336"
+    }
+  }
+}

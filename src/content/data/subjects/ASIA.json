@@ -1,0 +1,64 @@
+{
+  "463": {
+    "500": {
+      "select": "C",
+      "subject": "ASIA",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "GENDER IN ASIA",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "463",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "SCTS 215"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "28545"
+    }
+  },
+  "355": {
+    "500": {
+      "select": "SR",
+      "subject": "ASIA",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "MODERN CHINA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Di Wang (P)"
+      ],
+      "credits": "3",
+      "course": "355",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "MILS 110"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "19549"
+    }
+  }
+}

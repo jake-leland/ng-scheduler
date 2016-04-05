@@ -1,0 +1,64 @@
+{
+  "1232": {
+    "600": {
+      "select": "SR",
+      "subject": "GS21",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "TRNSLTNTL SCI: BEDSIDE TO BENC",
+      "remaining": "50",
+      "capacity": "50",
+      "instructor": [
+        "Jiang Chang (P)"
+      ],
+      "credits": "2",
+      "course": "1232",
+      "days": [
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALKEK "
+      ],
+      "time": [
+        "05:00 pm-07:00 pm"
+      ],
+      "crn": "26357"
+    }
+  },
+  "1051": {
+    "600": {
+      "select": "SR",
+      "subject": "GS21",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "ETHICAL DIMNSNS OF BIOMED SCI",
+      "remaining": "50",
+      "capacity": "50",
+      "instructor": [
+        "Jiang Chang (P)"
+      ],
+      "credits": "1",
+      "course": "1051",
+      "days": [
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALKEK "
+      ],
+      "time": [
+        "11:15 am-12:30 pm"
+      ],
+      "crn": "26290"
+    }
+  }
+}

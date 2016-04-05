@@ -34,7 +34,7 @@
                     <hr ng-repeat="line in lines" class="sched-line" ng-style="line.style">
                 </div>
                 <div ng-repeat="class in classes[day]" class="class" ng-style="class.style">
-                    {{ class.title }}
+                    {{ class.subject }} {{ class.course }}-{{class.section}}
                 </div>
             </td>
         </tr>

@@ -1,0 +1,242 @@
+{
+  "100": {
+    "102": {
+      "select": "NR",
+      "subject": "ELIV",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "102",
+      "title": "BASIC VOCABULARY",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "100",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALLN 1055"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "13473"
+    },
+    "103": {
+      "select": "NR",
+      "subject": "ELIV",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "103",
+      "title": "BASIC VOCABULARY",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "100",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "12:45 pm-02:00 pm"
+      ],
+      "crn": "16246"
+    }
+  },
+  "200": {
+    "201": {
+      "select": "NR",
+      "subject": "ELIV",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "201",
+      "title": "INTERMEDIATE VOCABULARY",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "200",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "11153"
+    },
+    "202": {
+      "select": "NR",
+      "subject": "ELIV",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "202",
+      "title": "INTERMEDIATE VOCABULARY",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "200",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "CVE 007"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "11154"
+    }
+  },
+  "300": {
+    "301": {
+      "select": "NR",
+      "subject": "ELIV",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "301",
+      "title": "ADVANCED VOCABULARY",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "300",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "12:45 pm-02:00 pm"
+      ],
+      "crn": "13486"
+    },
+    "302": {
+      "select": "C",
+      "subject": "ELIV",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "302",
+      "title": "ADVANCED VOCABULARY",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "300",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "11155"
+    }
+  },
+  "250": {
+    "250": {
+      "select": "C",
+      "subject": "ELIV",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "250",
+      "title": "INTERMEDIATE VOCAB II",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "250",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24277"
+    },
+    "251": {
+      "select": "NR",
+      "subject": "ELIV",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "251",
+      "title": "INTERMEDIATE VOCAB II",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "250",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "19798"
+    }
+  }
+}

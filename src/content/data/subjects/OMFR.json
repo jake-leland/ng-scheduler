@@ -1,0 +1,219 @@
+{
+  "5020": {
+    "600": {
+      "select": "SR",
+      "subject": "OMFR",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "CASE CONFERENCE",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Byron W. Benson (P)"
+      ],
+      "credits": "0",
+      "course": "5020",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/15-12/16"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24842"
+    }
+  },
+  "5010": {
+    "600": {
+      "select": "C\n                              MM ",
+      "subject": "OMFR",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "RADIATION PHYSICS & BIOL",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "0",
+      "course": "5010",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/15-12/16"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "28400"
+    }
+  },
+  "5200": {
+    "600": {
+      "select": "SR",
+      "subject": "OMFR",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "ADV RADIOL INTERPRETATION",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Diane J. Flint (P)"
+      ],
+      "credits": "2",
+      "course": "5200",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/15-12/16"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24840"
+    }
+  },
+  "5300": {
+    "600": {
+      "select": "SR",
+      "subject": "OMFR",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "CLINICAL TEACHING",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Diane J. Flint (P)"
+      ],
+      "credits": "0",
+      "course": "5300",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/15-12/16"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24841"
+    }
+  },
+  "5V20": {
+    "600": {
+      "select": "C\n                              MM ",
+      "subject": "OMFR",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "MED CLINICAL RADIOLOGY SERV",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "5V20",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/15-12/16"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "28399"
+    }
+  },
+  "5V01": {
+    "600": {
+      "select": "SR",
+      "subject": "OMFR",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "LITERATURE REVIEW JOURN CLUB",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Byron W. Benson (P)"
+      ],
+      "credits": ".5-1",
+      "course": "5V01",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/15-12/16"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25085"
+    }
+  },
+  "5V06": {
+    "600": {
+      "select": "SR",
+      "subject": "OMFR",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "CLINICAL ORAL MAX RADIO SERV",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Diane J. Flint (P)"
+      ],
+      "credits": "2-6",
+      "course": "5V06",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/15-12/16"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25086"
+    }
+  }
+}

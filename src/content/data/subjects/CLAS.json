@@ -1,0 +1,377 @@
+{
+  "121": {
+    "501": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "BEGINNING LATIN I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Ines D. Golsan (P)"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MTWR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 115"
+      ],
+      "time": [
+        "09:10 am-10:00 am"
+      ],
+      "crn": "10844"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "BEGINNING LATIN I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Ines D. Golsan (P)"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MTWR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 115"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "10845"
+    }
+  },
+  "352": {
+    "500": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "GREEK & ROMAN DRAMA",
+      "remaining": "40",
+      "capacity": "40",
+      "instructor": [
+        "Federica Ciccolella (P)"
+      ],
+      "credits": "3",
+      "course": "352",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ACAD 130"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "27317"
+    }
+  },
+  "122": {
+    "500": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "BEGINNING LATIN II",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Ines D. Golsan (P)"
+      ],
+      "credits": "4",
+      "course": "122",
+      "days": [
+        "MTWR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 115"
+      ],
+      "time": [
+        "08:00 am-08:50 am"
+      ],
+      "crn": "24328"
+    }
+  },
+  "221": {
+    "500": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "INTERMEDIATE LATIN",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "221",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "PETR 106"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "13106"
+    }
+  },
+  "101": {
+    "500": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "BEGIN CLAS GREEK I",
+      "remaining": "40",
+      "capacity": "40",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "101",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "PETR 106",
+        "PETR 106"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "08:00 am-09:15 am"
+      ],
+      "crn": "16550"
+    }
+  },
+  "211": {
+    "500": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "INTERMEDIATE GREEK",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Christoph Konrad (P)"
+      ],
+      "credits": "3",
+      "course": "211",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 264"
+      ],
+      "time": [
+        "12:45 pm-02:00 pm"
+      ],
+      "crn": "27312"
+    }
+  },
+  "222": {
+    "500": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "INTERMEDIATE LATIN II",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Ines D. Golsan (P)"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 264"
+      ],
+      "time": [
+        "04:10 pm-05:25 pm"
+      ],
+      "crn": "10846"
+    }
+  },
+  "321": {
+    "500": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "ADV LATIN PROSE",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Christoph Konrad (P)"
+      ],
+      "credits": "3",
+      "course": "321",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ACAD 123"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "27315"
+    }
+  },
+  "312": {
+    "500": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "ADV CLASSIC GREEK POETRY",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Federica Ciccolella (P)"
+      ],
+      "credits": "3",
+      "course": "312",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 264"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "24332"
+    }
+  },
+  "491": {
+    "900": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "900",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "0-3",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "17054"
+    }
+  },
+  "251": {
+    "500": {
+      "select": "SR",
+      "subject": "CLAS",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "CLASSICAL MYTHOLOGY",
+      "remaining": "104",
+      "capacity": "104",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "251",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HECC 209"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "21353"
+    }
+  }
+}

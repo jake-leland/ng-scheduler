@@ -1,0 +1,8976 @@
+{
+  "470": {
+    "500": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "INFO STORAGE & RETRIEVAL",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "470",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "21938"
+    }
+  },
+  "110": {
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "PROGRAMMING I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Tiffani Williams (P)",
+        "Tiffani Williams"
+      ],
+      "credits": "4",
+      "course": "110",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111J"
+      ],
+      "time": [
+        "08:00 am-09:15 am",
+        "08:00 am-08:50 am"
+      ],
+      "crn": "10915"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "PROGRAMMING I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Tiffani Williams (P)",
+        "Tiffani Williams"
+      ],
+      "credits": "4",
+      "course": "110",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111J"
+      ],
+      "time": [
+        "08:00 am-09:15 am",
+        "11:10 am-12:00 pm"
+      ],
+      "crn": "10916"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "PROGRAMMING I",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Tiffani Williams",
+        "Tiffani Williams (P)"
+      ],
+      "credits": "4",
+      "course": "110",
+      "days": [
+        "MW",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111J",
+        "HRBB 124"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm",
+        "08:00 am-09:15 am"
+      ],
+      "crn": "17152"
+    },
+    "504": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "PROGRAMMING I",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "110",
+      "days": [
+        "MWF",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "TBA"
+      ],
+      "crn": "24203"
+    },
+    "505": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "PROGRAMMING I",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "110",
+      "days": [
+        "MWF",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "TBA"
+      ],
+      "crn": "24204"
+    },
+    "506": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "506",
+      "title": "PROGRAMMING I",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "110",
+      "days": [
+        "MWF",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "TBA"
+      ],
+      "crn": "24205"
+    }
+  },
+  "111": {
+    "200": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-CPSC CONCEPTS & PROGRAM",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "111",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "24206"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "CPSC CONCEPTS & PROGRAM",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "111",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111J"
+      ],
+      "time": [
+        "11:30 am-12:20 pm",
+        "12:40 pm-01:30 pm"
+      ],
+      "crn": "10917"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "CPSC CONCEPTS & PROGRAM",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "111",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111J"
+      ],
+      "time": [
+        "11:30 am-12:20 pm",
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "10918"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "CPSC CONCEPTS & PROGRAM",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "111",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111J"
+      ],
+      "time": [
+        "11:30 am-12:20 pm",
+        "09:35 am-10:25 am"
+      ],
+      "crn": "10919"
+    },
+    "504": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "CPSC CONCEPTS & PROGRAM",
+      "remaining": "35",
+      "capacity": "35",
+      "instructor": [
+        "Bruce S. Gooch (P)",
+        "Bruce S. Gooch"
+      ],
+      "credits": "4",
+      "course": "111",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "RDMC 111J"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm",
+        "08:00 am-08:50 am"
+      ],
+      "crn": "22909"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "CPSC CONCEPTS & PROGRAM",
+      "remaining": "35",
+      "capacity": "35",
+      "instructor": [
+        "Bruce S. Gooch (P)",
+        "Bruce S. Gooch"
+      ],
+      "credits": "4",
+      "course": "111",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "RDMC 111J"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm",
+        "09:10 am-10:00 am"
+      ],
+      "crn": "23080"
+    },
+    "506": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "506",
+      "title": "CPSC CONCEPTS & PROGRAM",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Bruce S. Gooch (P)",
+        "Bruce S. Gooch"
+      ],
+      "credits": "4",
+      "course": "111",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "RDMC 111A"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm",
+        "03:55 pm-04:45 pm"
+      ],
+      "crn": "24207"
+    }
+  },
+  "672": {
+    "600": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "COMP SUPPORT COLL WORK",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "672",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 126"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "28632"
+    }
+  },
+  "312": {
+    "200": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-COMPUTER ORGANIZATION",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Eun Kim (P)",
+        "Eun Kim"
+      ],
+      "credits": "4",
+      "course": "312",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 1035",
+        "RDMC 111H"
+      ],
+      "time": [
+        "11:30 am-12:20 pm",
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "25165"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "COMPUTER ORGANIZATION",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Rabinarayan Mahapatra",
+        "Rabinarayan Mahapatra (P)"
+      ],
+      "credits": "4",
+      "course": "312",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111C",
+        "HRBB 124"
+      ],
+      "time": [
+        "10:00 am-12:00 pm",
+        "09:35 am-10:50 am"
+      ],
+      "crn": "10937"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "COMPUTER ORGANIZATION",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Rabinarayan Mahapatra (P)",
+        "Rabinarayan Mahapatra"
+      ],
+      "credits": "4",
+      "course": "312",
+      "days": [
+        "TR",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111C"
+      ],
+      "time": [
+        "09:35 am-10:50 am",
+        "10:00 am-12:00 pm"
+      ],
+      "crn": "10938"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "COMPUTER ORGANIZATION",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Rabinarayan Mahapatra",
+        "Rabinarayan Mahapatra (P)"
+      ],
+      "credits": "4",
+      "course": "312",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111C",
+        "HRBB 124"
+      ],
+      "time": [
+        "08:00 am-10:00 am",
+        "05:30 pm-06:45 pm"
+      ],
+      "crn": "16046"
+    },
+    "504": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "COMPUTER ORGANIZATION",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Aakash Tyagi (P)",
+        "Aakash Tyagi"
+      ],
+      "credits": "4",
+      "course": "312",
+      "days": [
+        "TR",
+        "T"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005",
+        "RDMC 111C"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm",
+        "11:10 am-12:50 pm"
+      ],
+      "crn": "22890"
+    },
+    "505": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "COMPUTER ORGANIZATION",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Aakash Tyagi (P)",
+        "Aakash Tyagi"
+      ],
+      "credits": "4",
+      "course": "312",
+      "days": [
+        "TR",
+        "R"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005",
+        "RDMC 111C"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm",
+        "11:10 am-12:50 pm"
+      ],
+      "crn": "24215"
+    },
+    "506": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "506",
+      "title": "COMPUTER ORGANIZATION",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "312",
+      "days": [
+        "TR",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005",
+        "TBA"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm",
+        "TBA"
+      ],
+      "crn": "24216"
+    }
+  },
+  "313": {
+    "201": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "201",
+      "title": "HNR-INTRO TO COMPUTER SYSTEM",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Aakash Tyagi",
+        "Aakash Tyagi (P)"
+      ],
+      "credits": "4",
+      "course": "313",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111J",
+        "HRBB 124"
+      ],
+      "time": [
+        "04:00 pm-06:00 pm",
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "26730"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "INTRO TO COMPUTER SYSTEM",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Aakash Tyagi",
+        "Aakash Tyagi (P)"
+      ],
+      "credits": "4",
+      "course": "313",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111J",
+        "HRBB 124"
+      ],
+      "time": [
+        "04:00 pm-06:00 pm",
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "10939"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "INTRO TO COMPUTER SYSTEM",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Aakash Tyagi (P)",
+        "Aakash Tyagi"
+      ],
+      "credits": "4",
+      "course": "313",
+      "days": [
+        "TR",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111J"
+      ],
+      "time": [
+        "11:10 am-12:25 pm",
+        "06:00 pm-08:00 pm"
+      ],
+      "crn": "10940"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "INTRO TO COMPUTER SYSTEM",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Aakash Tyagi (P)",
+        "Aakash Tyagi"
+      ],
+      "credits": "4",
+      "course": "313",
+      "days": [
+        "TR",
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111C"
+      ],
+      "time": [
+        "11:10 am-12:25 pm",
+        "10:00 am-12:00 pm"
+      ],
+      "crn": "14941"
+    },
+    "504": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "INTRO TO COMPUTER SYSTEM",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Riccardo Bettati (P)",
+        "Riccardo Bettati"
+      ],
+      "credits": "4",
+      "course": "313",
+      "days": [
+        "TR",
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "RDMC 111C"
+      ],
+      "time": [
+        "09:35 am-10:50 am",
+        "12:00 pm-02:00 pm"
+      ],
+      "crn": "14942"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "INTRO TO COMPUTER SYSTEM",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Riccardo Bettati",
+        "Riccardo Bettati (P)"
+      ],
+      "credits": "4",
+      "course": "313",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111C",
+        "HRBB 113"
+      ],
+      "time": [
+        "08:00 am-10:00 am",
+        "09:35 am-10:50 am"
+      ],
+      "crn": "24217"
+    },
+    "506": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "506",
+      "title": "INTRO TO COMPUTER SYSTEM",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Riccardo Bettati (P)",
+        "Riccardo Bettati"
+      ],
+      "credits": "4",
+      "course": "313",
+      "days": [
+        "TR",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "CHEM 2102",
+        "RDMC 111C"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm",
+        "08:00 am-10:00 am"
+      ],
+      "crn": "24218"
+    }
+  },
+  "434": {
+    "200": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-COMPILER DESIGN",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Lawrence Rauchwerger (P)"
+      ],
+      "credits": "3",
+      "course": "434",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "13019"
+    },
+    "500": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "COMPILER DESIGN",
+      "remaining": "35",
+      "capacity": "35",
+      "instructor": [
+        "Lawrence Rauchwerger (P)"
+      ],
+      "credits": "3",
+      "course": "434",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 1035"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "10942"
+    }
+  },
+  "314": {
+    "201": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "201",
+      "title": "HNR-PROGRAMMING LANGUAGES",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Hyunyoung Lee (P)"
+      ],
+      "credits": "3",
+      "course": "314",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "26731"
+    },
+    "202": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "202",
+      "title": "HNR-PROGRAMMING LANGUAGES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Hyunyoung Lee (P)"
+      ],
+      "credits": "3",
+      "course": "314",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "26732"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "PROGRAMMING LANGUAGES",
+      "remaining": "90",
+      "capacity": "90",
+      "instructor": [
+        "Hyunyoung Lee (P)"
+      ],
+      "credits": "3",
+      "course": "314",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "22893"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "PROGRAMMING LANGUAGES",
+      "remaining": "90",
+      "capacity": "90",
+      "instructor": [
+        "Hyunyoung Lee (P)"
+      ],
+      "credits": "3",
+      "course": "314",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005"
+      ],
+      "time": [
+        "03:35 pm-04:50 pm"
+      ],
+      "crn": "24219"
+    }
+  },
+  "633": {
+    "600": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "MACHINE LEARNING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "633",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 1035"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "28630"
+    }
+  },
+  "315": {
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "PROGRAMMING STUDIO",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Yoonsuck Choe (P)",
+        "Yoonsuck Choe"
+      ],
+      "credits": "3",
+      "course": "315",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111C"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm",
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "12901"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "PROGRAMMING STUDIO",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Yoonsuck Choe",
+        "Yoonsuck Choe (P)"
+      ],
+      "credits": "3",
+      "course": "315",
+      "days": [
+        "MW",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111C",
+        "HRBB 124"
+      ],
+      "time": [
+        "04:10 pm-05:00 pm",
+        "12:45 pm-02:00 pm"
+      ],
+      "crn": "13020"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "PROGRAMMING STUDIO",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Yoonsuck Choe (P)",
+        "Yoonsuck Choe"
+      ],
+      "credits": "3",
+      "course": "315",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111C"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm",
+        "05:45 pm-06:35 pm"
+      ],
+      "crn": "18343"
+    }
+  },
+  "436": {
+    "200": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-COMP HUMAN INTERACTION",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Richard K. Furuta (P)"
+      ],
+      "credits": "3",
+      "course": "436",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HECC 200"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "26733"
+    },
+    "500": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "COMP HUMAN INTERACTION",
+      "remaining": "90",
+      "capacity": "90",
+      "instructor": [
+        "Richard K. Furuta (P)"
+      ],
+      "credits": "3",
+      "course": "436",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "14699"
+    }
+  },
+  "481": {
+    "900": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "900",
+      "title": "SEMINAR",
+      "remaining": "148",
+      "capacity": "148",
+      "instructor": [
+        "John M. Moore (P)"
+      ],
+      "credits": "1",
+      "course": "481",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "13461"
+    }
+  },
+  "482": {
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "SR CAPSTONE DESIGN",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Tracy Hammond (P)",
+        "Tracy Hammond"
+      ],
+      "credits": "3",
+      "course": "482",
+      "days": [
+        "MW",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 302",
+        "TBA"
+      ],
+      "time": [
+        "01:00 pm-01:25 pm",
+        "01:30 pm-04:00 pm"
+      ],
+      "crn": "16536"
+    },
+    "502": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "SR CAPSTONE DESIGN",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "482",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "HRBB 126"
+      ],
+      "time": [
+        "01:30 pm-04:00 pm",
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "16549"
+    },
+    "503": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "SR CAPSTONE DESIGN",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "482",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-08:25 am",
+        "08:30 am-11:00 am"
+      ],
+      "crn": "24222"
+    },
+    "504": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "SR CAPSTONE DESIGN",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Dylan A. Shell (P)",
+        "Dylan A. Shell"
+      ],
+      "credits": "3",
+      "course": "482",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 126",
+        "HRBB 203"
+      ],
+      "time": [
+        "08:00 am-08:25 am",
+        "08:30 am-11:00 am"
+      ],
+      "crn": "24223"
+    }
+  },
+  "680": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "TEST & DIAG DIGITAL SYST",
+      "remaining": "60",
+      "capacity": "60",
+      "instructor": [
+        "Duncan Walker (P)"
+      ],
+      "credits": "3",
+      "course": "680",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "24673"
+    }
+  },
+  "483": {
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "COMPUTER SYS DESIGN",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Dezhen Song (P)",
+        "Dezhen Song"
+      ],
+      "credits": "3",
+      "course": "483",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 104",
+        "HRBB 218"
+      ],
+      "time": [
+        "12:45 pm-01:10 pm",
+        "01:20 pm-03:50 pm"
+      ],
+      "crn": "10946"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "COMPUTER SYS DESIGN",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Dezhen Song",
+        "Dezhen Song (P)"
+      ],
+      "credits": "3",
+      "course": "483",
+      "days": [
+        "MW",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 218",
+        "HRBB 104"
+      ],
+      "time": [
+        "01:20 pm-03:50 pm",
+        "12:45 pm-01:10 pm"
+      ],
+      "crn": "10947"
+    }
+  },
+  "681": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "SEMINAR",
+      "remaining": "135",
+      "capacity": "135",
+      "instructor": [
+        "Lawrence Rauchwerger (P), Nancy Amato"
+      ],
+      "credits": "1",
+      "course": "681",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124"
+      ],
+      "time": [
+        "04:10 pm-05:25 pm"
+      ],
+      "crn": "10952"
+    }
+  },
+  "121": {
+    "211": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "211",
+      "title": "HNR-INTRO PGM DESIGN CONCEPT",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EABA 108",
+        "RDMC 111H"
+      ],
+      "time": [
+        "11:30 am-12:20 pm",
+        "03:55 pm-04:45 pm"
+      ],
+      "crn": "26724"
+    },
+    "213": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "213",
+      "title": "HNR-INTRO PGM DESIGN CONCEPT",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "EABA 108",
+        "RDMC 111A"
+      ],
+      "time": [
+        "11:30 am-12:20 pm",
+        "07:05 pm-07:55 pm"
+      ],
+      "crn": "26725"
+    },
+    "510": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "510",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111H"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm",
+        "02:20 pm-03:10 pm"
+      ],
+      "crn": "19238"
+    },
+    "511": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "511",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111H"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm",
+        "03:55 pm-04:45 pm"
+      ],
+      "crn": "22887"
+    },
+    "512": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "512",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "19",
+      "capacity": "19",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111A"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm",
+        "11:10 am-12:00 pm"
+      ],
+      "crn": "22888"
+    },
+    "513": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "513",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "19",
+      "capacity": "19",
+      "instructor": [
+        "John M. Moore",
+        "John M. Moore (P)"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MW",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005",
+        "ETB 2005"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "08:51 am-10:00 am"
+      ],
+      "crn": "22889"
+    },
+    "217": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "217",
+      "title": "HNR-INTRO PGM DESIGN CONCEPT",
+      "remaining": "6",
+      "capacity": "6",
+      "instructor": [
+        "Walter Daugherity (P)",
+        "Walter Daugherity"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005",
+        "RDMC 111J"
+      ],
+      "time": [
+        "12:45 pm-02:00 pm",
+        "03:55 pm-04:45 pm"
+      ],
+      "crn": "26726"
+    },
+    "517": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "517",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "33",
+      "capacity": "33",
+      "instructor": [
+        "Walter Daugherity (P)",
+        "Walter Daugherity"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MW",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005",
+        "ETB 2005"
+      ],
+      "time": [
+        "10:20 am-11:29 am",
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "25757"
+    },
+    "220": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "220",
+      "title": "HNR-INTRO PGM DESIGN CONCEPT",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 1005",
+        "RDMC 111A"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "10:20 am-11:10 am"
+      ],
+      "crn": "26727"
+    },
+    "200": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-INTRO PGM DESIGN CONCEPT",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Jennifer Welch (P)",
+        "Jennifer Welch"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "CVE 203",
+        "RDMC 111H"
+      ],
+      "time": [
+        "09:10 am-10:00 am",
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "10920"
+    },
+    "222": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "222",
+      "title": "HNR-INTRO PGM DESIGN CONCEPT",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 1005",
+        "RDMC 111A"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "26728"
+    },
+    "201": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "201",
+      "title": "HNR-INTRO PGM DESIGN CONCEPT",
+      "remaining": "7",
+      "capacity": "7",
+      "instructor": [
+        "Walter Daugherity",
+        "Walter Daugherity (P)"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111A",
+        "ETB 2005"
+      ],
+      "time": [
+        "09:35 am-10:25 am",
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "26722"
+    },
+    "202": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "202",
+      "title": "HNR-INTRO PGM DESIGN CONCEPT",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "RDMC 111A"
+      ],
+      "time": [
+        "09:10 am-10:00 am",
+        "08:00 am-08:50 am"
+      ],
+      "crn": "28640"
+    },
+    "521": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "521",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "RDMC 111A"
+      ],
+      "time": [
+        "09:10 am-10:00 am",
+        "12:40 pm-01:30 pm"
+      ],
+      "crn": "26173"
+    },
+    "522": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "522",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "RDMC 111A"
+      ],
+      "time": [
+        "09:10 am-10:00 am",
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "26174"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "19",
+      "capacity": "19",
+      "instructor": [
+        "Walter Daugherity",
+        "Walter Daugherity (P)"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111A",
+        "ETB 2005"
+      ],
+      "time": [
+        "09:35 am-10:25 am",
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "10921"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "19",
+      "capacity": "19",
+      "instructor": [
+        "Walter Daugherity",
+        "Walter Daugherity (P)"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MW",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111A",
+        "ETB 2005"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "10922"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "19",
+      "capacity": "19",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005",
+        "RDMC 111A"
+      ],
+      "time": [
+        "11:10 am-12:25 pm",
+        "05:30 pm-06:20 pm"
+      ],
+      "crn": "10923"
+    },
+    "207": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "207",
+      "title": "HNR-INTRO PGM DESIGN CONCEPT",
+      "remaining": "6",
+      "capacity": "6",
+      "instructor": [
+        "Walter Daugherity",
+        "Walter Daugherity (P)"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111H",
+        "CHEM 2102"
+      ],
+      "time": [
+        "09:35 am-10:25 am",
+        "05:30 pm-06:45 pm"
+      ],
+      "crn": "26723"
+    },
+    "504": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "19",
+      "capacity": "19",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005",
+        "RDMC 111A"
+      ],
+      "time": [
+        "11:10 am-12:25 pm",
+        "12:45 pm-01:35 pm"
+      ],
+      "crn": "10924"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111H"
+      ],
+      "time": [
+        "10:20 am-11:10 am",
+        "08:00 am-08:50 am"
+      ],
+      "crn": "10925"
+    },
+    "506": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "506",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "John M. Moore (P)",
+        "John M. Moore"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111H"
+      ],
+      "time": [
+        "10:20 am-11:10 am",
+        "09:10 am-10:00 am"
+      ],
+      "crn": "10926"
+    },
+    "507": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "507",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "24",
+      "capacity": "24",
+      "instructor": [
+        "Walter Daugherity (P)",
+        "Walter Daugherity"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111H"
+      ],
+      "time": [
+        "10:20 am-11:10 am",
+        "09:35 am-10:25 am"
+      ],
+      "crn": "13443"
+    },
+    "508": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "508",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Walter Daugherity (P)",
+        "Walter Daugherity"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111H"
+      ],
+      "time": [
+        "10:20 am-11:10 am",
+        "11:10 am-12:00 pm"
+      ],
+      "crn": "13445"
+    },
+    "509": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "509",
+      "title": "INTRO PGM DESIGN CONCEPT",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Walter Daugherity (P)",
+        "Walter Daugherity"
+      ],
+      "credits": "4",
+      "course": "121",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111H"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm",
+        "12:45 pm-01:35 pm"
+      ],
+      "crn": "13709"
+    }
+  },
+  "440": {
+    "500": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "QUANTUM ALGORITHMS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "440",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 126"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "28636"
+    }
+  },
+  "441": {
+    "500": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "COMPUTER GRAPHICS",
+      "remaining": "60",
+      "capacity": "60",
+      "instructor": [
+        "Jinxiang Chai (P)"
+      ],
+      "credits": "3",
+      "course": "441",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "THOM 107A"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "10943"
+    }
+  },
+  "485": {
+    "561": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "561",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Radu Stoleru (P)"
+      ],
+      "credits": "1-6",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16345"
+    },
+    "521": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "521",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Eun Kim (P)"
+      ],
+      "credits": "1-6",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26516"
+    },
+    "545": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "545",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "James Caverlee (P)"
+      ],
+      "credits": "1-6",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18845"
+    },
+    "546": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "546",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Dylan A. Shell (P)"
+      ],
+      "credits": "1-6",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16368"
+    },
+    "536": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "536",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Tracy Hammond (P)"
+      ],
+      "credits": "1-6",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16378"
+    },
+    "527": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "527",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jyh Liu (P)"
+      ],
+      "credits": "1-6",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20823"
+    },
+    "517": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "517",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jaakko Jarvi (P)"
+      ],
+      "credits": "1-6",
+      "course": "485",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16418"
+    }
+  },
+  "640": {
+    "600": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "QUANTUM ALGORITHMS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "640",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 126"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm"
+      ],
+      "crn": "28638"
+    }
+  },
+  "684": {
+    "690": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "690",
+      "title": "PROFESSIONAL INTERNSHP: IN-AB",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Frank Shipman (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18562"
+    },
+    "680": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "680",
+      "title": "PROFESSIONAL INTERNSHIP: IN-AB",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Yoonsuck Choe (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23115"
+    },
+    "671": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "671",
+      "title": "PROFESSIONAL INTERNSHP: IN-AB",
+      "remaining": "3",
+      "capacity": "3",
+      "instructor": [
+        "Eun Kim (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18586"
+    },
+    "650": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "650",
+      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Andreas Klappenecker (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15620"
+    },
+    "672": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "672",
+      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "John Keyser (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15490"
+    },
+    "662": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "662",
+      "title": "PROFESSIONAL INTERNSHIP",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Daniel A. Jimenez (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20556"
+    },
+    "695": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "695",
+      "title": "PROFESSIONAL INTERNSHP: IN-AB",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "James Caverlee (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15721"
+    },
+    "652": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "652",
+      "title": "PROFESSIONAL INTERNSHP: IN-AB",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Jinxiang Chai (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18362"
+    },
+    "674": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "674",
+      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Andreas Klappenecker (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16085"
+    },
+    "685": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "685",
+      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Jennifer Welch (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15987"
+    },
+    "697": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "697",
+      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Paul Gratz (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15728"
+    },
+    "676": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "676",
+      "title": "PROFESSIONAL INTERNSHIP: IN-AB",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Duncan Walker (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15818"
+    },
+    "622": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "622",
+      "title": "PROFESSIONAL INTERNSHIP",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "John Keyser (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15489"
+    },
+    "678": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "678",
+      "title": "PROFESSIONAL INTERNSHIP: IN-AB",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Scott Schaefer (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20236"
+    },
+    "668": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "668",
+      "title": "PROFESSIONAL INTERNSHIP: IN-AB",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Sing Sze (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20444"
+    },
+    "679": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "679",
+      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Rabinarayan Mahapatra (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15828"
+    },
+    "669": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "669",
+      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Robin Murphy (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15718"
+    },
+    "616": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "616",
+      "title": "PROFESSIONAL INTERNSHIP",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Ricardo Gutierrez-Osuna (P)"
+      ],
+      "credits": "1-16",
+      "course": "684",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18700"
+    }
+  },
+  "443": {
+    "500": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "500",
+      "title": "GAME DEVELOPMENT",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA",
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "443",
+      "days": [
+        " ",
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "TBA"
+      ],
+      "time": [
+        "TBA",
+        "TBA"
+      ],
+      "crn": "14698"
+    }
+  },
+  "641": {
+    "600": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "COMPUTER GRAPHICS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "641",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 126"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "28633"
+    }
+  },
+  "685": {
+    "681": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "681",
+      "title": "DIRECTED STUDIES",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Anxiao Jiang (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20447"
+    },
+    "583": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "583",
+      "title": "DIRECTED STUDIES",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Aakash Tyagi (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26555"
+    },
+    "683": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "683",
+      "title": "DIRECTED STUDIES: IN-ABSENTIA",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Nancy Amato (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16086"
+    },
+    "640": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "640",
+      "title": "DIRECTED STUDIES",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Frank Shipman (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18873"
+    },
+    "621": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "621",
+      "title": "DIRECTED STUDIES",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Eun Kim (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20799"
+    },
+    "600": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "DIRECTED STUDIES",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26772"
+    },
+    "622": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "622",
+      "title": "DIRECTED STUDIES",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "John Keyser (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18827"
+    },
+    "633": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "633",
+      "title": "DIRECTED STUDIES",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Nancy Amato (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20927"
+    },
+    "655": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "655",
+      "title": "DIRECTED STUDIES: IN-ABS",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Bruce S. Gooch (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26560"
+    },
+    "634": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "634",
+      "title": "DIRECTED STUDIES",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Valerie Taylor (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20620"
+    },
+    "645": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "645",
+      "title": "DIRECTED STUDIES",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "James Caverlee (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18641"
+    },
+    "614": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "614",
+      "title": "DIRECTED STUDIES",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Bruce S. Gooch (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26502"
+    },
+    "636": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "636",
+      "title": "DIRECTED STUDIES",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Tracy Hammond (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15318"
+    },
+    "638": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "638",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Riccardo Bettati (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18749"
+    },
+    "618": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "618",
+      "title": "DIRECTED STUDIES",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Sing Sze (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20445"
+    },
+    "629": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "629",
+      "title": "DIRECTED STUDIES",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Rabinarayan Mahapatra (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26421"
+    },
+    "608": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "608",
+      "title": "DIRECTED STUDIES",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Radu Stoleru (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26553"
+    },
+    "619": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "619",
+      "title": "DIRECTED STUDIES",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Robin Murphy (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18846"
+    },
+    "609": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "609",
+      "title": "DIRECTED STUDIES",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Tiffani Williams (P)"
+      ],
+      "credits": "1-12",
+      "course": "685",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16026"
+    }
+  },
+  "206": {
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "STRUCTURED PROG IN C",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "206",
+      "days": [
+        "MWF",
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111J"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "06:00 pm-08:00 pm"
+      ],
+      "crn": "10927"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "STRUCTURED PROG IN C",
+      "remaining": "35",
+      "capacity": "35",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "206",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111J"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "10928"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "STRUCTURED PROG IN C",
+      "remaining": "35",
+      "capacity": "35",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "206",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111J"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "12:45 pm-01:35 pm"
+      ],
+      "crn": "10929"
+    },
+    "504": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "STRUCTURED PROG IN C",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "206",
+      "days": [
+        "MWF",
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111C"
+      ],
+      "time": [
+        "09:10 am-10:00 am",
+        "06:00 pm-08:00 pm"
+      ],
+      "crn": "10930"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "STRUCTURED PROG IN C",
+      "remaining": "35",
+      "capacity": "35",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "206",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124",
+        "RDMC 111J"
+      ],
+      "time": [
+        "09:10 am-10:00 am",
+        "10:20 am-11:10 am"
+      ],
+      "crn": "10931"
+    },
+    "506": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "506",
+      "title": "STRUCTURED PROG IN C",
+      "remaining": "35",
+      "capacity": "35",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "206",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "RDMC 111J"
+      ],
+      "time": [
+        "03:00 am-03:50 am",
+        "02:20 pm-03:10 pm"
+      ],
+      "crn": "10932"
+    },
+    "507": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "507",
+      "title": "STRUCTURED PROG IN C",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "206",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "BLOC 149",
+        "RDMC 111C"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm",
+        "03:55 pm-04:45 pm"
+      ],
+      "crn": "26217"
+    },
+    "508": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "508",
+      "title": "STRUCTURED PROG IN C",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Joseph D. Hurley (P)",
+        "Joseph D. Hurley"
+      ],
+      "credits": "4",
+      "course": "206",
+      "days": [
+        "MWF",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "BLOC 149",
+        "RDMC 111C"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm",
+        "05:30 pm-06:20 pm"
+      ],
+      "crn": "26218"
+    }
+  },
+  "646": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "600",
+      "title": "DIGITAL IMAGE",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Ergun Akleman (P)",
+        "Ergun Akleman"
+      ],
+      "credits": "4",
+      "course": "646",
+      "days": [
+        "MW",
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ARCC 307",
+        "ARCC 307"
+      ],
+      "time": [
+        "08:00 am-09:00 am",
+        "08:00 am-10:20 am"
+      ],
+      "crn": "10950"
+    }
+  },
+  "649": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "600",
+      "title": "PHYSIC BASED MODELING",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "John Keyser (P)",
+        "John Keyser"
+      ],
+      "credits": "3",
+      "course": "649",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ARCC 307",
+        "ARCC 307"
+      ],
+      "time": [
+        "12:45 pm-01:35 pm",
+        "01:36 pm-02:25 pm"
+      ],
+      "crn": "10951"
+    }
+  },
+  "606": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "SOFTWARE ENGINEERING",
+      "remaining": "100",
+      "capacity": "100",
+      "instructor": [
+        "Shaoming Huang (P)"
+      ],
+      "credits": "3",
+      "course": "606",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "05:30 pm-06:45 pm"
+      ],
+      "crn": "20451"
+    }
+  },
+  "608": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "DATABASE SYSTEMS",
+      "remaining": "90",
+      "capacity": "90",
+      "instructor": [
+        "Jianer Chen (P)"
+      ],
+      "credits": "3",
+      "course": "608",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 1020"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "19240"
+    }
+  },
+  "291": {
+    "541": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "541",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Thomas Ioerger (P)"
+      ],
+      "credits": "1-4",
+      "course": "291",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23388"
+    }
+  },
+  "491": {
+    "233": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "233",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Nancy Amato (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16401"
+    },
+    "530": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "530",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Yoonsuck Choe (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20918"
+    },
+    "597": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "597",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Hye-Chung Kum (P), Yoonsuck Choe"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20825"
+    },
+    "235": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "235",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jennifer Welch (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23423"
+    },
+    "236": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "236",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Tracy Hammond (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16347"
+    },
+    "511": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "511",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Dezhen Song (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20752"
+    },
+    "533": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "533",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Nancy Amato (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16123"
+    },
+    "555": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "555",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Bruce S. Gooch (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26655"
+    },
+    "238": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "238",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Riccardo Bettati (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23518"
+    },
+    "535": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "535",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jennifer Welch (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15687"
+    },
+    "217": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "217",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jaakko Jarvi (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26614"
+    },
+    "536": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "536",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Tracy Hammond (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18902"
+    },
+    "538": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "538",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Riccardo Bettati (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26675"
+    },
+    "241": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "241",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Thomas Ioerger (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23514"
+    },
+    "220": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "220",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Vivek Sarin (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23517"
+    },
+    "561": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "561",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "James Caverlee (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16385"
+    },
+    "540": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "540",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "28443"
+    },
+    "541": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "541",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23361"
+    },
+    "520": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "520",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Vivek Sarin (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16307"
+    },
+    "224": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "224",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Andreas Klappenecker (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26513"
+    },
+    "268": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "268",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Dylan A. Shell (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23515"
+    },
+    "543": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "543",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Gabriel Dos Reis (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20861"
+    },
+    "203": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "203",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Andrew Kerne (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26623"
+    },
+    "269": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "269",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Joseph Rojas (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26454"
+    },
+    "544": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "544",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Guofei Gu (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18822"
+    },
+    "545": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "545",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Evdokia Nikolova (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20862"
+    },
+    "227": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "227",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jyh Liu (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23562"
+    },
+    "568": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "568",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Dylan A. Shell (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18897"
+    },
+    "503": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "503",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Andrew Kerne (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23464"
+    },
+    "207": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "207",
+      "title": "HNR-RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Dilma Da Silva (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26512"
+    },
+    "504": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "504",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23483"
+    },
+    "505": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "505",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Dmitri Loguinov (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20860"
+    },
+    "509": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "509",
+      "title": "RESEARCH",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Tiffani Williams (P)"
+      ],
+      "credits": "1-4",
+      "course": "491",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23484"
+    }
+  },
+  "691": {
+    "672": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "672",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "John Keyser (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23234"
+    },
+    "630": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "630",
+      "title": "RESEARCH",
+      "remaining": "15",
+      "capacity": "15",
+      "instructor": [
+        "Yoonsuck Choe (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15378"
+    },
+    "674": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "674",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Andreas Klappenecker (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15708"
+    },
+    "631": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "631",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Anxiao Jiang (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15379"
+    },
+    "632": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "632",
+      "title": "RESEARCH",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Dilma Da Silva (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26417"
+    },
+    "633": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "633",
+      "title": "RESEARCH",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Nancy Amato (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15380"
+    },
+    "677": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "677",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Jyh Liu (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15709"
+    },
+    "634": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "634",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Valerie Taylor (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15381"
+    },
+    "635": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "635",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Jennifer Welch (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15382"
+    },
+    "679": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "679",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Rabinarayan Mahapatra (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15711"
+    },
+    "636": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "636",
+      "title": "RESEARCH",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Tracy Hammond (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15383"
+    },
+    "638": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "638",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Riccardo Bettati (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15384"
+    },
+    "639": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "639",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Bjarne Stroustrup (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15385"
+    },
+    "680": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "680",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Yoonsuck Choe (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15703"
+    },
+    "560": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "560",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Udo Pooch (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16417"
+    },
+    "683": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "683",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Nancy Amato (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15699"
+    },
+    "640": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "640",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Frank Shipman (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15386"
+    },
+    "564": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "564",
+      "title": "RESEARCH",
+      "remaining": "3",
+      "capacity": "3",
+      "instructor": [
+        "Hye-Chung Kum (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26659"
+    },
+    "641": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "641",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Thomas Ioerger (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15387"
+    },
+    "685": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "685",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Jennifer Welch (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15704"
+    },
+    "642": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "642",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Lawrence Rauchwerger (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15388"
+    },
+    "643": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "643",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Gabriel Dos Reis (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "17889"
+    },
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Duncan Walker (P), Ricardo Gutierrez-Osuna"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15319"
+    },
+    "644": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "644",
+      "title": "RESEARCH",
+      "remaining": "11",
+      "capacity": "11",
+      "instructor": [
+        "Guofei Gu (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15390"
+    },
+    "688": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "688",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Riccardo Bettati (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15700"
+    },
+    "601": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "601",
+      "title": "RESEARCH",
+      "remaining": "4",
+      "capacity": "4",
+      "instructor": [
+        "Timothy A. Davis (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25430"
+    },
+    "645": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "645",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "James Caverlee (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15389"
+    },
+    "602": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "602",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Jinxiang Chai (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15320"
+    },
+    "646": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "646",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Dylan A. Shell (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15391"
+    },
+    "603": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "603",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Andrew Kerne (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15321"
+    },
+    "647": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "647",
+      "title": "RESEARCH",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Paul Gratz (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "18563"
+    },
+    "604": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "604",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Richard K. Furuta (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15322"
+    },
+    "648": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "648",
+      "title": "RESEARCH",
+      "remaining": "3",
+      "capacity": "3",
+      "instructor": [
+        "Roozbeh Jafari (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16251"
+    },
+    "605": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "605",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Dmitri Loguinov (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15323"
+    },
+    "649": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "649",
+      "title": "RESEARCH",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Daniel J. Ragsdale (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26554"
+    },
+    "606": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "606",
+      "title": "RESEARCH",
+      "remaining": "3",
+      "capacity": "3",
+      "instructor": [
+        "Ruihong Huang (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26496"
+    },
+    "607": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "607",
+      "title": "RESEARCH",
+      "remaining": "3",
+      "capacity": "3",
+      "instructor": [
+        "Xia Hu (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26495"
+    },
+    "608": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "608",
+      "title": "RESEARCH",
+      "remaining": "12",
+      "capacity": "12",
+      "instructor": [
+        "Radu Stoleru (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15362"
+    },
+    "609": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "609",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Tiffani Williams (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15363"
+    },
+    "690": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "690",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "3",
+      "capacity": "3",
+      "instructor": [
+        "Frank Shipman (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23018"
+    },
+    "691": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "691",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Thomas Ioerger (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15706"
+    },
+    "695": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "695",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "James Caverlee (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15701"
+    },
+    "652": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "652",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Jinxiang Chai (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15702"
+    },
+    "576": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "576",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Duncan Walker (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26349"
+    },
+    "653": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "653",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Andrew Kerne (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15707"
+    },
+    "697": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "697",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Paul Gratz (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20811"
+    },
+    "610": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "610",
+      "title": "RESEARCH",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Shaoming Huang (P), Evdokia Nikolova"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "16408"
+    },
+    "654": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "654",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Richard K. Furuta (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15705"
+    },
+    "611": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "611",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Dezhen Song (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15364"
+    },
+    "655": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "655",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Dmitri Loguinov (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15710"
+    },
+    "612": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "612",
+      "title": "RESEARCH",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Daniel A. Jimenez (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20468"
+    },
+    "613": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "613",
+      "title": "RESEARCH",
+      "remaining": "4",
+      "capacity": "4",
+      "instructor": [
+        "Francis K. Quek (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26551"
+    },
+    "614": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "614",
+      "title": "RESEARCH",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Bruce S. Gooch (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26653"
+    },
+    "658": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "658",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "2",
+      "capacity": "2",
+      "instructor": [
+        "Radu Stoleru (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "26631"
+    },
+    "616": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "616",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Ricardo Gutierrez-Osuna (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15365"
+    },
+    "617": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "617",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Jaakko Jarvi (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15366"
+    },
+    "618": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "618",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Sing Sze (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15367"
+    },
+    "619": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "619",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Robin Murphy (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15368"
+    },
+    "583": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "583",
+      "title": "RESEARCH:IN ABSENTIA",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15317"
+    },
+    "620": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "620",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Vivek Sarin (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15369"
+    },
+    "621": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "621",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Eun Kim (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15370"
+    },
+    "622": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "622",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "John Keyser (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15371"
+    },
+    "666": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "666",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Ricardo Gutierrez-Osuna (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23227"
+    },
+    "667": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "667",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Jaakko Jarvi (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "20859"
+    },
+    "624": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "624",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Andreas Klappenecker (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15372"
+    },
+    "668": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "668",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Sing Sze (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15713"
+    },
+    "625": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "625",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Jianer Chen (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15373"
+    },
+    "669": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "669",
+      "title": "RESEARCH: IN-ABSENTIA",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Robin Murphy (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15712"
+    },
+    "626": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "626",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Duncan Walker (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15374"
+    },
+    "627": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "627",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Jyh Liu (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15375"
+    },
+    "628": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "628",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Scott Schaefer (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15376"
+    },
+    "629": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "629",
+      "title": "RESEARCH",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Rabinarayan Mahapatra (P)"
+      ],
+      "credits": "1-23",
+      "course": "691",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "15377"
+    }
+  },
+  "410": {
+    "200": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-OPERATING SYSTEMS",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Dilma Da Silva (P)"
+      ],
+      "credits": "3",
+      "course": "410",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "26734"
+    },
+    "500": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "OPERATING SYSTEMS",
+      "remaining": "70",
+      "capacity": "70",
+      "instructor": [
+        "Dilma Da Silva (P)"
+      ],
+      "credits": "3",
+      "course": "410",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "21075"
+    }
+  },
+  "411": {
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "DESIGN ANALY ALGORITHMS",
+      "remaining": "60",
+      "capacity": "60",
+      "instructor": [
+        "Sing Sze (P)"
+      ],
+      "credits": "3",
+      "course": "411",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "CHEN 108"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "22892"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "DESIGN ANALY ALGORITHMS",
+      "remaining": "60",
+      "capacity": "60",
+      "instructor": [
+        "Andreas Klappenecker (P)"
+      ],
+      "credits": "3",
+      "course": "411",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "24220"
+    }
+  },
+  "611": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "OPERATING SYSTEMS & APPL",
+      "remaining": "30",
+      "capacity": "30",
+      "instructor": [
+        "Dilma Da Silva (P)"
+      ],
+      "credits": "3",
+      "course": "611",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "13174"
+    }
+  },
+  "655": {
+    "601": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "601",
+      "title": "HUMAN-CENTERED COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "655",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "09:35 am-10:25 am"
+      ],
+      "crn": "25691"
+    }
+  },
+  "657": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "HPC EARTH SCIENCE & PETE",
+      "remaining": "10",
+      "capacity": "10",
+      "instructor": [
+        "Vivek Sarin (P), Eduardo Gildin"
+      ],
+      "credits": "3",
+      "course": "657",
+      "days": [
+        "M"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "RICH 208"
+      ],
+      "time": [
+        "11:30 am-02:40 pm"
+      ],
+      "crn": "22699"
+    }
+  },
+  "614": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "COMPUTER ARCHITECTURE",
+      "remaining": "60",
+      "capacity": "60",
+      "instructor": [
+        "Daniel A. Jimenez (P)"
+      ],
+      "credits": "3",
+      "course": "614",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "10948"
+    }
+  },
+  "617": {
+    "601": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "601",
+      "title": "CO-DESIGN EMBEDDED SYS",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "Rabinarayan Mahapatra (P)"
+      ],
+      "credits": "3",
+      "course": "617",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 126"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "20738"
+    }
+  },
+  "181": {
+    "500": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "INTRO TO COMPUTING",
+      "remaining": "180",
+      "capacity": "180",
+      "instructor": [
+        "Scott Schaefer (P)"
+      ],
+      "credits": "1",
+      "course": "181",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 124"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "19787"
+    }
+  },
+  "462": {
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "MICROCOMPUTER SYSTEMS",
+      "remaining": "18",
+      "capacity": "18",
+      "instructor": [
+        "Jyh Liu",
+        "Jyh Liu (P)"
+      ],
+      "credits": "3",
+      "course": "462",
+      "days": [
+        "M",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 217",
+        "HRBB 113"
+      ],
+      "time": [
+        "11:30 am-01:10 pm",
+        "09:35 am-10:50 am"
+      ],
+      "crn": "10944"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "MICROCOMPUTER SYSTEMS",
+      "remaining": "18",
+      "capacity": "18",
+      "instructor": [
+        "Jyh Liu (P)",
+        "Jyh Liu"
+      ],
+      "credits": "3",
+      "course": "462",
+      "days": [
+        "TR",
+        "W"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "HRBB 217"
+      ],
+      "time": [
+        "09:35 am-10:50 am",
+        "12:40 pm-02:20 pm"
+      ],
+      "crn": "10945"
+    },
+    "503": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "MICROCOMPUTER SYSTEMS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Jyh Liu (P)",
+        "Jyh Liu"
+      ],
+      "credits": "3",
+      "course": "462",
+      "days": [
+        "MWF",
+        "F"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "CVE 203",
+        "TBA"
+      ],
+      "time": [
+        "10:20 am-11:10 am",
+        "12:40 pm-02:20 pm"
+      ],
+      "crn": "23081"
+    }
+  },
+  "221": {
+    "501": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "501",
+      "title": "DATA STRUC & ALGORITHM",
+      "remaining": "27",
+      "capacity": "27",
+      "instructor": [
+        "Teresa Leyk (P)",
+        "Teresa Leyk"
+      ],
+      "credits": "4",
+      "course": "221",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005",
+        "RDMC 111H"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "05:30 pm-06:20 pm"
+      ],
+      "crn": "10933"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "502",
+      "title": "DATA STRUC & ALGORITHM",
+      "remaining": "27",
+      "capacity": "27",
+      "instructor": [
+        "Teresa Leyk",
+        "Teresa Leyk (P)"
+      ],
+      "credits": "4",
+      "course": "221",
+      "days": [
+        "MW",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111H",
+        "ETB 2005"
+      ],
+      "time": [
+        "12:40 pm-01:30 pm",
+        "08:00 am-08:50 am"
+      ],
+      "crn": "10934"
+    },
+    "503": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "503",
+      "title": "DATA STRUC & ALGORITHM",
+      "remaining": "27",
+      "capacity": "27",
+      "instructor": [
+        "Teresa Leyk",
+        "Teresa Leyk (P)"
+      ],
+      "credits": "4",
+      "course": "221",
+      "days": [
+        "MW",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111H",
+        "ETB 2005"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm",
+        "08:00 am-08:50 am"
+      ],
+      "crn": "10935"
+    },
+    "504": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "504",
+      "title": "DATA STRUC & ALGORITHM",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Teresa Leyk",
+        "Teresa Leyk (P)"
+      ],
+      "credits": "4",
+      "course": "221",
+      "days": [
+        "MW",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111A",
+        "ETB 2005"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm",
+        "08:00 am-08:50 am"
+      ],
+      "crn": "10936"
+    },
+    "208": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "208",
+      "title": "HNR-DATA STRUC & ALGORITHM",
+      "remaining": "1",
+      "capacity": "1",
+      "instructor": [
+        "Jory L. Denny (P), Nancy Amato",
+        "Nancy Amato , Jory L. Denny"
+      ],
+      "credits": "4",
+      "course": "221",
+      "days": [
+        "MWF",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA",
+        "RDMC 111H"
+      ],
+      "time": [
+        "03:00 pm-03:50 pm",
+        "05:45 pm-06:35 pm"
+      ],
+      "crn": "26729"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "505",
+      "title": "DATA STRUC & ALGORITHM",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "Teresa Leyk",
+        "Teresa Leyk (P)"
+      ],
+      "credits": "4",
+      "course": "221",
+      "days": [
+        "MW",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111A",
+        "ETB 2005"
+      ],
+      "time": [
+        "11:30 am-12:20 pm",
+        "09:35 am-10:50 am"
+      ],
+      "crn": "13021"
+    },
+    "506": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "506",
+      "title": "DATA STRUC & ALGORITHM",
+      "remaining": "27",
+      "capacity": "27",
+      "instructor": [
+        "Teresa Leyk",
+        "Teresa Leyk (P)"
+      ],
+      "credits": "4",
+      "course": "221",
+      "days": [
+        "TR",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111H",
+        "ETB 2005"
+      ],
+      "time": [
+        "08:00 am-08:50 am",
+        "09:35 am-10:50 am"
+      ],
+      "crn": "17153"
+    },
+    "507": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "507",
+      "title": "DATA STRUC & ALGORITHM",
+      "remaining": "27",
+      "capacity": "27",
+      "instructor": [
+        "Jory L. Denny",
+        "Jory L. Denny (P)"
+      ],
+      "credits": "4",
+      "course": "221",
+      "days": [
+        "MW",
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111H",
+        "ETB 2005"
+      ],
+      "time": [
+        "04:10 pm-05:00 pm",
+        "09:35 am-10:50 am"
+      ],
+      "crn": "24211"
+    },
+    "508": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "508",
+      "title": "DATA STRUC & ALGORITHM",
+      "remaining": "27",
+      "capacity": "27",
+      "instructor": [
+        "Jory L. Denny (P)",
+        "Jory L. Denny"
+      ],
+      "credits": "4",
+      "course": "221",
+      "days": [
+        "MW",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113",
+        "RDMC 111H"
+      ],
+      "time": [
+        "04:10 pm-05:25 pm",
+        "05:45 pm-06:35 pm"
+      ],
+      "crn": "24212"
+    },
+    "509": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 2,
+      "active": "0",
+      "section": "509",
+      "title": "DATA STRUC & ALGORITHM",
+      "remaining": "32",
+      "capacity": "32",
+      "instructor": [
+        "Jory L. Denny",
+        "Jory L. Denny (P)"
+      ],
+      "credits": "4",
+      "course": "221",
+      "days": [
+        "MW",
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14",
+        "08/29-12/14"
+      ],
+      "location": [
+        "RDMC 111C",
+        "HRBB 113"
+      ],
+      "time": [
+        "12:40 pm-01:30 pm",
+        "04:10 pm-05:25 pm"
+      ],
+      "crn": "24213"
+    }
+  },
+  "222": {
+    "200": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-DISCRETE STRUC COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Timothy A. Davis (P)"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "CVE 137"
+      ],
+      "time": [
+        "01:50 pm-02:40 pm"
+      ],
+      "crn": "16609"
+    },
+    "510": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "510",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25162"
+    },
+    "511": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "511",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25163"
+    },
+    "501": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "Teresa Leyk (P)"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005"
+      ],
+      "time": [
+        "01:50 pm-03:05 pm"
+      ],
+      "crn": "21939"
+    },
+    "512": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "512",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25164"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "90",
+      "capacity": "90",
+      "instructor": [
+        "Teresa Leyk (P)"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005"
+      ],
+      "time": [
+        "12:45 pm-02:00 pm"
+      ],
+      "crn": "22891"
+    },
+    "503": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "503",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "24214"
+    },
+    "504": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "504",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25156"
+    },
+    "505": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "505",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "88",
+      "capacity": "88",
+      "instructor": [
+        "Philip C. Ritchey (P)"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "25157"
+    },
+    "506": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "506",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25158"
+    },
+    "507": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "507",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25159"
+    },
+    "508": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "508",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "25160"
+    },
+    "509": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "509",
+      "title": "DISCRETE STRUC COMPUTING",
+      "remaining": "88",
+      "capacity": "88",
+      "instructor": [
+        "Ronald Ward (P)"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 2005"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "25161"
+    }
+  },
+  "420": {
+    "500": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "ARTIFICIAL INTELLIGENCE",
+      "remaining": "60",
+      "capacity": "60",
+      "instructor": [
+        "Dylan A. Shell (P)"
+      ],
+      "credits": "3",
+      "course": "420",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "10941"
+    }
+  },
+  "464": {
+    "500": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "WIRELESS AND MOBILE SYS",
+      "remaining": "77",
+      "capacity": "77",
+      "instructor": [
+        "Radu Stoleru (P)"
+      ],
+      "credits": "3",
+      "course": "464",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "THOM 107A"
+      ],
+      "time": [
+        "04:10 pm-05:00 pm"
+      ],
+      "crn": "24221"
+    }
+  },
+  "465": {
+    "500": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "COMP & NET SECURITY",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "465",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 217"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "28639"
+    }
+  },
+  "663": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "REAL-TIME SYSTEMS",
+      "remaining": "27",
+      "capacity": "27",
+      "instructor": [
+        "Riccardo Bettati (P)"
+      ],
+      "credits": "3",
+      "course": "663",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 126"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "24229"
+    }
+  },
+  "620": {
+    "600": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "COMPUTATIONAL GEOMETRY",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "620",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "21940"
+    }
+  },
+  "664": {
+    "600": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "WIRELESS AND MOBILE SYST",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "664",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "24230"
+    }
+  },
+  "665": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "ADV NETWORK & SECURITY",
+      "remaining": "60",
+      "capacity": "60",
+      "instructor": [
+        "Daniel J. Ragsdale (P)"
+      ],
+      "credits": "3",
+      "course": "665",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "12:45 pm-02:00 pm"
+      ],
+      "crn": "24889"
+    }
+  },
+  "666": {
+    "600": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "PATTERN ANALYSIS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "666",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "24231"
+    },
+    "601": {
+      "select": "C",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "601",
+      "title": "PATTERN ANALYSIS",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "666",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 126"
+      ],
+      "time": [
+        "09:10 am-10:00 am"
+      ],
+      "crn": "28631"
+    }
+  },
+  "624": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "SKETCH RECOGNITION",
+      "remaining": "41",
+      "capacity": "41",
+      "instructor": [
+        "Tracy Hammond (P)"
+      ],
+      "credits": "3",
+      "course": "624",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HECC 201"
+      ],
+      "time": [
+        "11:30 am-12:20 pm"
+      ],
+      "crn": "22734"
+    }
+  },
+  "625": {
+    "600": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "600",
+      "title": "ARTIFICIAL INTELLIGNCE",
+      "remaining": "65",
+      "capacity": "65",
+      "instructor": [
+        "Thomas Ioerger (P)"
+      ],
+      "credits": "3",
+      "course": "625",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ETB 1020"
+      ],
+      "time": [
+        "03:55 pm-05:10 pm"
+      ],
+      "crn": "10949"
+    }
+  },
+  "629": {
+    "601": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "601",
+      "title": "ANALYSIS OF ALGORITHMS",
+      "remaining": "66",
+      "capacity": "66",
+      "instructor": [
+        "Jianer Chen (P)"
+      ],
+      "credits": "3",
+      "course": "629",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "24225"
+    },
+    "602": {
+      "select": "SR",
+      "subject": "CSCE",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "602",
+      "title": "ANALYSIS OF ALGORITHMS",
+      "remaining": "60",
+      "capacity": "60",
+      "instructor": [
+        "Anxiao Jiang (P)"
+      ],
+      "credits": "3",
+      "course": "629",
+      "days": [
+        "MW"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "HRBB 113"
+      ],
+      "time": [
+        "04:10 pm-05:25 pm"
+      ],
+      "crn": "24226"
+    }
+  }
+}

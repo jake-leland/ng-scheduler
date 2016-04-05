@@ -1,0 +1,151 @@
+{
+  "100": {
+    "101": {
+      "select": "NR",
+      "subject": "ELID",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "101",
+      "title": "DIRECTED LABORATORY",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "100",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "12:45 pm-02:00 pm"
+      ],
+      "crn": "14102"
+    },
+    "102": {
+      "select": "NR",
+      "subject": "ELID",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "102",
+      "title": "DIRECTED LABORATORY",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "100",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "14103"
+    },
+    "103": {
+      "select": "NR",
+      "subject": "ELID",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "103",
+      "title": "DIRECTED LABORATORY",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "100",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ARCC 205"
+      ],
+      "time": [
+        "08:00 am-09:25 am"
+      ],
+      "crn": "13463"
+    },
+    "104": {
+      "select": "C",
+      "subject": "ELID",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "104",
+      "title": "DIRECTED LABORATORY",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "100",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "23208"
+    }
+  },
+  "200": {
+    "201": {
+      "select": "C",
+      "subject": "ELID",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "201",
+      "title": "DIRECTED LABORATORY II",
+      "remaining": "0",
+      "capacity": "0",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "200",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14104"
+    }
+  }
+}

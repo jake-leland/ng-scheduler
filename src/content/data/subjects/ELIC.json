@@ -1,0 +1,358 @@
+{
+  "100": {
+    "101": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "101",
+      "title": "BASIC COMPOSITION",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "100",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALLN 1055"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "11130"
+    },
+    "102": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "102",
+      "title": "BASIC COMPOSITION",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "100",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ENPH 201"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "11131"
+    }
+  },
+  "200": {
+    "201": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "201",
+      "title": "INTERMEDIATE COMPOSITION",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "200",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "11132"
+    },
+    "202": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "202",
+      "title": "INTERMEDIATE COMPOSITION",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "200",
+      "days": [
+        " "
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "TBA"
+      ],
+      "crn": "14100"
+    }
+  },
+  "300": {
+    "300": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "300",
+      "title": "ADVANCED COMPOSITION",
+      "remaining": "25",
+      "capacity": "25",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "300",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "AIEN M113"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "20834"
+    },
+    "301": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "301",
+      "title": "ADVANCED COMPOSITION",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "300",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "12:45 pm-02:00 pm"
+      ],
+      "crn": "11133"
+    },
+    "302": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "302",
+      "title": "ADVANCED COMPOSITION",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "300",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "11134"
+    },
+    "303": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "303",
+      "title": "ADVANCED COMPOSITION",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "300",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "02:20 pm-03:35 pm"
+      ],
+      "crn": "11135"
+    },
+    "304": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "304",
+      "title": "ADVANCED COMPOSITION",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "300",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "TBA"
+      ],
+      "time": [
+        "09:35 am-10:50 am"
+      ],
+      "crn": "11136"
+    },
+    "305": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "305",
+      "title": "ADVANCED COMPOSITION",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "300",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ALLN 1055"
+      ],
+      "time": [
+        "11:10 am-12:25 pm"
+      ],
+      "crn": "23116"
+    }
+  },
+  "250": {
+    "500": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "500",
+      "title": "INTERMEDIATE COMPOSITION II",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "250",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "ENPH 201"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "20789"
+    },
+    "251": {
+      "select": "NR",
+      "subject": "ELIC",
+      "campus": "EL",
+      "classes": 1,
+      "active": "0",
+      "section": "251",
+      "title": "INTERMEDIATE COMPOSITION II",
+      "remaining": "16",
+      "capacity": "16",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "250",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "GLAS 206"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "14101"
+    }
+  }
+}

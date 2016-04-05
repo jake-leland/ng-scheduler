@@ -1,0 +1,122 @@
+{
+  "221": {
+    "599": {
+      "select": "SR",
+      "subject": "MODL",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "599",
+      "title": "WORLD LITERATURE",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Nandini Bhattacharya (P)"
+      ],
+      "credits": "3",
+      "course": "221",
+      "days": [
+        "WEB"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "WEB"
+      ],
+      "time": [
+        "WEB"
+      ],
+      "crn": "27333"
+    }
+  },
+  "222": {
+    "200": {
+      "select": "SR",
+      "subject": "MODL",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "200",
+      "title": "HNR-WORLD LITERATURE",
+      "remaining": "20",
+      "capacity": "20",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "RICH 106"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "21443"
+    },
+    "501": {
+      "select": "SR",
+      "subject": "MODL",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "501",
+      "title": "WORLD LITERATURE",
+      "remaining": "5",
+      "capacity": "5",
+      "instructor": [
+        "Giovanna Delnegro (P)"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        "TR"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "LAAH 467"
+      ],
+      "time": [
+        "08:00 am-09:15 am"
+      ],
+      "crn": "21444"
+    },
+    "502": {
+      "select": "SR",
+      "subject": "MODL",
+      "campus": "CS",
+      "classes": 1,
+      "active": "0",
+      "section": "502",
+      "title": "WORLD LITERATURE",
+      "remaining": "68",
+      "capacity": "68",
+      "instructor": [
+        "TBA"
+      ],
+      "credits": "3",
+      "course": "222",
+      "days": [
+        "MWF"
+      ],
+      "date (mm/dd)": [
+        "08/29-12/14"
+      ],
+      "location": [
+        "RICH 106"
+      ],
+      "time": [
+        "10:20 am-11:10 am"
+      ],
+      "crn": "21445"
+    }
+  }
+}
