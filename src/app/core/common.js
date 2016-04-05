@@ -14,7 +14,8 @@
             toTitleCase: toTitleCase,
             timeToPct: timeToPct,
             timeToHrs: timeToHrs,
-            hrsToPct: hrsToPct
+            hrsToPct: hrsToPct,
+            hrsToTime: hrsToTime
         };
 
         return service;
@@ -43,6 +44,30 @@
         function hrsToPct(hrs) {
             var dayLength = timeToHrs(config.schedule.maxTime) - timeToHrs(config.schedule.minTime);
             return (hrs - timeToHrs(config.schedule.minTime)) / dayLength;
+        }
+
+        function hrsToTime(hrs) {
+            var dec = hrs % 1;
+            var mins = dec * 60;
+            var hours = Math.floor(hrs);
+            var ampm = "";
+
+            if (hours < 12) {
+                ampm = "am";
+            } else {
+                ampm = "pm";
+                hours -= 12;
+            }
+
+            if (hours == 0) {
+                hours += 12;
+            }
+
+            if (mins < 10) {
+                mins = '0' + mins;
+            }
+
+            return hours + ":" + mins + " " + ampm;
         }
     }
 })();

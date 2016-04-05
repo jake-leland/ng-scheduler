@@ -11,8 +11,16 @@
     function Schedule($scope, common, config) {
         var h = parseInt($('#sched-times').css('height'));
 
+        $scope.times = [];
         $scope.lines = [];
-        for (var i = Math.floor(common.timeToHrs(config.schedule.minTime)); i < Math.ceil(common.timeToHrs(config.schedule.maxTime)); i++) {
+        for (var i = Math.ceil(common.timeToHrs(config.schedule.minTime)); i <= Math.floor(common.timeToHrs(config.schedule.maxTime)); i++) {
+            $scope.times.push({
+                style: {
+                    // -7px assumes font size 10px
+                    'top': h * common.hrsToPct(i) - 7 + 'px'
+                },
+                text: common.hrsToTime(i)
+            });
             $scope.lines.push({
                 style: {
                     'top': h * common.hrsToPct(i) + 'px'

@@ -4,8 +4,8 @@
     var core = angular.module('app.core');
 
     var schedule = {
-        minTime: '7:00 am',
-        maxTime: '10:00 pm'
+        minTime: '6:30 am',
+        maxTime: '9:40 pm'
     };
 
     var config = {

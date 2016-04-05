@@ -5,6 +5,11 @@ body {
     font-weight: 300;
 }
 
+div {
+    margin: 0;
+    padding: 0;
+}
+
 table.schedule {
     width: 1000px;
     height: 500px;
@@ -21,17 +26,38 @@ th.sched-day {
     border-left: 1px solid dimgray;
 }
 
-td {
+th, td {
     margin: 0;
     padding: 0;
-    background-color: darkgray;
     vertical-align: baseline;
+}
+
+td#sched-times {
+    background-color: darkgray;
+    padding: 0 4px;
+}
+
+div.sched-time {
+    text-align: right;
+    font-size: 10px;
+    box-sizing: border-box;
+    position: relative;
+    margin-bottom: -14px;
+    vertical-align: middle;
 }
 
 td.sched-day {
     border-left: 1px solid darkgray;
-    width: 18%;
+    width: 19%;
     background-color: lightgray;
+}
+
+hr.sched-line {
+    box-sizing: border-box;
+    position: relative;
+    margin: 0 0 -1px 0;
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, .05);
 }
 
 div.class {
@@ -43,12 +69,5 @@ div.class {
     border: 1px solid rgba(0, 0, 0, .25);
     border-radius: 3px;
     font-size: 12px;
-}
-
-hr.sched-line {
-    box-sizing: border-box;
-    position: relative;
-    margin: 0 0 -1px 0;
-    border: none;
-    border-top: 1px solid rgba(0, 0, 0, .05);
+    color: white;
 }

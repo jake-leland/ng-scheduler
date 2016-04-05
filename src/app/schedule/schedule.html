@@ -25,16 +25,14 @@
         <tbody>
         <tr>
             <td id="sched-times">
-                <div>
-                    <hr ng-repeat="line in lines" class="sched-line" ng-style="line.style">
-                </div>
+                <div ng-repeat="time in times" class="sched-time" ng-style="time.style">{{ time.text }}</div>
             </td>
             <td ng-repeat="day in ['M', 'T', 'W', 'R', 'F']" class="sched-day">
                 <div>
                     <hr ng-repeat="line in lines" class="sched-line" ng-style="line.style">
                 </div>
                 <div ng-repeat="class in classes[day]" class="class" ng-style="class.style">
-                    {{ class.subject }} {{ class.course }}-{{class.section}}
+                    {{ class.subject }} {{ class.course }}-{{ class.section }}
                 </div>
             </td>
         </tr>
