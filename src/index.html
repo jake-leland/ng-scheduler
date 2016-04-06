@@ -2,32 +2,39 @@
 <html lang="en-US" ng-app="app">
 <head>
     <title>TAMU Schedule Planner</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="content/app.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
-    <script src="//code.jquery.com/jquery-2.1.3.js"></script>
-
+    <!-- Angular Material style sheet -->
+    <link rel="stylesheet"
+          href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.css">
+    <!-- Material Design Icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
 <body>
-<div ng-controller="Inspect">
-    <input type="text" ng-model="subject" placeholder="Subject">
-    <input type="text" ng-model="course" placeholder="Course">
-    <input type="text" ng-model="section" placeholder="Section">
-    <button ng-click="parseSection(data[subject.toUpperCase()][course][section])"></button>
-    <h1>{{ subject.toUpperCase() }} {{ course }} {{ section }}</h1>
-    {{ data[subject.toUpperCase()][course][section] }}
-</div>
-<div ng-include="'app/schedule/schedule.html'"></div>
+<div ng-include="'app/scheduler/scheduler.html'"></div>
 
+<!-- Angular.js Libraries -->
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-animate.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-aria.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-messages.min.js"></script>
+
+<!-- Angular Material Library -->
+<script src="//ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.js"></script>
+
+<!-- jQuery -->
+<script src="//code.jquery.com/jquery-2.1.3.js"></script>
+
+<!-- App -->
 <script src="app/app.module.js"></script>
 
+<!-- App - Core -->
 <script src="app/core/core.module.js"></script>
 <script src="app/core/common.js"></script>
 <script src="app/core/config.js"></script>
 
-<script src="app/inspect/inspect.module.js"></script>
-<script src="app/inspect/inspect.js"></script>
-
-<script src="app/schedule/schedule.module.js"></script>
-<script src="app/schedule/schedule.js"></script>
+<!-- App - Scheduler -->
+<script src="app/scheduler/scheduler.module.js"></script>
+<script src="app/scheduler/scheduler.js"></script>
 </body>
 </html>

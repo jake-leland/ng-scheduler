@@ -1,0 +1,79 @@
+<div data-ng-controller="Scheduler">
+    <div layout="row" layout-padding>
+        <div flex="70">
+            <table class="schedule">
+                <thead>
+                <tr class="sched-head">
+                    <th>
+
+                    </th>
+                    <th class="sched-day">
+                        Monday
+                    </th>
+                    <th class="sched-day">
+                        Tuesday
+                    </th>
+                    <th class="sched-day">
+                        Wednesday
+                    </th>
+                    <th class="sched-day">
+                        Thursday
+                    </th>
+                    <th class="sched-day">
+                        Friday
+                    </th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td id="sched-times">
+                        <div ng-repeat="time in times" class="sched-time" ng-style="time.style">{{time.text}}</div>
+                    </td>
+                    <td ng-repeat="day in ['M', 'T', 'W', 'R', 'F']" class="sched-day">
+                        <div>
+                            <hr ng-repeat="line in lines" class="sched-line" ng-style="line.style">
+                        </div>
+                        <div ng-repeat="class in classes[day]" class="class" ng-style="class.style">
+                            {{class.subject}} {{class.course}}-{{class.section}}
+                        </div>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div flex="30" layout="column" layout-align="center">
+            <md-content class="md-whiteframe-1dp">
+                <md-list>
+                    <md-list-item ng-repeat="course in savedCourses">
+                        <p>{{course.display}}</p>
+                        <md-icon class="md-secondary" ng-click="removeCourse(course)" aria-label="Remove"
+                                 md-svg-icon="clear"></md-icon>
+                        <md-divider ng-if="!$last"></md-divider>
+                    </md-list-item>
+                </md-list>
+            </md-content>
+            <div layout="row" layout-align="space-between center">
+                <md-autocomplete flex md-selected-item="selectedCourse" md-search-text="searchCourse"
+                                 md-items="course in getMatches(searchCourse)" md-item-text="course.display">
+                    <md-item-template>
+                        <span md-highlight-text="searchCourse">{{course.display}}</span>
+                    </md-item-template>
+                    <md-not-found>
+                        No matches found.
+                    </md-not-found>
+                </md-autocomplete>
+                <md-button class="md-fab md-mini" ng-click="addCourse(selectedCourse)" aria-label="Add Course">
+                    <md-icon md-svg-icon="add"></md-icon>
+                </md-button>
+            </div>
+        </div>
+
+    </div>
+</div>
+<input type="text" ng-model="subject" placeholder="Subject">
+<input type="text" ng-model="course" placeholder="Course">
+<input type="text" ng-model="section" placeholder="Section">
+<button ng-click="parseSection(data[subject.toUpperCase()][course][section])"></button>
+<h1>{{subject.toUpperCase()}} {{course}} {{section}}</h1>
+{{data[subject.toUpperCase()][course][section]}}

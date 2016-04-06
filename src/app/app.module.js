@@ -3,8 +3,10 @@
 
     angular
         .module('app', [
+            'ngMaterial',
+
+
             'app.core',
-            'app.inspect',
-            'app.schedule'
+            'app.scheduler'
         ]);
 })();
