@@ -1,993 +1,1033 @@
 {
-  "672": {
-    "600": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "672": {
       "title": "THEORIES OF COUNS & PS",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Charles Ridley (P)"
-      ],
-      "credits": "3",
-      "course": "672",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 714"
-      ],
-      "time": [
-        "12:00 pm-03:00 pm"
-      ],
-      "crn": "14615"
-    }
-  },
-  "683": {
-    "652": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "652",
-      "title": "FIELD PRACTICUM",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "William Rae (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 222G"
-      ],
-      "time": [
-        "09:00 am-12:00 pm"
-      ],
-      "crn": "14298"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THEORIES OF COUNS & PS",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Charles Ridley (P)"
+          ],
+          "credits": "3",
+          "course": "672",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 714"
+          ],
+          "time": [
+            "12:00 pm-03:00 pm"
+          ],
+          "crn": "14615"
+        }
+      }
     },
-    "653": {
-      "select": "C",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "653",
+    "683": {
       "title": "FIELD PRACTICUM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "William Rae (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15597"
+      "sections": {
+        "652": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "652",
+          "title": "FIELD PRACTICUM",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "William Rae (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 222G"
+          ],
+          "time": [
+            "09:00 am-12:00 pm"
+          ],
+          "crn": "14298"
+        },
+        "653": {
+          "select": "C",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "653",
+          "title": "FIELD PRACTICUM",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "William Rae (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15597"
+        },
+        "643": {
+          "select": "C",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "FIELD PRACTICUM",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Timothy Elliott (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15117"
+        },
+        "600": {
+          "select": "C",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "FIELD PRACTICUM",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Lizette Ojeda (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20340"
+        },
+        "677": {
+          "select": "C",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "677",
+          "title": "FIELD PRACTICUM: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Dan F. Brossart (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25919"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "FIELD PRACTICUM",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Dan F. Brossart (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:00 am-12:00 pm"
+          ],
+          "crn": "20383"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "FIELD PRACTICUM",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Dan F. Brossart (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:00 am-12:00 pm"
+          ],
+          "crn": "20384"
+        },
+        "614": {
+          "select": "C",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "FIELD PRACTICUM",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Dan F. Brossart (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16142"
+        },
+        "604": {
+          "select": "C",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "FIELD PRACTICUM",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Charles Ridley (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25896"
+        },
+        "615": {
+          "select": "C",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "FIELD PRACTICUM",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Linda Castillo (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26452"
+        }
+      }
     },
-    "643": {
-      "select": "C",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
-      "title": "FIELD PRACTICUM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Timothy Elliott (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15117"
+    "684": {
+      "title": "PROFESS INTERNSHIP",
+      "sections": {
+        "683": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "683",
+          "title": "PROF INTERNSHIP: IN-ABSENTIA",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Dan F. Brossart (P)"
+          ],
+          "credits": "1-4",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15208"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "PROFESS INTERNSHIP",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Dan F. Brossart (P)"
+          ],
+          "credits": "1-4",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17905"
+        }
+      }
     },
-    "600": {
-      "select": "C",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "FIELD PRACTICUM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Lizette Ojeda (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20340"
+    "685": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "643": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Timothy Elliott (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17749"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Lizette Ojeda (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17832"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Dan F. Brossart (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18801"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Linda Castillo (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15982"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Charles Ridley (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18400"
+        }
+      }
     },
-    "677": {
-      "select": "C",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "677",
-      "title": "FIELD PRACTICUM: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Dan F. Brossart (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25919"
+    "631": {
+      "title": "TECH OF COUNSELING",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "TECH OF COUNSELING",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Dan F. Brossart (P)",
+            "Dan F. Brossart"
+          ],
+          "credits": "3",
+          "course": "631",
+          "days": [
+            "M",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 714",
+            "EDCT 725"
+          ],
+          "time": [
+            "05:15 pm-07:00 pm",
+            "07:00 pm-10:00 pm"
+          ],
+          "crn": "19594"
+        }
+      }
     },
-    "601": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "FIELD PRACTICUM",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Dan F. Brossart (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:00 am-12:00 pm"
-      ],
-      "crn": "20383"
+    "666": {
+      "title": "PRACT IN COUN SUPERV",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "PRACT IN COUN SUPERV",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Lizette Ojeda (P)"
+          ],
+          "credits": "3",
+          "course": "666",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 725"
+          ],
+          "time": [
+            "05:30 pm-10:30 pm"
+          ],
+          "crn": "10914"
+        }
+      }
     },
     "602": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "FIELD PRACTICUM",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Dan F. Brossart (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:00 am-12:00 pm"
-      ],
-      "crn": "20384"
-    },
-    "614": {
-      "select": "C",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "FIELD PRACTICUM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Dan F. Brossart (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16142"
-    },
-    "604": {
-      "select": "C",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "FIELD PRACTICUM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Charles Ridley (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25896"
-    },
-    "615": {
-      "select": "C",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "FIELD PRACTICUM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Linda Castillo (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26452"
-    }
-  },
-  "684": {
-    "683": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "683",
-      "title": "PROF INTERNSHIP: IN-ABSENTIA",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Dan F. Brossart (P)"
-      ],
-      "credits": "1-4",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15208"
-    },
-    "614": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "PROFESS INTERNSHIP",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Dan F. Brossart (P)"
-      ],
-      "credits": "1-4",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17905"
-    }
-  },
-  "685": {
-    "643": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Timothy Elliott (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17749"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Lizette Ojeda (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17832"
-    },
-    "612": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Dan F. Brossart (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18801"
-    },
-    "614": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Linda Castillo (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15982"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Charles Ridley (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18400"
-    }
-  },
-  "631": {
-    "600": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "TECH OF COUNSELING",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Dan F. Brossart (P)",
-        "Dan F. Brossart"
-      ],
-      "credits": "3",
-      "course": "631",
-      "days": [
-        "M",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 714",
-        "EDCT 725"
-      ],
-      "time": [
-        "05:15 pm-07:00 pm",
-        "07:00 pm-10:00 pm"
-      ],
-      "crn": "19594"
-    }
-  },
-  "666": {
-    "601": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "PRACT IN COUN SUPERV",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Lizette Ojeda (P)"
-      ],
-      "credits": "3",
-      "course": "666",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 725"
-      ],
-      "time": [
-        "05:30 pm-10:30 pm"
-      ],
-      "crn": "10914"
-    }
-  },
-  "602": {
-    "700": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
       "title": "SCHOOL COUNS THEORY&TECH",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Lizette Ojeda (P)"
-      ],
-      "credits": "3",
-      "course": "602",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "23959"
-    }
-  },
-  "635": {
-    "600": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "SCHOOL COUNS THEORY&TECH",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Lizette Ojeda (P)"
+          ],
+          "credits": "3",
+          "course": "602",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "23959"
+        }
+      }
+    },
+    "635": {
       "title": "SOCIAL-COUNSELING INTER",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Timothy Elliott (P)"
-      ],
-      "credits": "3",
-      "course": "635",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 701G"
-      ],
-      "time": [
-        "05:30 pm-08:30 pm"
-      ],
-      "crn": "14707"
-    }
-  },
-  "636": {
-    "600": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SOCIAL-COUNSELING INTER",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Timothy Elliott (P)"
+          ],
+          "credits": "3",
+          "course": "635",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 701G"
+          ],
+          "time": [
+            "05:30 pm-08:30 pm"
+          ],
+          "crn": "14707"
+        }
+      }
+    },
+    "636": {
       "title": "PSYC CONSULT TO ORGS",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Charles Ridley (P)"
-      ],
-      "credits": "3",
-      "course": "636",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 714"
-      ],
-      "time": [
-        "05:30 pm-08:30 pm"
-      ],
-      "crn": "18204"
-    }
-  },
-  "626": {
-    "600": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PSYC CONSULT TO ORGS",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Charles Ridley (P)"
+          ],
+          "credits": "3",
+          "course": "636",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 714"
+          ],
+          "time": [
+            "05:30 pm-08:30 pm"
+          ],
+          "crn": "18204"
+        }
+      }
+    },
+    "626": {
       "title": "PSYCHOPATHOLOGY",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Timothy Elliott (P)"
-      ],
-      "credits": "3",
-      "course": "626",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "01:15 pm-04:45 pm"
-      ],
-      "crn": "12970"
-    }
-  },
-  "639": {
-    "700": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "700",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PSYCHOPATHOLOGY",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Timothy Elliott (P)"
+          ],
+          "credits": "3",
+          "course": "626",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "01:15 pm-04:45 pm"
+          ],
+          "crn": "12970"
+        }
+      }
+    },
+    "639": {
       "title": "COUNSELING PRACTICUM I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Linda Castillo (P)",
-        "Linda Castillo"
-      ],
-      "credits": "3",
-      "course": "639",
-      "days": [
-        "WEB",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB",
-        "WEB"
-      ],
-      "time": [
-        "06:00 pm-09:00 pm",
-        "WEB"
-      ],
-      "crn": "21513"
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "700",
+          "title": "COUNSELING PRACTICUM I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Linda Castillo (P)",
+            "Linda Castillo"
+          ],
+          "credits": "3",
+          "course": "639",
+          "days": [
+            "WEB",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB",
+            "WEB"
+          ],
+          "time": [
+            "06:00 pm-09:00 pm",
+            "WEB"
+          ],
+          "crn": "21513"
+        }
+      }
+    },
+    "691": {
+      "title": "RESEARCH",
+      "sections": {
+        "683": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "683",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Timothy Elliott (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14377"
+        },
+        "643": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Timothy Elliott (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14360"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Dan F. Brossart (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14359"
+        },
+        "677": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "677",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Dan F. Brossart (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14375"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Lizette Ojeda (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22826"
+        },
+        "678": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "678",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Linda Castillo (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14376"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Linda Castillo (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18477"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "CPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Charles Ridley (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14370"
+        }
+      }
     }
   },
-  "691": {
-    "683": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "683",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Timothy Elliott (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14377"
-    },
-    "643": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Timothy Elliott (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14360"
-    },
-    "611": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Dan F. Brossart (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14359"
-    },
-    "677": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "677",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Dan F. Brossart (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14375"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Lizette Ojeda (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22826"
-    },
-    "678": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "678",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Linda Castillo (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14376"
-    },
-    "614": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Linda Castillo (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18477"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "CPSY",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Charles Ridley (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14370"
-    }
-  }
+  "title": "CPSY - Counseling Psychology",
+  "updated": "Thu Apr 07 01:13:12 CDT 2016"
 }

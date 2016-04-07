@@ -1,1642 +1,1748 @@
 {
-  "290": {
-    "501": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "CENTURY SINGERS",
-      "remaining": "200",
-      "capacity": "200",
-      "instructor": [
-        "Eric O. Posada (P)",
-        "Eric O. Posada (P)"
-      ],
-      "credits": "1",
-      "course": "290",
-      "days": [
-        "MW",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "12211"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+  "courses": {
+    "290": {
       "title": "CHOIR",
-      "remaining": "200",
-      "capacity": "200",
-      "instructor": [
-        "Eric O. Posada (P)"
-      ],
-      "credits": "1",
-      "course": "290",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "07:30 pm-09:30 pm"
-      ],
-      "crn": "12212"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "CENTURY SINGERS",
+          "remaining": "200",
+          "capacity": "200",
+          "instructor": [
+            "Eric O. Posada (P)",
+            "Eric O. Posada (P)"
+          ],
+          "credits": "1",
+          "course": "290",
+          "days": [
+            "MW",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "12211"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CHOIR",
+          "remaining": "200",
+          "capacity": "200",
+          "instructor": [
+            "Eric O. Posada (P)"
+          ],
+          "credits": "1",
+          "course": "290",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "07:30 pm-09:30 pm"
+          ],
+          "crn": "12212"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "SINGING CADETS",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "David Kipp (P)",
+            "David Kipp (P)"
+          ],
+          "credits": "1",
+          "course": "290",
+          "days": [
+            "MW",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "25566"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "WOMEN'S CHORUS",
+          "remaining": "80",
+          "capacity": "80",
+          "instructor": [
+            "Eric O. Posada (P)",
+            "Eric O. Posada (P)"
+          ],
+          "credits": "1",
+          "course": "290",
+          "days": [
+            "MW",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "25567"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "SINGING CADETS",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "David Kipp (P)",
-        "David Kipp (P)"
-      ],
-      "credits": "1",
-      "course": "290",
-      "days": [
-        "MW",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "25566"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "WOMEN'S CHORUS",
-      "remaining": "80",
-      "capacity": "80",
-      "instructor": [
-        "Eric O. Posada (P)",
-        "Eric O. Posada (P)"
-      ],
-      "credits": "1",
-      "course": "290",
-      "days": [
-        "MW",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "25567"
-    }
-  },
-  "270": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "270": {
       "title": "IND PERF-WOODWIND I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Mariana Gariazzo (P)"
-      ],
-      "credits": "1",
-      "course": "270",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25707"
-    }
-  },
-  "271": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF-WOODWIND I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mariana Gariazzo (P)"
+          ],
+          "credits": "1",
+          "course": "270",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25707"
+        }
+      }
+    },
+    "271": {
       "title": "IND PERF-BRASS I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "David Wilborn (P)"
-      ],
-      "credits": "1",
-      "course": "271",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25709"
-    }
-  },
-  "370": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF-BRASS I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "David Wilborn (P)"
+          ],
+          "credits": "1",
+          "course": "271",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25709"
+        }
+      }
+    },
+    "370": {
       "title": "IND PERF-WOODWIND II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Mariana Gariazzo (P)"
-      ],
-      "credits": "1",
-      "course": "370",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25708"
-    }
-  },
-  "371": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF-WOODWIND II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mariana Gariazzo (P)"
+          ],
+          "credits": "1",
+          "course": "370",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25708"
+        }
+      }
+    },
+    "371": {
       "title": "IND PERF-BRASS II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "David Wilborn (P)"
-      ],
-      "credits": "1",
-      "course": "371",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25710"
-    }
-  },
-  "253": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF-BRASS II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "David Wilborn (P)"
+          ],
+          "credits": "1",
+          "course": "371",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25710"
+        }
+      }
+    },
+    "253": {
       "title": "IND PERF-GUITAR I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Isaac Bustos (P)"
-      ],
-      "credits": "1",
-      "course": "253",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25702"
-    }
-  },
-  "254": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF-GUITAR I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Isaac Bustos (P)"
+          ],
+          "credits": "1",
+          "course": "253",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25702"
+        }
+      }
+    },
+    "254": {
       "title": "IND PERF-VOICE I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Melissa Hronek (P)"
-      ],
-      "credits": "1",
-      "course": "254",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25325"
-    }
-  },
-  "353": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF-VOICE I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Melissa Hronek (P)"
+          ],
+          "credits": "1",
+          "course": "254",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25325"
+        }
+      }
+    },
+    "353": {
       "title": "IND PERF-GUITAR II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Isaac Bustos (P)"
-      ],
-      "credits": "1",
-      "course": "353",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25703"
-    }
-  },
-  "255": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF-GUITAR II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Isaac Bustos (P)"
+          ],
+          "credits": "1",
+          "course": "353",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25703"
+        }
+      }
+    },
+    "255": {
       "title": "IND PERF-KEYBOARD I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Andrea Imhoff (P)"
-      ],
-      "credits": "1",
-      "course": "255",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25324"
-    }
-  },
-  "354": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF-KEYBOARD I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Andrea Imhoff (P)"
+          ],
+          "credits": "1",
+          "course": "255",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25324"
+        }
+      }
+    },
+    "354": {
       "title": "IND PERF-VOICE II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Melissa Hronek (P)"
-      ],
-      "credits": "1",
-      "course": "354",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25327"
-    }
-  },
-  "212": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF-VOICE II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Melissa Hronek (P)"
+          ],
+          "credits": "1",
+          "course": "354",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25327"
+        }
+      }
+    },
+    "212": {
       "title": "MUSICIANSHIP III",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Mariana Gariazzo (P)"
-      ],
-      "credits": "1",
-      "course": "212",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 109"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "12203"
-    }
-  },
-  "311": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MUSICIANSHIP III",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Mariana Gariazzo (P)"
+          ],
+          "credits": "1",
+          "course": "212",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 109"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "12203"
+        }
+      }
+    },
+    "311": {
       "title": "MUS EARLY WESTERN CULT",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Rumya Putcha (P)"
-      ],
-      "credits": "3",
-      "course": "311",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 124"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "13355"
-    }
-  },
-  "355": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MUS EARLY WESTERN CULT",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Rumya Putcha (P)"
+          ],
+          "credits": "3",
+          "course": "311",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 124"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "13355"
+        }
+      }
+    },
+    "355": {
       "title": "IND PERF KEYBOARD II",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Andrea Imhoff (P)"
-      ],
-      "credits": "1",
-      "course": "355",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25326"
-    }
-  },
-  "214": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF KEYBOARD II",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Andrea Imhoff (P)"
+          ],
+          "credits": "1",
+          "course": "355",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25326"
+        }
+      }
+    },
+    "214": {
       "title": "PERSPECTIVE WORLD MUSIC",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Martin Regan (P)"
-      ],
-      "credits": "3",
-      "course": "214",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 225"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "27790"
-    }
-  },
-  "259": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PERSPECTIVE WORLD MUSIC",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Martin Regan (P)"
+          ],
+          "credits": "3",
+          "course": "214",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 225"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "27790"
+        }
+      }
+    },
+    "259": {
       "title": "IND PERF-CLASS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "259",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25706"
-    }
-  },
-  "316": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "IND PERF-CLASS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "259",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25706"
+        }
+      }
+    },
+    "316": {
       "title": "MUSIC AND TECHNOLOGY",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Jeffrey Morris (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "316",
-      "days": [
-        "TR",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 124",
-        "TBA"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "TBA"
-      ],
-      "crn": "12213"
-    }
-  },
-  "280": {
-    "501": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "SYMPHONIC BAND:WIND SYMP",
-      "remaining": "150",
-      "capacity": "150",
-      "instructor": [
-        "Timothy Rhea (P)",
-        "Timothy Rhea (P)"
-      ],
-      "credits": "1",
-      "course": "280",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ADAM 111",
-        "ADAM 111"
-      ],
-      "time": [
-        "06:00 pm-08:00 pm",
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "12204"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "MUSIC AND TECHNOLOGY",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Jeffrey Morris (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "316",
+          "days": [
+            "TR",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 124",
+            "TBA"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "TBA"
+          ],
+          "crn": "12213"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "SYMPHONIC BAND:SYMPH WINDS",
-      "remaining": "150",
-      "capacity": "150",
-      "instructor": [
-        "Travis Almany (P)"
-      ],
-      "credits": "1",
-      "course": "280",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ADAM 111"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "12205"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
+    "280": {
       "title": "SYMPHONIC BAND",
-      "remaining": "150",
-      "capacity": "150",
-      "instructor": [
-        "Paul Sikes (P)"
-      ],
-      "credits": "1",
-      "course": "280",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ADAM 111"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12206"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "SYMPHONIC BAND:WIND SYMP",
+          "remaining": "150",
+          "capacity": "150",
+          "instructor": [
+            "Timothy Rhea (P)",
+            "Timothy Rhea (P)"
+          ],
+          "credits": "1",
+          "course": "280",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ADAM 111",
+            "ADAM 111"
+          ],
+          "time": [
+            "06:00 pm-08:00 pm",
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "12204"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "SYMPHONIC BAND:SYMPH WINDS",
+          "remaining": "150",
+          "capacity": "150",
+          "instructor": [
+            "Travis Almany (P)"
+          ],
+          "credits": "1",
+          "course": "280",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ADAM 111"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "12205"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "SYMPHONIC BAND",
+          "remaining": "150",
+          "capacity": "150",
+          "instructor": [
+            "Paul Sikes (P)"
+          ],
+          "credits": "1",
+          "course": "280",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ADAM 111"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12206"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "SYMPHONIC BAND: CONCERT",
+          "remaining": "150",
+          "capacity": "150",
+          "instructor": [
+            "Travis Almany (P)"
+          ],
+          "credits": "1",
+          "course": "280",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ADAM 111"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "12207"
+        }
+      }
     },
-    "504": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "SYMPHONIC BAND: CONCERT",
-      "remaining": "150",
-      "capacity": "150",
-      "instructor": [
-        "Travis Almany (P)"
-      ],
-      "credits": "1",
-      "course": "280",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ADAM 111"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "12207"
-    }
-  },
-  "281": {
-    "503": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
+    "281": {
       "title": "ENSMBLE PERF-SML ENSMBLE",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "David Wilborn (P)"
-      ],
-      "credits": "1",
-      "course": "281",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 126"
-      ],
-      "time": [
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "21340"
-    }
-  },
-  "282": {
-    "501": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "503": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "ENSMBLE PERF-SML ENSMBLE",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "David Wilborn (P)"
+          ],
+          "credits": "1",
+          "course": "281",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 126"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "21340"
+        }
+      }
+    },
+    "282": {
       "title": "JAZZ ENSEMBLE",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher Hollar (P)"
-      ],
-      "credits": "1",
-      "course": "282",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ADAM 111"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "12208"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "JAZZ ENSEMBLE",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher Hollar (P)"
+          ],
+          "credits": "1",
+          "course": "282",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ADAM 111"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "12208"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "JAZZ ENSEMBLE",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher Hollar (P)"
+          ],
+          "credits": "1",
+          "course": "282",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ADAM 111"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12209"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "JAZZ ENSEMBLE",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher Hollar (P)"
-      ],
-      "credits": "1",
-      "course": "282",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ADAM 111"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12209"
-    }
-  },
-  "283": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "283": {
       "title": "UNIVERSITY STUDENT ORCHE",
-      "remaining": "150",
-      "capacity": "150",
-      "instructor": [
-        "Paul Sikes (P)"
-      ],
-      "credits": "1",
-      "course": "283",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ADAM 111"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "12210"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "UNIVERSITY STUDENT ORCHE",
+          "remaining": "150",
+          "capacity": "150",
+          "instructor": [
+            "Paul Sikes (P)"
+          ],
+          "credits": "1",
+          "course": "283",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ADAM 111"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "12210"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "UNIVERSITY STUDENT ORCHE",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Paul Sikes (P)"
+          ],
+          "credits": "1",
+          "course": "283",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ADAM 111"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "25521"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "UNIVERSITY STUDENT ORCHE",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Paul Sikes (P)"
-      ],
-      "credits": "1",
-      "course": "283",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ADAM 111"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "25521"
-    }
-  },
-  "221": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "221": {
       "title": "GUITAR HEROES",
-      "remaining": "75",
-      "capacity": "75",
-      "instructor": [
-        "Isaac Bustos (P)"
-      ],
-      "credits": "3",
-      "course": "221",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 100"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "21981"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "GUITAR HEROES",
+          "remaining": "75",
+          "capacity": "75",
+          "instructor": [
+            "Isaac Bustos (P)"
+          ],
+          "credits": "3",
+          "course": "221",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 100"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "21981"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "GUITAR HEROES",
+          "remaining": "75",
+          "capacity": "75",
+          "instructor": [
+            "Isaac Bustos (P)"
+          ],
+          "credits": "3",
+          "course": "221",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 100"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "21982"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "GUITAR HEROES",
-      "remaining": "75",
-      "capacity": "75",
-      "instructor": [
-        "Isaac Bustos (P)"
-      ],
-      "credits": "3",
-      "course": "221",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 100"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "21982"
-    }
-  },
-  "200": {
-    "532": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "532",
-      "title": "TOPICS: GUITAR HEROES",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Isaac Bustos (P)"
-      ],
-      "credits": "3",
-      "course": "200",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 100"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "12196"
+    "200": {
+      "title": "TOPICS IN MUSIC",
+      "sections": {
+        "532": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "532",
+          "title": "TOPICS: GUITAR HEROES",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Isaac Bustos (P)"
+          ],
+          "credits": "3",
+          "course": "200",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 100"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "12196"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "TOPICS: HISTORY OF JAZZ",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Peter Lieuwen (P)"
+          ],
+          "credits": "3",
+          "course": "200",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 124"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "23503"
+        },
+        "533": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "533",
+          "title": "TOPICS: GUITAR HEROES",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Isaac Bustos (P)"
+          ],
+          "credits": "3",
+          "course": "200",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 100"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "12197"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "TOPICS: HIST OF ROCK",
+          "remaining": "78",
+          "capacity": "78",
+          "instructor": [
+            "Harris Berger (P)"
+          ],
+          "credits": "3",
+          "course": "200",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEM 100"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "12194"
+        }
+      }
     },
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "TOPICS: HISTORY OF JAZZ",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Peter Lieuwen (P)"
-      ],
-      "credits": "3",
-      "course": "200",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 124"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "23503"
-    },
-    "533": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "533",
-      "title": "TOPICS: GUITAR HEROES",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Isaac Bustos (P)"
-      ],
-      "credits": "3",
-      "course": "200",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 100"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "12197"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "TOPICS: HIST OF ROCK",
-      "remaining": "78",
-      "capacity": "78",
-      "instructor": [
-        "Harris Berger (P)"
-      ],
-      "credits": "3",
-      "course": "200",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEM 100"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "12194"
-    }
-  },
-  "201": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "201": {
       "title": "MUS & HUMAN EXPERIENCE",
-      "remaining": "99",
-      "capacity": "99",
-      "instructor": [
-        "Laurine Marlow (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 100"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "27789"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MUS & HUMAN EXPERIENCE",
+          "remaining": "99",
+          "capacity": "99",
+          "instructor": [
+            "Laurine Marlow (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 100"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "27789"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "MUS & HUMAN EXPERIENCE",
+          "remaining": "99",
+          "capacity": "99",
+          "instructor": [
+            "Laurine Marlow (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 100"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12198"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "MUS & HUMAN EXPERIENCE",
+          "remaining": "99",
+          "capacity": "99",
+          "instructor": [
+            "Laurine Marlow (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 100"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "12199"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "MUS & HUMAN EXPERIENCE",
-      "remaining": "99",
-      "capacity": "99",
-      "instructor": [
-        "Laurine Marlow (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 100"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12198"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "MUS & HUMAN EXPERIENCE",
-      "remaining": "99",
-      "capacity": "99",
-      "instructor": [
-        "Laurine Marlow (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 100"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "12199"
-    }
-  },
-  "245": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "245": {
       "title": "COMPOSITION I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Peter Lieuwen (P)"
-      ],
-      "credits": "1",
-      "course": "245",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19050"
-    }
-  },
-  "301": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "PERF IN WORLD CULTURES",
-      "remaining": "42",
-      "capacity": "42",
-      "instructor": [
-        "Leonardo Cardoso De Cardoso (P)"
-      ],
-      "credits": "3",
-      "course": "301",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 209"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "25037"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "COMPOSITION I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Peter Lieuwen (P)"
+          ],
+          "credits": "1",
+          "course": "245",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19050"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "301": {
       "title": "PERF IN WORLD CULTURES",
-      "remaining": "42",
-      "capacity": "42",
-      "instructor": [
-        "Leonardo Cardoso De Cardoso (P)"
-      ],
-      "credits": "3",
-      "course": "301",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 209"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "25039"
-    }
-  },
-  "345": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PERF IN WORLD CULTURES",
+          "remaining": "42",
+          "capacity": "42",
+          "instructor": [
+            "Leonardo Cardoso De Cardoso (P)"
+          ],
+          "credits": "3",
+          "course": "301",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 209"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "25037"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "PERF IN WORLD CULTURES",
+          "remaining": "42",
+          "capacity": "42",
+          "instructor": [
+            "Leonardo Cardoso De Cardoso (P)"
+          ],
+          "credits": "3",
+          "course": "301",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 209"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "25039"
+        }
+      }
+    },
+    "345": {
       "title": "COMPOSITION II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Peter Lieuwen (P)"
-      ],
-      "credits": "1",
-      "course": "345",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18893"
-    }
-  },
-  "225": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "COMPOSITION II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Peter Lieuwen (P)"
+          ],
+          "credits": "1",
+          "course": "345",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18893"
+        }
+      }
+    },
+    "225": {
       "title": "HISTORY OF JAZZ",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Peter Lieuwen (P)"
-      ],
-      "credits": "3",
-      "course": "225",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 124"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "23502"
-    }
-  },
-  "324": {
-    "202": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "202",
-      "title": "HNR-MUS IN WORLD CULTURES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Rumya Putcha (P)"
-      ],
-      "credits": "3",
-      "course": "324",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 124"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "27793"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "HISTORY OF JAZZ",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Peter Lieuwen (P)"
+          ],
+          "credits": "3",
+          "course": "225",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 124"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "23502"
+        }
+      }
     },
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "324": {
       "title": "MUS IN WORLD CULTURES",
-      "remaining": "124",
-      "capacity": "124",
-      "instructor": [
-        "Leonardo Cardoso De Cardoso (P)"
-      ],
-      "credits": "3",
-      "course": "324",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 108"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "27791"
+      "sections": {
+        "202": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "202",
+          "title": "HNR-MUS IN WORLD CULTURES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Rumya Putcha (P)"
+          ],
+          "credits": "3",
+          "course": "324",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 124"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "27793"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MUS IN WORLD CULTURES",
+          "remaining": "124",
+          "capacity": "124",
+          "instructor": [
+            "Leonardo Cardoso De Cardoso (P)"
+          ],
+          "credits": "3",
+          "course": "324",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 108"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "27791"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "MUS IN WORLD CULTURES",
+          "remaining": "124",
+          "capacity": "124",
+          "instructor": [
+            "Leonardo Cardoso De Cardoso (P)"
+          ],
+          "credits": "3",
+          "course": "324",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 108"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "22831"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "MUS IN WORLD CULTURES",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Rumya Putcha (P)"
+          ],
+          "credits": "3",
+          "course": "324",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 124"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "27792"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "MUS IN WORLD CULTURES",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Kimberly A. Kattari (P)"
+          ],
+          "credits": "3",
+          "course": "324",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 124"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "28532"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "MUS IN WORLD CULTURES",
-      "remaining": "124",
-      "capacity": "124",
-      "instructor": [
-        "Leonardo Cardoso De Cardoso (P)"
-      ],
-      "credits": "3",
-      "course": "324",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 108"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "22831"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "MUS IN WORLD CULTURES",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Rumya Putcha (P)"
-      ],
-      "credits": "3",
-      "course": "324",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 124"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "27792"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "MUS IN WORLD CULTURES",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Kimberly A. Kattari (P)"
-      ],
-      "credits": "3",
-      "course": "324",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 124"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "28532"
-    }
-  },
-  "204": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+    "204": {
       "title": "MUSIC THEORY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "David Wilborn (P)",
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "204",
-      "days": [
-        "TR",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 109",
-        "TBA"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm",
-        "TBA"
-      ],
-      "crn": "12201"
-    }
-  },
-  "226": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "MUSIC THEORY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "David Wilborn (P)",
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "204",
+          "days": [
+            "TR",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 109",
+            "TBA"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm",
+            "TBA"
+          ],
+          "crn": "12201"
+        }
+      }
+    },
+    "226": {
       "title": "HISTORY OF ROCK",
-      "remaining": "235",
-      "capacity": "235",
-      "instructor": [
-        "Harris Berger (P)"
-      ],
-      "credits": "3",
-      "course": "226",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEM 100"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "21979"
-    }
-  },
-  "325": {
-    "500": {
-      "select": "C",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "HISTORY OF ROCK",
+          "remaining": "235",
+          "capacity": "235",
+          "instructor": [
+            "Harris Berger (P)"
+          ],
+          "credits": "3",
+          "course": "226",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEM 100"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "21979"
+        }
+      }
+    },
+    "325": {
       "title": "DANCE AND WORLD CULTURES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "325",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27939"
-    }
-  },
-  "206": {
-    "900": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "900",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DANCE AND WORLD CULTURES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "325",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27939"
+        }
+      }
+    },
+    "206": {
       "title": "MUSIC THEORY III",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Martin Regan (P)",
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "206",
-      "days": [
-        "TR",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 109",
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "TBA"
-      ],
-      "crn": "19049"
-    }
-  },
-  "327": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "900",
+          "title": "MUSIC THEORY III",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Martin Regan (P)",
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "206",
+          "days": [
+            "TR",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 109",
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "TBA"
+          ],
+          "crn": "19049"
+        }
+      }
+    },
+    "327": {
       "title": "POP MUS IN AFRICAN DIASP",
-      "remaining": "23",
-      "capacity": "23",
-      "instructor": [
-        "David Donkor (P)"
-      ],
-      "credits": "3",
-      "course": "327",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 102"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "19547"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "POP MUS IN AFRICAN DIASP",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "David Donkor (P)"
+          ],
+          "credits": "3",
+          "course": "327",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 102"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "19547"
+        }
+      }
+    },
+    "208": {
+      "title": "MUSICIANSHIP",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MUSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MUSICIANSHIP",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Mariana Gariazzo (P)"
+          ],
+          "credits": "1",
+          "course": "208",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 262"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12202"
+        }
+      }
     }
   },
-  "208": {
-    "500": {
-      "select": "SR",
-      "subject": "MUSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "MUSICIANSHIP",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Mariana Gariazzo (P)"
-      ],
-      "credits": "1",
-      "course": "208",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 262"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12202"
-    }
-  }
+  "title": "MUSC - Music",
+  "updated": "Thu Apr 07 01:21:15 CDT 2016"
 }

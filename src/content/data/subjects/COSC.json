@@ -1,3863 +1,3937 @@
 {
-  "690": {
-    "600": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "690": {
       "title": "THRY OF RSRCH CONST MGMT",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Kunhee Choi (P)"
-      ],
-      "credits": "3",
-      "course": "690",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "22449"
-    }
-  },
-  "691": {
-    "651": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20604"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THRY OF RSRCH CONST MGMT",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Kunhee Choi (P)"
+          ],
+          "credits": "3",
+          "course": "690",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "22449"
+        }
+      }
     },
-    "600": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Zofia K. Rybkowski (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20587"
+      "sections": {
+        "651": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20604"
+        },
+        "600": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Zofia K. Rybkowski (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20587"
+        },
+        "601": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ho-Yeong Kang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15738"
+        },
+        "612": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sarel Lavy (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20797"
+        },
+        "602": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jose Fernandez-Solis (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18093"
+        },
+        "614": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John A. Bryant (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25930"
+        },
+        "604": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Boong-Yeol Ryoo (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18551"
+        },
+        "607": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kunhee Choi (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20049"
+        },
+        "608": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ben F. Bigelow (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20616"
+        },
+        "609": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Nichols (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20680"
+        }
+      }
     },
-    "601": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ho-Yeong Kang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15738"
-    },
-    "612": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sarel Lavy (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20797"
-    },
-    "602": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jose Fernandez-Solis (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18093"
-    },
-    "614": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John A. Bryant (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25930"
-    },
-    "604": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Boong-Yeol Ryoo (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18551"
-    },
-    "607": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kunhee Choi (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20049"
-    },
-    "608": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ben F. Bigelow (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20616"
-    },
-    "609": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Nichols (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20680"
-    }
-  },
-  "153": {
-    "500": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+    "153": {
       "title": "INTRO TO CONSTR INDUS",
-      "remaining": "36",
-      "capacity": "36",
-      "instructor": [
-        "John Nichols (P)",
-        "John Nichols (P)"
-      ],
-      "credits": "3",
-      "course": "153",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 112",
-        "ARCB 101"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "21035"
-    }
-  },
-  "175": {
-    "907": {
-      "select": "C\n                              MM ",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "907",
-      "title": "CONSTRUCTION GRAPHICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Edelmiro Escamilla (P)",
-        "Edelmiro Escamilla (P)",
-        "Edelmiro Escamilla (P)"
-      ],
-      "credits": "3",
-      "course": "175",
-      "days": [
-        "MWF",
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/14",
-        "08/29-10/14",
-        "08/29-10/14"
-      ],
-      "location": [
-        "FRAN 103",
-        "FRAN 103",
-        "ARCB 101"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "08:00 am-09:15 am",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "18983"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "INTRO TO CONSTR INDUS",
+          "remaining": "36",
+          "capacity": "36",
+          "instructor": [
+            "John Nichols (P)",
+            "John Nichols (P)"
+          ],
+          "credits": "3",
+          "course": "153",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 112",
+            "ARCB 101"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "21035"
+        }
+      }
     },
-    "908": {
-      "select": "C\n                              MM ",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "908",
+    "175": {
       "title": "CONSTRUCTION GRAPHICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Nichols (P)",
-        "John Nichols (P)",
-        "John Nichols (P)"
-      ],
-      "credits": "3",
-      "course": "175",
-      "days": [
-        "MWF",
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/14",
-        "08/29-10/14",
-        "08/29-10/14"
-      ],
-      "location": [
-        "FRAN 204",
-        "FRAN 105",
-        "ARCB 101"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "08:00 am-09:15 am",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "26873"
+      "sections": {
+        "907": {
+          "select": "C\n                              MM ",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "907",
+          "title": "CONSTRUCTION GRAPHICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Edelmiro Escamilla (P)",
+            "Edelmiro Escamilla (P)",
+            "Edelmiro Escamilla (P)"
+          ],
+          "credits": "3",
+          "course": "175",
+          "days": [
+            "MWF",
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/14",
+            "08/29-10/14",
+            "08/29-10/14"
+          ],
+          "location": [
+            "FRAN 103",
+            "FRAN 103",
+            "ARCB 101"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "08:00 am-09:15 am",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "18983"
+        },
+        "908": {
+          "select": "C\n                              MM ",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "908",
+          "title": "CONSTRUCTION GRAPHICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Nichols (P)",
+            "John Nichols (P)",
+            "John Nichols (P)"
+          ],
+          "credits": "3",
+          "course": "175",
+          "days": [
+            "MWF",
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/14",
+            "08/29-10/14",
+            "08/29-10/14"
+          ],
+          "location": [
+            "FRAN 204",
+            "FRAN 105",
+            "ARCB 101"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "08:00 am-09:15 am",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "26873"
+        },
+        "909": {
+          "select": "C\n                              MM ",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "909",
+          "title": "CONSTRUCTION GRAPHICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Nichols (P)",
+            "John Nichols (P)",
+            "John Nichols (P)"
+          ],
+          "credits": "3",
+          "course": "175",
+          "days": [
+            "MWF",
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/14",
+            "08/29-10/14",
+            "08/29-10/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "FRAN 105",
+            "ARCB 101"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "11:10 am-12:25 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "26874"
+        },
+        "901": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "901",
+          "title": "CONSTRUCTION GRAPHICS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Zofia K. Rybkowski (P)",
+            "Zofia K. Rybkowski (P)"
+          ],
+          "credits": "3",
+          "course": "175",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "ARCB 101"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "17552"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "902",
+          "title": "CONSTRUCTION GRAPHICS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Ronald L. Workman (P)",
+            "Ronald L. Workman (P)"
+          ],
+          "credits": "3",
+          "course": "175",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "ARCB 101"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "17553"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "903",
+          "title": "CONSTRUCTION GRAPHICS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Ronald L. Workman (P)",
+            "Ronald L. Workman (P)"
+          ],
+          "credits": "3",
+          "course": "175",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "ARCB 101"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "17554"
+        },
+        "904": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "904",
+          "title": "CONSTRUCTION GRAPHICS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Ronald L. Workman (P)",
+            "Ronald L. Workman (P)"
+          ],
+          "credits": "3",
+          "course": "175",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "ARCB 101"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "17555"
+        },
+        "905": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "905",
+          "title": "CONSTRUCTION GRAPHICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Manish K. Dixit (P)",
+            "Manish K. Dixit (P)"
+          ],
+          "credits": "3",
+          "course": "175",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "ARCB 101"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "17556"
+        },
+        "906": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "906",
+          "title": "CONSTRUCTION GRAPHICS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Iftekharudd Choudhury (P)",
+            "Iftekharudd Choudhury (P)"
+          ],
+          "credits": "3",
+          "course": "175",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "ARCB 101"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "19778"
+        }
+      }
     },
-    "909": {
-      "select": "C\n                              MM ",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "909",
-      "title": "CONSTRUCTION GRAPHICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Nichols (P)",
-        "John Nichols (P)",
-        "John Nichols (P)"
-      ],
-      "credits": "3",
-      "course": "175",
-      "days": [
-        "MWF",
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/14",
-        "08/29-10/14",
-        "08/29-10/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "FRAN 105",
-        "ARCB 101"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "11:10 am-12:25 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "26874"
-    },
-    "901": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "901",
-      "title": "CONSTRUCTION GRAPHICS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Zofia K. Rybkowski (P)",
-        "Zofia K. Rybkowski (P)"
-      ],
-      "credits": "3",
-      "course": "175",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "ARCB 101"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "17552"
-    },
-    "902": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "902",
-      "title": "CONSTRUCTION GRAPHICS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Ronald L. Workman (P)",
-        "Ronald L. Workman (P)"
-      ],
-      "credits": "3",
-      "course": "175",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "ARCB 101"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "17553"
-    },
-    "903": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "903",
-      "title": "CONSTRUCTION GRAPHICS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Ronald L. Workman (P)",
-        "Ronald L. Workman (P)"
-      ],
-      "credits": "3",
-      "course": "175",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "ARCB 101"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "17554"
-    },
-    "904": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "904",
-      "title": "CONSTRUCTION GRAPHICS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Ronald L. Workman (P)",
-        "Ronald L. Workman (P)"
-      ],
-      "credits": "3",
-      "course": "175",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "ARCB 101"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "17555"
-    },
-    "905": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "905",
-      "title": "CONSTRUCTION GRAPHICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Manish K. Dixit (P)",
-        "Manish K. Dixit (P)"
-      ],
-      "credits": "3",
-      "course": "175",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "ARCB 101"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "17556"
-    },
-    "906": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "906",
-      "title": "CONSTRUCTION GRAPHICS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Iftekharudd Choudhury (P)",
-        "Iftekharudd Choudhury (P)"
-      ],
-      "credits": "3",
-      "course": "175",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "ARCB 101"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "19778"
-    }
-  },
-  "450": {
-    "500": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "450": {
       "title": "FACILITY MGMT PRINCIPLES",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sarel Lavy (P)"
-      ],
-      "credits": "3",
-      "course": "450",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "26880"
-    }
-  },
-  "494": {
-    "950": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "950",
-      "title": "INTERNSHIP: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "George Eustace (P)"
-      ],
-      "credits": "7",
-      "course": "494",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14150"
-    }
-  },
-  "253": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "FACILITY MGMT PRINCIPLES",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sarel Lavy (P)"
+          ],
+          "credits": "3",
+          "course": "450",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "26880"
+        }
+      }
+    },
+    "494": {
+      "title": "INTERNSHIP",
+      "sections": {
+        "950": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "950",
+          "title": "INTERNSHIP: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "George Eustace (P)"
+          ],
+          "credits": "7",
+          "course": "494",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14150"
+        }
+      }
+    },
+    "253": {
       "title": "CONST MATLS & METH I",
-      "remaining": "240",
-      "capacity": "240",
-      "instructor": [
-        "Kimberly A. Carlson (P)"
-      ],
-      "credits": "3",
-      "course": "253",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCB 101"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "17013"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CONST MATLS & METH I",
+          "remaining": "240",
+          "capacity": "240",
+          "instructor": [
+            "Kimberly A. Carlson (P)"
+          ],
+          "credits": "3",
+          "course": "253",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCB 101"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "17013"
+        },
+        "502": {
+          "select": "C\n                              MM ",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "CONST MATLS & METH I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kimberly A. Carlson (P)",
+            "Kimberly A. Carlson (P)"
+          ],
+          "credits": "3",
+          "course": "253",
+          "days": [
+            "MWF",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/14",
+            "08/29-10/14"
+          ],
+          "location": [
+            "FRAN 102",
+            "FRAN 102"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "16552"
+        }
+      }
     },
-    "502": {
-      "select": "C\n                              MM ",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "CONST MATLS & METH I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kimberly A. Carlson (P)",
-        "Kimberly A. Carlson (P)"
-      ],
-      "credits": "3",
-      "course": "253",
-      "days": [
-        "MWF",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/14",
-        "08/29-10/14"
-      ],
-      "location": [
-        "FRAN 102",
-        "FRAN 102"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "16552"
-    }
-  },
-  "275": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "275": {
       "title": "ESTIMATING I",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Gary L. Boldt (P)",
-        "Gary L. Boldt"
-      ],
-      "credits": "3",
-      "course": "275",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105",
-        "FRAN 204"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "09:35 am-10:50 am"
-      ],
-      "crn": "18984"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ESTIMATING I",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Gary L. Boldt (P)",
+            "Gary L. Boldt"
+          ],
+          "credits": "3",
+          "course": "275",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105",
+            "FRAN 204"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "09:35 am-10:50 am"
+          ],
+          "crn": "18984"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ESTIMATING I",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Gary L. Boldt (P)",
+            "Gary L. Boldt"
+          ],
+          "credits": "3",
+          "course": "275",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105",
+            "FRAN 204"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "10894"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "ESTIMATING I",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Gary L. Boldt (P)",
+            "Gary L. Boldt"
+          ],
+          "credits": "3",
+          "course": "275",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105",
+            "FRAN 204"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "13071"
+        },
+        "505": {
+          "select": "C\n                              MM ",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "505",
+          "title": "ESTIMATING I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gary L. Boldt (P)",
+            "Gary L. Boldt"
+          ],
+          "credits": "3",
+          "course": "275",
+          "days": [
+            "MTWR",
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "10/17-12/08",
+            "10/17-12/08"
+          ],
+          "location": [
+            "FRAN 102",
+            "FRAN 103"
+          ],
+          "time": [
+            "08:00 am-09:07 am",
+            "09:10 am-10:50 am"
+          ],
+          "crn": "26875"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ESTIMATING I",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Gary L. Boldt (P)",
-        "Gary L. Boldt"
-      ],
-      "credits": "3",
-      "course": "275",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105",
-        "FRAN 204"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "10894"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "ESTIMATING I",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Gary L. Boldt (P)",
-        "Gary L. Boldt"
-      ],
-      "credits": "3",
-      "course": "275",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105",
-        "FRAN 204"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "13071"
-    },
-    "505": {
-      "select": "C\n                              MM ",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "505",
-      "title": "ESTIMATING I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gary L. Boldt (P)",
-        "Gary L. Boldt"
-      ],
-      "credits": "3",
-      "course": "275",
-      "days": [
-        "MTWR",
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "10/17-12/08",
-        "10/17-12/08"
-      ],
-      "location": [
-        "FRAN 102",
-        "FRAN 103"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "09:10 am-10:50 am"
-      ],
-      "crn": "26875"
-    },
-    "506": {
-      "select": "C\n                              MM ",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "506",
-      "title": "ESTIMATING I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "275",
-      "days": [
-        "MTWR",
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "10/17-12/08",
-        "10/17-12/08"
-      ],
-      "location": [
-        "FRAN 102",
-        "FRAN 204"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "11:30 am-01:10 pm"
-      ],
-      "crn": "19590"
-    }
-  },
-  "693": {
-    "610": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
+    "693": {
       "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Zofia K. Rybkowski (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22676"
+      "sections": {
+        "610": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Zofia K. Rybkowski (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22676"
+        },
+        "600": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20617"
+        },
+        "611": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jose Fernandez-Solis (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23245"
+        },
+        "601": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18592"
+        },
+        "612": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John A. Bryant (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23440"
+        },
+        "602": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Nichols (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18859"
+        },
+        "613": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kenneth Williamson (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26381"
+        },
+        "603": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19954"
+        },
+        "604": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20047"
+        },
+        "605": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sarel Lavy (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20048"
+        },
+        "606": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20102"
+        },
+        "607": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20796"
+        },
+        "608": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kunhee Choi (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20801"
+        },
+        "609": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20874"
+        }
+      }
     },
-    "600": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20617"
-    },
-    "611": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jose Fernandez-Solis (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23245"
-    },
-    "601": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18592"
-    },
-    "612": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John A. Bryant (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23440"
-    },
-    "602": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Nichols (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18859"
-    },
-    "613": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kenneth Williamson (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26381"
-    },
-    "603": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19954"
-    },
-    "604": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20047"
-    },
-    "605": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sarel Lavy (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20048"
-    },
-    "606": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20102"
-    },
-    "607": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20796"
-    },
-    "608": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kunhee Choi (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20801"
-    },
-    "609": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20874"
-    }
-  },
-  "254": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "254": {
       "title": "CONST MATRLS & METHDS II",
-      "remaining": "180",
-      "capacity": "180",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "254",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "17014"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CONST MATRLS & METHDS II",
+          "remaining": "180",
+          "capacity": "180",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "254",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "17014"
+        },
+        "502": {
+          "select": "C\n                              MM ",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "CONST MATRLS & METHDS II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "254",
+          "days": [
+            "MWF",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "10/17-12/08",
+            "10/17-12/08"
+          ],
+          "location": [
+            "FRAN 102",
+            "FRAN 102"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "16562"
+        }
+      }
     },
-    "502": {
-      "select": "C\n                              MM ",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "CONST MATRLS & METHDS II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "254",
-      "days": [
-        "MWF",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "10/17-12/08",
-        "10/17-12/08"
-      ],
-      "location": [
-        "FRAN 102",
-        "FRAN 102"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "16562"
-    }
-  },
-  "353": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "353": {
       "title": "CONSTRUCTION PRJECT MGMT",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "David Bilbo (P)"
-      ],
-      "credits": "3",
-      "course": "353",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "10898"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "CONSTRUCTION PRJECT MGMT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "David Bilbo (P)",
+            "David Bilbo (P)",
+            "David Bilbo (P)"
+          ],
+          "credits": "3",
+          "course": "353",
+          "days": [
+            "TR",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "09/29-09/29",
+            "10/27-10/27"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101",
+            "ARCB 101"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "07:00 pm-08:30 pm",
+            "07:00 pm-08:30 pm"
+          ],
+          "crn": "10898"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "CONSTRUCTION PRJECT MGMT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Edelmiro Escamilla (P)",
+            "Edelmiro Escamilla (P)",
+            "Edelmiro Escamilla (P)"
+          ],
+          "credits": "3",
+          "course": "353",
+          "days": [
+            "TR",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "09/29-09/29",
+            "10/27-10/27"
+          ],
+          "location": [
+            "FRAN 112",
+            "ARCB 101",
+            "ARCB 101"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "07:00 pm-08:30 pm",
+            "07:00 pm-08:30 pm"
+          ],
+          "crn": "10899"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "503",
+          "title": "CONSTRUCTION PRJECT MGMT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "David Bilbo (P)",
+            "David Bilbo (P)",
+            "David Bilbo (P)"
+          ],
+          "credits": "3",
+          "course": "353",
+          "days": [
+            "TR",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "09/29-09/29",
+            "10/27-10/27"
+          ],
+          "location": [
+            "FRAN 112",
+            "ARCB 101",
+            "ARCB 101"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "07:00 pm-08:30 pm",
+            "07:00 pm-08:30 pm"
+          ],
+          "crn": "10900"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "504",
+          "title": "CONSTRUCTION PRJECT MGMT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Edelmiro Escamilla (P)",
+            "Edelmiro Escamilla (P)",
+            "Edelmiro Escamilla (P)"
+          ],
+          "credits": "3",
+          "course": "353",
+          "days": [
+            "TR",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "09/29-09/29",
+            "10/27-10/27"
+          ],
+          "location": [
+            "FRAN 112",
+            "ARCB 101",
+            "ARCB 101"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "07:00 pm-08:30 pm",
+            "07:00 pm-08:30 pm"
+          ],
+          "crn": "13040"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "505",
+          "title": "CONSTRUCTION PRJECT MGMT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Edelmiro Escamilla (P)",
+            "Edelmiro Escamilla (P)",
+            "Edelmiro Escamilla (P)"
+          ],
+          "credits": "3",
+          "course": "353",
+          "days": [
+            "TR",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "09/29-09/29",
+            "10/27-10/27"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101",
+            "ARCB 101"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "07:00 pm-08:30 pm",
+            "07:00 pm-08:30 pm"
+          ],
+          "crn": "21036"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "506",
+          "title": "CONSTRUCTION PRJECT MGMT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "David Bilbo (P)",
+            "David Bilbo (P)",
+            "David Bilbo (P)"
+          ],
+          "credits": "3",
+          "course": "353",
+          "days": [
+            "TR",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "09/29-09/29",
+            "10/27-10/27"
+          ],
+          "location": [
+            "FRAN 112",
+            "ARCB 101",
+            "ARCB 101"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm",
+            "07:00 pm-08:30 pm",
+            "07:00 pm-08:30 pm"
+          ],
+          "crn": "21037"
+        },
+        "507": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "507",
+          "title": "CONSTRUCTION PRJECT MGMT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Edelmiro Escamilla (P)",
+            "Edelmiro Escamilla (P)",
+            "Edelmiro Escamilla (P)"
+          ],
+          "credits": "3",
+          "course": "353",
+          "days": [
+            "TR",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "09/29-09/29",
+            "10/27-10/27"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101",
+            "ARCB 101"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "07:00 pm-08:30 pm",
+            "07:00 pm-08:30 pm"
+          ],
+          "crn": "26878"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "CONSTRUCTION PRJECT MGMT",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Edelmiro Escamilla (P)"
-      ],
-      "credits": "3",
-      "course": "353",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "10899"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "CONSTRUCTION PRJECT MGMT",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "David Bilbo (P)"
-      ],
-      "credits": "3",
-      "course": "353",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "10900"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "CONSTRUCTION PRJECT MGMT",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Edelmiro Escamilla (P)"
-      ],
-      "credits": "3",
-      "course": "353",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "13040"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "CONSTRUCTION PRJECT MGMT",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Edelmiro Escamilla (P)"
-      ],
-      "credits": "3",
-      "course": "353",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "21036"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "CONSTRUCTION PRJECT MGMT",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "David Bilbo (P)"
-      ],
-      "credits": "3",
-      "course": "353",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "21037"
-    },
-    "507": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "CONSTRUCTION PRJECT MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Edelmiro Escamilla (P)"
-      ],
-      "credits": "3",
-      "course": "353",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "26878"
-    }
-  },
-  "375": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "375": {
       "title": "ESTIMATING II",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "375",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCB 101",
-        "FRAN 103"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "09:35 am-10:50 am"
-      ],
-      "crn": "10901"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ESTIMATING II",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "375",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCB 101",
+            "FRAN 103"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "09:35 am-10:50 am"
+          ],
+          "crn": "10901"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ESTIMATING II",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "375",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCB 101",
+            "FRAN 103"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "10902"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "ESTIMATING II",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "375",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCB 101",
+            "FRAN 103"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "18986"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "ESTIMATING II",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "375",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCB 101",
+            "FRAN 103"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "10903"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "505",
+          "title": "ESTIMATING II",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "375",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCB 101",
+            "FRAN 103"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "21039"
+        },
+        "506": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "506",
+          "title": "ESTIMATING II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "375",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCB 101",
+            "FRAN 103"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "26879"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ESTIMATING II",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "375",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCB 101",
-        "FRAN 103"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "10902"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "ESTIMATING II",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "375",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCB 101",
-        "FRAN 103"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "18986"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "ESTIMATING II",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "375",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCB 101",
-        "FRAN 103"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "10903"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "505",
-      "title": "ESTIMATING II",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "375",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCB 101",
-        "FRAN 103"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "21039"
-    },
-    "506": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "506",
-      "title": "ESTIMATING II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "375",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCB 101",
-        "FRAN 103"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "26879"
-    }
-  },
-  "474": {
-    "550": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
+    "474": {
       "title": "FACILITY MGMT INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sarel Lavy (P)"
-      ],
-      "credits": "3",
-      "course": "474",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26882"
-    }
-  },
-  "310": {
-    "500": {
-      "select": "C\n                              MM ",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "FACILITY MGMT INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sarel Lavy (P)"
+          ],
+          "credits": "3",
+          "course": "474",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26882"
+        }
+      }
+    },
+    "310": {
       "title": "DESIGN AND CONSTR LEAD EDUC I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "310",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "10/17-12/08"
-      ],
-      "location": [
-        "ARCB 101"
-      ],
-      "time": [
-        "05:45 pm-07:25 pm"
-      ],
-      "crn": "27665"
-    }
-  },
-  "475": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "CONST PROJECT PLANNING",
-      "remaining": "36",
-      "capacity": "36",
-      "instructor": [
-        "Boong-Yeol Ryoo (P)",
-        "Boong-Yeol Ryoo"
-      ],
-      "credits": "3",
-      "course": "475",
-      "days": [
-        "MW",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105",
-        "FRAN 204"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "08:00 am-09:15 am"
-      ],
-      "crn": "10910"
+      "sections": {
+        "500": {
+          "select": "C\n                              MM ",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DESIGN AND CONSTR LEAD EDUC I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "310",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "10/17-12/08"
+          ],
+          "location": [
+            "ARCB 101"
+          ],
+          "time": [
+            "05:45 pm-07:25 pm"
+          ],
+          "crn": "27665"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
+    "475": {
       "title": "CONST PROJECT PLANNING",
-      "remaining": "36",
-      "capacity": "36",
-      "instructor": [
-        "Boong-Yeol Ryoo (P)",
-        "Boong-Yeol Ryoo"
-      ],
-      "credits": "3",
-      "course": "475",
-      "days": [
-        "MW",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105",
-        "FRAN 204"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "13081"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "CONST PROJECT PLANNING",
+          "remaining": "36",
+          "capacity": "36",
+          "instructor": [
+            "Boong-Yeol Ryoo (P)",
+            "Boong-Yeol Ryoo"
+          ],
+          "credits": "3",
+          "course": "475",
+          "days": [
+            "MW",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105",
+            "FRAN 204"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "08:00 am-09:15 am"
+          ],
+          "crn": "10910"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "CONST PROJECT PLANNING",
+          "remaining": "36",
+          "capacity": "36",
+          "instructor": [
+            "Boong-Yeol Ryoo (P)",
+            "Boong-Yeol Ryoo"
+          ],
+          "credits": "3",
+          "course": "475",
+          "days": [
+            "MW",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105",
+            "FRAN 204"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "13081"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "CONST PROJECT PLANNING",
+          "remaining": "36",
+          "capacity": "36",
+          "instructor": [
+            "Boong-Yeol Ryoo (P)",
+            "Boong-Yeol Ryoo"
+          ],
+          "credits": "3",
+          "course": "475",
+          "days": [
+            "MW",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105",
+            "FRAN 204"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "13079"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "CONST PROJECT PLANNING",
+          "remaining": "36",
+          "capacity": "36",
+          "instructor": [
+            "Boong-Yeol Ryoo (P)",
+            "Boong-Yeol Ryoo"
+          ],
+          "credits": "3",
+          "course": "475",
+          "days": [
+            "MW",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105",
+            "FRAN 204"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "21048"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "CONST PROJECT PLANNING",
-      "remaining": "36",
-      "capacity": "36",
-      "instructor": [
-        "Boong-Yeol Ryoo (P)",
-        "Boong-Yeol Ryoo"
-      ],
-      "credits": "3",
-      "course": "475",
-      "days": [
-        "MW",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105",
-        "FRAN 204"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "13079"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "CONST PROJECT PLANNING",
-      "remaining": "36",
-      "capacity": "36",
-      "instructor": [
-        "Boong-Yeol Ryoo (P)",
-        "Boong-Yeol Ryoo"
-      ],
-      "credits": "3",
-      "course": "475",
-      "days": [
-        "MW",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105",
-        "FRAN 204"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "21048"
-    }
-  },
-  "333": {
-    "500": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "333": {
       "title": "PROJ MGMT FOR FACULTY MANAGERS",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Manish K. Dixit (P)"
-      ],
-      "credits": "3",
-      "course": "333",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 207"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "27666"
-    }
-  },
-  "477": {
-    "500": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "CONST PROJECT CONTROLS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "477",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 204"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "10911"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PROJ MGMT FOR FACULTY MANAGERS",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Manish K. Dixit (P)"
+          ],
+          "credits": "3",
+          "course": "333",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 207"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "27666"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "477": {
       "title": "CONST PROJECT CONTROLS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Larry W. Fickel (P)"
-      ],
-      "credits": "3",
-      "course": "477",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 204"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "25618"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CONST PROJECT CONTROLS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "477",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 204"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "10911"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CONST PROJECT CONTROLS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Larry W. Fickel (P)"
+          ],
+          "credits": "3",
+          "course": "477",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 204"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "25618"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CONST PROJECT CONTROLS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Larry W. Fickel (P)"
+          ],
+          "credits": "3",
+          "course": "477",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 204"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "26883"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "CONST PROJECT CONTROLS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Larry W. Fickel (P)"
-      ],
-      "credits": "3",
-      "course": "477",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 204"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "26883"
-    }
-  },
-  "459": {
-    "500": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "459": {
       "title": "INDUSTRIAL CONSTRUCTION",
-      "remaining": "32",
-      "capacity": "32",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "459",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105"
-      ],
-      "time": [
-        "05:30 pm-08:00 pm"
-      ],
-      "crn": "21046"
-    }
-  },
-  "381": {
-    "500": {
-      "select": "NRMM ",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INDUSTRIAL CONSTRUCTION",
+          "remaining": "32",
+          "capacity": "32",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "459",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105"
+          ],
+          "time": [
+            "05:30 pm-08:00 pm"
+          ],
+          "crn": "21046"
+        }
+      }
+    },
+    "381": {
       "title": "PROF ETHICS IN CONST IND",
-      "remaining": "200",
-      "capacity": "200",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "381",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/14"
-      ],
-      "location": [
-        "ARCB 101"
-      ],
-      "time": [
-        "05:45 pm-07:25 pm"
-      ],
-      "crn": "10904"
-    }
-  },
-  "461": {
-    "500": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "BLDG INFO MODEL SYSTEM",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Jing Du (P)"
-      ],
-      "credits": "3",
-      "course": "461",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "13160"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PROF ETHICS IN CONST IND",
+          "remaining": "200",
+          "capacity": "200",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "381",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/14"
+          ],
+          "location": [
+            "ARCB 101"
+          ],
+          "time": [
+            "05:45 pm-07:25 pm"
+          ],
+          "crn": "10904"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "461": {
       "title": "BLDG INFO MODEL SYSTEM",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Ho-Yeong Kang (P)"
-      ],
-      "credits": "3",
-      "course": "461",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "23598"
-    }
-  },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BLDG INFO MODEL SYSTEM",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Jing Du (P)"
+          ],
+          "credits": "3",
+          "course": "461",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "13160"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "BLDG INFO MODEL SYSTEM",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Ho-Yeong Kang (P)"
+          ],
+          "credits": "3",
+          "course": "461",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "23598"
+        }
+      }
+    },
+    "681": {
       "title": "SEMINAR",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Ben F. Bigelow (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm"
-      ],
-      "crn": "10913"
-    }
-  },
-  "364": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "CONSTRUCTION SAFETY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Anne B. McGowan (P)"
-      ],
-      "credits": "1",
-      "course": "364",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "13073"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Ben F. Bigelow (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm"
+          ],
+          "crn": "10913"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "364": {
       "title": "CONSTRUCTION SAFETY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Anne B. McGowan (P)"
-      ],
-      "credits": "1",
-      "course": "364",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "13074"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CONSTRUCTION SAFETY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Anne B. McGowan (P)"
+          ],
+          "credits": "1",
+          "course": "364",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/14"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "13073"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CONSTRUCTION SAFETY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Anne B. McGowan (P)"
+          ],
+          "credits": "1",
+          "course": "364",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/14"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "13074"
+        },
+        "503": {
+          "select": "C\n                              MM ",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "CONSTRUCTION SAFETY I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Anne B. McGowan (P)"
+          ],
+          "credits": "1",
+          "course": "364",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/14"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "10:20 am-12:00 pm"
+          ],
+          "crn": "13037"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "CONSTRUCTION SAFETY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Anne B. McGowan (P)"
+          ],
+          "credits": "1",
+          "course": "364",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "10/17-12/08"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "20027"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "CONSTRUCTION SAFETY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Anne B. McGowan (P)"
+          ],
+          "credits": "1",
+          "course": "364",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "10/17-12/08"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "21038"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "CONSTRUCTION SAFETY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jerome Huff (P)"
+          ],
+          "credits": "1",
+          "course": "364",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/14"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "05:30 pm-07:10 pm"
+          ],
+          "crn": "25857"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "CONSTRUCTION SAFETY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jerome Huff (P)"
+          ],
+          "credits": "1",
+          "course": "364",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "10/17-12/08"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "05:30 pm-07:10 pm"
+          ],
+          "crn": "26050"
+        }
+      }
     },
-    "503": {
-      "select": "C\n                              MM ",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "CONSTRUCTION SAFETY I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Anne B. McGowan (P)"
-      ],
-      "credits": "1",
-      "course": "364",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "10:20 am-12:00 pm"
-      ],
-      "crn": "13037"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "CONSTRUCTION SAFETY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Anne B. McGowan (P)"
-      ],
-      "credits": "1",
-      "course": "364",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "10/17-12/08"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "20027"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "CONSTRUCTION SAFETY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Anne B. McGowan (P)"
-      ],
-      "credits": "1",
-      "course": "364",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "10/17-12/08"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "21038"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "CONSTRUCTION SAFETY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Jerome Huff (P)"
-      ],
-      "credits": "1",
-      "course": "364",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "05:30 pm-07:10 pm"
-      ],
-      "crn": "25857"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "CONSTRUCTION SAFETY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Jerome Huff (P)"
-      ],
-      "credits": "1",
-      "course": "364",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "10/17-12/08"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "05:30 pm-07:10 pm"
-      ],
-      "crn": "26050"
-    }
-  },
-  "441": {
-    "900": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "900",
+    "441": {
       "title": "RESIDENTIAL CAPSTONE",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Ben F. Bigelow (P)",
-        "Ben F. Bigelow"
-      ],
-      "credits": "4",
-      "course": "441",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "FRAN 102"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "21040"
-    }
-  },
-  "463": {
-    "907": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "907",
-      "title": "INTRO TO CONST LAW",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Debra R. Ellis (P)",
-        "Debra R. Ellis (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201",
-        "ARCB 101"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "26336"
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "900",
+          "title": "RESIDENTIAL CAPSTONE",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Ben F. Bigelow (P)",
+            "Ben F. Bigelow"
+          ],
+          "credits": "4",
+          "course": "441",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "FRAN 102"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "21040"
+        }
+      }
     },
-    "908": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "908",
+    "463": {
       "title": "INTRO TO CONST LAW",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William Rodgers (P)",
-        "William Rodgers (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201",
-        "ARCB 101"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "26881"
+      "sections": {
+        "907": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "907",
+          "title": "INTRO TO CONST LAW",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Debra R. Ellis (P)",
+            "Debra R. Ellis (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "26336"
+        },
+        "908": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "908",
+          "title": "INTRO TO CONST LAW",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William Rodgers (P)",
+            "William Rodgers (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "26881"
+        },
+        "901": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "901",
+          "title": "INTRO TO CONST LAW",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ray F. Grisham (P)",
+            "Ray F. Grisham (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "10905"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "902",
+          "title": "INTRO TO CONST LAW",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Ray F. Grisham (P)",
+            "Ray F. Grisham (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "10906"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "903",
+          "title": "INTRO TO CONST LAW",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Ray F. Grisham (P)",
+            "Ray F. Grisham (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "10907"
+        },
+        "904": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "904",
+          "title": "INTRO TO CONST LAW",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Ray F. Grisham (P)",
+            "Ray F. Grisham (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "21047"
+        },
+        "905": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "905",
+          "title": "INTRO TO CONST LAW",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Debra R. Ellis (P)",
+            "Debra R. Ellis (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "23599"
+        },
+        "906": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "906",
+          "title": "INTRO TO CONST LAW",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Debra R. Ellis (P)",
+            "Debra R. Ellis (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201",
+            "ARCB 101"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "23600"
+        }
+      }
     },
-    "901": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "901",
-      "title": "INTRO TO CONST LAW",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ray F. Grisham (P)",
-        "Ray F. Grisham (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201",
-        "ARCB 101"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "10905"
-    },
-    "902": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "902",
-      "title": "INTRO TO CONST LAW",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Ray F. Grisham (P)",
-        "Ray F. Grisham (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201",
-        "ARCB 101"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "10906"
-    },
-    "903": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "903",
-      "title": "INTRO TO CONST LAW",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Ray F. Grisham (P)",
-        "Ray F. Grisham (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201",
-        "ARCB 101"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "10907"
-    },
-    "904": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "904",
-      "title": "INTRO TO CONST LAW",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Ray F. Grisham (P)",
-        "Ray F. Grisham (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201",
-        "ARCB 101"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "21047"
-    },
-    "905": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "905",
-      "title": "INTRO TO CONST LAW",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Debra R. Ellis (P)",
-        "Debra R. Ellis (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201",
-        "ARCB 101"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "23599"
-    },
-    "906": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "906",
-      "title": "INTRO TO CONST LAW",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Debra R. Ellis (P)",
-        "Debra R. Ellis (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201",
-        "ARCB 101"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "23600"
-    }
-  },
-  "485": {
-    "500": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-5",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20628"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-5",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20628"
+        },
+        "501": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-5",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16376"
+        },
+        "502": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-5",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16395"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-5",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16376"
-    },
-    "502": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-5",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16395"
-    }
-  },
-  "321": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "321": {
       "title": "STRUCTURAL SYSTEMS I",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "Kunhee Choi (P)"
-      ],
-      "credits": "3",
-      "course": "321",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "10895"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "STRUCTURAL SYSTEMS I",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "Kunhee Choi (P)"
+          ],
+          "credits": "3",
+          "course": "321",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "10895"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "STRUCTURAL SYSTEMS I",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "Mohammed Haque (P)"
+          ],
+          "credits": "3",
+          "course": "321",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "21540"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "STRUCTURAL SYSTEMS I",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "Mohammed Haque (P)"
-      ],
-      "credits": "3",
-      "course": "321",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "21540"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "STRUCTURAL SYSTEMS I",
-      "remaining": "75",
-      "capacity": "75",
-      "instructor": [
-        "Mohammed Haque (P)"
-      ],
-      "credits": "3",
-      "course": "321",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "26876"
-    }
-  },
-  "442": {
-    "901": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "901",
+    "442": {
       "title": "COMMERCIAL CAPSTONE",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Jose Fernandez-Solis (P)",
-        "Jose Fernandez-Solis"
-      ],
-      "credits": "4",
-      "course": "442",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "FRAN 102"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "13291"
-    }
-  },
-  "464": {
-    "500": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "901": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "901",
+          "title": "COMMERCIAL CAPSTONE",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Jose Fernandez-Solis (P)",
+            "Jose Fernandez-Solis"
+          ],
+          "credits": "4",
+          "course": "442",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "FRAN 102"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "13291"
+        }
+      }
+    },
+    "464": {
       "title": "CONSTRUCTION SAFETY II",
-      "remaining": "36",
-      "capacity": "36",
-      "instructor": [
-        "Anne B. McGowan (P)"
-      ],
-      "credits": "3",
-      "course": "464",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "10908"
-    }
-  },
-  "421": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CONSTRUCTION SAFETY II",
+          "remaining": "36",
+          "capacity": "36",
+          "instructor": [
+            "Anne B. McGowan (P)"
+          ],
+          "credits": "3",
+          "course": "464",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "10908"
+        }
+      }
+    },
+    "421": {
       "title": "SOIL & STRUCTURAL ANYLS",
-      "remaining": "150",
-      "capacity": "150",
-      "instructor": [
-        "Mohammed Haque (P)"
-      ],
-      "credits": "3",
-      "course": "421",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "14085"
-    }
-  },
-  "443": {
-    "901": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "901",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SOIL & STRUCTURAL ANYLS",
+          "remaining": "150",
+          "capacity": "150",
+          "instructor": [
+            "Mohammed Haque (P)"
+          ],
+          "credits": "3",
+          "course": "421",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "14085"
+        }
+      }
+    },
+    "443": {
       "title": "INDUSTRIAL CAPSTONE",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Ho-Yeong Kang (P)",
-        "Ho-Yeong Kang"
-      ],
-      "credits": "4",
-      "course": "443",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "FRAN 102"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "18598"
-    }
-  },
-  "465": {
-    "500": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "901": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "901",
+          "title": "INDUSTRIAL CAPSTONE",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Ho-Yeong Kang (P)",
+            "Ho-Yeong Kang"
+          ],
+          "credits": "4",
+          "course": "443",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "FRAN 102"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "18598"
+        }
+      }
+    },
+    "465": {
       "title": "ADV TOPICS IN CONST LAW",
-      "remaining": "110",
-      "capacity": "110",
-      "instructor": [
-        "William Rodgers (P)"
-      ],
-      "credits": "3",
-      "course": "465",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "10909"
-    }
-  },
-  "663": {
-    "600": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ADV TOPICS IN CONST LAW",
+          "remaining": "110",
+          "capacity": "110",
+          "instructor": [
+            "William Rodgers (P)"
+          ],
+          "credits": "3",
+          "course": "465",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "10909"
+        }
+      }
+    },
+    "663": {
       "title": "SUSTAINABLE CONSTRUCTION",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Zofia K. Rybkowski (P)"
-      ],
-      "credits": "3",
-      "course": "663",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 323"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "10912"
-    }
-  },
-  "685": {
-    "650": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Zofia K. Rybkowski (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23100"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SUSTAINABLE CONSTRUCTION",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Zofia K. Rybkowski (P)"
+          ],
+          "credits": "3",
+          "course": "663",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 323"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "10912"
+        }
+      }
     },
-    "651": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ho-Yeong Kang (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23573"
-    },
-    "600": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "685": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sarel Lavy (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22922"
+      "sections": {
+        "650": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Zofia K. Rybkowski (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23100"
+        },
+        "651": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ho-Yeong Kang (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23573"
+        },
+        "600": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sarel Lavy (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22922"
+        },
+        "601": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jose Fernandez-Solis (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19953"
+        },
+        "602": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Edelmiro Escamilla (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16399"
+        },
+        "604": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kunhee Choi (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20045"
+        },
+        "605": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Leslie H. Feigenbaum (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20765"
+        },
+        "606": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ho-Yeong Kang (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22617"
+        }
+      }
     },
-    "601": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jose Fernandez-Solis (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19953"
-    },
-    "602": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Edelmiro Escamilla (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16399"
-    },
-    "604": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kunhee Choi (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20045"
-    },
-    "605": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Leslie H. Feigenbaum (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20765"
-    },
-    "606": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ho-Yeong Kang (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22617"
-    }
-  },
-  "202": {
-    "500": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "INTRODUCTION TO HOUSING",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "27664"
-    }
-  },
-  "301": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "301": {
       "title": "CONSTRUCTION SURVEYING",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Kenneth Williamson (P)"
-      ],
-      "credits": "2",
-      "course": "301",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "05:45 pm-06:35 pm"
-      ],
-      "crn": "18985"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CONSTRUCTION SURVEYING",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Kenneth Williamson (P)"
+          ],
+          "credits": "2",
+          "course": "301",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102"
+          ],
+          "time": [
+            "05:45 pm-06:35 pm"
+          ],
+          "crn": "18985"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CONSTRUCTION SURVEYING",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Kenneth Williamson (P)"
+          ],
+          "credits": "2",
+          "course": "301",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102"
+          ],
+          "time": [
+            "05:45 pm-06:35 pm"
+          ],
+          "crn": "23596"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "CONSTRUCTION SURVEYING",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Kenneth Williamson (P)"
+          ],
+          "credits": "2",
+          "course": "301",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102"
+          ],
+          "time": [
+            "05:45 pm-06:35 pm"
+          ],
+          "crn": "23597"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "CONSTRUCTION SURVEYING",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Kenneth Williamson (P)"
-      ],
-      "credits": "2",
-      "course": "301",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "05:45 pm-06:35 pm"
-      ],
-      "crn": "23596"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "CONSTRUCTION SURVEYING",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Kenneth Williamson (P)"
-      ],
-      "credits": "2",
-      "course": "301",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "05:45 pm-06:35 pm"
-      ],
-      "crn": "23597"
-    }
-  },
-  "620": {
-    "600": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "620": {
       "title": "CONST COMPANY OPERATIONS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Manish K. Dixit (P)"
-      ],
-      "credits": "3",
-      "course": "620",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "18987"
-    }
-  },
-  "642": {
-    "600": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CONST COMPANY OPERATIONS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Manish K. Dixit (P)"
+          ],
+          "credits": "3",
+          "course": "620",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "18987"
+        }
+      }
+    },
+    "642": {
       "title": "CONST INFO TECHNOLOGY",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Jing Du (P)"
-      ],
-      "credits": "3",
-      "course": "642",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 103"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "18991"
-    }
-  },
-  "325": {
-    "501": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "MEP SYSTEMS IN CONST I",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "Iftekharudd Choudhury (P)"
-      ],
-      "credits": "3",
-      "course": "325",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "10896"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CONST INFO TECHNOLOGY",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Jing Du (P)"
+          ],
+          "credits": "3",
+          "course": "642",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 103"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "18991"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "325": {
       "title": "MEP SYSTEMS IN CONST I",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "Iftekharudd Choudhury (P)"
-      ],
-      "credits": "3",
-      "course": "325",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "10897"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "MEP SYSTEMS IN CONST I",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "Iftekharudd Choudhury (P)"
+          ],
+          "credits": "3",
+          "course": "325",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "10896"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "MEP SYSTEMS IN CONST I",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "Iftekharudd Choudhury (P)"
+          ],
+          "credits": "3",
+          "course": "325",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "10897"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "MEP SYSTEMS IN CONST I",
-      "remaining": "75",
-      "capacity": "75",
-      "instructor": [
-        "John A. Bryant (P)"
-      ],
-      "credits": "3",
-      "course": "325",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "26877"
-    }
-  },
-  "446": {
-    "900": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "900",
+    "446": {
       "title": "SPECIALTY CAPSTONE",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "John A. Bryant (P)",
-        "John A. Bryant"
-      ],
-      "credits": "4",
-      "course": "446",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 105",
-        "FRAN 102"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "05:30 pm-06:20 pm"
-      ],
-      "crn": "21043"
-    }
-  },
-  "622": {
-    "600": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "900",
+          "title": "SPECIALTY CAPSTONE",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "John A. Bryant (P)",
+            "John A. Bryant"
+          ],
+          "credits": "4",
+          "course": "446",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 105",
+            "FRAN 102"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "21043"
+        }
+      }
+    },
+    "622": {
       "title": "CONSTRUCTION ECONOMICS",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Sarel Lavy (P)"
-      ],
-      "credits": "3",
-      "course": "622",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 112"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "18989"
-    }
-  },
-  "326": {
-    "500": {
-      "select": "SR",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CONSTRUCTION ECONOMICS",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Sarel Lavy (P)"
+          ],
+          "credits": "3",
+          "course": "622",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 112"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "18989"
+        }
+      }
+    },
+    "326": {
       "title": "MEP SYSTEMS IN CONST II",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "John A. Bryant (P)"
-      ],
-      "credits": "3",
-      "course": "326",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "13072"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MEP SYSTEMS IN CONST II",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "John A. Bryant (P)"
+          ],
+          "credits": "3",
+          "course": "326",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "13072"
+        }
+      }
+    },
+    "628": {
+      "title": "CONST CONTR & RISK MGMT",
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "COSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CONST CONTR & RISK MGMT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "William Rodgers (P)"
+          ],
+          "credits": "3",
+          "course": "628",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "18990"
+        }
+      }
     }
   },
-  "628": {
-    "600": {
-      "select": "C",
-      "subject": "COSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "CONST CONTR & RISK MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "William Rodgers (P)"
-      ],
-      "credits": "3",
-      "course": "628",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "18990"
-    }
-  }
+  "title": "COSC - Construction Science",
+  "updated": "Thu Apr 07 01:13:09 CDT 2016"
 }

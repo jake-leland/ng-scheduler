@@ -1,1606 +1,1637 @@
 {
-  "650": {
-    "600": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "650": {
       "title": "EXPERIMENTAL IMMUNOLOGY",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Luc Berghman (P)",
-        "Luc Berghman"
-      ],
-      "credits": "4",
-      "course": "650",
-      "days": [
-        "TR",
-        "WR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 123",
-        "KLCT 415"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "02:00 pm-04:00 pm"
-      ],
-      "crn": "12837"
-    }
-  },
-  "662": {
-    "600": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "EXPERIMENTAL IMMUNOLOGY",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Luc Berghman (P)",
+            "Luc Berghman"
+          ],
+          "credits": "4",
+          "course": "650",
+          "days": [
+            "TR",
+            "WR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 123",
+            "KLCT 415"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "02:00 pm-04:00 pm"
+          ],
+          "crn": "12837"
+        }
+      }
+    },
+    "662": {
       "title": "ADV IMMUNOLOGIC CONCEPTS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Christabel Welsh (P)"
-      ],
-      "credits": "1-5",
-      "course": "662",
-      "days": [
-        "MF"
-      ],
-      "date (mm/dd)": [
-        "08/29-09/16"
-      ],
-      "location": [
-        "VRB 423"
-      ],
-      "time": [
-        "09:00 am-10:30 am"
-      ],
-      "crn": "24519"
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADV IMMUNOLOGIC CONCEPTS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Christabel Welsh (P)"
+          ],
+          "credits": "1-5",
+          "course": "662",
+          "days": [
+            "MF"
+          ],
+          "date (mm/dd)": [
+            "08/29-09/16"
+          ],
+          "location": [
+            "VRB 423"
+          ],
+          "time": [
+            "09:00 am-10:30 am"
+          ],
+          "crn": "24519"
+        },
+        "601": {
+          "select": "C\n                              MM ",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "ADV IMMUNOLOGIC CONCEPTS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Michael Criscitiello (P)"
+          ],
+          "credits": "1-5",
+          "course": "662",
+          "days": [
+            "MF"
+          ],
+          "date (mm/dd)": [
+            "09/19-10/07"
+          ],
+          "location": [
+            "VRB 423"
+          ],
+          "time": [
+            "09:00 am-10:30 am"
+          ],
+          "crn": "24521"
+        },
+        "605": {
+          "select": "C\n                              MM ",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "ADV IMMUNOLOGIC CONCEPTS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gregory Johnson (P)"
+          ],
+          "credits": "1-5",
+          "course": "662",
+          "days": [
+            "MF"
+          ],
+          "date (mm/dd)": [
+            "10/10-10/28"
+          ],
+          "location": [
+            "VRB 423"
+          ],
+          "time": [
+            "09:00 am-10:30 am"
+          ],
+          "crn": "24522"
+        },
+        "608": {
+          "select": "C\n                              MM ",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "ADV IMMUNOLOGIC CONCEPTS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Christabel Welsh (P)"
+          ],
+          "credits": "1-5",
+          "course": "662",
+          "days": [
+            "MF"
+          ],
+          "date (mm/dd)": [
+            "10/31-11/18"
+          ],
+          "location": [
+            "VRB 423"
+          ],
+          "time": [
+            "09:00 am-10:30 am"
+          ],
+          "crn": "24523"
+        }
+      }
     },
-    "601": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "ADV IMMUNOLOGIC CONCEPTS",
-      "remaining": "21",
-      "capacity": "21",
-      "instructor": [
-        "Michael Criscitiello (P)"
-      ],
-      "credits": "1-5",
-      "course": "662",
-      "days": [
-        "MF"
-      ],
-      "date (mm/dd)": [
-        "09/19-10/07"
-      ],
-      "location": [
-        "VRB 423"
-      ],
-      "time": [
-        "09:00 am-10:30 am"
-      ],
-      "crn": "24521"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "ADV IMMUNOLOGIC CONCEPTS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Gregory Johnson (P)"
-      ],
-      "credits": "1-5",
-      "course": "662",
-      "days": [
-        "MF"
-      ],
-      "date (mm/dd)": [
-        "10/10-10/28"
-      ],
-      "location": [
-        "VRB 423"
-      ],
-      "time": [
-        "09:00 am-10:30 am"
-      ],
-      "crn": "24522"
-    },
-    "608": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "ADV IMMUNOLOGIC CONCEPTS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Christabel Welsh (P)"
-      ],
-      "credits": "1-5",
-      "course": "662",
-      "days": [
-        "MF"
-      ],
-      "date (mm/dd)": [
-        "10/31-11/18"
-      ],
-      "location": [
-        "VRB 423"
-      ],
-      "time": [
-        "09:00 am-10:30 am"
-      ],
-      "crn": "24523"
-    }
-  },
-  "685": {
-    "632": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
+    "685": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Susan Payne (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20649"
-    },
-    "600": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "DIRECTED STUDIES",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Jeffrey Musser (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23114"
-    },
-    "601": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Fred Clubb (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23142"
-    },
-    "612": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "DIRECTED STUDIES",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Waithaka Mwangi (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18582"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Suryakant Waghela (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23192"
-    },
-    "624": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sara D. Lawhon (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15758"
-    },
-    "646": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "646",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Michael Criscitiello (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19894"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "DIRECTED STUDIES",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Harvey Scott (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25747"
-    },
-    "636": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "636",
-      "title": "DIRECTED STUDIES",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Gonzalo Rivera (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18456"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Thomas Craig (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25748"
-    },
-    "605": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25749"
-    },
-    "606": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25750"
-    },
-    "607": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Maria Esteve-Gasent (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20584"
-    },
-    "608": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25751"
-    }
-  },
-  "643": {
-    "600": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "PATH BACTERIOLOGY I",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Thomas Ficht (P)",
-        "Thomas Ficht"
-      ],
-      "credits": "4",
-      "course": "643",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "19806"
-    }
-  },
-  "647": {
-    "600": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "VIROLOGY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Judith Ball (P)",
-        "Judith Ball"
-      ],
-      "credits": "4",
-      "course": "647",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "24520"
-    }
-  },
-  "629": {
-    "699": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "LAB QUALITY SYSTEMS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Yuan Dai (P), Prabha Vasudevan"
-      ],
-      "credits": "3",
-      "course": "629",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "20379"
-    },
-    "700": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "LAB QUALITY SYSTEMS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Yuan Dai (P), Prabha Vasudevan"
-      ],
-      "credits": "3",
-      "course": "629",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "20380"
-    }
-  },
-  "619": {
-    "600": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "MOL METH MICR CHARACTZN",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Suresh Pillai (P)",
-        "Suresh Pillai"
-      ],
-      "credits": "3",
-      "course": "619",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "KLCT 007"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "11:10 am-01:10 pm"
-      ],
-      "crn": "19203"
-    }
-  },
-  "691": {
-    "651": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Helene L. Andrews-Polymenis (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20586"
-    },
-    "652": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "652",
-      "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Blanca Lupiani (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15858"
-    },
-    "610": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Allison Ficht (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25753"
-    },
-    "611": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Thomas Ficht (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18568"
-    },
-    "633": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "633",
-      "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Sanjay Reddy (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18952"
-    },
-    "612": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Waithaka Mwangi (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18570"
-    },
-    "634": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "634",
-      "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Christopher M. Seabury (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13925"
-    },
-    "613": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Walter E. Cook (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25754"
-    },
-    "614": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Jason S. Karpac (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25755"
-    },
-    "636": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "636",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Gonzalo Rivera (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18555"
-    },
-    "615": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25756"
-    },
-    "621": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "James N. Derr (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18569"
+      "sections": {
+        "632": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Susan Payne (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20649"
+        },
+        "600": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DIRECTED STUDIES",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Jeffrey Musser (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23114"
+        },
+        "601": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Fred Clubb (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23142"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "DIRECTED STUDIES",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Waithaka Mwangi (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18582"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Suryakant Waghela (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23192"
+        },
+        "624": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sara D. Lawhon (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15758"
+        },
+        "646": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "646",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Michael Criscitiello (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19894"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "DIRECTED STUDIES",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Harvey Scott (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25747"
+        },
+        "636": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "636",
+          "title": "DIRECTED STUDIES",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Gonzalo Rivera (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18456"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Thomas Craig (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25748"
+        },
+        "605": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25749"
+        },
+        "606": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25750"
+        },
+        "607": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Maria Esteve-Gasent (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20584"
+        },
+        "608": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25751"
+        }
+      }
     },
     "643": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Donald Brightsmith (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15309"
-    },
-    "600": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Ian Tizard (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22733"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Ann Kier (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23093"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Susan Payne (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23169"
-    },
-    "624": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Sara D. Lawhon (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18133"
-    },
-    "646": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "646",
-      "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Michael Criscitiello (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13926"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Rosina C. Krecek (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23191"
+      "title": "PATH BACTERIOLOGY I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "PATH BACTERIOLOGY I",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Thomas Ficht (P)",
+            "Thomas Ficht"
+          ],
+          "credits": "4",
+          "course": "643",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "19806"
+        }
+      }
     },
     "647": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "647",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Luc Berghman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18974"
+      "title": "VIROLOGY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "VIROLOGY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Judith Ball (P)",
+            "Judith Ball"
+          ],
+          "credits": "4",
+          "course": "647",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "24520"
+        }
+      }
     },
-    "604": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Joe N. Kornegay (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23207"
+    "629": {
+      "title": "LAB QUALITY SYSTEMS",
+      "sections": {
+        "699": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "LAB QUALITY SYSTEMS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Yuan Dai (P), Prabha Vasudevan"
+          ],
+          "credits": "3",
+          "course": "629",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "20379"
+        },
+        "700": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "LAB QUALITY SYSTEMS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Yuan Dai (P), Prabha Vasudevan"
+          ],
+          "credits": "3",
+          "course": "629",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "20380"
+        }
+      }
     },
-    "626": {
-      "select": "C",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "626",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Shuping Zhang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15693"
+    "619": {
+      "title": "MOL METH MICR CHARACTZN",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "MOL METH MICR CHARACTZN",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Suresh Pillai (P)",
+            "Suresh Pillai"
+          ],
+          "credits": "3",
+          "course": "619",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "KLCT 007"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "11:10 am-01:10 pm"
+          ],
+          "crn": "19203"
+        }
+      }
     },
-    "648": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "648",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Guan Zhu (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13928"
+      "sections": {
+        "651": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Helene L. Andrews-Polymenis (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20586"
+        },
+        "652": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "652",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Blanca Lupiani (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15858"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Allison Ficht (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25753"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Thomas Ficht (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18568"
+        },
+        "633": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "633",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Sanjay Reddy (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18952"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Waithaka Mwangi (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18570"
+        },
+        "634": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "634",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Christopher M. Seabury (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13925"
+        },
+        "613": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Walter E. Cook (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25754"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Jason S. Karpac (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25755"
+        },
+        "636": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "636",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Gonzalo Rivera (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18555"
+        },
+        "615": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25756"
+        },
+        "621": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "James N. Derr (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18569"
+        },
+        "643": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Donald Brightsmith (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15309"
+        },
+        "600": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Ian Tizard (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22733"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Ann Kier (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23093"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Susan Payne (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23169"
+        },
+        "624": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Sara D. Lawhon (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18133"
+        },
+        "646": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "646",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Michael Criscitiello (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13926"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Rosina C. Krecek (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23191"
+        },
+        "647": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "647",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Luc Berghman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18974"
+        },
+        "604": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Joe N. Kornegay (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23207"
+        },
+        "626": {
+          "select": "C",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "626",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Shuping Zhang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15693"
+        },
+        "648": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "648",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Guan Zhu (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13928"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Maria Esteve-Gasent (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23219"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Harvey Scott (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23260"
+        },
+        "628": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "628",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Judith Ball (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13924"
+        },
+        "607": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Pablo J. Pinedo (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23284"
+        },
+        "608": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Jeffrey Musser (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23511"
+        },
+        "609": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Albert Mulenga (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25752"
+        }
+      }
     },
-    "605": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Maria Esteve-Gasent (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23219"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Harvey Scott (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23260"
-    },
-    "628": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "628",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Judith Ball (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13924"
-    },
-    "607": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Pablo J. Pinedo (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23284"
-    },
-    "608": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Jeffrey Musser (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23511"
-    },
-    "609": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Albert Mulenga (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25752"
+    "681": {
+      "title": "SEMINAR",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VTMI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Patricia J. Holman (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "VMS 210"
+          ],
+          "time": [
+            "11:30 am-12:30 pm"
+          ],
+          "crn": "12838"
+        }
+      }
     }
   },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "VTMI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SEMINAR",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Patricia J. Holman (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "VMS 210"
-      ],
-      "time": [
-        "11:30 am-12:30 pm"
-      ],
-      "crn": "12838"
-    }
-  }
+  "title": "VTMI - Veterinary Microbiology",
+  "updated": "Thu Apr 07 01:26:47 CDT 2016"
 }

@@ -1,3554 +1,3621 @@
 {
-  "181": {
-    "510": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "510",
+  "courses": {
+    "181": {
       "title": "MANUF & ASSEM PROC I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "William A. Farmer"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 112"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "25385"
+      "sections": {
+        "510": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "510",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "William A. Farmer"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 112"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "25385"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "511",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "Waleed A. Khan , Jigar Bimal Patel"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 112"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm",
+            "11:00 am-12:50 pm"
+          ],
+          "crn": "25386"
+        },
+        "501": {
+          "select": "C",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "Rasool Koosha"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MPHY 203",
+            "TBA"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "TBA"
+          ],
+          "crn": "25376"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "512",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "Rasool Koosha"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 112"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm",
+            "01:00 pm-02:50 pm"
+          ],
+          "crn": "25387"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "William A. Farmer , Jigar Bimal Patel"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MPHY 203",
+            "THOM 112"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "11:00 am-12:50 pm"
+          ],
+          "crn": "25377"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "Zhujian Feng"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MPHY 203",
+            "THOM 112"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "11:00 am-12:50 pm"
+          ],
+          "crn": "25378"
+        },
+        "504": {
+          "select": "C",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "Waleed A. Khan"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MPHY 203",
+            "THOM 112"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "11:00 am-12:50 pm"
+          ],
+          "crn": "25379"
+        },
+        "505": {
+          "select": "C",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "505",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "Scott N. Butler"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MPHY 203",
+            "THOM 112"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "01:00 pm-02:50 pm"
+          ],
+          "crn": "25380"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "506",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "Zhujian Feng , Waleed A. Khan"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MPHY 203",
+            "THOM 112"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "25381"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "507",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "Jigar Bimal Patel"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 112"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm",
+            "11:00 am-12:50 pm"
+          ],
+          "crn": "25382"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "508",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "Rasool Koosha"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 112"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm",
+            "01:00 pm-02:50 pm"
+          ],
+          "crn": "25383"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "509",
+          "title": "MANUF & ASSEM PROC I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "Zhujian Feng"
+          ],
+          "credits": "3",
+          "course": "181",
+          "days": [
+            "MWF",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 112"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm",
+            "01:00 pm-02:50 pm"
+          ],
+          "crn": "25384"
+        }
+      }
     },
-    "511": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "511",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "Waleed A. Khan , Jigar Bimal Patel"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 112"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm",
-        "11:00 am-12:50 pm"
-      ],
-      "crn": "25386"
-    },
-    "501": {
-      "select": "C",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "Rasool Koosha"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MPHY 203",
-        "TBA"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "TBA"
-      ],
-      "crn": "25376"
-    },
-    "512": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "512",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "Rasool Koosha"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 112"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm",
-        "01:00 pm-02:50 pm"
-      ],
-      "crn": "25387"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "William A. Farmer , Jigar Bimal Patel"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MPHY 203",
-        "THOM 112"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "11:00 am-12:50 pm"
-      ],
-      "crn": "25377"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "Zhujian Feng"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MPHY 203",
-        "THOM 112"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "11:00 am-12:50 pm"
-      ],
-      "crn": "25378"
-    },
-    "504": {
-      "select": "C",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "Waleed A. Khan"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MPHY 203",
-        "THOM 112"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "11:00 am-12:50 pm"
-      ],
-      "crn": "25379"
-    },
-    "505": {
-      "select": "C",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "505",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "Scott N. Butler"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MPHY 203",
-        "THOM 112"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "01:00 pm-02:50 pm"
-      ],
-      "crn": "25380"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "506",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "Zhujian Feng , Waleed A. Khan"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MPHY 203",
-        "THOM 112"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "25381"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "507",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "Jigar Bimal Patel"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 112"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm",
-        "11:00 am-12:50 pm"
-      ],
-      "crn": "25382"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "508",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "Rasool Koosha"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 112"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm",
-        "01:00 pm-02:50 pm"
-      ],
-      "crn": "25383"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "509",
-      "title": "MANUF & ASSEM PROC I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "Zhujian Feng"
-      ],
-      "credits": "3",
-      "course": "181",
-      "days": [
-        "MWF",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 112"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm",
-        "01:00 pm-02:50 pm"
-      ],
-      "crn": "25384"
-    }
-  },
-  "281": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "281": {
       "title": "MANUF & ASSEM PROC II",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "281",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 003"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "06:10 pm-09:00 pm"
-      ],
-      "crn": "25241"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "MANUF & ASSEM PROC II",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "281",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 003"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "06:10 pm-09:00 pm"
+          ],
+          "crn": "25241"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "MANUF & ASSEM PROC II",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "281",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 003"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "06:10 pm-09:00 pm"
+          ],
+          "crn": "25242"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "MANUF & ASSEM PROC II",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "281",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 003"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "06:10 pm-09:00 pm"
+          ],
+          "crn": "25244"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "MANUF & ASSEM PROC II",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "281",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 003"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "06:10 pm-09:00 pm"
+          ],
+          "crn": "25411"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "MANUF & ASSEM PROC II",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "281",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 003"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "06:10 pm-09:00 pm"
-      ],
-      "crn": "25242"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "MANUF & ASSEM PROC II",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "281",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 003"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "06:10 pm-09:00 pm"
-      ],
-      "crn": "25244"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "MANUF & ASSEM PROC II",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "281",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 003"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "06:10 pm-09:00 pm"
-      ],
-      "crn": "25411"
-    }
-  },
-  "380": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "380": {
       "title": "COMPUTER-AIDED MFG",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "380",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A",
-        "THOM 115B"
-      ],
-      "time": [
-        "12:40 pm-01:55 pm",
-        "11:10 am-02:00 pm"
-      ],
-      "crn": "25312"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "COMPUTER-AIDED MFG",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "380",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A",
+            "THOM 115B"
+          ],
+          "time": [
+            "12:40 pm-01:55 pm",
+            "11:10 am-02:00 pm"
+          ],
+          "crn": "25312"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "COMPUTER-AIDED MFG",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "380",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A",
+            "THOM 115B"
+          ],
+          "time": [
+            "12:40 pm-01:55 pm",
+            "08:00 am-10:50 am"
+          ],
+          "crn": "25302"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "COMPUTER-AIDED MFG",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "380",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A",
+            "THOM 115B"
+          ],
+          "time": [
+            "12:40 pm-01:55 pm",
+            "01:50 pm-04:40 pm"
+          ],
+          "crn": "25301"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "COMPUTER-AIDED MFG",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "380",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A",
+            "THOM 115B"
+          ],
+          "time": [
+            "12:40 pm-01:55 pm",
+            "01:50 pm-04:40 pm"
+          ],
+          "crn": "25299"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "COMPUTER-AIDED MFG",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "380",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A",
-        "THOM 115B"
-      ],
-      "time": [
-        "12:40 pm-01:55 pm",
-        "08:00 am-10:50 am"
-      ],
-      "crn": "25302"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "COMPUTER-AIDED MFG",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "380",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A",
-        "THOM 115B"
-      ],
-      "time": [
-        "12:40 pm-01:55 pm",
-        "01:50 pm-04:40 pm"
-      ],
-      "crn": "25301"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "COMPUTER-AIDED MFG",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "380",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A",
-        "THOM 115B"
-      ],
-      "time": [
-        "12:40 pm-01:55 pm",
-        "01:50 pm-04:40 pm"
-      ],
-      "crn": "25299"
-    }
-  },
-  "370": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "501",
+    "370": {
       "title": "THERMO FOR TECHNOLOGIS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Jorge Alvarado (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "370",
-      "days": [
-        "TR",
-        "W",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 115B",
-        "THOM 008"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "05:00 pm-06:50 pm",
-        "05:00 pm-06:50 pm"
-      ],
-      "crn": "25315"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "THERMO FOR TECHNOLOGIS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Jorge Alvarado (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "370",
+          "days": [
+            "TR",
+            "W",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 115B",
+            "THOM 008"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "05:00 pm-06:50 pm",
+            "05:00 pm-06:50 pm"
+          ],
+          "crn": "25315"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "THERMO FOR TECHNOLOGIS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Jorge Alvarado (P)",
+            "Yi Wang",
+            "Yi Wang"
+          ],
+          "credits": "4",
+          "course": "370",
+          "days": [
+            "TR",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 008",
+            "THOM 115B"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "03:55 pm-05:45 pm",
+            "03:55 pm-05:45 pm"
+          ],
+          "crn": "25318"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "503",
+          "title": "THERMO FOR TECHNOLOGIS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Jorge Alvarado (P)",
+            "Yi Wang",
+            "Yi Wang"
+          ],
+          "credits": "4",
+          "course": "370",
+          "days": [
+            "TR",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 115B",
+            "THOM 008"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "06:00 pm-07:50 pm",
+            "06:00 pm-07:50 pm"
+          ],
+          "crn": "25322"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "504",
+          "title": "THERMO FOR TECHNOLOGIS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Jorge Alvarado",
+            "Jorge Alvarado",
+            "Jorge Alvarado (P)"
+          ],
+          "credits": "4",
+          "course": "370",
+          "days": [
+            "M",
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 115B",
+            "THOM 008",
+            "FERM 303"
+          ],
+          "time": [
+            "06:00 pm-07:50 pm",
+            "06:00 pm-07:50 pm",
+            "09:35 am-10:50 am"
+          ],
+          "crn": "27547"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "502",
-      "title": "THERMO FOR TECHNOLOGIS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Jorge Alvarado (P)",
-        "Yi Wang",
-        "Yi Wang"
-      ],
-      "credits": "4",
-      "course": "370",
-      "days": [
-        "TR",
-        "R",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 008",
-        "THOM 115B"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "03:55 pm-05:45 pm",
-        "03:55 pm-05:45 pm"
-      ],
-      "crn": "25318"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "503",
-      "title": "THERMO FOR TECHNOLOGIS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Jorge Alvarado (P)",
-        "Yi Wang",
-        "Yi Wang"
-      ],
-      "credits": "4",
-      "course": "370",
-      "days": [
-        "TR",
-        "R",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 115B",
-        "THOM 008"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "06:00 pm-07:50 pm",
-        "06:00 pm-07:50 pm"
-      ],
-      "crn": "25322"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "504",
-      "title": "THERMO FOR TECHNOLOGIS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "TBA",
-        "Jorge Alvarado (P)"
-      ],
-      "credits": "4",
-      "course": "370",
-      "days": [
-        "M",
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 115B",
-        "THOM 008",
-        "FERM 303"
-      ],
-      "time": [
-        "06:00 pm-07:50 pm",
-        "06:00 pm-07:50 pm",
-        "09:35 am-10:50 am"
-      ],
-      "crn": "27547"
-    }
-  },
-  "361": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "361": {
       "title": "PROD DESGN & SOLID MODEL",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "361",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "THOM 115B"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "09:10 am-11:00 am"
-      ],
-      "crn": "25293"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "PROD DESGN & SOLID MODEL",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "361",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 104",
+            "THOM 115B"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "09:10 am-11:00 am"
+          ],
+          "crn": "25293"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "PROD DESGN & SOLID MODEL",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "361",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 104",
+            "THOM 115B"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "08:00 am-09:50 am"
+          ],
+          "crn": "25300"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "PROD DESGN & SOLID MODEL",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "361",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 104",
+            "THOM 115B"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "10:20 am-12:10 pm"
+          ],
+          "crn": "25308"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "PROD DESGN & SOLID MODEL",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "361",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 104",
+            "THOM 115B"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "11:20 am-01:10 pm"
+          ],
+          "crn": "27546"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "PROD DESGN & SOLID MODEL",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "361",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 104",
-        "THOM 115B"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "08:00 am-09:50 am"
-      ],
-      "crn": "25300"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "PROD DESGN & SOLID MODEL",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "361",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 104",
-        "THOM 115B"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "10:20 am-12:10 pm"
-      ],
-      "crn": "25308"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "PROD DESGN & SOLID MODEL",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "361",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "THOM 115B"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "11:20 am-01:10 pm"
-      ],
-      "crn": "27546"
-    }
-  },
-  "383": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "383": {
       "title": "MFG INFORMATION SYSTEMS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "Sheng-Jen Hsieh (P)"
-      ],
-      "credits": "4",
-      "course": "383",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 115",
-        "SCC 4.210F"
-      ],
-      "time": [
-        "11:30 am-01:20 pm",
-        "12:30 pm-02:20 pm"
-      ],
-      "crn": "25414"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "MFG INFORMATION SYSTEMS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA",
+            "Sheng-Jen Hsieh (P)"
+          ],
+          "credits": "4",
+          "course": "383",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 115",
+            "SCC 4.210F"
+          ],
+          "time": [
+            "11:30 am-01:20 pm",
+            "12:30 pm-02:20 pm"
+          ],
+          "crn": "25414"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "MFG INFORMATION SYSTEMS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA",
+            "Sheng-Jen Hsieh (P)"
+          ],
+          "credits": "4",
+          "course": "383",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 115",
+            "SCC 4.210F"
+          ],
+          "time": [
+            "01:50 pm-03:40 pm",
+            "12:30 pm-02:20 pm"
+          ],
+          "crn": "25415"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "MFG INFORMATION SYSTEMS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Sheng-Jen Hsieh (P)",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "383",
+          "days": [
+            "TR",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCC 4.210F",
+            "THOM 115"
+          ],
+          "time": [
+            "12:30 pm-02:20 pm",
+            "04:30 pm-06:20 pm"
+          ],
+          "crn": "25416"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "MFG INFORMATION SYSTEMS",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sheng-Jen Hsieh (P)",
+            "Sheng-Jen Hsieh (P)"
+          ],
+          "credits": "4",
+          "course": "383",
+          "days": [
+            "TR",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCC 4.210F",
+            "THOM 115"
+          ],
+          "time": [
+            "12:30 pm-02:20 pm",
+            "02:30 pm-04:20 pm"
+          ],
+          "crn": "25460"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "MFG INFORMATION SYSTEMS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "Sheng-Jen Hsieh (P)"
-      ],
-      "credits": "4",
-      "course": "383",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 115",
-        "SCC 4.210F"
-      ],
-      "time": [
-        "01:50 pm-03:40 pm",
-        "12:30 pm-02:20 pm"
-      ],
-      "crn": "25415"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "MFG INFORMATION SYSTEMS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Sheng-Jen Hsieh (P)",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "383",
-      "days": [
-        "TR",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCC 4.210F",
-        "THOM 115"
-      ],
-      "time": [
-        "12:30 pm-02:20 pm",
-        "04:30 pm-06:20 pm"
-      ],
-      "crn": "25416"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "MFG INFORMATION SYSTEMS",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sheng-Jen Hsieh (P)",
-        "Sheng-Jen Hsieh (P)"
-      ],
-      "credits": "4",
-      "course": "383",
-      "days": [
-        "TR",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCC 4.210F",
-        "THOM 115"
-      ],
-      "time": [
-        "12:30 pm-02:20 pm",
-        "02:30 pm-04:20 pm"
-      ],
-      "crn": "25460"
-    }
-  },
-  "275": {
-    "500": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "275": {
       "title": "MECHANICS FOR TECH",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Mathew A. Kuttolamadom (P)"
-      ],
-      "credits": "3",
-      "course": "275",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PETR 113"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "25239"
-    }
-  },
-  "363": {
-    "500": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MECHANICS FOR TECH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mathew A. Kuttolamadom (P)"
+          ],
+          "credits": "3",
+          "course": "275",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "25239"
+        }
+      }
+    },
+    "363": {
       "title": "MECHANICAL DESIGN APP I",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Jyhwen Wang (P)"
-      ],
-      "credits": "3",
-      "course": "363",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCTS 317"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "25313"
-    }
-  },
-  "320": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "QUALITY ASSURANCE",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 107AC"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "06:00 pm-08:50 pm"
-      ],
-      "crn": "25284"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MECHANICAL DESIGN APP I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jyhwen Wang (P)"
+          ],
+          "credits": "3",
+          "course": "363",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "25313"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
+    "320": {
       "title": "QUALITY ASSURANCE",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "MWF",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 107AC"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "01:50 pm-04:40 pm"
-      ],
-      "crn": "25286"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "QUALITY ASSURANCE",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 107AC"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "06:00 pm-08:50 pm"
+          ],
+          "crn": "25284"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "QUALITY ASSURANCE",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "MWF",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 107AC"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "01:50 pm-04:40 pm"
+          ],
+          "crn": "25286"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "QUALITY ASSURANCE",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 107AC"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "06:00 pm-08:50 pm"
+          ],
+          "crn": "25289"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "QUALITY ASSURANCE",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "MWF",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 107AC"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "06:00 pm-08:50 pm"
+          ],
+          "crn": "27545"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "QUALITY ASSURANCE",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 107AC"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "06:00 pm-08:50 pm"
-      ],
-      "crn": "25289"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "QUALITY ASSURANCE",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "MWF",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 107AC"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "06:00 pm-08:50 pm"
-      ],
-      "crn": "27545"
-    }
-  },
-  "463": {
-    "500": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "463": {
       "title": "MECHANICAL DESIGN APP II",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Mathew A. Kuttolamadom (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "25281"
-    }
-  },
-  "376": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MECHANICAL DESIGN APP II",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Mathew A. Kuttolamadom (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "25281"
+        }
+      }
+    },
+    "376": {
       "title": "STRENGTH OF MATERIALS",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Ying Zhang",
-        "Jyhwen Wang (P)"
-      ],
-      "credits": "4",
-      "course": "376",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 005",
-        "FERM 303"
-      ],
-      "time": [
-        "08:00 am-09:50 am",
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "25320"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "STRENGTH OF MATERIALS",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Ying Zhang",
+            "Jyhwen Wang (P)"
+          ],
+          "credits": "4",
+          "course": "376",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 005",
+            "FERM 303"
+          ],
+          "time": [
+            "08:00 am-09:50 am",
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "25320"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "STRENGTH OF MATERIALS",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Jyhwen Wang (P)",
+            "Ying Zhang"
+          ],
+          "credits": "4",
+          "course": "376",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "03:55 pm-05:45 pm"
+          ],
+          "crn": "25319"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "STRENGTH OF MATERIALS",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Jyhwen Wang (P)",
+            "Ying Zhang"
+          ],
+          "credits": "4",
+          "course": "376",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "01:30 pm-03:20 pm"
+          ],
+          "crn": "25317"
+        },
+        "504": {
+          "select": "C",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "STRENGTH OF MATERIALS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jyhwen Wang (P)",
+            "Ying Zhang"
+          ],
+          "credits": "4",
+          "course": "376",
+          "days": [
+            "TR",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "TBA"
+          ],
+          "crn": "25316"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "505",
+          "title": "STRENGTH OF MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Ying Zhang",
+            "Jyhwen Wang (P)"
+          ],
+          "credits": "4",
+          "course": "376",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 005",
+            "FERM 303"
+          ],
+          "time": [
+            "01:50 pm-03:40 pm",
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "25314"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "STRENGTH OF MATERIALS",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Jyhwen Wang (P)",
-        "Ying Zhang"
-      ],
-      "credits": "4",
-      "course": "376",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "03:55 pm-05:45 pm"
-      ],
-      "crn": "25319"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "STRENGTH OF MATERIALS",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Jyhwen Wang (P)",
-        "Ying Zhang"
-      ],
-      "credits": "4",
-      "course": "376",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "01:30 pm-03:20 pm"
-      ],
-      "crn": "25317"
-    },
-    "504": {
-      "select": "C",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "STRENGTH OF MATERIALS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jyhwen Wang (P)",
-        "Ying Zhang"
-      ],
-      "credits": "4",
-      "course": "376",
-      "days": [
-        "TR",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "TBA"
-      ],
-      "crn": "25316"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "505",
-      "title": "STRENGTH OF MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Ying Zhang",
-        "Jyhwen Wang (P)"
-      ],
-      "credits": "4",
-      "course": "376",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 005",
-        "FERM 303"
-      ],
-      "time": [
-        "01:50 pm-03:40 pm",
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "25314"
-    }
-  },
-  "201": {
-    "510": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "510",
+    "201": {
       "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "R",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "06:00 pm-07:50 pm",
-        "06:00 pm-07:50 pm"
-      ],
-      "crn": "27558"
+      "sections": {
+        "510": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "510",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "06:00 pm-07:50 pm",
+            "06:00 pm-07:50 pm"
+          ],
+          "crn": "27558"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "511",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "F",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "03:00 pm-04:50 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "27559"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "M",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 108",
+            "THOM 004",
+            "THOM 112"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "08:00 am-09:50 am",
+            "08:00 am-09:50 am"
+          ],
+          "crn": "27549"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "512",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "F",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "05:00 pm-06:50 pm",
+            "05:00 pm-06:50 pm"
+          ],
+          "crn": "27560"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "M",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 108",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "01:00 pm-02:50 pm",
+            "01:00 pm-02:50 pm"
+          ],
+          "crn": "27550"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "503",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "M",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 108",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "03:00 pm-04:50 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "27551"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "504",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "M",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 108",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "05:00 pm-06:50 pm",
+            "05:00 pm-06:50 pm"
+          ],
+          "crn": "27552"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "505",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "M",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 108",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "07:00 pm-08:50 pm",
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "27553"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "506",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Nguyen Hung (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "T",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 108",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "06:00 pm-07:50 pm",
+            "06:00 pm-07:50 pm"
+          ],
+          "crn": "27554"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "507",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "W",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "03:00 pm-04:50 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "27555"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "508",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "W",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "05:00 pm-06:50 pm",
+            "05:00 pm-06:50 pm"
+          ],
+          "crn": "27556"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "509",
+          "title": "MANUFACTURING AND MATERIALS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Suleiman M. Obeidat (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MWF",
+            "W",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 102",
+            "THOM 112",
+            "THOM 004"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "07:00 pm-08:50 pm",
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "27557"
+        }
+      }
     },
-    "511": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "511",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "F",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "03:00 pm-04:50 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "27559"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "501",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "M",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 108",
-        "THOM 004",
-        "THOM 112"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "08:00 am-09:50 am",
-        "08:00 am-09:50 am"
-      ],
-      "crn": "27549"
-    },
-    "512": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "512",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "F",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "05:00 pm-06:50 pm",
-        "05:00 pm-06:50 pm"
-      ],
-      "crn": "27560"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "502",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "M",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 108",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "01:00 pm-02:50 pm",
-        "01:00 pm-02:50 pm"
-      ],
-      "crn": "27550"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "503",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "M",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 108",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "03:00 pm-04:50 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "27551"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "504",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "M",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 108",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "05:00 pm-06:50 pm",
-        "05:00 pm-06:50 pm"
-      ],
-      "crn": "27552"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "505",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "M",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 108",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "07:00 pm-08:50 pm",
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "27553"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "506",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Nguyen Hung (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "T",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 108",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "06:00 pm-07:50 pm",
-        "06:00 pm-07:50 pm"
-      ],
-      "crn": "27554"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "507",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "W",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "03:00 pm-04:50 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "27555"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "508",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "W",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "05:00 pm-06:50 pm",
-        "05:00 pm-06:50 pm"
-      ],
-      "crn": "27556"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "509",
-      "title": "MANUFACTURING AND MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Suleiman M. Obeidat (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MWF",
-        "W",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 102",
-        "THOM 112",
-        "THOM 004"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "07:00 pm-08:50 pm",
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "27557"
-    }
-  },
-  "410": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "501",
+    "410": {
       "title": "MFG AUTOMATION & ROBOT",
-      "remaining": "13",
-      "capacity": "13",
-      "instructor": [
-        "Sheng-Jen Hsieh (P)",
-        "Bo Peng",
-        "Bo Peng"
-      ],
-      "credits": "3",
-      "course": "410",
-      "days": [
-        "MW",
-        "M",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110",
-        "THOM 115",
-        "THOM 112D"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "04:10 pm-06:00 pm",
-        "09:10 am-10:00 am"
-      ],
-      "crn": "25294"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "MFG AUTOMATION & ROBOT",
+          "remaining": "13",
+          "capacity": "13",
+          "instructor": [
+            "Sheng-Jen Hsieh (P)",
+            "Bo Peng",
+            "Bo Peng"
+          ],
+          "credits": "3",
+          "course": "410",
+          "days": [
+            "MW",
+            "M",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110",
+            "THOM 115",
+            "THOM 112D"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "04:10 pm-06:00 pm",
+            "09:10 am-10:00 am"
+          ],
+          "crn": "25294"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "MFG AUTOMATION & ROBOT",
+          "remaining": "13",
+          "capacity": "13",
+          "instructor": [
+            "Sheng-Jen Hsieh (P)",
+            "Bo Peng",
+            "Bo Peng"
+          ],
+          "credits": "3",
+          "course": "410",
+          "days": [
+            "MW",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110",
+            "THOM 115",
+            "THOM 112D"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "12:30 pm-02:20 pm",
+            "09:10 am-10:00 am"
+          ],
+          "crn": "25292"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "503",
+          "title": "MFG AUTOMATION & ROBOT",
+          "remaining": "13",
+          "capacity": "13",
+          "instructor": [
+            "Sheng-Jen Hsieh (P)",
+            "Bo Peng",
+            "Bo Peng"
+          ],
+          "credits": "3",
+          "course": "410",
+          "days": [
+            "MW",
+            "T",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110",
+            "THOM 115",
+            "THOM 112D"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "05:00 pm-06:50 pm",
+            "09:10 am-10:00 am"
+          ],
+          "crn": "25290"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "504",
+          "title": "MFG AUTOMATION & ROBOT",
+          "remaining": "13",
+          "capacity": "13",
+          "instructor": [
+            "Sheng-Jen Hsieh (P)",
+            "Bo Peng",
+            "Bo Peng"
+          ],
+          "credits": "3",
+          "course": "410",
+          "days": [
+            "MW",
+            "R",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110",
+            "THOM 115",
+            "THOM 112D"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "05:00 pm-06:50 pm",
+            "09:10 am-10:00 am"
+          ],
+          "crn": "25461"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "502",
-      "title": "MFG AUTOMATION & ROBOT",
-      "remaining": "13",
-      "capacity": "13",
-      "instructor": [
-        "Sheng-Jen Hsieh (P)",
-        "Bo Peng",
-        "Bo Peng"
-      ],
-      "credits": "3",
-      "course": "410",
-      "days": [
-        "MW",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110",
-        "THOM 115",
-        "THOM 112D"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "12:30 pm-02:20 pm",
-        "09:10 am-10:00 am"
-      ],
-      "crn": "25292"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "503",
-      "title": "MFG AUTOMATION & ROBOT",
-      "remaining": "13",
-      "capacity": "13",
-      "instructor": [
-        "Sheng-Jen Hsieh (P)",
-        "Bo Peng",
-        "Bo Peng"
-      ],
-      "credits": "3",
-      "course": "410",
-      "days": [
-        "MW",
-        "T",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110",
-        "THOM 115",
-        "THOM 112D"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "05:00 pm-06:50 pm",
-        "09:10 am-10:00 am"
-      ],
-      "crn": "25290"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "504",
-      "title": "MFG AUTOMATION & ROBOT",
-      "remaining": "13",
-      "capacity": "13",
-      "instructor": [
-        "Sheng-Jen Hsieh (P)",
-        "Bo Peng",
-        "Bo Peng"
-      ],
-      "credits": "3",
-      "course": "410",
-      "days": [
-        "MW",
-        "R",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110",
-        "THOM 115",
-        "THOM 112D"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "05:00 pm-06:50 pm",
-        "09:10 am-10:00 am"
-      ],
-      "crn": "25461"
-    }
-  },
-  "422": {
-    "900": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "900",
+    "422": {
       "title": "MFG TECHN PROJECTS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Michael Johnson",
-        "Michael Johnson (P)"
-      ],
-      "credits": "2",
-      "course": "422",
-      "days": [
-        "MF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 112D"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "25283"
-    }
-  },
-  "313": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "900",
+          "title": "MFG TECHN PROJECTS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Michael Johnson",
+            "Michael Johnson (P)"
+          ],
+          "credits": "2",
+          "course": "422",
+          "days": [
+            "MF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 112D"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "25283"
+        }
+      }
+    },
+    "313": {
       "title": "IND WELDING PROCESSES",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "313",
-      "days": [
-        "MW",
-        "R",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 009C",
-        "THOM 110"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "08:00 am-08:50 am",
-        "08:51 am-10:50 am"
-      ],
-      "crn": "25271"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "IND WELDING PROCESSES",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Angie H. Price (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "313",
+          "days": [
+            "MW",
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 009C",
+            "THOM 110"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "08:00 am-08:50 am",
+            "08:51 am-10:50 am"
+          ],
+          "crn": "25271"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "IND WELDING PROCESSES",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Angie H. Price (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "313",
+          "days": [
+            "MW",
+            "F",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 009C",
+            "THOM 110"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "08:00 am-08:50 am",
+            "08:51 am-10:50 am"
+          ],
+          "crn": "25280"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "502",
-      "title": "IND WELDING PROCESSES",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "313",
-      "days": [
-        "MW",
-        "F",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 009C",
-        "THOM 110"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "08:00 am-08:50 am",
-        "08:51 am-10:50 am"
-      ],
-      "crn": "25280"
-    }
-  },
-  "412": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "412": {
       "title": "PRODUCTION INV PLANNG",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Victor Leon (P)",
-        "Soumava Karmakar"
-      ],
-      "credits": "3",
-      "course": "412",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A",
-        "THOM 107AC"
-      ],
-      "time": [
-        "01:50 pm-03:05 pm",
-        "06:10 pm-08:00 pm"
-      ],
-      "crn": "25288"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "PRODUCTION INV PLANNG",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Victor Leon (P)",
+            "Soumava Karmakar"
+          ],
+          "credits": "3",
+          "course": "412",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A",
+            "THOM 107AC"
+          ],
+          "time": [
+            "01:50 pm-03:05 pm",
+            "06:10 pm-08:00 pm"
+          ],
+          "crn": "25288"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "PRODUCTION INV PLANNG",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Victor Leon (P)",
+            "Soumava Karmakar"
+          ],
+          "credits": "3",
+          "course": "412",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A",
+            "THOM 107AC"
+          ],
+          "time": [
+            "01:50 pm-03:05 pm",
+            "03:55 pm-05:45 pm"
+          ],
+          "crn": "25287"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "PRODUCTION INV PLANNG",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Victor Leon (P)",
+            "Soumava Karmakar"
+          ],
+          "credits": "3",
+          "course": "412",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A",
+            "THOM 107AC"
+          ],
+          "time": [
+            "01:50 pm-03:05 pm",
+            "04:40 pm-06:30 pm"
+          ],
+          "crn": "25285"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "PRODUCTION INV PLANNG",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Victor Leon (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "412",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A",
+            "THOM 107AC"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "03:55 pm-05:45 pm"
+          ],
+          "crn": "28281"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "PRODUCTION INV PLANNG",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Victor Leon (P)",
-        "Soumava Karmakar"
-      ],
-      "credits": "3",
-      "course": "412",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A",
-        "THOM 107AC"
-      ],
-      "time": [
-        "01:50 pm-03:05 pm",
-        "03:55 pm-05:45 pm"
-      ],
-      "crn": "25287"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "PRODUCTION INV PLANNG",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Victor Leon (P)",
-        "Soumava Karmakar"
-      ],
-      "credits": "3",
-      "course": "412",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A",
-        "THOM 107AC"
-      ],
-      "time": [
-        "01:50 pm-03:05 pm",
-        "04:40 pm-06:30 pm"
-      ],
-      "crn": "25285"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "PRODUCTION INV PLANNG",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "412",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A",
-        "THOM 107AC"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "03:55 pm-05:45 pm"
-      ],
-      "crn": "28281"
-    }
-  },
-  "303": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "501",
+    "303": {
       "title": "FLUID MECH & POWER",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Jorge Alvarado (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "303",
-      "days": [
-        "TR",
-        "T",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 116",
-        "THOM 008"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "05:00 pm-06:50 pm",
-        "05:00 pm-06:50 pm"
-      ],
-      "crn": "25245"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "FLUID MECH & POWER",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Jorge Alvarado (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "303",
+          "days": [
+            "TR",
+            "T",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 116",
+            "THOM 008"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "05:00 pm-06:50 pm",
+            "05:00 pm-06:50 pm"
+          ],
+          "crn": "25245"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "FLUID MECH & POWER",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Jorge Alvarado (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "303",
+          "days": [
+            "TR",
+            "T",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 116",
+            "THOM 008"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "07:00 pm-08:50 pm",
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "25247"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "503",
+          "title": "FLUID MECH & POWER",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Jorge Alvarado (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "303",
+          "days": [
+            "TR",
+            "W",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 008",
+            "THOM 116"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "07:00 pm-08:50 pm",
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "25246"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "504",
+          "title": "FLUID MECH & POWER",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Jorge Alvarado (P)",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "303",
+          "days": [
+            "TR",
+            "F",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D",
+            "THOM 116",
+            "THOM 008"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "03:00 pm-05:00 pm",
+            "03:00 pm-05:00 pm"
+          ],
+          "crn": "25531"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "502",
-      "title": "FLUID MECH & POWER",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Jorge Alvarado (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "303",
-      "days": [
-        "TR",
-        "T",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 116",
-        "THOM 008"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "07:00 pm-08:50 pm",
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "25247"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "503",
-      "title": "FLUID MECH & POWER",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Jorge Alvarado (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "303",
-      "days": [
-        "TR",
-        "W",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 008",
-        "THOM 116"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "07:00 pm-08:50 pm",
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "25246"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "504",
-      "title": "FLUID MECH & POWER",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Jorge Alvarado (P)",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "303",
-      "days": [
-        "TR",
-        "F",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D",
-        "THOM 116",
-        "THOM 008"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "03:00 pm-05:00 pm",
-        "03:00 pm-05:00 pm"
-      ],
-      "crn": "25531"
-    }
-  },
-  "402": {
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "402": {
       "title": "INSP METH & PROCEDURES",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Lian Ma"
-      ],
-      "credits": "3",
-      "course": "402",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 106"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "06:10 pm-08:00 pm"
-      ],
-      "crn": "25298"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "INSP METH & PROCEDURES",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Lian Ma"
+          ],
+          "credits": "3",
+          "course": "402",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 106"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "06:10 pm-08:00 pm"
+          ],
+          "crn": "25298"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "INSP METH & PROCEDURES",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Lian Ma"
+          ],
+          "credits": "3",
+          "course": "402",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 106"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "03:55 pm-05:45 pm"
+          ],
+          "crn": "25297"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "INSP METH & PROCEDURES",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Lian Ma"
+          ],
+          "credits": "3",
+          "course": "402",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 106"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "06:10 pm-08:00 pm"
+          ],
+          "crn": "25296"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "INSP METH & PROCEDURES",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Lian Ma"
+          ],
+          "credits": "3",
+          "course": "402",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 106"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "12:00 pm-01:50 pm"
+          ],
+          "crn": "25295"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "INSP METH & PROCEDURES",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Lian Ma"
-      ],
-      "credits": "3",
-      "course": "402",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 106"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "03:55 pm-05:45 pm"
-      ],
-      "crn": "25297"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "INSP METH & PROCEDURES",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Lian Ma"
-      ],
-      "credits": "3",
-      "course": "402",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 106"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "06:10 pm-08:00 pm"
-      ],
-      "crn": "25296"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "INSP METH & PROCEDURES",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Lian Ma"
-      ],
-      "credits": "3",
-      "course": "402",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 106"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "12:00 pm-01:50 pm"
-      ],
-      "crn": "25295"
-    }
-  },
-  "206": {
-    "510": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "510",
+    "206": {
       "title": "NONMETALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Chin-Hua Cheng"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "11:30 am-01:20 pm"
-      ],
-      "crn": "25463"
+      "sections": {
+        "510": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "510",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Chin-Hua Cheng"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "11:30 am-01:20 pm"
+          ],
+          "crn": "25463"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "511",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Kyungjun Lee"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "06:10 pm-08:00 pm"
+          ],
+          "crn": "25464"
+        },
+        "501": {
+          "select": "C",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Chin-Hua Cheng"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "04:10 pm-06:00 pm"
+          ],
+          "crn": "25206"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "512",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Kyungjun Lee"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "06:10 pm-08:00 pm"
+          ],
+          "crn": "25465"
+        },
+        "502": {
+          "select": "C",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Yi-Hsien Yu"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "04:10 pm-06:00 pm"
+          ],
+          "crn": "25213"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Yi-Hsien Yu"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "11:10 am-01:00 pm"
+          ],
+          "crn": "25215"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Yi-Hsien Yu"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "03:55 pm-05:45 pm"
+          ],
+          "crn": "25218"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "505",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Chin-Hua Cheng"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "11:10 am-01:00 pm"
+          ],
+          "crn": "25219"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "506",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Chin-Hua Cheng"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "11:30 am-01:20 pm"
+          ],
+          "crn": "25220"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "507",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Kyungjun Lee"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "06:10 pm-08:00 pm"
+          ],
+          "crn": "25221"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "508",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Yi-Hsien Yu"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "11:30 am-01:20 pm"
+          ],
+          "crn": "25222"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "509",
+          "title": "NONMETALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Gwo-Ping Fang (P)",
+            "Kyungjun Lee"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "MWF",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 005"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "25223"
+        }
+      }
     },
-    "511": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "511",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Kyungjun Lee"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "06:10 pm-08:00 pm"
-      ],
-      "crn": "25464"
-    },
-    "501": {
-      "select": "C",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Chin-Hua Cheng"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "04:10 pm-06:00 pm"
-      ],
-      "crn": "25206"
-    },
-    "512": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "512",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Kyungjun Lee"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "06:10 pm-08:00 pm"
-      ],
-      "crn": "25465"
-    },
-    "502": {
-      "select": "C",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Yi-Hsien Yu"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "04:10 pm-06:00 pm"
-      ],
-      "crn": "25213"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Yi-Hsien Yu"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "11:10 am-01:00 pm"
-      ],
-      "crn": "25215"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Yi-Hsien Yu"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "03:55 pm-05:45 pm"
-      ],
-      "crn": "25218"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "505",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Chin-Hua Cheng"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "11:10 am-01:00 pm"
-      ],
-      "crn": "25219"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "506",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Chin-Hua Cheng"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "11:30 am-01:20 pm"
-      ],
-      "crn": "25220"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "507",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Kyungjun Lee"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "06:10 pm-08:00 pm"
-      ],
-      "crn": "25221"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "508",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Yi-Hsien Yu"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "11:30 am-01:20 pm"
-      ],
-      "crn": "25222"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "509",
-      "title": "NONMETALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Gwo-Ping Fang (P)",
-        "Kyungjun Lee"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "MWF",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 005"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "25223"
-    }
-  },
-  "207": {
-    "510": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "510",
+    "207": {
       "title": "METALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Neha K. Gada"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "THOM 004"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "11:10 am-01:00 pm"
-      ],
-      "crn": "25459"
+      "sections": {
+        "510": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "510",
+          "title": "METALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Neha K. Gada"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "THOM 004"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "11:10 am-01:00 pm"
+          ],
+          "crn": "25459"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "511",
+          "title": "METALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Meghana Maddipati"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "THOM 004"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "08:00 am-09:50 am"
+          ],
+          "crn": "26258"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "METALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Neha K. Gada"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 004"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "01:30 pm-03:20 pm"
+          ],
+          "crn": "25224"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "512",
+          "title": "METALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Amy M. Bolon"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "THOM 004"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "10:20 am-12:10 pm"
+          ],
+          "crn": "26259"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "METALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Meghana Maddipati"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 004"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "03:55 pm-05:45 pm"
+          ],
+          "crn": "25226"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "METALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Meghana Maddipati"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 149",
+            "THOM 004"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "11:30 am-01:20 pm"
+          ],
+          "crn": "25228"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "METALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Neha K. Gada"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 004"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "08:00 am-09:50 am"
+          ],
+          "crn": "25230"
+        },
+        "505": {
+          "select": "C",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "505",
+          "title": "METALLIC MATERIALS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Amy M. Bolon"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "THOM 004"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "08:00 am-09:50 am"
+          ],
+          "crn": "25233"
+        },
+        "506": {
+          "select": "C",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "506",
+          "title": "METALLIC MATERIALS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Amy M. Bolon"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "THOM 004"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "08:00 am-09:50 am"
+          ],
+          "crn": "25234"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "507",
+          "title": "METALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Neha K. Gada"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 004"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "03:55 pm-05:45 pm"
+          ],
+          "crn": "25235"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "508",
+          "title": "METALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Meghana Maddipati"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 004"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "01:30 pm-03:20 pm"
+          ],
+          "crn": "25236"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "509",
+          "title": "METALLIC MATERIALS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Angie H. Price (P)",
+            "Amy M. Bolon"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 303",
+            "THOM 004"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "11:10 am-01:00 pm"
+          ],
+          "crn": "25458"
+        }
+      }
     },
-    "511": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "511",
-      "title": "METALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Meghana Maddipati"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "THOM 004"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "08:00 am-09:50 am"
-      ],
-      "crn": "26258"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "METALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Neha K. Gada"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 004"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "01:30 pm-03:20 pm"
-      ],
-      "crn": "25224"
-    },
-    "512": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "512",
-      "title": "METALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Amy M. Bolon"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "THOM 004"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "10:20 am-12:10 pm"
-      ],
-      "crn": "26259"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "METALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Meghana Maddipati"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 004"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "03:55 pm-05:45 pm"
-      ],
-      "crn": "25226"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "METALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Meghana Maddipati"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 149",
-        "THOM 004"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "11:30 am-01:20 pm"
-      ],
-      "crn": "25228"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "METALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Neha K. Gada"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 004"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "08:00 am-09:50 am"
-      ],
-      "crn": "25230"
-    },
-    "505": {
-      "select": "C",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "505",
-      "title": "METALLIC MATERIALS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Amy M. Bolon"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "THOM 004"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "08:00 am-09:50 am"
-      ],
-      "crn": "25233"
-    },
-    "506": {
-      "select": "C",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "506",
-      "title": "METALLIC MATERIALS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Amy M. Bolon"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "THOM 004"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "08:00 am-09:50 am"
-      ],
-      "crn": "25234"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "507",
-      "title": "METALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Neha K. Gada"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 004"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "03:55 pm-05:45 pm"
-      ],
-      "crn": "25235"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "508",
-      "title": "METALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Meghana Maddipati"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 004"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "01:30 pm-03:20 pm"
-      ],
-      "crn": "25236"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "509",
-      "title": "METALLIC MATERIALS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Angie H. Price (P)",
-        "Amy M. Bolon"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 303",
-        "THOM 004"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "11:10 am-01:00 pm"
-      ],
-      "crn": "25458"
-    }
-  },
-  "429": {
-    "500": {
-      "select": "SR",
-      "subject": "MMET",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "429": {
       "title": "MGMT PEOPLE & PROJECTS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Michael Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "429",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 112D"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "25282"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MMET",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MGMT PEOPLE & PROJECTS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Michael Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "429",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 112D"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "25282"
+        }
+      }
     }
-  }
+  },
+  "title": "MMET - Mfg & Mech Engr Tech",
+  "updated": "Thu Apr 07 01:20:57 CDT 2016"
 }

@@ -1,69 +1,79 @@
 {
-  "620": {
-    "600": {
-      "select": "SR",
-      "subject": "NEXT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "620": {
       "title": "GROSS ANATOMY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "8",
-      "course": "620",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "22357"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "NEXT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "GROSS ANATOMY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "8",
+          "course": "620",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "22357"
+        }
+      }
+    },
+    "603": {
+      "title": "NEUROPSYCHOPHARMACOLOGY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "NEXT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "NEUROPSYCHOPHARMACOLOGY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Ursula Winzer-Serhan (P)"
+          ],
+          "credits": "4",
+          "course": "603",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22356"
+        }
+      }
     }
   },
-  "603": {
-    "600": {
-      "select": "SR",
-      "subject": "NEXT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "NEUROPSYCHOPHARMACOLOGY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Ursula Winzer-Serhan (P)"
-      ],
-      "credits": "4",
-      "course": "603",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22356"
-    }
-  }
+  "title": "NEXT - Neuro Exper Therapeutic",
+  "updated": "Thu Apr 07 01:21:16 CDT 2016"
 }

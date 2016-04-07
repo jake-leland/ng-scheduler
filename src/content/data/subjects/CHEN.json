@@ -1,4352 +1,4470 @@
 {
-  "491": {
-    "210": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "210",
-      "title": "HNR-RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mahmoud El-Halwagi (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14347"
-    },
-    "233": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "233",
-      "title": "HNR-RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Katy Kao (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15454"
-    },
-    "212": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "212",
-      "title": "HNR-RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Jodie L. Lutkenhaus (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18342"
-    },
-    "531": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "531",
+  "courses": {
+    "491": {
       "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Yossef A. Elabd (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26021"
+      "sections": {
+        "210": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "210",
+          "title": "HNR-RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mahmoud El-Halwagi (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14347"
+        },
+        "233": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "233",
+          "title": "HNR-RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Katy Kao (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15454"
+        },
+        "212": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "212",
+          "title": "HNR-RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Jodie L. Lutkenhaus (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18342"
+        },
+        "531": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "531",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Yossef A. Elabd (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26021"
+        },
+        "213": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "213",
+          "title": "HNR-RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "M M Faruque Hasan (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15453"
+        },
+        "235": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "235",
+          "title": "HNR-RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Zheng Cheng (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26710"
+        },
+        "510": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mahmoud El-Halwagi (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22827"
+        },
+        "532": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "532",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mustafa Akbulut (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26277"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "511",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Yue Kuo (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16182"
+        },
+        "533": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "533",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Katy Kao (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26524"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jodie L. Lutkenhaus (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15133"
+        },
+        "513": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "513",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "M M Faruque Hasan (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20646"
+        },
+        "535": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "535",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Zheng Cheng (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17871"
+        },
+        "536": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "536",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Micah Green (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26577"
+        },
+        "519": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "519",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "James Holste (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26295"
+        },
+        "220": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "220",
+          "title": "HNR-RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mark Holtzapple (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25802"
+        },
+        "201": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Arul Jayaraman (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16388"
+        },
+        "520": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "520",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mark Holtzapple (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16305"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Benjamin A. Wilhite (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16400"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Arul Jayaraman (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16316"
+        },
+        "523": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "523",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Victor Ugaz (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17873"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Phanourios Tamamis (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26652"
+        },
+        "527": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "527",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Homa Khosravianghadikolae (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26689"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Perla Balbuena (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17872"
+        },
+        "528": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "528",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Chad V. Mashuga (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26445"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hae-Kwon Jeong (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16370"
+        },
+        "529": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "529",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Sreeram Vaddiraju (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15600"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Jorge Seminario (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15893"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Zhilei Chen (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15132"
+        }
+      }
     },
-    "213": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "213",
-      "title": "HNR-RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "M M Faruque Hasan (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15453"
-    },
-    "235": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "235",
-      "title": "HNR-RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Zheng Cheng (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26710"
-    },
-    "510": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mahmoud El-Halwagi (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22827"
-    },
-    "532": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "532",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mustafa Akbulut (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26277"
-    },
-    "511": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "511",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Yue Kuo (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16182"
-    },
-    "533": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "533",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Katy Kao (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26524"
-    },
-    "512": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jodie L. Lutkenhaus (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15133"
-    },
-    "513": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "513",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "M M Faruque Hasan (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20646"
-    },
-    "535": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "535",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Zheng Cheng (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17871"
-    },
-    "536": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "536",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Micah Green (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26577"
-    },
-    "519": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "519",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "James Holste (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26295"
-    },
-    "220": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "220",
-      "title": "HNR-RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mark Holtzapple (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25802"
-    },
-    "201": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Arul Jayaraman (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16388"
-    },
-    "520": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "520",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mark Holtzapple (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16305"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Benjamin A. Wilhite (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16400"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Arul Jayaraman (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16316"
-    },
-    "523": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "523",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Victor Ugaz (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17873"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Phanourios Tamamis (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26652"
-    },
-    "527": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "527",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Homa Khosravianghadikolae (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26689"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Perla Balbuena (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17872"
-    },
-    "528": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "528",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Chad V. Mashuga (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26445"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hae-Kwon Jeong (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16370"
-    },
-    "529": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "529",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Sreeram Vaddiraju (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15600"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Jorge Seminario (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15893"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Zhilei Chen (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15132"
-    }
-  },
-  "471": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "471": {
       "title": "BIOREACTOR ENGINEERING",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Katy Kao (P)"
-      ],
-      "credits": "3",
-      "course": "471",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "21276"
-    }
-  },
-  "691": {
-    "630": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "630",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14264"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BIOREACTOR ENGINEERING",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Katy Kao (P)"
+          ],
+          "credits": "3",
+          "course": "471",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "21276"
+        }
+      }
     },
-    "631": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "631",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Yossef A. Elabd (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14276"
+      "sections": {
+        "630": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "630",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14264"
+        },
+        "631": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "631",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Yossef A. Elabd (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14276"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mahmoud El-Halwagi (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14261"
+        },
+        "632": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mustafa Akbulut (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14257"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Yue Kuo (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14272"
+        },
+        "633": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "633",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Katy Kao (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14259"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jodie L. Lutkenhaus (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14262"
+        },
+        "634": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "634",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Hung-Jen Wu (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22559"
+        },
+        "613": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "M M Faruque Hasan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14263"
+        },
+        "635": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "635",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Zheng Cheng (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14258"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Charles Glover (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14265"
+        },
+        "636": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "636",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Micah Green (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14267"
+        },
+        "615": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Kenneth Hall (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14268"
+        },
+        "616": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "616",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Costas Kravaris (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23022"
+        },
+        "618": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "618",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Christodoulos Floudas (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25559"
+        },
+        "619": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "619",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "James Holste (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18222"
+        },
+        "660": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "660",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mahmoud El-Halwagi (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16077"
+        },
+        "620": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "620",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mark Holtzapple (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14269"
+        },
+        "621": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Tahir Cagin (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14279"
+        },
+        "622": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "622",
+          "title": "RESEARCH",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Mahboobul Mannan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14273"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESEARCH",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Arul Jayaraman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14271"
+        },
+        "623": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "623",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Victor Ugaz (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14278"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Benjamin A. Wilhite (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14255"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Efstratios Pistikopoulos (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14266"
+        },
+        "625": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "625",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jaime Grunlan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14277"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Muhammad N. Karim (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19321"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Phanourios Tamamis (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25558"
+        },
+        "627": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "627",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17892"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Perla Balbuena (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14256"
+        },
+        "628": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "628",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Chad V. Mashuga (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25560"
+        },
+        "607": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hae-Kwon Jeong (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14270"
+        },
+        "629": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "629",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Sreeram Vaddiraju (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14275"
+        },
+        "608": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jorge Seminario (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14274"
+        },
+        "609": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Zhilei Chen (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14260"
+        }
+      }
     },
-    "610": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mahmoud El-Halwagi (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14261"
+    "451": {
+      "title": "INTRO TO POLYMER ENGR",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTRO TO POLYMER ENGR",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "James E. Harris (P)"
+          ],
+          "credits": "3",
+          "course": "451",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "10830"
+        }
+      }
     },
-    "632": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mustafa Akbulut (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14257"
+    "430": {
+      "title": "RISK ANALYSIS SAFETY ENG",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RISK ANALYSIS SAFETY ENG",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "William Rogers (P)"
+          ],
+          "credits": "3",
+          "course": "430",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 104"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "10828"
+        }
+      }
     },
-    "611": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Yue Kuo (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14272"
+    "354": {
+      "title": "CHEM ENGR THERMO II",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CHEM ENGR THERMO II",
+          "remaining": "66",
+          "capacity": "66",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "354",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 105"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "10821"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CHEM ENGR THERMO II",
+          "remaining": "66",
+          "capacity": "66",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "354",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 108"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "24506"
+        }
+      }
     },
-    "633": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "633",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Katy Kao (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14259"
+    "651": {
+      "title": "BIOCHEMICAL ENGINEERNG",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "BIOCHEMICAL ENGINEERNG",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "651",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "27622"
+        }
+      }
     },
-    "612": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jodie L. Lutkenhaus (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14262"
+    "696": {
+      "title": "GRAD MENTORING SEMINAR II",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "GRAD MENTORING SEMINAR II",
+          "remaining": "46",
+          "capacity": "46",
+          "instructor": [
+            "Arul Jayaraman (P)"
+          ],
+          "credits": "1",
+          "course": "696",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "24095"
+        }
+      }
     },
-    "634": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "634",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Hung-Jen Wu (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22559"
+    "433": {
+      "title": "CHEMICAL ENGR LAB II",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CHEMICAL ENGR LAB II",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "433",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-02:00 pm"
+          ],
+          "crn": "16559"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CHEMICAL ENGR LAB II",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "433",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-05:10 pm"
+          ],
+          "crn": "10829"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "CHEMICAL ENGR LAB II",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "433",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "10:20 am-01:10 pm"
+          ],
+          "crn": "12975"
+        },
+        "504": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "CHEMICAL ENGR LAB II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "433",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-12:00 pm"
+          ],
+          "crn": "27624"
+        }
+      }
     },
-    "613": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "M M Faruque Hasan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14263"
+    "455": {
+      "title": "PROCESS SAFETY ENGR",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PROCESS SAFETY ENGR",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "455",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "10831"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "PROCESS SAFETY ENGR",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "455",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "25619"
+        }
+      }
     },
-    "635": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "635",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Zheng Cheng (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14258"
+    "313": {
+      "title": "CHEM ENGR MATERIALS",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CHEM ENGR MATERIALS",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "Jorge Seminario (P)"
+          ],
+          "credits": "3",
+          "course": "313",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "10819"
+        }
+      }
     },
-    "614": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Charles Glover (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14265"
+    "655": {
+      "title": "PROCESS SAFETY ENGR",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PROCESS SAFETY ENGR",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "655",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "10841"
+        }
+      }
     },
-    "636": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "636",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Micah Green (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14267"
+    "414": {
+      "title": "CHEMICAL ENGR LAB I",
+      "sections": {
+        "901": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "901",
+          "title": "CHEMICAL ENGR LAB I",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "414",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "01:50 pm-04:40 pm"
+          ],
+          "crn": "10822"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "902",
+          "title": "CHEMICAL ENGR LAB I",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "414",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-02:00 pm"
+          ],
+          "crn": "10823"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "903",
+          "title": "CHEMICAL ENGR LAB I",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "414",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "01:50 pm-04:40 pm"
+          ],
+          "crn": "10824"
+        },
+        "904": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "904",
+          "title": "CHEMICAL ENGR LAB I",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "414",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-02:00 pm"
+          ],
+          "crn": "10825"
+        },
+        "905": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "905",
+          "title": "CHEMICAL ENGR LAB I",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "414",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-05:10 pm"
+          ],
+          "crn": "13029"
+        },
+        "906": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "906",
+          "title": "CHEMICAL ENGR LAB I",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "414",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-05:10 pm"
+          ],
+          "crn": "27623"
+        }
+      }
     },
-    "615": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Kenneth Hall (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14268"
+    "459": {
+      "title": "GAS&PETROLEUM PROCESSING",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "GAS&PETROLEUM PROCESSING",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "459",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "24935"
+        }
+      }
     },
-    "616": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "616",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Costas Kravaris (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23022"
+    "382": {
+      "title": "BIOPROCESS ENGINEERING",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BIOPROCESS ENGINEERING",
+          "remaining": "47",
+          "capacity": "47",
+          "instructor": [
+            "Pushkar P. Lele (P)"
+          ],
+          "credits": "3",
+          "course": "382",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "24936"
+        }
+      }
     },
-    "618": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "618",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Christodoulos Floudas (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25559"
+    "481": {
+      "title": "SEMINAR",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SEMINAR",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "10833"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "SEMINAR",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "10834"
+        },
+        "503": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "10835"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "SEMINAR",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "10836"
+        },
+        "505": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "16560"
+        }
+      }
     },
-    "619": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "619",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "James Holste (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18222"
+    "461": {
+      "title": "PROCESS DYNAMICS & CNTRL",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PROCESS DYNAMICS & CNTRL",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "Costas Kravaris (P)"
+          ],
+          "credits": "3",
+          "course": "461",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "10832"
+        }
+      }
     },
-    "660": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "660",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mahmoud El-Halwagi (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16077"
+    "681": {
+      "title": "SEMINAR",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "Micah Green (P), Muhammad N. Karim"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "03:00 pm-04:00 pm"
+          ],
+          "crn": "10842"
+        }
+      }
     },
-    "620": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "620",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mark Holtzapple (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14269"
+    "320": {
+      "title": "CHEN ANALYSIS",
+      "sections": {
+        "201": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-CHEN ANALYSIS",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "26695"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CHEN ANALYSIS",
+          "remaining": "80",
+          "capacity": "80",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "25593"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CHEN ANALYSIS",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 203"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "26781"
+        }
+      }
     },
-    "621": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Tahir Cagin (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14279"
+    "485": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "531": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "531",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-5",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15902"
+        },
+        "510": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "DIRECTED STUDIES",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Mahmoud El-Halwagi (P)"
+          ],
+          "credits": "1-5",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18132"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Benjamin A. Wilhite (P)"
+          ],
+          "credits": "1-5",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19906"
+        },
+        "513": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "513",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-5",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17870"
+        },
+        "535": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "535",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Zheng Cheng (P)"
+          ],
+          "credits": "1-5",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15896"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Perla Balbuena (P)"
+          ],
+          "credits": "1-5",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15308"
+        }
+      }
     },
-    "622": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "622",
-      "title": "RESEARCH",
-      "remaining": "23",
-      "capacity": "23",
-      "instructor": [
-        "Mahboobul Mannan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14273"
+    "464": {
+      "title": "KINETICS & REACTOR DESIGN",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "KINETICS & REACTOR DESIGN",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Yue Kuo (P)"
+          ],
+          "credits": "3",
+          "course": "464",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "24142"
+        }
+      }
+    },
+    "684": {
+      "title": "PROFESSIONAL INTERNSHIP",
+      "sections": {
+        "672": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "672",
+          "title": "PROF INTERN: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mahboobul Mannan (P)"
+          ],
+          "credits": "1",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20747"
+        },
+        "683": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "683",
+          "title": "PROFESSIONAL INTERNSHIP: IN-AB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Katy Kao (P)"
+          ],
+          "credits": "1",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25652"
+        },
+        "662": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "662",
+          "title": "PROF INTERN: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Jodie L. Lutkenhaus (P)"
+          ],
+          "credits": "1",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20513"
+        },
+        "673": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "673",
+          "title": "PROFESSIONAL INTERNSHP: IN-AB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Victor Ugaz (P)"
+          ],
+          "credits": "1",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18703"
+        },
+        "652": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "652",
+          "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Benjamin A. Wilhite (P)"
+          ],
+          "credits": "1",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22706"
+        },
+        "620": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "620",
+          "title": "PROFESSIONAL INTERNSHIP",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mark Holtzapple (P)"
+          ],
+          "credits": "1",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15801"
+        },
+        "622": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "622",
+          "title": "PROFESSIONAL INTERNSHIP",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mahboobul Mannan (P)"
+          ],
+          "credits": "1",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16153"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "PROFESSIONAL INTERNSHIP",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Jodie L. Lutkenhaus (P)"
+          ],
+          "credits": "1",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20577"
+        },
+        "603": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "PROFESSIONAL INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20204"
+        }
+      }
+    },
+    "641": {
+      "title": "POLYMER ENGINEERING",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "POLYMER ENGINEERING",
+          "remaining": "26",
+          "capacity": "26",
+          "instructor": [
+            "James E. Harris (P)"
+          ],
+          "credits": "3",
+          "course": "641",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "10840"
+        }
+      }
+    },
+    "685": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "631": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "631",
+          "title": "DIRECTED STUDIES",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Yossef A. Elabd (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23126"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mahmoud El-Halwagi (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16023"
+        },
+        "622": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "622",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mahboobul Mannan (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26538"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DIRECTED STUDIES",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Arul Jayaraman (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23232"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Charles Glover (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20965"
+        },
+        "604": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Muhammad N. Karim (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20995"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Perla Balbuena (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20966"
+        },
+        "617": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "617",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20657"
+        },
+        "607": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "DIRECTED STUDIES",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Hae-Kwon Jeong (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22454"
+        },
+        "629": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "629",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Sreeram Vaddiraju (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20692"
+        }
+      }
+    },
+    "323": {
+      "title": "CHEM ENGR HEAT OPS",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CHEM ENGR HEAT OPS",
+          "remaining": "47",
+          "capacity": "47",
+          "instructor": [
+            "Yossef A. Elabd (P)"
+          ],
+          "credits": "3",
+          "course": "323",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "21275"
+        }
+      }
+    },
+    "422": {
+      "title": "UNIT OPNS IN FOOD PROC",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "UNIT OPNS IN FOOD PROC",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Rosana Moreira (P)",
+            "Rosana Moreira"
+          ],
+          "credits": "3",
+          "course": "422",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCTS 215",
+            "SCTS 144"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "10:20 am-12:10 pm"
+          ],
+          "crn": "13176"
+        }
+      }
+    },
+    "489": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPTP: BIOMOL SIM DES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Phanourios Tamamis (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "28551"
+        },
+        "501": {
+          "select": "C",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SPTP: NANOTECHNOLOGY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "WF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "04:10 pm-05:20 pm"
+          ],
+          "crn": "28548"
+        }
+      }
+    },
+    "204": {
+      "title": "ELEMENTARY CHEM ENGR",
+      "sections": {
+        "201": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-ELEMENTARY CHEM ENGR",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "204",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 108",
+            "CHEN 104"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "05:45 pm-07:15 pm"
+          ],
+          "crn": "26660"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ELEMENTARY CHEM ENGR",
+          "remaining": "70",
+          "capacity": "70",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "204",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 108",
+            "CHEN 104"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "05:45 pm-07:15 pm"
+          ],
+          "crn": "10816"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ELEMENTARY CHEM ENGR",
+          "remaining": "66",
+          "capacity": "66",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "204",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106",
+            "CHEN 106"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "05:45 pm-07:15 pm"
+          ],
+          "crn": "10817"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "ELEMENTARY CHEM ENGR",
+          "remaining": "75",
+          "capacity": "75",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "204",
+          "days": [
+            "WF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106",
+            "CHEN 106"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "05:45 pm-07:15 pm"
+          ],
+          "crn": "24505"
+        }
+      }
+    },
+    "424": {
+      "title": "CHEM ENGR MASS OPS",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CHEM ENGR MASS OPS",
+          "remaining": "66",
+          "capacity": "66",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "424",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 108"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "19318"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CHEM ENGR MASS OPS",
+          "remaining": "66",
+          "capacity": "66",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "424",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 108"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "19998"
+        }
+      }
+    },
+    "205": {
+      "title": "CHEM ENGR THERMO I",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CHEM ENGR THERMO I",
+          "remaining": "47",
+          "capacity": "47",
+          "instructor": [
+            "Jodie L. Lutkenhaus (P)"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "24141"
+        }
+      }
+    },
+    "304": {
+      "title": "CHEM ENGR FLUID OPS",
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-CHEM ENGR FLUID OPS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "26752"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CHEM ENGR FLUID OPS",
+          "remaining": "70",
+          "capacity": "70",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "10818"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CHEM ENGR FLUID OPS",
+          "remaining": "70",
+          "capacity": "70",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "15455"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CHEM ENGR FLUID OPS",
+          "remaining": "66",
+          "capacity": "66",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 108"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "24937"
+        }
+      }
+    },
+    "425": {
+      "title": "PROCESS INTEG SIM ECON",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "PROCESS INTEG SIM ECON",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "M M Faruque Hasan (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "425",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106",
+            "CHEN 119"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "04:00 pm-07:00 pm"
+          ],
+          "crn": "10826"
+        }
+      }
+    },
+    "469": {
+      "title": "CHEM ENGR CAR DESIGN",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CHEM ENGR CAR DESIGN",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Yossef A. Elabd (P)"
+          ],
+          "credits": "1",
+          "course": "469",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "21278"
+        }
+      }
     },
     "601": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESEARCH",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Arul Jayaraman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14271"
+      "title": "CHEN LABORATORY SAFETY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CHEN LABORATORY SAFETY",
+          "remaining": "65",
+          "capacity": "65",
+          "instructor": [
+            "James D. White (P)"
+          ],
+          "credits": "1",
+          "course": "601",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 108"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "10837"
+        }
+      }
     },
     "623": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "623",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Victor Ugaz (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14278"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Benjamin A. Wilhite (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14255"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Efstratios Pistikopoulos (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14266"
-    },
-    "625": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "625",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jaime Grunlan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14277"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Muhammad N. Karim (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19321"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Phanourios Tamamis (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25558"
-    },
-    "627": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "627",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17892"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Perla Balbuena (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14256"
-    },
-    "628": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "628",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Chad V. Mashuga (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25560"
-    },
-    "607": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hae-Kwon Jeong (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14270"
-    },
-    "629": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "629",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Sreeram Vaddiraju (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14275"
-    },
-    "608": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jorge Seminario (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14274"
-    },
-    "609": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Zhilei Chen (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14260"
-    }
-  },
-  "451": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "INTRO TO POLYMER ENGR",
-      "remaining": "47",
-      "capacity": "47",
-      "instructor": [
-        "James E. Harris (P)"
-      ],
-      "credits": "3",
-      "course": "451",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "10830"
-    }
-  },
-  "430": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "RISK ANALYSIS SAFETY ENG",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "William Rogers (P)"
-      ],
-      "credits": "3",
-      "course": "430",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 104"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "10828"
-    }
-  },
-  "354": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "CHEM ENGR THERMO II",
-      "remaining": "66",
-      "capacity": "66",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "354",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 103"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "10821"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "CHEM ENGR THERMO II",
-      "remaining": "66",
-      "capacity": "66",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "354",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 108"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "24506"
-    }
-  },
-  "651": {
-    "600": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "BIOCHEMICAL ENGINEERNG",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "651",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "27622"
-    }
-  },
-  "696": {
-    "600": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "GRAD MENTORING SEMINAR II",
-      "remaining": "46",
-      "capacity": "46",
-      "instructor": [
-        "Arul Jayaraman (P)"
-      ],
-      "credits": "1",
-      "course": "696",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "24095"
-    }
-  },
-  "433": {
-    "501": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "CHEMICAL ENGR LAB II",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "433",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-02:00 pm"
-      ],
-      "crn": "16559"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "CHEMICAL ENGR LAB II",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "433",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-05:10 pm"
-      ],
-      "crn": "10829"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "CHEMICAL ENGR LAB II",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "433",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "10:20 am-01:10 pm"
-      ],
-      "crn": "12975"
-    },
-    "504": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "CHEMICAL ENGR LAB II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "433",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-12:00 pm"
-      ],
-      "crn": "27624"
-    }
-  },
-  "455": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "PROCESS SAFETY ENGR",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "455",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "10831"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "PROCESS SAFETY ENGR",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "455",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "25619"
-    }
-  },
-  "313": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "CHEM ENGR MATERIALS",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "Jorge Seminario (P)"
-      ],
-      "credits": "3",
-      "course": "313",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "10819"
-    }
-  },
-  "655": {
-    "600": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PROCESS SAFETY ENGR",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "655",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "10841"
-    }
-  },
-  "414": {
-    "901": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "901",
-      "title": "CHEMICAL ENGR LAB I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "414",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "01:50 pm-04:40 pm"
-      ],
-      "crn": "10822"
-    },
-    "902": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "902",
-      "title": "CHEMICAL ENGR LAB I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "414",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-02:00 pm"
-      ],
-      "crn": "10823"
-    },
-    "903": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "903",
-      "title": "CHEMICAL ENGR LAB I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "414",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "01:50 pm-04:40 pm"
-      ],
-      "crn": "10824"
-    },
-    "904": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "904",
-      "title": "CHEMICAL ENGR LAB I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "414",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-02:00 pm"
-      ],
-      "crn": "10825"
-    },
-    "905": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "905",
-      "title": "CHEMICAL ENGR LAB I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "414",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-05:10 pm"
-      ],
-      "crn": "13029"
-    },
-    "906": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "906",
-      "title": "CHEMICAL ENGR LAB I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "414",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-05:10 pm"
-      ],
-      "crn": "27623"
-    }
-  },
-  "459": {
-    "500": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "GAS&PETROLEUM PROCESSING",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "459",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "24935"
-    }
-  },
-  "382": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "BIOPROCESS ENGINEERING",
-      "remaining": "47",
-      "capacity": "47",
-      "instructor": [
-        "Pushkar P. Lele (P)"
-      ],
-      "credits": "3",
-      "course": "382",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "24936"
-    }
-  },
-  "481": {
-    "501": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SEMINAR",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "10833"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "SEMINAR",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "10834"
-    },
-    "503": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "10835"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "SEMINAR",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "10836"
-    },
-    "505": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "16560"
-    }
-  },
-  "461": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "PROCESS DYNAMICS & CNTRL",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "Costas Kravaris (P)"
-      ],
-      "credits": "3",
-      "course": "461",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "10832"
-    }
-  },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SEMINAR",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "Micah Green (P), Muhammad N. Karim"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "03:00 pm-04:00 pm"
-      ],
-      "crn": "10842"
-    }
-  },
-  "320": {
-    "201": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-CHEN ANALYSIS",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "26695"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "CHEN ANALYSIS",
-      "remaining": "80",
-      "capacity": "80",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "25593"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "CHEN ANALYSIS",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 203"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "26781"
-    }
-  },
-  "485": {
-    "531": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "531",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-5",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15902"
-    },
-    "510": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
-      "title": "DIRECTED STUDIES",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Mahmoud El-Halwagi (P)"
-      ],
-      "credits": "1-5",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18132"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Benjamin A. Wilhite (P)"
-      ],
-      "credits": "1-5",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19906"
-    },
-    "513": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "513",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-5",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17870"
-    },
-    "535": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "535",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Zheng Cheng (P)"
-      ],
-      "credits": "1-5",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15896"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Perla Balbuena (P)"
-      ],
-      "credits": "1-5",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15308"
-    }
-  },
-  "464": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "KINETICS & REACTOR DESIGN",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Yue Kuo (P)"
-      ],
-      "credits": "3",
-      "course": "464",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "24142"
-    }
-  },
-  "684": {
-    "672": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "672",
-      "title": "PROF INTERN: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mahboobul Mannan (P)"
-      ],
-      "credits": "1",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20747"
-    },
-    "683": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "683",
-      "title": "PROFESSIONAL INTERNSHIP: IN-AB",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Katy Kao (P)"
-      ],
-      "credits": "1",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25652"
-    },
-    "662": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "662",
-      "title": "PROF INTERN: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Jodie L. Lutkenhaus (P)"
-      ],
-      "credits": "1",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20513"
-    },
-    "673": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "673",
-      "title": "PROFESSIONAL INTERNSHP: IN-AB",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Victor Ugaz (P)"
-      ],
-      "credits": "1",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18703"
-    },
-    "652": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "652",
-      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Benjamin A. Wilhite (P)"
-      ],
-      "credits": "1",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22706"
-    },
-    "620": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "620",
-      "title": "PROFESSIONAL INTERNSHIP",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mark Holtzapple (P)"
-      ],
-      "credits": "1",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15801"
-    },
-    "622": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "622",
-      "title": "PROFESSIONAL INTERNSHIP",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mahboobul Mannan (P)"
-      ],
-      "credits": "1",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16153"
-    },
-    "612": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "PROFESSIONAL INTERNSHIP",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Jodie L. Lutkenhaus (P)"
-      ],
-      "credits": "1",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20577"
-    },
-    "603": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "PROFESSIONAL INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20204"
-    }
-  },
-  "641": {
-    "600": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "POLYMER ENGINEERING",
-      "remaining": "26",
-      "capacity": "26",
-      "instructor": [
-        "James E. Harris (P)"
-      ],
-      "credits": "3",
-      "course": "641",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "10840"
-    }
-  },
-  "685": {
-    "631": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "631",
-      "title": "DIRECTED STUDIES",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Yossef A. Elabd (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23126"
-    },
-    "610": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mahmoud El-Halwagi (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16023"
-    },
-    "622": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "622",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mahboobul Mannan (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26538"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DIRECTED STUDIES",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Arul Jayaraman (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23232"
-    },
-    "614": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Charles Glover (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20965"
-    },
-    "604": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Muhammad N. Karim (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20995"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Perla Balbuena (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20966"
-    },
-    "617": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "617",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20657"
-    },
-    "607": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "DIRECTED STUDIES",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Hae-Kwon Jeong (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22454"
-    },
-    "629": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "629",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Sreeram Vaddiraju (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20692"
-    }
-  },
-  "323": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "CHEM ENGR HEAT OPS",
-      "remaining": "47",
-      "capacity": "47",
-      "instructor": [
-        "Yossef A. Elabd (P)"
-      ],
-      "credits": "3",
-      "course": "323",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "21275"
-    }
-  },
-  "422": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
-      "title": "UNIT OPNS IN FOOD PROC",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Rosana Moreira (P)",
-        "Rosana Moreira"
-      ],
-      "credits": "3",
-      "course": "422",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCTS 215",
-        "SCTS 144"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "10:20 am-12:10 pm"
-      ],
-      "crn": "13176"
-    }
-  },
-  "489": {
-    "500": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "SPTP: BIOMOL SIM DES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Phanourios Tamamis (P)"
-      ],
-      "credits": "3",
-      "course": "489",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "28551"
-    },
-    "501": {
-      "select": "C",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SPTP: NANOTECHNOLOGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "489",
-      "days": [
-        "WF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "04:10 pm-05:20 pm"
-      ],
-      "crn": "28548"
-    }
-  },
-  "204": {
-    "201": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-ELEMENTARY CHEM ENGR",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "204",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106",
-        "CHEN 106"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "05:45 pm-07:15 pm"
-      ],
-      "crn": "26660"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "ELEMENTARY CHEM ENGR",
-      "remaining": "70",
-      "capacity": "70",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "204",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106",
-        "CHEN 106"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "05:45 pm-07:15 pm"
-      ],
-      "crn": "10816"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ELEMENTARY CHEM ENGR",
-      "remaining": "66",
-      "capacity": "66",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "204",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 108",
-        "CHEN 104"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "05:45 pm-07:15 pm"
-      ],
-      "crn": "10817"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "ELEMENTARY CHEM ENGR",
-      "remaining": "75",
-      "capacity": "75",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "204",
-      "days": [
-        "WF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106",
-        "CHEN 106"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "05:45 pm-07:15 pm"
-      ],
-      "crn": "24505"
-    }
-  },
-  "424": {
-    "501": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "CHEM ENGR MASS OPS",
-      "remaining": "66",
-      "capacity": "66",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "424",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 108"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "19318"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "CHEM ENGR MASS OPS",
-      "remaining": "66",
-      "capacity": "66",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "424",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 108"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "19998"
-    }
-  },
-  "205": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "CHEM ENGR THERMO I",
-      "remaining": "47",
-      "capacity": "47",
-      "instructor": [
-        "Jodie L. Lutkenhaus (P)"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "24141"
-    }
-  },
-  "304": {
-    "200": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
-      "title": "HNR-CHEM ENGR FLUID OPS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "26752"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "CHEM ENGR FLUID OPS",
-      "remaining": "70",
-      "capacity": "70",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "10818"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "CHEM ENGR FLUID OPS",
-      "remaining": "70",
-      "capacity": "70",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "15455"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "CHEM ENGR FLUID OPS",
-      "remaining": "66",
-      "capacity": "66",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 108"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "24937"
-    }
-  },
-  "425": {
-    "501": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "PROCESS INTEG SIM ECON",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "M M Faruque Hasan (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "425",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106",
-        "CHEN 119"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "04:00 pm-07:00 pm"
-      ],
-      "crn": "10826"
-    }
-  },
-  "469": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "CHEM ENGR CAR DESIGN",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Yossef A. Elabd (P)"
-      ],
-      "credits": "1",
-      "course": "469",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "21278"
-    }
-  },
-  "601": {
-    "600": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "CHEN LABORATORY SAFETY",
-      "remaining": "65",
-      "capacity": "65",
-      "instructor": [
-        "James D. White (P)"
-      ],
-      "credits": "1",
-      "course": "601",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 108"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "10837"
-    }
-  },
-  "623": {
-    "600": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
       "title": "APP OF THERMO TO CH E",
-      "remaining": "66",
-      "capacity": "66",
-      "instructor": [
-        "James Holste (P)"
-      ],
-      "credits": "3",
-      "course": "623",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 108"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "10839"
-    }
-  },
-  "689": {
-    "600": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "SPTP: BIOMOL SIM DES",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Phanourios Tamamis (P)",
-        "Phanourios Tamamis"
-      ],
-      "credits": "3",
-      "course": "689",
-      "days": [
-        "TR",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "TBA"
-      ],
-      "crn": "28394"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "APP OF THERMO TO CH E",
+          "remaining": "66",
+          "capacity": "66",
+          "instructor": [
+            "James Holste (P)"
+          ],
+          "credits": "3",
+          "course": "623",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 108"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "10839"
+        }
+      }
     },
-    "601": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "SPMT: NANOTECHNOLOGY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Homa Khosravianghadikolae (P)"
-      ],
-      "credits": "3",
-      "course": "689",
-      "days": [
-        "WF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "04:10 pm-05:20 pm"
-      ],
-      "crn": "28391"
-    }
-  },
-  "426": {
-    "500": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+    "689": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "SPTP: BIOMOL SIM DES",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Phanourios Tamamis (P)",
+            "Phanourios Tamamis"
+          ],
+          "credits": "3",
+          "course": "689",
+          "days": [
+            "TR",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "TBA"
+          ],
+          "crn": "28394"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "SPMT: NANOTECHNOLOGY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Homa Khosravianghadikolae (P)"
+          ],
+          "credits": "3",
+          "course": "689",
+          "days": [
+            "WF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "04:10 pm-05:20 pm"
+          ],
+          "crn": "28391"
+        }
+      }
+    },
+    "426": {
       "title": "CHEM ENGR PLANT DESIGN",
-      "remaining": "66",
-      "capacity": "66",
-      "instructor": [
-        "James E. Harris (P)",
-        "James E. Harris"
-      ],
-      "credits": "3",
-      "course": "426",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106",
-        "CHEN 106"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "10827"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "CHEM ENGR PLANT DESIGN",
+          "remaining": "66",
+          "capacity": "66",
+          "instructor": [
+            "James E. Harris (P)",
+            "James E. Harris"
+          ],
+          "credits": "3",
+          "course": "426",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106",
+            "CHEN 106"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "10827"
+        }
+      }
+    },
+    "604": {
+      "title": "CHEN PROCESS ANALY I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CHEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CHEN PROCESS ANALY I",
+          "remaining": "70",
+          "capacity": "70",
+          "instructor": [
+            "Hung-Jen Wu (P)"
+          ],
+          "credits": "3",
+          "course": "604",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 106"
+          ],
+          "time": [
+            "05:45 pm-07:00 pm"
+          ],
+          "crn": "10838"
+        }
+      }
     }
   },
-  "604": {
-    "600": {
-      "select": "SR",
-      "subject": "CHEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "CHEN PROCESS ANALY I",
-      "remaining": "70",
-      "capacity": "70",
-      "instructor": [
-        "Hung-Jen Wu (P)"
-      ],
-      "credits": "3",
-      "course": "604",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 106"
-      ],
-      "time": [
-        "05:45 pm-07:00 pm"
-      ],
-      "crn": "10838"
-    }
-  }
+  "title": "CHEN - Chemical Engineering",
+  "updated": "Thu Apr 07 01:12:39 CDT 2016"
 }

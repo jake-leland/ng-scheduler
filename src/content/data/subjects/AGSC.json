@@ -1,438 +1,478 @@
 {
-  "484": {
-    "501": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "484": {
       "title": "FIELD EXPERIENCE",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Gary E. Briers (P)"
-      ],
-      "credits": "1-6",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13630"
-    }
-  },
-  "485": {
-    "550": {
-      "select": "C",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Timothy H. Murphy (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20078"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "FIELD EXPERIENCE",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Gary E. Briers (P)"
+          ],
+          "credits": "1-6",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13630"
+        }
+      }
     },
-    "525": {
-      "select": "C",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "525",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Timothy H. Murphy (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20079"
-    }
-  },
-  "301": {
-    "500": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Timothy H. Murphy (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20078"
+        },
+        "525": {
+          "select": "C",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "525",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Timothy H. Murphy (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20079"
+        }
+      }
+    },
+    "301": {
       "title": "INTRO AG SCI TEACHING",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Gary E. Briers (P)"
-      ],
-      "credits": "3",
-      "course": "301",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 113"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "10138"
-    }
-  },
-  "402": {
-    "900": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "900",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTRO AG SCI TEACHING",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Gary E. Briers (P)"
+          ],
+          "credits": "3",
+          "course": "301",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 113"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "10138"
+        }
+      }
+    },
+    "402": {
       "title": "DESIGN INSTRN AGSC PRGMS",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Lori L. Moore (P)",
-        "Lori L. Moore"
-      ],
-      "credits": "3",
-      "course": "402",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 132",
-        "AGLS 132"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "10:00 am-11:50 am"
-      ],
-      "crn": "14018"
-    }
-  },
-  "425": {
-    "502": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "900",
+          "title": "DESIGN INSTRN AGSC PRGMS",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Lori L. Moore (P)",
+            "Lori L. Moore"
+          ],
+          "credits": "3",
+          "course": "402",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 132",
+            "AGLS 132"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "10:00 am-11:50 am"
+          ],
+          "crn": "14018"
+        }
+      }
+    },
+    "425": {
       "title": "LRNR-CNTRD INST IN AGSC",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Timothy H. Murphy (P), Kirk C. Edney , Lori L. Moore",
-        "Kirk C. Edney , Lori L. Moore , Timothy H. Murphy"
-      ],
-      "credits": "3",
-      "course": "425",
-      "days": [
-        "T",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "01:00 pm-05:00 pm",
-        "08:00 am-12:00 pm"
-      ],
-      "crn": "10141"
-    }
-  },
-  "436": {
-    "502": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
+      "sections": {
+        "502": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "LRNR-CNTRD INST IN AGSC",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Timothy H. Murphy (P), Kirk C. Edney , Lori L. Moore",
+            "Kirk C. Edney , Lori L. Moore , Timothy H. Murphy"
+          ],
+          "credits": "3",
+          "course": "425",
+          "days": [
+            "T",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "01:00 pm-05:00 pm",
+            "08:00 am-12:00 pm"
+          ],
+          "crn": "10141"
+        }
+      }
+    },
+    "436": {
       "title": "PROF TEACHNG INTERN AGSC",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Gary E. Briers (P)",
-        "Gary E. Briers"
-      ],
-      "credits": "6",
-      "course": "436",
-      "days": [
-        "MWF",
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-12:00 pm",
-        "01:00 pm-05:00 pm"
-      ],
-      "crn": "10142"
-    }
-  },
-  "305": {
-    "700": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
+      "sections": {
+        "502": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "PROF TEACHNG INTERN AGSC",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Gary E. Briers (P)",
+            "Gary E. Briers"
+          ],
+          "credits": "6",
+          "course": "436",
+          "days": [
+            "MWF",
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-12:00 pm",
+            "01:00 pm-05:00 pm"
+          ],
+          "crn": "10142"
+        }
+      }
+    },
+    "305": {
       "title": "MGMT OF SUPERVISED AG EXPRNCES",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Roger D. Hanagriff (P)"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28456"
-    }
-  },
-  "405": {
-    "500": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "MGMT OF SUPERVISED AG EXPRNCES",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Roger D. Hanagriff (P)"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28456"
+        }
+      }
+    },
+    "405": {
       "title": "FACLTG COMPLT AGSC PRGMS",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "John Rayfield (P)",
-        "John Rayfield"
-      ],
-      "credits": "3",
-      "course": "405",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 132",
-        "AGLS 132"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "08:00 am-09:50 am"
-      ],
-      "crn": "10140"
-    }
-  },
-  "481": {
-    "501": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "FACLTG COMPLT AGSC PRGMS",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "John Rayfield (P)",
+            "John Rayfield"
+          ],
+          "credits": "3",
+          "course": "405",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 132",
+            "AGLS 132"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "08:00 am-09:50 am"
+          ],
+          "crn": "10140"
+        }
+      }
+    },
+    "481": {
       "title": "SEMINAR",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Gary E. Briers",
-        "Gary E. Briers (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "T",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "01:00 pm-05:00 pm",
-        "TBA"
-      ],
-      "crn": "10143"
-    }
-  },
-  "383": {
-    "501": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "SEMINAR",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Gary E. Briers",
+            "Gary E. Briers (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "T",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "01:00 pm-05:00 pm",
+            "TBA"
+          ],
+          "crn": "10143"
+        }
+      }
+    },
+    "383": {
       "title": "TEACHING AG MECHANICS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Jay P. Hancock (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "383",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "02:20 pm-06:20 pm"
-      ],
-      "crn": "24008"
-    }
-  },
-  "373": {
-    "500": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "TEACHING AG MECHANICS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA",
+            "Jay P. Hancock (P)"
+          ],
+          "credits": "3",
+          "course": "383",
+          "days": [
+            "R",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-06:20 pm",
+            "TBA"
+          ],
+          "crn": "24008"
+        }
+      }
+    },
+    "373": {
       "title": "MANAGE SAFETY IN AGSC PRGM",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Jay P. Hancock (P)"
-      ],
-      "credits": "3",
-      "course": "373",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-06:20 pm"
-      ],
-      "crn": "21743"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MANAGE SAFETY IN AGSC PRGM",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Jay P. Hancock (P)"
+          ],
+          "credits": "3",
+          "course": "373",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-06:20 pm"
+          ],
+          "crn": "21743"
+        }
+      }
+    },
+    "384": {
+      "title": "CLINICL PROF EXP IN AGSC",
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "AGSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "900",
+          "title": "CLINICL PROF EXP IN AGSC",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Kirk C. Edney (P)",
+            "Kirk C. Edney"
+          ],
+          "credits": "3",
+          "course": "384",
+          "days": [
+            "R",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 132",
+            "AGLS 132"
+          ],
+          "time": [
+            "02:20 pm-04:00 pm",
+            "TBA"
+          ],
+          "crn": "10139"
+        }
+      }
     }
   },
-  "384": {
-    "900": {
-      "select": "SR",
-      "subject": "AGSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "900",
-      "title": "CLINICL PROF EXP IN AGSC",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Kirk C. Edney (P)",
-        "Kirk C. Edney"
-      ],
-      "credits": "3",
-      "course": "384",
-      "days": [
-        "R",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 132",
-        "AGLS 132"
-      ],
-      "time": [
-        "02:20 pm-04:00 pm",
-        "TBA"
-      ],
-      "crn": "10139"
-    }
-  }
+  "title": "AGSC - Agricultural Science",
+  "updated": "Thu Apr 07 01:09:37 CDT 2016"
 }

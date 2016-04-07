@@ -1,95 +1,108 @@
 {
-  "610": {
-    "600": {
-      "select": "SR",
-      "subject": "LING",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "610": {
       "title": "TOPCS HIST OF ENGL LANG",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Britt Mize (P)"
-      ],
-      "credits": "3",
-      "course": "610",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 504"
-      ],
-      "time": [
-        "06:00 pm-09:00 pm"
-      ],
-      "crn": "27943"
-    }
-  },
-  "602": {
-    "600": {
-      "select": "SR",
-      "subject": "LING",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "LING",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "TOPCS HIST OF ENGL LANG",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Britt Mize (P)"
+          ],
+          "credits": "3",
+          "course": "610",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 504"
+          ],
+          "time": [
+            "06:00 pm-09:00 pm"
+          ],
+          "crn": "27943"
+        }
+      }
+    },
+    "602": {
       "title": "TPCS IN SOCIOLINGUISTICS",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Shari Kendall (P)"
-      ],
-      "credits": "3",
-      "course": "602",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 463"
-      ],
-      "time": [
-        "06:00 pm-09:00 pm"
-      ],
-      "crn": "27444"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "LING",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "TPCS IN SOCIOLINGUISTICS",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Shari Kendall (P)"
+          ],
+          "credits": "3",
+          "course": "602",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 463"
+          ],
+          "time": [
+            "06:00 pm-09:00 pm"
+          ],
+          "crn": "27444"
+        }
+      }
+    },
+    "209": {
+      "title": "INTRO TO LINGUISTICS",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "LING",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTRO TO LINGUISTICS",
+          "remaining": "32",
+          "capacity": "32",
+          "instructor": [
+            "Shari Kendall (P)"
+          ],
+          "credits": "3",
+          "course": "209",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 466"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "11816"
+        }
+      }
     }
   },
-  "209": {
-    "500": {
-      "select": "SR",
-      "subject": "LING",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "INTRO TO LINGUISTICS",
-      "remaining": "37",
-      "capacity": "37",
-      "instructor": [
-        "Shari Kendall (P)"
-      ],
-      "credits": "3",
-      "course": "209",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 466"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "11816"
-    }
-  }
+  "title": "LING -Linguistics",
+  "updated": "Thu Apr 07 01:19:37 CDT 2016"
 }

@@ -1,904 +1,956 @@
 {
-  "471": {
-    "500": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "471": {
       "title": "CLSR MGMT & BEH INTRVNTN",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Melissa S. Fogarty (P)"
-      ],
-      "credits": "3",
-      "course": "471",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 614"
-      ],
-      "time": [
-        "12:40 pm-01:55 pm"
-      ],
-      "crn": "21611"
-    }
-  },
-  "683": {
-    "662": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "662",
-      "title": "FIELD PRACTICUM",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Patricia S. Lynch (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15314"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CLSR MGMT & BEH INTRVNTN",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Melissa S. Fogarty (P)"
+          ],
+          "credits": "3",
+          "course": "471",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 614"
+          ],
+          "time": [
+            "12:40 pm-01:55 pm"
+          ],
+          "crn": "21611"
+        }
+      }
     },
-    "610": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
+    "683": {
       "title": "FIELD PRACTICUM",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mack Burke (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20552"
+      "sections": {
+        "662": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "662",
+          "title": "FIELD PRACTICUM",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Patricia S. Lynch (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15314"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "FIELD PRACTICUM",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mack Burke (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20552"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "FIELD PRACTICUM",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Kimberly Vannest (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23248"
+        },
+        "617": {
+          "select": "C",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "617",
+          "title": "FIELD PRACTICUM",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Constance Fournier (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15598"
+        },
+        "618": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "618",
+          "title": "FIELD PRACTICUM",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Lisa Perrott (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20372"
+        },
+        "619": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "619",
+          "title": "FIELD PRACTICUM",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Shanna Burke (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18520"
+        }
+      }
+    },
+    "310": {
+      "title": "INSTR STRAT STU DISABLE",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INSTR STRAT STU DISABLE",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Glenda E. Byrns (P)"
+          ],
+          "credits": "3",
+          "course": "310",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 614"
+          ],
+          "time": [
+            "08:00 am-10:25 am"
+          ],
+          "crn": "21605"
+        }
+      }
+    },
+    "442": {
+      "title": "STDNTS EMO DIS & BEH DIS",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "STDNTS EMO DIS & BEH DIS",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Lisa Perrott (P)"
+          ],
+          "credits": "3",
+          "course": "442",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 614"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "21610"
+        }
+      }
+    },
+    "311": {
+      "title": "ASSESS STDNT WITH DSBLTY",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ASSESS STDNT WITH DSBLTY",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Constance Fournier (P)"
+          ],
+          "credits": "3",
+          "course": "311",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 614"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "21606"
+        }
+      }
+    },
+    "630": {
+      "title": "EARLY LIT STUD DIV INSTR",
+      "sections": {
+        "699": {
+          "select": "C",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "EARLY LIT STUD DIV INSTR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Glenda E. Byrns (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "05:30 pm-08:00 pm"
+          ],
+          "crn": "15062"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "EARLY LIT STUD DIV INSTR",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Glenda E. Byrns (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "05:30 pm-08:00 pm"
+          ],
+          "crn": "14138"
+        }
+      }
+    },
+    "685": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "323": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "323",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mandy J. Rispoli (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17756"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mack Burke (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18748"
+        },
+        "600": {
+          "select": "C",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Amy K. Heath (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20626"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Jennifer Ganz (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15845"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Kimberly Vannest (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25927"
+        },
+        "645": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "645",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Dan Zhang (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20423"
+        },
+        "619": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "619",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Shanna Burke (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18451"
+        }
+      }
+    },
+    "312": {
+      "title": "EFF RDNG STUD DIVERS ABIL",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "EFF RDNG STUD DIVERS ABIL",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Glenda E. Byrns (P)"
+          ],
+          "credits": "3",
+          "course": "312",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 614"
+          ],
+          "time": [
+            "10:45 am-12:00 pm"
+          ],
+          "crn": "21607"
+        }
+      }
+    },
+    "302": {
+      "title": "INSTR DESIGN STU DISABLE",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INSTR DESIGN STU DISABLE",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Constance Fournier (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 202"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "14297"
+        }
+      }
+    },
+    "632": {
+      "title": "TRANS FR SCHOOL TO WORK",
+      "sections": {
+        "699": {
+          "select": "C",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "TRANS FR SCHOOL TO WORK",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "632",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "05:30 pm-08:00 pm"
+          ],
+          "crn": "15063"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "TRANS FR SCHOOL TO WORK",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "632",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "05:30 pm-08:00 pm"
+          ],
+          "crn": "14013"
+        }
+      }
+    },
+    "314": {
+      "title": "EFFEC MATH STR FOR SWD",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "EFFEC MATH STR FOR SWD",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Corey J. Peltier (P)"
+          ],
+          "credits": "4",
+          "course": "314",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 614"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "21608"
+        }
+      }
+    },
+    "414": {
+      "title": "METH & ISS LOW INCID DISAB",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "METH & ISS LOW INCID DISAB",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Glenda E. Byrns (P)"
+          ],
+          "credits": "3",
+          "course": "414",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 614"
+          ],
+          "time": [
+            "01:30 pm-02:45 pm"
+          ],
+          "crn": "21609"
+        }
+      }
     },
     "612": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "FIELD PRACTICUM",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Kimberly Vannest (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23248"
-    },
-    "617": {
-      "select": "C",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "617",
-      "title": "FIELD PRACTICUM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Constance Fournier (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15598"
+      "title": "SPED LAW & POLICY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SPED LAW & POLICY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jennifer Ganz (P)"
+          ],
+          "credits": "3",
+          "course": "612",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19600"
+        }
+      }
     },
     "618": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "618",
-      "title": "FIELD PRACTICUM",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Lisa Perrott (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20372"
-    },
-    "619": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "619",
-      "title": "FIELD PRACTICUM",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Shanna Burke (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18520"
-    }
-  },
-  "310": {
-    "500": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "INSTR STRAT STU DISABLE",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Glenda E. Byrns (P)"
-      ],
-      "credits": "3",
-      "course": "310",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 614"
-      ],
-      "time": [
-        "08:00 am-10:25 am"
-      ],
-      "crn": "21605"
-    }
-  },
-  "442": {
-    "500": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "STDNTS EMO DIS & BEH DIS",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Lisa Perrott (P)"
-      ],
-      "credits": "3",
-      "course": "442",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 614"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "21610"
-    }
-  },
-  "311": {
-    "500": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "ASSESS STDNT WITH DSBLTY",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Constance Fournier (P)"
-      ],
-      "credits": "3",
-      "course": "311",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 614"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "21606"
-    }
-  },
-  "630": {
-    "699": {
-      "select": "C",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "EARLY LIT STUD DIV INSTR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Glenda E. Byrns (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "05:30 pm-08:00 pm"
-      ],
-      "crn": "15062"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "EARLY LIT STUD DIV INSTR",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Glenda E. Byrns (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "05:30 pm-08:00 pm"
-      ],
-      "crn": "14138"
-    }
-  },
-  "685": {
-    "323": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "323",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mandy J. Rispoli (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17756"
-    },
-    "610": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mack Burke (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18748"
-    },
-    "600": {
-      "select": "C",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Amy K. Heath (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20626"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Jennifer Ganz (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15845"
-    },
-    "612": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Kimberly Vannest (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25927"
-    },
-    "645": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "645",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Dan Zhang (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20423"
-    },
-    "619": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "619",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Shanna Burke (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18451"
-    }
-  },
-  "312": {
-    "500": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "EFF RDNG STUD DIVERS ABIL",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Glenda E. Byrns (P)"
-      ],
-      "credits": "3",
-      "course": "312",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 614"
-      ],
-      "time": [
-        "10:45 am-12:00 pm"
-      ],
-      "crn": "21607"
-    }
-  },
-  "302": {
-    "500": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "INSTR DESIGN STU DISABLE",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Constance Fournier (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 202"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "14297"
-    }
-  },
-  "632": {
-    "699": {
-      "select": "C",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "TRANS FR SCHOOL TO WORK",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "632",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "05:30 pm-08:00 pm"
-      ],
-      "crn": "15063"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "TRANS FR SCHOOL TO WORK",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "632",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "05:30 pm-08:00 pm"
-      ],
-      "crn": "14013"
-    }
-  },
-  "314": {
-    "500": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "EFFEC MATH STR FOR SWD",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Corey J. Peltier (P)"
-      ],
-      "credits": "4",
-      "course": "314",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 614"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "21608"
-    }
-  },
-  "414": {
-    "500": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "METH & ISS LOW INCID DISAB",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Glenda E. Byrns (P)"
-      ],
-      "credits": "3",
-      "course": "414",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 614"
-      ],
-      "time": [
-        "01:30 pm-02:45 pm"
-      ],
-      "crn": "21609"
-    }
-  },
-  "612": {
-    "600": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SPED LAW & POLICY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jennifer Ganz (P)"
-      ],
-      "credits": "3",
-      "course": "612",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19600"
-    }
-  },
-  "618": {
-    "600": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
       "title": "INDUCT PROF DEV HIGH ED",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Shanna Burke (P)"
-      ],
-      "credits": "3",
-      "course": "618",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 701G"
-      ],
-      "time": [
-        "12:00 pm-03:00 pm"
-      ],
-      "crn": "13920"
-    }
-  },
-  "619": {
-    "600": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "CRITCL RESRCH PRACT SPED",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Dan Zhang (P)"
-      ],
-      "credits": "3",
-      "course": "619",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "12:00 pm-03:00 pm"
-      ],
-      "crn": "13921"
-    }
-  },
-  "609": {
-    "699": {
-      "select": "C",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "EDUC INDIV WITH AUTISM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "609",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "05:30 pm-08:00 pm"
-      ],
-      "crn": "27172"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "INDUCT PROF DEV HIGH ED",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Douglas Palmer (P)"
+          ],
+          "credits": "3",
+          "course": "618",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 701G"
+          ],
+          "time": [
+            "12:00 pm-03:00 pm"
+          ],
+          "crn": "13920"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "SPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
+    "619": {
+      "title": "CRITCL RESRCH PRACT SPED",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CRITCL RESRCH PRACT SPED",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Dan Zhang (P)"
+          ],
+          "credits": "3",
+          "course": "619",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "12:00 pm-03:00 pm"
+          ],
+          "crn": "13921"
+        }
+      }
+    },
+    "609": {
       "title": "EDUC INDIV WITH AUTISM",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "609",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "05:30 pm-08:00 pm"
-      ],
-      "crn": "27173"
+      "sections": {
+        "699": {
+          "select": "C",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "EDUC INDIV WITH AUTISM",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "609",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "05:30 pm-08:00 pm"
+          ],
+          "crn": "27172"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "SPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "EDUC INDIV WITH AUTISM",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "609",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "05:30 pm-08:00 pm"
+          ],
+          "crn": "27173"
+        }
+      }
     }
-  }
+  },
+  "title": "SPED - Special Education",
+  "updated": "Thu Apr 07 01:25:39 CDT 2016"
 }

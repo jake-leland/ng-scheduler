@@ -1,33 +1,40 @@
 {
-  "1013": {
-    "600": {
-      "select": "SR",
-      "subject": "GS11",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "1013": {
       "title": "GENETICS & HUMAN DISEASE",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Jiang Chang (P)"
-      ],
-      "credits": "3",
-      "course": "1013",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALKEK "
-      ],
-      "time": [
-        "11:30 am-12:50 pm"
-      ],
-      "crn": "26393"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "GS11",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "GENETICS & HUMAN DISEASE",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Jiang Chang (P)"
+          ],
+          "credits": "3",
+          "course": "1013",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALKEK "
+          ],
+          "time": [
+            "11:30 am-12:50 pm"
+          ],
+          "crn": "26393"
+        }
+      }
     }
-  }
+  },
+  "title": "GS11 - UT-Hou Human Genetics",
+  "updated": "Thu Apr 07 01:17:15 CDT 2016"
 }

@@ -1,3125 +1,3159 @@
 {
-  "630": {
-    "600": {
-      "select": "C",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PATHOGENESIS OF HUMAN DISEASE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "630",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 163"
-      ],
-      "time": [
-        "02:00 pm-04:00 pm"
-      ],
-      "crn": "28231"
-    },
-    "601": {
-      "select": "C",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "PATHOGENESIS OF HUMAN DISEASE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "630",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MEC 207"
-      ],
-      "time": [
-        "02:00 pm-04:00 pm"
-      ],
-      "crn": "28232"
-    },
-    "602": {
-      "select": "C",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "PATHOGENESIS OF HUMAN DISEASE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "630",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALKEK 1105"
-      ],
-      "time": [
-        "02:00 pm-04:00 pm"
-      ],
-      "crn": "28233"
-    }
-  },
-  "685": {
-    "600": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "David P. Huston (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26284"
-    }
-  },
-  "620": {
-    "600": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "THE SCIENTIFIC BASIS OF MED",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Julian Leibowitz (P)"
-      ],
-      "credits": "1",
-      "course": "620",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22350"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "THE SCIENTIFIC BASIS OF MED",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Julian Leibowitz (P)"
-      ],
-      "credits": "1",
-      "course": "620",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22351"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "THE SCIENTIFIC BASIS OF MED",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Julian Leibowitz (P)"
-      ],
-      "credits": "1",
-      "course": "620",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22352"
-    }
-  },
-  "601": {
-    "600": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "CONTEM TOP IN ADV CELL BIO I",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Carl A. Gregory (P)"
-      ],
-      "credits": "5",
-      "course": "601",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22348"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "CONTEM TOP IN ADV CELL BIO I",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Siegfried Musser (P)"
-      ],
-      "credits": "5",
-      "course": "601",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 163"
-      ],
-      "time": [
-        "01:00 pm-03:30 pm"
-      ],
-      "crn": "22349"
-    }
-  },
-  "920": {
-    "300": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "300",
-      "title": "THE SCIENTIFIC BASIS OF MED",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "920",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23103"
-    }
-  },
-  "635": {
-    "600": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "BASIC IMMUNOLOGY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Martha K. Newell Rogers (P)"
-      ],
-      "credits": "2",
-      "course": "635",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:30 am-11:30 am"
-      ],
-      "crn": "22353"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "BASIC IMMUNOLOGY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Martha K. Newell Rogers (P)"
-      ],
-      "credits": "2",
-      "course": "635",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:30 am-11:30 am"
-      ],
-      "crn": "22354"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "BASIC IMMUNOLOGY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Martha K. Newell Rogers (P)"
-      ],
-      "credits": "2",
-      "course": "635",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:30 am-11:30 am"
-      ],
-      "crn": "22355"
-    },
-    "603": {
-      "select": "C",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "BASIC IMMUNOLOGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "635",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:30 am-11:30 am"
-      ],
-      "crn": "28234"
-    }
-  },
-  "608": {
-    "600": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "DEV & COMM OF HUMAN THERAP",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "608",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25698"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DEV & COMM OF HUMAN THERAP",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "608",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25699"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "DEV & COMM OF HUMAN THERAP",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "608",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25700"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "DEV & COMM OF HUMAN THERAP",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "608",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25701"
-    }
-  },
-  "691": {
-    "670": {
-      "select": "C",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "670",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28080"
-    },
+  "courses": {
     "630": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "630",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Siegfried Musser (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22392"
-    },
-    "631": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "631",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mariappan Muthuchamy (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22393"
-    },
-    "675": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "675",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Beiyan Zhou (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23214"
-    },
-    "632": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mariappan Muthuchamy (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22395"
-    },
-    "633": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "633",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Martha K. Newell Rogers (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22396"
-    },
-    "634": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "634",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Xu Peng (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22397"
-    },
-    "635": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "635",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Darwin J. Prockop (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22398"
-    },
-    "636": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "636",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Doodipala S. Reddy (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22399"
-    },
-    "637": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "637",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mendell Rimer (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22400"
-    },
-    "638": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "638",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "James Saccehetini (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22401"
-    },
-    "639": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "639",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Stephen Safe (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22402"
-    },
-    "680": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "680",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22783"
-    },
-    "681": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "681",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sally Ward (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23254"
-    },
-    "683": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "683",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "David W. Threadgill (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23137"
-    },
-    "640": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Doodipala S. Reddy (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22403"
-    },
-    "684": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "684",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hubert O. Amrein (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22736"
+      "title": "PATHOGENESIS OF HUMAN DISEASE",
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PATHOGENESIS OF HUMAN DISEASE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "630",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 163"
+          ],
+          "time": [
+            "02:00 pm-04:00 pm"
+          ],
+          "crn": "28231"
+        },
+        "601": {
+          "select": "C",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "PATHOGENESIS OF HUMAN DISEASE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "630",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MEC 207"
+          ],
+          "time": [
+            "02:00 pm-04:00 pm"
+          ],
+          "crn": "28232"
+        },
+        "602": {
+          "select": "C",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "PATHOGENESIS OF HUMAN DISEASE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "630",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALKEK 1105"
+          ],
+          "time": [
+            "02:00 pm-04:00 pm"
+          ],
+          "crn": "28233"
+        }
+      }
     },
     "685": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "685",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23072"
-    },
-    "642": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "642",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Lee A. Shapiro (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22405"
-    },
-    "686": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "686",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jun Wang (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22645"
-    },
-    "643": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Stephen Safe (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22406"
-    },
-    "687": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "687",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Murray J. Cote (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22563"
-    },
-    "600": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Robert C. Alaniz (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22361"
-    },
-    "644": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "644",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jon Skare (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22407"
-    },
-    "688": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "688",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "David Eagleman (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22562"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Gianfranco D. Alpini (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22362"
-    },
-    "645": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "645",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Farida Sohrabji (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22408"
-    },
-    "689": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "689",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Warren Zimmer (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22438"
-    },
-    "646": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "646",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Vernon Tesh (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22409"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Vytas A. Bankaitis (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22364"
-    },
-    "647": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "647",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "David W. Threadgill (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22411"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Kayla J. Bayless (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22366"
-    },
-    "649": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "649",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Carl W. Tong (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22412"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Susan Bloomfield (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22367"
-    },
-    "607": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Sarah Bondos (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22368"
-    },
-    "608": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Zhilei Chen (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22369"
-    },
-    "609": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jeffrey D. Cirillo (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22370"
-    },
-    "690": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "690",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Shuoxun Zhang (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22437"
-    },
-    "691": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "691",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "David Zawieja (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22436"
-    },
-    "692": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "692",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "David Zawieja (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22435"
-    },
-    "693": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "693",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Keith Young (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22434"
-    },
-    "650": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Binu Tharakan (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25680"
-    },
-    "694": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "694",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Ursula Winzer-Serhan (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22433"
-    },
-    "695": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "695",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Van Wilson (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22432"
-    },
-    "652": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "652",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Carl W. Tong (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25682"
-    },
-    "696": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "696",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Emily P. Wilson (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22431"
-    },
-    "653": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "653",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jerome Trzeciakowski (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25683"
-    },
-    "697": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "697",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Vincent J. Vanburen (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22430"
-    },
-    "610": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Kevin J. Cummings (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22371"
-    },
-    "654": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Vincent J. Vanburen (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25684"
-    },
-    "611": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Sharon Demorrow (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22372"
-    },
-    "655": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "655",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Carolyn L. Cannon (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25685"
-    },
-    "612": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Scott V. Dindot (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22373"
-    },
-    "613": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Robin F. Young (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22374"
-    },
-    "657": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "657",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25687"
-    },
-    "614": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Anatoliy Gashev (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22375"
-    },
-    "658": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "658",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Van Wilson (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25688"
-    },
-    "615": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Shannon S. Glaser (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22376"
-    },
-    "616": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "616",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Carl A. Gregory (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22377"
-    },
-    "617": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "617",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "William Griffith (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22378"
-    },
-    "618": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "618",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "David P. Huston (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22379"
-    },
-    "619": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "619",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jun-Yuan Ji (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22380"
-    },
-    "660": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "660",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Ursula Winzer-Serhan (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25690"
-    },
-    "661": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "661",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Keith Young (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25692"
-    },
-    "662": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "662",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "David Zawieja (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25693"
-    },
-    "663": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "663",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "David Zawieja (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25694"
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "David P. Huston (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26284"
+        }
+      }
     },
     "620": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "620",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Geoffrey Kapler (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22381"
-    },
-    "664": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "664",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Shenyuan Zhang (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25695"
-    },
-    "621": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Koichi Kobayashi (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22382"
-    },
-    "665": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "665",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Beiyan Zhou (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25696"
-    },
-    "622": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "622",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Li-Jen Kuo (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22384"
-    },
-    "666": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "666",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Warren Zimmer (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25697"
-    },
-    "623": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "623",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mong Hong Lee (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22385"
-    },
-    "667": {
-      "select": "C",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "667",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jason S. Karpac (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25936"
-    },
-    "624": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Julian Leibowitz (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22386"
-    },
-    "668": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "668",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Beiyan Zhou (P)"
-      ],
-      "credits": "3",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26269"
-    },
-    "625": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "625",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Steven Maxwell (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22387"
-    },
-    "669": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "669",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "James Samuel (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26587"
-    },
-    "626": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "626",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Alistair Mcgregor (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22388"
-    },
-    "627": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "627",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Cynthia J. Meininger (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22389"
-    },
-    "628": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "628",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Rajesh Miranda (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22390"
-    },
-    "629": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "629",
-      "title": "RESEARCH CREDIT: MEDICAL SCI",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Margarita M. Moczygemba (P)"
-      ],
-      "credits": "1-15",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22391"
-    }
-  },
-  "609": {
-    "600": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "RESP CONDUCT OF RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Emily P. Wilson (P)"
-      ],
-      "credits": "1",
-      "course": "609",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "12:00 pm-01:00 pm"
-      ],
-      "crn": "25229"
+      "title": "THE SCIENTIFIC BASIS OF MED",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THE SCIENTIFIC BASIS OF MED",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Julian Leibowitz (P)"
+          ],
+          "credits": "1",
+          "course": "620",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22350"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "THE SCIENTIFIC BASIS OF MED",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Julian Leibowitz (P)"
+          ],
+          "credits": "1",
+          "course": "620",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22351"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "THE SCIENTIFIC BASIS OF MED",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Julian Leibowitz (P)"
+          ],
+          "credits": "1",
+          "course": "620",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22352"
+        }
+      }
     },
     "601": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESP CONDUCT OF RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Emily P. Wilson (P)"
-      ],
-      "credits": "1",
-      "course": "609",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "12:00 pm-01:00 pm"
-      ],
-      "crn": "25231"
+      "title": "CONTEM TOP IN ADV CELL BIO I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CONTEM TOP IN ADV CELL BIO I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Carl A. Gregory (P)"
+          ],
+          "credits": "5",
+          "course": "601",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22348"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "CONTEM TOP IN ADV CELL BIO I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Siegfried Musser (P)"
+          ],
+          "credits": "5",
+          "course": "601",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 163"
+          ],
+          "time": [
+            "01:00 pm-03:30 pm"
+          ],
+          "crn": "22349"
+        }
+      }
     },
-    "305": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "305",
-      "title": "RESP CONDUCT OF RESEARCH",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Emily P. Wilson (P)"
-      ],
-      "credits": "1",
-      "course": "609",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "12:00 pm-01:00 pm"
-      ],
-      "crn": "25227"
+    "920": {
+      "title": "THE SCIENTIFIC BASIS OF MED",
+      "sections": {
+        "300": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "300",
+          "title": "THE SCIENTIFIC BASIS OF MED",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "920",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23103"
+        }
+      }
     },
-    "603": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
+    "635": {
+      "title": "BASIC IMMUNOLOGY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "BASIC IMMUNOLOGY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Martha K. Newell Rogers (P)"
+          ],
+          "credits": "2",
+          "course": "635",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:30 am-11:30 am"
+          ],
+          "crn": "22353"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "BASIC IMMUNOLOGY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Martha K. Newell Rogers (P)"
+          ],
+          "credits": "2",
+          "course": "635",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:30 am-11:30 am"
+          ],
+          "crn": "22354"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "BASIC IMMUNOLOGY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Martha K. Newell Rogers (P)"
+          ],
+          "credits": "2",
+          "course": "635",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:30 am-11:30 am"
+          ],
+          "crn": "22355"
+        },
+        "603": {
+          "select": "C",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "BASIC IMMUNOLOGY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "635",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:30 am-11:30 am"
+          ],
+          "crn": "28234"
+        }
+      }
+    },
+    "608": {
+      "title": "DEV & COMM OF HUMAN THERAP",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DEV & COMM OF HUMAN THERAP",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "608",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25698"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DEV & COMM OF HUMAN THERAP",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "608",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25699"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DEV & COMM OF HUMAN THERAP",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "608",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25700"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "DEV & COMM OF HUMAN THERAP",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "608",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25701"
+        }
+      }
+    },
+    "691": {
+      "title": "RESEARCH CREDIT: MEDICAL SCI",
+      "sections": {
+        "670": {
+          "select": "C",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "670",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28080"
+        },
+        "630": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "630",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Siegfried Musser (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22392"
+        },
+        "631": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "631",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mariappan Muthuchamy (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22393"
+        },
+        "675": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "675",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Beiyan Zhou (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23214"
+        },
+        "632": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mariappan Muthuchamy (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22395"
+        },
+        "633": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "633",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Martha K. Newell Rogers (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22396"
+        },
+        "634": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "634",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Xu Peng (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22397"
+        },
+        "635": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "635",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Darwin J. Prockop (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22398"
+        },
+        "636": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "636",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Doodipala S. Reddy (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22399"
+        },
+        "637": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "637",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mendell Rimer (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22400"
+        },
+        "638": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "638",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "James Saccehetini (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22401"
+        },
+        "639": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "639",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Stephen Safe (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22402"
+        },
+        "680": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "680",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22783"
+        },
+        "681": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "681",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sally Ward (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23254"
+        },
+        "683": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "683",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "David W. Threadgill (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23137"
+        },
+        "640": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Doodipala S. Reddy (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22403"
+        },
+        "684": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "684",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hubert O. Amrein (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22736"
+        },
+        "685": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "685",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23072"
+        },
+        "642": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "642",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Lee A. Shapiro (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22405"
+        },
+        "686": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "686",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jun Wang (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22645"
+        },
+        "643": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Stephen Safe (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22406"
+        },
+        "687": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "687",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Murray J. Cote (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22563"
+        },
+        "600": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Robert C. Alaniz (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22361"
+        },
+        "644": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "644",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jon Skare (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22407"
+        },
+        "688": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "688",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "David Eagleman (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22562"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Gianfranco D. Alpini (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22362"
+        },
+        "645": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "645",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Farida Sohrabji (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22408"
+        },
+        "689": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "689",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Warren Zimmer (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22438"
+        },
+        "646": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "646",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Vernon Tesh (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22409"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Vytas A. Bankaitis (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22364"
+        },
+        "647": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "647",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "David W. Threadgill (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22411"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Kayla J. Bayless (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22366"
+        },
+        "649": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "649",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Carl W. Tong (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22412"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Susan Bloomfield (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22367"
+        },
+        "607": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Sarah Bondos (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22368"
+        },
+        "608": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Zhilei Chen (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22369"
+        },
+        "609": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jeffrey D. Cirillo (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22370"
+        },
+        "690": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "690",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Shuoxun Zhang (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22437"
+        },
+        "691": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "691",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "David Zawieja (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22436"
+        },
+        "692": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "692",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "David Zawieja (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22435"
+        },
+        "693": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "693",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Keith Young (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22434"
+        },
+        "650": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Binu Tharakan (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25680"
+        },
+        "694": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "694",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Ursula Winzer-Serhan (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22433"
+        },
+        "695": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "695",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Van Wilson (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22432"
+        },
+        "652": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "652",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Carl W. Tong (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25682"
+        },
+        "696": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "696",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Emily P. Wilson (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22431"
+        },
+        "653": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "653",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jerome Trzeciakowski (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25683"
+        },
+        "697": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "697",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Vincent J. Vanburen (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22430"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Kevin J. Cummings (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22371"
+        },
+        "654": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Vincent J. Vanburen (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25684"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Sharon Demorrow (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22372"
+        },
+        "655": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "655",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Carolyn L. Cannon (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25685"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Scott V. Dindot (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22373"
+        },
+        "613": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Robin F. Young (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22374"
+        },
+        "657": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "657",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25687"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Anatoliy Gashev (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22375"
+        },
+        "658": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "658",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Van Wilson (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25688"
+        },
+        "615": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Shannon S. Glaser (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22376"
+        },
+        "616": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "616",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Carl A. Gregory (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22377"
+        },
+        "617": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "617",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "William Griffith (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22378"
+        },
+        "618": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "618",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "David P. Huston (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22379"
+        },
+        "619": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "619",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jun-Yuan Ji (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22380"
+        },
+        "660": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "660",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Ursula Winzer-Serhan (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25690"
+        },
+        "661": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "661",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Keith Young (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25692"
+        },
+        "662": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "662",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "David Zawieja (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25693"
+        },
+        "663": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "663",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "David Zawieja (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25694"
+        },
+        "620": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "620",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Geoffrey Kapler (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22381"
+        },
+        "664": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "664",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Shenyuan Zhang (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25695"
+        },
+        "621": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Koichi Kobayashi (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22382"
+        },
+        "665": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "665",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Beiyan Zhou (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25696"
+        },
+        "622": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "622",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Li-Jen Kuo (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22384"
+        },
+        "666": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "666",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Warren Zimmer (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25697"
+        },
+        "623": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "623",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mong Hong Lee (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22385"
+        },
+        "667": {
+          "select": "C",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "667",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jason S. Karpac (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25936"
+        },
+        "624": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Julian Leibowitz (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22386"
+        },
+        "668": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "668",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Beiyan Zhou (P)"
+          ],
+          "credits": "3",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26269"
+        },
+        "625": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "625",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Steven Maxwell (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22387"
+        },
+        "669": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "669",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "James Samuel (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26587"
+        },
+        "626": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "626",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Alistair Mcgregor (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22388"
+        },
+        "627": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "627",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Cynthia J. Meininger (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22389"
+        },
+        "628": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "628",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Rajesh Miranda (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22390"
+        },
+        "629": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "629",
+          "title": "RESEARCH CREDIT: MEDICAL SCI",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Margarita M. Moczygemba (P)"
+          ],
+          "credits": "1-15",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22391"
+        }
+      }
+    },
+    "609": {
       "title": "RESP CONDUCT OF RESEARCH",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Emily P. Wilson (P)"
-      ],
-      "credits": "1",
-      "course": "609",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "12:00 pm-01:00 pm"
-      ],
-      "crn": "25232"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RESP CONDUCT OF RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Emily P. Wilson (P)"
+          ],
+          "credits": "1",
+          "course": "609",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "12:00 pm-01:00 pm"
+          ],
+          "crn": "25229"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESP CONDUCT OF RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Emily P. Wilson (P)"
+          ],
+          "credits": "1",
+          "course": "609",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "12:00 pm-01:00 pm"
+          ],
+          "crn": "25231"
+        },
+        "305": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "305",
+          "title": "RESP CONDUCT OF RESEARCH",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Emily P. Wilson (P)"
+          ],
+          "credits": "1",
+          "course": "609",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "12:00 pm-01:00 pm"
+          ],
+          "crn": "25227"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESP CONDUCT OF RESEARCH",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Emily P. Wilson (P)"
+          ],
+          "credits": "1",
+          "course": "609",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "12:00 pm-01:00 pm"
+          ],
+          "crn": "25232"
+        }
+      }
+    },
+    "681": {
+      "title": "SEMINAR",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "SEMINAR",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Martha K. Newell Rogers (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:30 am-11:30 am"
+          ],
+          "crn": "22566"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "SEMINAR",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Martha K. Newell Rogers (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:30 am-11:30 am"
+          ],
+          "crn": "22567"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "MSCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "SEMINAR",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Farida Sohrabji (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "23353"
+        }
+      }
     }
   },
-  "681": {
-    "601": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "SEMINAR",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Martha K. Newell Rogers (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:30 am-11:30 am"
-      ],
-      "crn": "22566"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "SEMINAR",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Martha K. Newell Rogers (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:30 am-11:30 am"
-      ],
-      "crn": "22567"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "MSCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "SEMINAR",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Farida Sohrabji (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "23353"
-    }
-  }
+  "title": "MSCI - Medical Sciences",
+  "updated": "Thu Apr 07 01:21:03 CDT 2016"
 }

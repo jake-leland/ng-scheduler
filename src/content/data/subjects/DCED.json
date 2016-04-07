@@ -1,430 +1,467 @@
 {
-  "202": {
-    "598": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "598",
+  "courses": {
+    "202": {
       "title": "DANCE APPRECIATION",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Christine Bergeron (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25184"
+      "sections": {
+        "598": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "598",
+          "title": "DANCE APPRECIATION",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Christine Bergeron (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25184"
+        },
+        "500": {
+          "select": "NR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "FOCUS: DANCE APPRECIATION",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Diane C. Bedford (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "PEAP 137"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "21995"
+        },
+        "599": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "DANCE APPRECIATION",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Christine Bergeron (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "21210"
+        }
+      }
     },
-    "500": {
-      "select": "NR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "FOCUS: DANCE APPRECIATION",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Diane C. Bedford (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PEAP 137"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "21995"
-    },
-    "599": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "DANCE APPRECIATION",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Christine Bergeron (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "21210"
-    }
-  },
-  "303": {
-    "599": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
+    "303": {
       "title": "HEALTH PRACTICES DANCERS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Alexandria Pooley-Detwiler (P)"
-      ],
-      "credits": "2",
-      "course": "303",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PEAP 210"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "14019"
-    }
-  },
-  "402": {
-    "500": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "DANCE COMPOSITION III",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Christine Bergeron (P)"
-      ],
-      "credits": "2",
-      "course": "402",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PEAP 207"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "19633"
-    }
-  },
-  "304": {
-    "500": {
-      "select": "C",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "CREATIVE DANCE CHILDREN",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "24868"
-    }
-  },
-  "306": {
-    "500": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "DANCE COMPOSITION I",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Diane C. Bedford (P)"
-      ],
-      "credits": "2",
-      "course": "306",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PEAP 207"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "16606"
+      "sections": {
+        "599": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "HEALTH PRACTICES DANCERS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Alexandria Pooley-Detwiler (P)"
+          ],
+          "credits": "2",
+          "course": "303",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "PEAP 210"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "14019"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "402": {
+      "title": "DANCE COMPOSITION III",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DANCE COMPOSITION III",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Christine Bergeron (P)"
+          ],
+          "credits": "2",
+          "course": "402",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "PEAP 207"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "19633"
+        }
+      }
+    },
+    "304": {
+      "title": "CREATIVE DANCE CHILDREN",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CREATIVE DANCE CHILDREN",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "24868"
+        }
+      }
+    },
+    "306": {
       "title": "DANCE COMPOSITION I",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "306",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22483"
-    }
-  },
-  "160": {
-    "500": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DANCE COMPOSITION I",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Diane C. Bedford (P)"
+          ],
+          "credits": "2",
+          "course": "306",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "PEAP 207"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "16606"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DANCE COMPOSITION I",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "306",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22483"
+        }
+      }
+    },
+    "160": {
       "title": "BALLET I",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Diane C. Bedford (P)"
-      ],
-      "credits": "2",
-      "course": "160",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PEAP 210"
-      ],
-      "time": [
-        "09:30 am-10:50 am"
-      ],
-      "crn": "13084"
-    }
-  },
-  "171": {
-    "500": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BALLET I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Diane C. Bedford (P)"
+          ],
+          "credits": "2",
+          "course": "160",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "PEAP 210"
+          ],
+          "time": [
+            "09:30 am-10:50 am"
+          ],
+          "crn": "13084"
+        }
+      }
+    },
+    "171": {
       "title": "MODERN DANCE I",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Carisa Armstrong (P)"
-      ],
-      "credits": "2",
-      "course": "171",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PEAP 207"
-      ],
-      "time": [
-        "12:50 pm-02:10 pm"
-      ],
-      "crn": "13085"
-    }
-  },
-  "161": {
-    "500": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MODERN DANCE I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Carisa Armstrong (P)"
+          ],
+          "credits": "2",
+          "course": "171",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "PEAP 207"
+          ],
+          "time": [
+            "12:50 pm-02:10 pm"
+          ],
+          "crn": "13085"
+        }
+      }
+    },
+    "161": {
       "title": "BALLET II",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Diane C. Bedford (P)"
-      ],
-      "credits": "2",
-      "course": "161",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PEAP 210"
-      ],
-      "time": [
-        "12:50 pm-02:10 pm"
-      ],
-      "crn": "11023"
-    }
-  },
-  "172": {
-    "500": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BALLET II",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Diane C. Bedford (P)"
+          ],
+          "credits": "2",
+          "course": "161",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "PEAP 210"
+          ],
+          "time": [
+            "12:50 pm-02:10 pm"
+          ],
+          "crn": "11023"
+        }
+      }
+    },
+    "172": {
       "title": "MODERN DANCE II",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Carisa Armstrong (P)"
-      ],
-      "credits": "2",
-      "course": "172",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PEAP 207"
-      ],
-      "time": [
-        "11:10 am-12:30 pm"
-      ],
-      "crn": "14155"
-    }
-  },
-  "162": {
-    "500": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MODERN DANCE II",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Carisa Armstrong (P)"
+          ],
+          "credits": "2",
+          "course": "172",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "PEAP 207"
+          ],
+          "time": [
+            "11:10 am-12:30 pm"
+          ],
+          "crn": "14155"
+        }
+      }
+    },
+    "162": {
       "title": "BALLET III",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Diane C. Bedford (P)"
-      ],
-      "credits": "2",
-      "course": "162",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PEAP 210"
-      ],
-      "time": [
-        "11:10 am-12:20 pm"
-      ],
-      "crn": "16605"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BALLET III",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Diane C. Bedford (P)"
+          ],
+          "credits": "2",
+          "course": "162",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "PEAP 210"
+          ],
+          "time": [
+            "11:10 am-12:20 pm"
+          ],
+          "crn": "16605"
+        }
+      }
+    },
+    "173": {
+      "title": "MODERN DANCE III",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DCED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MODERN DANCE III",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Carisa Armstrong (P)"
+          ],
+          "credits": "2",
+          "course": "173",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "PEAP 207"
+          ],
+          "time": [
+            "09:30 am-10:50 am"
+          ],
+          "crn": "19632"
+        }
+      }
     }
   },
-  "173": {
-    "500": {
-      "select": "SR",
-      "subject": "DCED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "MODERN DANCE III",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Carisa Armstrong (P)"
-      ],
-      "credits": "2",
-      "course": "173",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "PEAP 207"
-      ],
-      "time": [
-        "09:30 am-10:50 am"
-      ],
-      "crn": "19632"
-    }
-  }
+  "title": "DCED - Dance Education",
+  "updated": "Thu Apr 07 01:13:48 CDT 2016"
 }

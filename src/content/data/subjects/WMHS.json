@@ -1,675 +1,727 @@
 {
-  "685": {
-    "640": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
+  "courses": {
+    "685": {
       "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Ronald Kaiser (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 206"
-      ],
-      "time": [
-        "04:00 pm-07:00 pm"
-      ],
-      "crn": "15733"
+      "sections": {
+        "640": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Ronald Kaiser (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 206"
+          ],
+          "time": [
+            "04:00 pm-07:00 pm"
+          ],
+          "crn": "15733"
+        },
+        "641": {
+          "select": "C",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "641",
+          "title": "DIRECTED STUDIES:IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ronald Kaiser (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26768"
+        },
+        "642": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "642",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Clyde Munster (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26373"
+        }
+      }
     },
-    "641": {
-      "select": "C",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "641",
-      "title": "DIRECTED STUDIES:IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ronald Kaiser (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26768"
+    "601": {
+      "title": "HYDROLOGY AND ENVIRONMENT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "HYDROLOGY AND ENVIRONMENT",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Steven Quiring (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 103",
+            "TEAG B009C"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "11:10 am-01:00 pm"
+          ],
+          "crn": "28663"
+        }
+      }
     },
-    "642": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "642",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Clyde Munster (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26373"
-    }
-  },
-  "691": {
-    "651": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Ronald Kaiser (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14714"
-    },
-    "631": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "631",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jacqueline Aitkenhead (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14354"
+      "sections": {
+        "651": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Ronald Kaiser (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14714"
+        },
+        "631": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "631",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jacqueline Aitkenhead (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14354"
+        },
+        "642": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "642",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Robin L. Autenrieth (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18612"
+        },
+        "653": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "653",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Miguel Mora-Zacarias (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25883"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hong-Bin Zhan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18673"
+        },
+        "621": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Binayak Mohanty (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "15107"
+        },
+        "654": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Ronald Kaiser (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26528"
+        },
+        "611": {
+          "select": "C",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Peter S. Knappett (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23458"
+        },
+        "655": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "655",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Rabi H. Mohtar (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26529"
+        },
+        "656": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "656",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Kung-Hui Chu (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26604"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Steven Quiring (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14352"
+        },
+        "635": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "635",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Vijay Singh (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14355"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Raghupathy Karthikeyan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15106"
+        },
+        "625": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "625",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Clyde Munster (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14353"
+        },
+        "636": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "636",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Patricia Smith (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14356"
+        },
+        "615": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gerard Kyle (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23195"
+        },
+        "616": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "616",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Inci Guneralp (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18312"
+        },
+        "629": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "629",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Francisco Olivera (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18805"
+        },
+        "609": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "John Giardino (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14713"
+        }
+      }
     },
-    "642": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "642",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Robin L. Autenrieth (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18612"
-    },
-    "653": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "653",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Miguel Mora-Zacarias (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25883"
-    },
-    "610": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hong-Bin Zhan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18673"
-    },
-    "621": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Binayak Mohanty (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "15107"
-    },
-    "654": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Ronald Kaiser (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26528"
-    },
-    "611": {
-      "select": "C",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Peter S. Knappett (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23458"
-    },
-    "655": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "655",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Rabi H. Mohtar (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26529"
-    },
-    "656": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "656",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Kung-Hui Chu (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26604"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Steven Quiring (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14352"
-    },
-    "635": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "635",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Vijay Singh (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14355"
-    },
-    "614": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Raghupathy Karthikeyan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15106"
-    },
-    "625": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "625",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Clyde Munster (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14353"
-    },
-    "636": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "636",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Patricia Smith (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14356"
-    },
-    "615": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Gerard Kyle (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23195"
-    },
-    "616": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "616",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Inci Guneralp (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18312"
-    },
-    "629": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "629",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Francisco Olivera (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18805"
-    },
-    "609": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "John Giardino (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14713"
-    }
-  },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "WMHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "681": {
       "title": "SEMINAR",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Ronald Kaiser (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 203"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm"
-      ],
-      "crn": "14351"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "WMHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Ronald Kaiser (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 203"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm"
+          ],
+          "crn": "14351"
+        }
+      }
     }
-  }
+  },
+  "title": "WMHS-Water Mgmt & Hydrol Sci",
+  "updated": "Thu Apr 07 01:27:16 CDT 2016"
 }

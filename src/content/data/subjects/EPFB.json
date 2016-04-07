@@ -1,110 +1,123 @@
 {
-  "210": {
-    "500": {
-      "select": "SR",
-      "subject": "EPFB",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "210": {
       "title": "FAMILY INVOLVE & EMPOWER",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Marcia L. Montague (P)",
-        "Marcia L. Montague"
-      ],
-      "credits": "3",
-      "course": "210",
-      "days": [
-        "TR",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 200",
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "TBA"
-      ],
-      "crn": "11315"
-    }
-  },
-  "301": {
-    "500": {
-      "select": "SR",
-      "subject": "EPFB",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "EPFB",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "FAMILY INVOLVE & EMPOWER",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Marcia L. Montague (P)",
+            "Marcia L. Montague"
+          ],
+          "credits": "3",
+          "course": "210",
+          "days": [
+            "TR",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 200",
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "TBA"
+          ],
+          "crn": "11315"
+        }
+      }
+    },
+    "301": {
       "title": "TEACHING SKILLS I",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Constance Fournier (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "301",
-      "days": [
-        "M",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEM 2121",
-        "TBA"
-      ],
-      "time": [
-        "02:15 pm-03:30 pm",
-        "TBA"
-      ],
-      "crn": "21573"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "EPFB",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "TEACHING SKILLS I",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Constance Fournier (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "301",
+          "days": [
+            "M",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEM 2121",
+            "TBA"
+          ],
+          "time": [
+            "02:15 pm-03:30 pm",
+            "TBA"
+          ],
+          "crn": "21573"
+        }
+      }
+    },
+    "401": {
+      "title": "TEACHING SKILLS II",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "EPFB",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "TEACHING SKILLS II",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Glenda E. Byrns (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "401",
+          "days": [
+            "T",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "YMCA 115",
+            "TBA"
+          ],
+          "time": [
+            "04:00 pm-05:00 pm",
+            "TBA"
+          ],
+          "crn": "21574"
+        }
+      }
     }
   },
-  "401": {
-    "500": {
-      "select": "SR",
-      "subject": "EPFB",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
-      "title": "TEACHING SKILLS II",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Glenda E. Byrns (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "401",
-      "days": [
-        "T",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "YMCA 115",
-        "TBA"
-      ],
-      "time": [
-        "04:00 pm-05:00 pm",
-        "TBA"
-      ],
-      "crn": "21574"
-    }
-  }
+  "title": "EPFB - Educ Psyc Field Based",
+  "updated": "Thu Apr 07 01:15:46 CDT 2016"
 }

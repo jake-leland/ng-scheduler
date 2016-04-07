@@ -1,1508 +1,1596 @@
 {
-  "630": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
+  "courses": {
+    "630": {
       "title": "PROG EVAL IN PUB & NPROF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Edwina Dorch (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28255"
-    }
-  },
-  "631": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "MARKETING FOR NONPROFITS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Charles Little (P)"
-      ],
-      "credits": "3",
-      "course": "631",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28256"
-    }
-  },
-  "653": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "WEAP OF MASS DESTRUCTION",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Jason B. Moats (P)"
-      ],
-      "credits": "3",
-      "course": "653",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28250"
-    }
-  },
-  "675": {
-    "602": {
-      "select": "C",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "PUB SERV ADMIN CAPSTNE I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "William Brown (P)"
-      ],
-      "credits": "3",
-      "course": "675",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1107"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "12523"
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "PROG EVAL IN PUB & NPROF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Edwina Dorch (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28255"
+        }
+      }
     },
-    "603": {
-      "select": "C",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
+    "631": {
+      "title": "MARKETING FOR NONPROFITS",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "MARKETING FOR NONPROFITS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Charles Little (P)"
+          ],
+          "credits": "3",
+          "course": "631",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28256"
+        }
+      }
+    },
+    "653": {
+      "title": "WEAP OF MASS DESTRUCTION",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "WEAP OF MASS DESTRUCTION",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jason B. Moats (P)"
+          ],
+          "credits": "3",
+          "course": "653",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28250"
+        }
+      }
+    },
+    "675": {
       "title": "PUB SERV ADMIN CAPSTNE I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Danny W. Davis (P)"
-      ],
-      "credits": "3",
-      "course": "675",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1055"
-      ],
-      "time": [
-        "01:30 pm-04:20 pm"
-      ],
-      "crn": "12524"
+      "sections": {
+        "602": {
+          "select": "C",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "PUB SERV ADMIN CAPSTNE I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "William Brown (P)"
+          ],
+          "credits": "3",
+          "course": "675",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1107"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "12523"
+        },
+        "603": {
+          "select": "C",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "PUB SERV ADMIN CAPSTNE I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Danny W. Davis (P)"
+          ],
+          "credits": "3",
+          "course": "675",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1055"
+          ],
+          "time": [
+            "01:30 pm-04:20 pm"
+          ],
+          "crn": "12524"
+        },
+        "604": {
+          "select": "C",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "PUB SERV ADMIN CAPSTNE I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mary E. Hilderbrand (P)"
+          ],
+          "credits": "3",
+          "course": "675",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1041"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "12525"
+        },
+        "605": {
+          "select": "C",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "PUB SERV ADMIN CAPSTNE I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Deborah L. Kerr (P)"
+          ],
+          "credits": "3",
+          "course": "675",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1055"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "19495"
+        },
+        "606": {
+          "select": "C",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "PUB SERV ADMIN CAPSTNE I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "David McIntyre (P)"
+          ],
+          "credits": "3",
+          "course": "675",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1108"
+          ],
+          "time": [
+            "01:30 pm-04:20 pm"
+          ],
+          "crn": "13003"
+        },
+        "607": {
+          "select": "C",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "PUB SERV ADMIN CAPSTNE I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jeryl Mumpower (P)"
+          ],
+          "credits": "3",
+          "course": "675",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1077"
+          ],
+          "time": [
+            "01:30 pm-04:20 pm"
+          ],
+          "crn": "16600"
+        },
+        "608": {
+          "select": "C",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "PUB SERV ADMIN CAPSTNE I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Aubrey W. Rosser (P)"
+          ],
+          "credits": "3",
+          "course": "675",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1077"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "19496"
+        },
+        "609": {
+          "select": "C",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "PUB SERV ADMIN CAPSTNE I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "James Griffin (P)"
+          ],
+          "credits": "3",
+          "course": "675",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1041"
+          ],
+          "time": [
+            "01:30 pm-04:20 pm"
+          ],
+          "crn": "19668"
+        }
+      }
+    },
+    "610": {
+      "title": "COMPAR PUB ADMIN AND MGMT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "COMPAR PUB ADMIN AND MGMT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Mary E. Hilderbrand (P)"
+          ],
+          "credits": "3",
+          "course": "610",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1108"
+          ],
+          "time": [
+            "01:30 pm-04:20 pm"
+          ],
+          "crn": "21829"
+        }
+      }
+    },
+    "632": {
+      "title": "FISCAL MGMT NONPROFITS",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "FISCAL MGMT NONPROFITS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "632",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28257"
+        }
+      }
+    },
+    "633": {
+      "title": "PHILANTHROPY IN NONPROF",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "PHILANTHROPY IN NONPROF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Kelly J. Zuniga (P)"
+          ],
+          "credits": "3",
+          "course": "633",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28258"
+        }
+      }
+    },
+    "655": {
+      "title": "DOMESTIC INTEL OPER",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "DOMESTIC INTEL OPER",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sonny Smith (P)"
+          ],
+          "credits": "3",
+          "course": "655",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28251"
+        }
+      }
+    },
+    "656": {
+      "title": "FUND HOMELAND SECURITY",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "FUND HOMELAND SECURITY",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Danny W. Davis (P)"
+          ],
+          "credits": "3",
+          "course": "656",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28252"
+        }
+      }
+    },
+    "615": {
+      "title": "POLICY ANALYSIS",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "POLICY ANALYSIS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Miner P. Marchbanks (P)"
+          ],
+          "credits": "3",
+          "course": "615",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1063"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "13855"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "POLICY ANALYSIS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Miner P. Marchbanks (P)"
+          ],
+          "credits": "3",
+          "course": "615",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1063"
+          ],
+          "time": [
+            "01:30 pm-04:20 pm"
+          ],
+          "crn": "13871"
+        }
+      }
+    },
+    "616": {
+      "title": "MGMT DIV PUB & NONPROF ORGS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "MGMT DIV PUB & NONPROF ORGS",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Leonard A. Bright (P)"
+          ],
+          "credits": "3",
+          "course": "616",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1055"
+          ],
+          "time": [
+            "01:30 pm-04:20 pm"
+          ],
+          "crn": "21033"
+        }
+      }
+    },
+    "617": {
+      "title": "U.S. STATE AND LOCAL GOVT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "U.S. STATE AND LOCAL GOVT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Ann Bowman (P)"
+          ],
+          "credits": "3",
+          "course": "617",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1041"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "19494"
+        }
+      }
+    },
+    "660": {
+      "title": "DOMESTIC TERRORISM",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DOMESTIC TERRORISM",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Danny W. Davis (P)"
+          ],
+          "credits": "3",
+          "course": "660",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1041"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "25080"
+        }
+      }
+    },
+    "661": {
+      "title": "HR MGMT GOVT & PUBLIC SERV",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "HR MGMT GOVT & PUBLIC SERV",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Cole B. Graham (P)"
+          ],
+          "credits": "3",
+          "course": "661",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1108"
+          ],
+          "time": [
+            "03:05 pm-05:55 pm"
+          ],
+          "crn": "28290"
+        }
+      }
+    },
+    "685": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "William West (P)"
+          ],
+          "credits": "3",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22487"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Kalena E. Cortes (P)"
+          ],
+          "credits": "3",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25667"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Kent E. Portney (P)"
+          ],
+          "credits": "3",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25668"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Lori L. Taylor (P)"
+          ],
+          "credits": "3",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26395"
+        }
+      }
+    },
+    "642": {
+      "title": "ETHICS AND PUB POLICY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ETHICS AND PUB POLICY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Domonic Bearfield (P)"
+          ],
+          "credits": "3",
+          "course": "642",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1108"
+          ],
+          "time": [
+            "04:35 pm-07:20 pm"
+          ],
+          "crn": "28286"
+        }
+      }
+    },
+    "621": {
+      "title": "ECONOMIC ANALYSIS",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "ECONOMIC ANALYSIS",
+          "remaining": "26",
+          "capacity": "26",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "621",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1110"
+          ],
+          "time": [
+            "01:30 pm-02:45 pm"
+          ],
+          "crn": "12519"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "ECONOMIC ANALYSIS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "621",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28263"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "ECONOMIC ANALYSIS",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "621",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1110"
+          ],
+          "time": [
+            "03:05 pm-04:20 pm"
+          ],
+          "crn": "12520"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "ECONOMIC ANALYSIS",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Lori L. Taylor (P)"
+          ],
+          "credits": "3",
+          "course": "621",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1063"
+          ],
+          "time": [
+            "03:05 pm-04:20 pm"
+          ],
+          "crn": "16599"
+        }
+      }
+    },
+    "643": {
+      "title": "FOUND OF NON-PROFIT SECT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "FOUND OF NON-PROFIT SECT",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Laurie P. Paarlberg (P)"
+          ],
+          "credits": "3",
+          "course": "643",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1017"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "12521"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "FOUND OF NON-PROFIT SECT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Laurie P. Paarlberg (P)"
+          ],
+          "credits": "3",
+          "course": "643",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28259"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "FOUND OF NON-PROFIT SECT",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Laurie P. Paarlberg (P)"
+          ],
+          "credits": "3",
+          "course": "643",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1107"
+          ],
+          "time": [
+            "03:05 pm-05:55 pm"
+          ],
+          "crn": "28287"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "FOUND OF NON-PROFIT SECT",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "643",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1110"
+          ],
+          "time": [
+            "08:00 am-10:50 am"
+          ],
+          "crn": "28288"
+        }
+      }
+    },
+    "644": {
+      "title": "MGMT & LDR OF N-PRFT ORG",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "MGMT & LDR OF N-PRFT ORG",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jenny K. Morrison (P)"
+          ],
+          "credits": "3",
+          "course": "644",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28260"
+        }
+      }
+    },
+    "601": {
+      "title": "FOUNDATIONS OF PUB SERV",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "FOUNDATIONS OF PUB SERV",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "William West (P)"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1063"
+          ],
+          "time": [
+            "01:30 pm-02:45 pm"
+          ],
+          "crn": "15239"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "FOUNDATIONS OF PUB SERV",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Justin B. Bullock (P)"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1107"
+          ],
+          "time": [
+            "04:35 pm-07:20 pm"
+          ],
+          "crn": "15240"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "FOUNDATIONS OF PUB SERV",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Justin B. Bullock (P)"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1017"
+          ],
+          "time": [
+            "01:30 pm-04:20 pm"
+          ],
+          "crn": "15241"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "FOUNDATIONS OF PUB SERV",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Domonic Bearfield (P)"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1063"
+          ],
+          "time": [
+            "04:35 pm-07:20 pm"
+          ],
+          "crn": "24140"
+        }
+      }
+    },
+    "623": {
+      "title": "BUDGETING IN PUBLIC SERV",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "BUDGETING IN PUBLIC SERV",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "623",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1063"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "16816"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "BUDGETING IN PUBLIC SERV",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "623",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1041"
+          ],
+          "time": [
+            "01:30 pm-04:20 pm"
+          ],
+          "crn": "16598"
+        }
+      }
+    },
+    "689": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "SPTP: INTRO FED GOVT AGENCIES",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Leonard A. Bright (P)"
+          ],
+          "credits": "3",
+          "course": "689",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1108"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "28594"
+        }
+      }
+    },
+    "668": {
+      "title": "LAW & HMLND SECURITY",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "LAW & HMLND SECURITY",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Timothy A. Shaw (P)"
+          ],
+          "credits": "3",
+          "course": "668",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28253"
+        }
+      }
+    },
+    "669": {
+      "title": "LGL ENVRMNT NONPROF MGMT",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "LGL ENVRMNT NONPROF MGMT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jason Lum (P)"
+          ],
+          "credits": "3",
+          "course": "669",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28262"
+        }
+      }
     },
     "604": {
-      "select": "C",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "PUB SERV ADMIN CAPSTNE I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Mary E. Hilderbrand (P)"
-      ],
-      "credits": "3",
-      "course": "675",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1041"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "12525"
+      "title": "EMRGNCY MGMT & HMLND SEC",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "EMRGNCY MGMT & HMLND SEC",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "David McIntyre (P)"
+          ],
+          "credits": "3",
+          "course": "604",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1108"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "13870"
+        }
+      }
     },
-    "605": {
-      "select": "C",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "PUB SERV ADMIN CAPSTNE I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Deborah L. Kerr (P)"
-      ],
-      "credits": "3",
-      "course": "675",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1055"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "19495"
+    "648": {
+      "title": "PERF MGMT PUB & NONPROF",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PERF MGMT PUB & NONPROF",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Deborah L. Kerr (P)"
+          ],
+          "credits": "3",
+          "course": "648",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1107"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "25079"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "PERF MGMT PUB & NONPROF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jenny K. Morrison (P)"
+          ],
+          "credits": "3",
+          "course": "648",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28261"
+        }
+      }
     },
     "606": {
-      "select": "C",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "PUB SERV ADMIN CAPSTNE I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "David McIntyre (P)"
-      ],
-      "credits": "3",
-      "course": "675",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1108"
-      ],
-      "time": [
-        "01:30 pm-04:20 pm"
-      ],
-      "crn": "13003"
-    },
-    "607": {
-      "select": "C",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "PUB SERV ADMIN CAPSTNE I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jeryl Mumpower (P)"
-      ],
-      "credits": "3",
-      "course": "675",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1077"
-      ],
-      "time": [
-        "01:30 pm-04:20 pm"
-      ],
-      "crn": "16600"
+      "title": "ENVIRONMENTAL POL & MGMT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ENVIRONMENTAL POL & MGMT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Kent E. Portney (P)"
+          ],
+          "credits": "3",
+          "course": "606",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1107"
+          ],
+          "time": [
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "19667"
+        }
+      }
     },
     "608": {
-      "select": "C",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "PUB SERV ADMIN CAPSTNE I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Aubrey W. Rosser (P)"
-      ],
-      "credits": "3",
-      "course": "675",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1077"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "19496"
-    },
-    "609": {
-      "select": "C",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "PUB SERV ADMIN CAPSTNE I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "James Griffin (P)"
-      ],
-      "credits": "3",
-      "course": "675",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1041"
-      ],
-      "time": [
-        "01:30 pm-04:20 pm"
-      ],
-      "crn": "19668"
-    }
-  },
-  "610": {
-    "600": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "COMPAR PUB ADMIN AND MGMT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Mary E. Hilderbrand (P)"
-      ],
-      "credits": "3",
-      "course": "610",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1108"
-      ],
-      "time": [
-        "01:30 pm-04:20 pm"
-      ],
-      "crn": "21829"
-    }
-  },
-  "632": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "FISCAL MGMT NONPROFITS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "632",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28257"
-    }
-  },
-  "633": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "PHILANTHROPY IN NONPROF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Kelly J. Zuniga (P)"
-      ],
-      "credits": "3",
-      "course": "633",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28258"
-    }
-  },
-  "655": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "DOMESTIC INTEL OPER",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sonny Smith (P)"
-      ],
-      "credits": "3",
-      "course": "655",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28251"
-    }
-  },
-  "656": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "FUND HOMELAND SECURITY",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Danny W. Davis (P)"
-      ],
-      "credits": "3",
-      "course": "656",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28252"
-    }
-  },
-  "615": {
-    "601": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "POLICY ANALYSIS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Miner P. Marchbanks (P)"
-      ],
-      "credits": "3",
-      "course": "615",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1063"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "13855"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "POLICY ANALYSIS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Miner P. Marchbanks (P)"
-      ],
-      "credits": "3",
-      "course": "615",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1063"
-      ],
-      "time": [
-        "01:30 pm-04:20 pm"
-      ],
-      "crn": "13871"
-    }
-  },
-  "616": {
-    "600": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "MGMT DIV PUB & NONPROF ORGS",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Leonard A. Bright (P)"
-      ],
-      "credits": "3",
-      "course": "616",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1055"
-      ],
-      "time": [
-        "01:30 pm-04:20 pm"
-      ],
-      "crn": "21033"
-    }
-  },
-  "617": {
-    "600": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "U.S. STATE AND LOCAL GOVT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Ann Bowman (P)"
-      ],
-      "credits": "3",
-      "course": "617",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1041"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "19494"
-    }
-  },
-  "660": {
-    "600": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "DOMESTIC TERRORISM",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Danny W. Davis (P)"
-      ],
-      "credits": "3",
-      "course": "660",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1041"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "25080"
-    }
-  },
-  "661": {
-    "600": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "HR MGMT GOVT & PUBLIC SERV",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Cole B. Graham (P)"
-      ],
-      "credits": "3",
-      "course": "661",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1108"
-      ],
-      "time": [
-        "03:05 pm-05:55 pm"
-      ],
-      "crn": "28290"
-    }
-  },
-  "685": {
-    "601": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "William West (P)"
-      ],
-      "credits": "3",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22487"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Kalena E. Cortes (P)"
-      ],
-      "credits": "3",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25667"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Kent E. Portney (P)"
-      ],
-      "credits": "3",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25668"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Lori L. Taylor (P)"
-      ],
-      "credits": "3",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26395"
-    }
-  },
-  "642": {
-    "600": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ETHICS AND PUB POLICY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Domonic Bearfield (P)"
-      ],
-      "credits": "3",
-      "course": "642",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1108"
-      ],
-      "time": [
-        "04:35 pm-07:20 pm"
-      ],
-      "crn": "28286"
-    }
-  },
-  "621": {
-    "601": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "ECONOMIC ANALYSIS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "621",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1110"
-      ],
-      "time": [
-        "01:30 pm-02:45 pm"
-      ],
-      "crn": "12519"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "ECONOMIC ANALYSIS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "621",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28263"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "ECONOMIC ANALYSIS",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "621",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1110"
-      ],
-      "time": [
-        "03:05 pm-04:20 pm"
-      ],
-      "crn": "12520"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "ECONOMIC ANALYSIS",
-      "remaining": "26",
-      "capacity": "26",
-      "instructor": [
-        "Lori L. Taylor (P)"
-      ],
-      "credits": "3",
-      "course": "621",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1063"
-      ],
-      "time": [
-        "03:05 pm-04:20 pm"
-      ],
-      "crn": "16599"
-    }
-  },
-  "643": {
-    "600": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "FOUND OF NON-PROFIT SECT",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Laurie P. Paarlberg (P)"
-      ],
-      "credits": "3",
-      "course": "643",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1017"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "12521"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "FOUND OF NON-PROFIT SECT",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Laurie P. Paarlberg (P)"
-      ],
-      "credits": "3",
-      "course": "643",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28259"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "FOUND OF NON-PROFIT SECT",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Laurie P. Paarlberg (P)"
-      ],
-      "credits": "3",
-      "course": "643",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1107"
-      ],
-      "time": [
-        "03:05 pm-05:55 pm"
-      ],
-      "crn": "28287"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "FOUND OF NON-PROFIT SECT",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "643",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1110"
-      ],
-      "time": [
-        "08:00 am-10:50 am"
-      ],
-      "crn": "28288"
-    }
-  },
-  "644": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "MGMT & LDR OF N-PRFT ORG",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Jenny K. Morrison (P)"
-      ],
-      "credits": "3",
-      "course": "644",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28260"
-    }
-  },
-  "601": {
-    "601": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "FOUNDATIONS OF PUB SERV",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "William West (P)"
-      ],
-      "credits": "3",
-      "course": "601",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1063"
-      ],
-      "time": [
-        "01:30 pm-02:45 pm"
-      ],
-      "crn": "15239"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "FOUNDATIONS OF PUB SERV",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Justin B. Bullock (P)"
-      ],
-      "credits": "3",
-      "course": "601",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1107"
-      ],
-      "time": [
-        "04:35 pm-07:20 pm"
-      ],
-      "crn": "15240"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "FOUNDATIONS OF PUB SERV",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Justin B. Bullock (P)"
-      ],
-      "credits": "3",
-      "course": "601",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1017"
-      ],
-      "time": [
-        "01:30 pm-04:20 pm"
-      ],
-      "crn": "15241"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "FOUNDATIONS OF PUB SERV",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Domonic Bearfield (P)"
-      ],
-      "credits": "3",
-      "course": "601",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1063"
-      ],
-      "time": [
-        "04:35 pm-07:20 pm"
-      ],
-      "crn": "24140"
-    }
-  },
-  "623": {
-    "601": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "BUDGETING IN PUBLIC SERV",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "623",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1063"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "16816"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "BUDGETING IN PUBLIC SERV",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "623",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1041"
-      ],
-      "time": [
-        "01:30 pm-04:20 pm"
-      ],
-      "crn": "16598"
-    }
-  },
-  "689": {
-    "601": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "SPTP: INTRO FED GOVT AGENCIES",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Leonard A. Bright (P)"
-      ],
-      "credits": "3",
-      "course": "689",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1108"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "28594"
-    }
-  },
-  "668": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "LAW & HMLND SECURITY",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Timothy A. Shaw (P)"
-      ],
-      "credits": "3",
-      "course": "668",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28253"
-    }
-  },
-  "669": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "LGL ENVRMNT NONPROF MGMT",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Jason Lum (P)"
-      ],
-      "credits": "3",
-      "course": "669",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28262"
-    }
-  },
-  "604": {
-    "600": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "EMRGNCY MGMT & HMLND SEC",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "David McIntyre (P)"
-      ],
-      "credits": "3",
-      "course": "604",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1108"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "13870"
-    }
-  },
-  "648": {
-    "600": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PERF MGMT PUB & NONPROF",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Deborah L. Kerr (P)"
-      ],
-      "credits": "3",
-      "course": "648",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1107"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "25079"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "PERF MGMT PUB & NONPROF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Jenny K. Morrison (P)"
-      ],
-      "credits": "3",
-      "course": "648",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28261"
-    }
-  },
-  "606": {
-    "600": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ENVIRONMENTAL POL & MGMT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Kent E. Portney (P)"
-      ],
-      "credits": "3",
-      "course": "606",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1107"
-      ],
-      "time": [
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "19667"
-    }
-  },
-  "608": {
-    "700": {
-      "select": "SR",
-      "subject": "PSAA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
       "title": "CYBER SECURITY FOR MNGRS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Gary Whitten (P)"
-      ],
-      "credits": "3",
-      "course": "608",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28249"
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "PSAA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "CYBER SECURITY FOR MNGRS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Gary Whitten (P)"
+          ],
+          "credits": "3",
+          "course": "608",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28249"
+        }
+      }
     }
-  }
+  },
+  "title": "PSAA - Public Service & Admin",
+  "updated": "Thu Apr 07 01:24:15 CDT 2016"
 }

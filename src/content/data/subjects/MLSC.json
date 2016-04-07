@@ -1,823 +1,842 @@
 {
-  "121": {
-    "501": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "121": {
       "title": "INTRO TO THE US ARMY I",
-      "remaining": "33",
-      "capacity": "33",
-      "instructor": [
-        "Gerald M. Stoermer (P)",
-        "Donald Davis"
-      ],
-      "credits": "2",
-      "course": "121",
-      "days": [
-        "T",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317",
-        "MILS 317"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12177"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "INTRO TO THE US ARMY I",
+          "remaining": "33",
+          "capacity": "33",
+          "instructor": [
+            "Gerald M. Stoermer (P)",
+            "Donald Davis"
+          ],
+          "credits": "2",
+          "course": "121",
+          "days": [
+            "T",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317",
+            "MILS 317"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12177"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "INTRO TO THE US ARMY I",
+          "remaining": "31",
+          "capacity": "31",
+          "instructor": [
+            "Gerald M. Stoermer (P)",
+            "Donald Davis"
+          ],
+          "credits": "2",
+          "course": "121",
+          "days": [
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317",
+            "MILS 317"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12178"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "INTRO TO THE US ARMY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Gerald M. Stoermer (P)",
+            "Donald Davis"
+          ],
+          "credits": "2",
+          "course": "121",
+          "days": [
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317",
+            "MILS 317"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12179"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "INTRO TO THE US ARMY I",
+          "remaining": "32",
+          "capacity": "32",
+          "instructor": [
+            "Gerald M. Stoermer (P)",
+            "Donald Davis"
+          ],
+          "credits": "2",
+          "course": "121",
+          "days": [
+            "W",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317",
+            "MILS 317"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12180"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "505",
+          "title": "INTRO TO THE US ARMY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Gerald M. Stoermer (P)",
+            "Donald Davis"
+          ],
+          "credits": "2",
+          "course": "121",
+          "days": [
+            "W",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317",
+            "MILS 317"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12181"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "506",
+          "title": "INTRO TO THE US ARMY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Gerald M. Stoermer (P)",
+            "Donald Davis"
+          ],
+          "credits": "2",
+          "course": "121",
+          "days": [
+            "W",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317",
+            "MILS 317"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12182"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "507",
+          "title": "INTRO TO THE US ARMY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Gerald M. Stoermer (P)",
+            "Donald Davis"
+          ],
+          "credits": "2",
+          "course": "121",
+          "days": [
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317",
+            "MILS 317"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12183"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "508",
+          "title": "INTRO TO THE US ARMY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Gerald M. Stoermer (P)",
+            "Donald Davis"
+          ],
+          "credits": "2",
+          "course": "121",
+          "days": [
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317",
+            "MILS 317"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12184"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "509",
+          "title": "INTRO TO THE US ARMY I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Gerald M. Stoermer (P)",
+            "Donald Davis"
+          ],
+          "credits": "2",
+          "course": "121",
+          "days": [
+            "R",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317",
+            "MILS 317"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12185"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "INTRO TO THE US ARMY I",
-      "remaining": "31",
-      "capacity": "31",
-      "instructor": [
-        "Gerald M. Stoermer (P)",
-        "Donald Davis"
-      ],
-      "credits": "2",
-      "course": "121",
-      "days": [
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317",
-        "MILS 317"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12178"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "INTRO TO THE US ARMY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Gerald M. Stoermer (P)",
-        "Donald Davis"
-      ],
-      "credits": "2",
-      "course": "121",
-      "days": [
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317",
-        "MILS 317"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12179"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "INTRO TO THE US ARMY I",
-      "remaining": "32",
-      "capacity": "32",
-      "instructor": [
-        "Gerald M. Stoermer (P)",
-        "Donald Davis"
-      ],
-      "credits": "2",
-      "course": "121",
-      "days": [
-        "W",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317",
-        "MILS 317"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12180"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "505",
-      "title": "INTRO TO THE US ARMY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Gerald M. Stoermer (P)",
-        "Donald Davis"
-      ],
-      "credits": "2",
-      "course": "121",
-      "days": [
-        "W",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317",
-        "MILS 317"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12181"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "506",
-      "title": "INTRO TO THE US ARMY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Gerald M. Stoermer (P)",
-        "Donald Davis"
-      ],
-      "credits": "2",
-      "course": "121",
-      "days": [
-        "W",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317",
-        "MILS 317"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12182"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "507",
-      "title": "INTRO TO THE US ARMY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Gerald M. Stoermer (P)",
-        "Donald Davis"
-      ],
-      "credits": "2",
-      "course": "121",
-      "days": [
-        "R",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317",
-        "MILS 317"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12183"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "508",
-      "title": "INTRO TO THE US ARMY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Gerald M. Stoermer (P)",
-        "Donald Davis"
-      ],
-      "credits": "2",
-      "course": "121",
-      "days": [
-        "R",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317",
-        "MILS 317"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12184"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "509",
-      "title": "INTRO TO THE US ARMY I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Gerald M. Stoermer (P)",
-        "Donald Davis"
-      ],
-      "credits": "2",
-      "course": "121",
-      "days": [
-        "R",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317",
-        "MILS 317"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12185"
-    }
-  },
-  "221": {
-    "501": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "221": {
       "title": "TACTICS & LDRSHP THRY I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Anthony D. George (P)",
-        "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
-      ],
-      "credits": "3",
-      "course": "221",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 315",
-        "MILS 319"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "13370"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "TACTICS & LDRSHP THRY I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Anthony D. George (P)",
+            "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
+          ],
+          "credits": "3",
+          "course": "221",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 315",
+            "MILS 319"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "13370"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "TACTICS & LDRSHP THRY I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Anthony D. George (P)",
+            "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
+          ],
+          "credits": "3",
+          "course": "221",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 316",
+            "MILS 319"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "13371"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "TACTICS & LDRSHP THRY I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Anthony D. George (P)",
+            "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
+          ],
+          "credits": "3",
+          "course": "221",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 315",
+            "MILS 319"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "13372"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "TACTICS & LDRSHP THRY I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Anthony D. George (P)",
+            "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
+          ],
+          "credits": "3",
+          "course": "221",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 316",
+            "MILS 319"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "13811"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "505",
+          "title": "TACTICS & LDRSHP THRY I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Anthony D. George (P)",
+            "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
+          ],
+          "credits": "3",
+          "course": "221",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 315",
+            "MILS 319"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "13816"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "506",
+          "title": "TACTICS & LDRSHP THRY I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Anthony D. George (P)",
+            "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
+          ],
+          "credits": "3",
+          "course": "221",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 316",
+            "MILS 319"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "13826"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "507",
+          "title": "TACTICS & LDRSHP THRY I",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Anthony D. George (P)",
+            "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
+          ],
+          "credits": "3",
+          "course": "221",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317",
+            "MILS 319"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "13831"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "TACTICS & LDRSHP THRY I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Anthony D. George (P)",
-        "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
-      ],
-      "credits": "3",
-      "course": "221",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 316",
-        "MILS 319"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "13371"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "TACTICS & LDRSHP THRY I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Anthony D. George (P)",
-        "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
-      ],
-      "credits": "3",
-      "course": "221",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 315",
-        "MILS 319"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "13372"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "TACTICS & LDRSHP THRY I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Anthony D. George (P)",
-        "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
-      ],
-      "credits": "3",
-      "course": "221",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 316",
-        "MILS 319"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "13811"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "505",
-      "title": "TACTICS & LDRSHP THRY I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Anthony D. George (P)",
-        "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
-      ],
-      "credits": "3",
-      "course": "221",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 315",
-        "MILS 319"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "13816"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "506",
-      "title": "TACTICS & LDRSHP THRY I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Anthony D. George (P)",
-        "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
-      ],
-      "credits": "3",
-      "course": "221",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 316",
-        "MILS 319"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "13826"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "507",
-      "title": "TACTICS & LDRSHP THRY I",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Anthony D. George (P)",
-        "David Liwanag , Roy S. Reed , Jamarcus J. Wilson"
-      ],
-      "credits": "3",
-      "course": "221",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317",
-        "MILS 319"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "13831"
-    }
-  },
-  "485": {
-    "500": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "John J. Burrescia (P), Michael W. Brown , Eric Glocer , Ashley Leach"
-      ],
-      "credits": "1-3",
-      "course": "485",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 315"
-      ],
-      "time": [
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "13836"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "John J. Burrescia (P), Michael W. Brown , Eric Glocer , Ashley Leach"
+          ],
+          "credits": "1-3",
+          "course": "485",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 315"
+          ],
+          "time": [
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "13836"
+        }
+      }
+    },
+    "321": {
+      "title": "ADAPTIVE LDRSHIP I",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ADAPTIVE LDRSHIP I",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Jonathan Knight (P)",
+            "Richard Heathman , David L. Homer , Michael J. Rasmussen"
+          ],
+          "credits": "3",
+          "course": "321",
+          "days": [
+            "TR",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 316",
+            "MILS 316"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12186"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ADAPTIVE LDRSHIP I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Jonathan Knight (P)",
+            "Richard Heathman , David L. Homer , Michael J. Rasmussen"
+          ],
+          "credits": "3",
+          "course": "321",
+          "days": [
+            "TR",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 316",
+            "MILS 316"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12187"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "ADAPTIVE LDRSHIP I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Jonathan Knight (P)",
+            "Richard Heathman , David L. Homer , Michael J. Rasmussen"
+          ],
+          "credits": "3",
+          "course": "321",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 316",
+            "MILS 316"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12188"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "ADAPTIVE LDRSHIP I",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Jonathan Knight (P)",
+            "Richard Heathman , David L. Homer , Michael J. Rasmussen"
+          ],
+          "credits": "3",
+          "course": "321",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 316",
+            "MILS 316"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "14499"
+        }
+      }
+    },
+    "421": {
+      "title": "THE ARMY OFFICER I",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "THE ARMY OFFICER I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "John J. Burrescia (P), Ashley Leach",
+            "Michael W. Brown , David L. Homer"
+          ],
+          "credits": "3",
+          "course": "421",
+          "days": [
+            "TR",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 315",
+            "MILS 315"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12189"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "THE ARMY OFFICER I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "John J. Burrescia (P), Ashley Leach",
+            "Michael W. Brown , David L. Homer"
+          ],
+          "credits": "3",
+          "course": "421",
+          "days": [
+            "TR",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 315",
+            "MILS 315"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12190"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "MLSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "THE ARMY OFFICER I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "John J. Burrescia (P), Ashley Leach",
+            "Michael W. Brown , David L. Homer"
+          ],
+          "credits": "3",
+          "course": "421",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 315",
+            "MILS 315"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12191"
+        }
+      }
     }
   },
-  "321": {
-    "501": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "ADAPTIVE LDRSHIP I",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Jonathan Knight (P)",
-        "Richard Heathman , David L. Homer , Michael J. Rasmussen"
-      ],
-      "credits": "3",
-      "course": "321",
-      "days": [
-        "TR",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 316",
-        "MILS 316"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12186"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ADAPTIVE LDRSHIP I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Jonathan Knight (P)",
-        "Richard Heathman , David L. Homer , Michael J. Rasmussen"
-      ],
-      "credits": "3",
-      "course": "321",
-      "days": [
-        "TR",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 316",
-        "MILS 316"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12187"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "ADAPTIVE LDRSHIP I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Jonathan Knight (P)",
-        "Richard Heathman , David L. Homer , Michael J. Rasmussen"
-      ],
-      "credits": "3",
-      "course": "321",
-      "days": [
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 316",
-        "MILS 316"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12188"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "ADAPTIVE LDRSHIP I",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Jonathan Knight (P)",
-        "Richard Heathman , David L. Homer , Michael J. Rasmussen"
-      ],
-      "credits": "3",
-      "course": "321",
-      "days": [
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 316",
-        "MILS 316"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "14499"
-    }
-  },
-  "421": {
-    "501": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "THE ARMY OFFICER I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "John J. Burrescia (P), Ashley Leach",
-        "Michael W. Brown , David L. Homer"
-      ],
-      "credits": "3",
-      "course": "421",
-      "days": [
-        "TR",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 315",
-        "MILS 315"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12189"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "THE ARMY OFFICER I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "John J. Burrescia (P), Ashley Leach",
-        "Michael W. Brown , David L. Homer"
-      ],
-      "credits": "3",
-      "course": "421",
-      "days": [
-        "TR",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 315",
-        "MILS 315"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12190"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "MLSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "THE ARMY OFFICER I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "John J. Burrescia (P), Ashley Leach",
-        "Michael W. Brown , David L. Homer"
-      ],
-      "credits": "3",
-      "course": "421",
-      "days": [
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 315",
-        "MILS 315"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12191"
-    }
-  }
+  "title": "MLSC - Military Science",
+  "updated": "Thu Apr 07 01:20:51 CDT 2016"
 }

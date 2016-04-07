@@ -1,343 +1,380 @@
 {
-  "601": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "601": {
       "title": "ENVIRONMENTAL ISSUES OF ENERGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Mustafa Akbulut (P)"
-      ],
-      "credits": "1.5",
-      "course": "601",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "09/01-09/10"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28152"
-    }
-  },
-  "602": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ENVIRONMENTAL ISSUES OF ENERGY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mustafa Akbulut (P)"
+          ],
+          "credits": "1.5",
+          "course": "601",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "09/01-09/10"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28152"
+        }
+      }
+    },
+    "602": {
       "title": "RESERVOIR CHARACTERIZATION",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Akhil Dattagupta (P), Michael King"
-      ],
-      "credits": "1.5",
-      "course": "602",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "09/11-09/20"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28156"
-    }
-  },
-  "604": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RESERVOIR CHARACTERIZATION",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Akhil Dattagupta (P), Michael King"
+          ],
+          "credits": "1.5",
+          "course": "602",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "09/11-09/20"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28156"
+        }
+      }
+    },
+    "604": {
       "title": "ENERGY SYSTEMS ENGINEERING I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Christodoulos Floudas (P), Efstratios Pistikopoulos"
-      ],
-      "credits": "1.5",
-      "course": "604",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "09/21-09/30"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28158"
-    }
-  },
-  "615": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ENERGY SYSTEMS ENGINEERING I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Christodoulos Floudas (P), Efstratios Pistikopoulos"
+          ],
+          "credits": "1.5",
+          "course": "604",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "09/21-09/30"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28158"
+        }
+      }
+    },
+    "615": {
       "title": "SMART GRID FUNDAMENTALS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Mladen Kezunovic (P), Prasad Enjeti , Steven Puller , Chanan Singh , Le Xie"
-      ],
-      "credits": "1.5",
-      "course": "615",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "11/10-11/19"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28164"
-    }
-  },
-  "605": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SMART GRID FUNDAMENTALS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mladen Kezunovic (P), Prasad Enjeti , Steven Puller , Chanan Singh , Le Xie"
+          ],
+          "credits": "1.5",
+          "course": "615",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "11/10-11/19"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28164"
+        }
+      }
+    },
+    "605": {
       "title": "ENERGY SYSTEMS ENGINEERING II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Christodoulos Floudas (P), Efstratios Pistikopoulos"
-      ],
-      "credits": "1.5",
-      "course": "605",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "10/01-10/10"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28159"
-    }
-  },
-  "616": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ENERGY SYSTEMS ENGINEERING II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Christodoulos Floudas (P), Efstratios Pistikopoulos"
+          ],
+          "credits": "1.5",
+          "course": "605",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "10/01-10/10"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28159"
+        }
+      }
+    },
+    "616": {
       "title": "MULTI-FUNCT MATLS ENG CONV",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "James G. Boyd (P), Raymundo Arroyave , Dimitris Lagoudas"
-      ],
-      "credits": "1.5",
-      "course": "616",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "11/20-12/02"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28166"
-    }
-  },
-  "617": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "MULTI-FUNCT MATLS ENG CONV",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "James G. Boyd (P), Raymundo Arroyave , Dimitris Lagoudas"
+          ],
+          "credits": "1.5",
+          "course": "616",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "11/20-12/02"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28166"
+        }
+      }
+    },
+    "617": {
       "title": "GAS SEPARATIONS FOR ENERGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Benjamin A. Wilhite (P)"
-      ],
-      "credits": "1.5",
-      "course": "617",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "12/03-12/13"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28169"
-    }
-  },
-  "607": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "GAS SEPARATIONS FOR ENERGY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Benjamin A. Wilhite (P)"
+          ],
+          "credits": "1.5",
+          "course": "617",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "12/03-12/13"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28169"
+        }
+      }
+    },
+    "607": {
       "title": "ENERGY ACCOUNTING",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Shannon K. Deer (P)"
-      ],
-      "credits": "1.5",
-      "course": "607",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "10/31-11/09"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28163"
-    }
-  },
-  "608": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ENERGY ACCOUNTING",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Shannon K. Deer (P)"
+          ],
+          "credits": "1.5",
+          "course": "607",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "10/31-11/09"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28163"
+        }
+      }
+    },
+    "608": {
       "title": "BEYOND SCIENCE AND TECHNOLOGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Arnold Vedlitz (P), Francis G. Gause"
-      ],
-      "credits": "1.5",
-      "course": "608",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "10/21-10/30"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28162"
-    }
-  },
-  "619": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "BEYOND SCIENCE AND TECHNOLOGY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Arnold Vedlitz (P), Francis G. Gause"
+          ],
+          "credits": "1.5",
+          "course": "608",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "10/21-10/30"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28162"
+        }
+      }
+    },
+    "619": {
       "title": "NANOMATERIALS ENGR & STORAGE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jodie L. Lutkenhaus (P), Micah Green"
-      ],
-      "credits": "1.5",
-      "course": "619",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "12/03-12/13"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28167"
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "NANOMATERIALS ENGR & STORAGE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jodie L. Lutkenhaus (P), Micah Green"
+          ],
+          "credits": "1.5",
+          "course": "619",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "12/03-12/13"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28167"
+        }
+      }
+    },
+    "609": {
+      "title": "INTRO TO U.S. ENERGY LAW",
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "ICPE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "INTRO TO U.S. ENERGY LAW",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gina S. Warren (P)"
+          ],
+          "credits": "1.5",
+          "course": "609",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "10/11-10/20"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "05:30 pm-10:00 pm"
+          ],
+          "crn": "28161"
+        }
+      }
     }
   },
-  "609": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "ICPE",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "INTRO TO U.S. ENERGY LAW",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gina S. Warren (P)"
-      ],
-      "credits": "1.5",
-      "course": "609",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "10/11-10/20"
-      ],
-      "location": [
-        "CHEN 111"
-      ],
-      "time": [
-        "05:30 pm-10:00 pm"
-      ],
-      "crn": "28161"
-    }
-  }
+  "title": "ICPE-Interdisc Curr Prg Energy",
+  "updated": "Thu Apr 07 01:18:09 CDT 2016"
 }

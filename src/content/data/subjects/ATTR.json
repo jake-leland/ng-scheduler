@@ -1,332 +1,366 @@
 {
-  "672": {
-    "600": {
-      "select": "SR",
-      "subject": "ATTR",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "672": {
       "title": "PROF PREP & ISSUES AT TR",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Lori Greenwood (P)"
-      ],
-      "credits": "3",
-      "course": "672",
-      "days": [
-        "MF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 215"
-      ],
-      "time": [
-        "10:00 am-11:20 am"
-      ],
-      "crn": "21207"
-    }
-  },
-  "662": {
-    "600": {
-      "select": "SR",
-      "subject": "ATTR",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATTR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PROF PREP & ISSUES AT TR",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Lori Greenwood (P)"
+          ],
+          "credits": "3",
+          "course": "672",
+          "days": [
+            "MF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 215"
+          ],
+          "time": [
+            "10:00 am-11:20 am"
+          ],
+          "crn": "21207"
+        }
+      }
+    },
+    "662": {
       "title": "CLIN EXAM & DIAG LE",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Anthony M. Boucher (P)",
-        "Anthony M. Boucher (P)"
-      ],
-      "credits": "3",
-      "course": "662",
-      "days": [
-        "MF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 217",
-        "HELD 217"
-      ],
-      "time": [
-        "10:00 am-10:50 am",
-        "08:30 am-09:20 am"
-      ],
-      "crn": "16614"
-    }
-  },
-  "652": {
-    "600": {
-      "select": "SR",
-      "subject": "ATTR",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATTR",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "CLIN EXAM & DIAG LE",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Anthony M. Boucher (P)",
+            "Anthony M. Boucher (P)"
+          ],
+          "credits": "3",
+          "course": "662",
+          "days": [
+            "MF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 217",
+            "HELD 217"
+          ],
+          "time": [
+            "10:00 am-10:50 am",
+            "08:30 am-09:20 am"
+          ],
+          "crn": "16614"
+        }
+      }
+    },
+    "652": {
       "title": "CLIN EDUC II",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Lori Greenwood (P)",
-        "Lori Greenwood"
-      ],
-      "credits": "3",
-      "course": "652",
-      "days": [
-        "R",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 217",
-        "TBA"
-      ],
-      "time": [
-        "10:30 am-12:30 pm",
-        "TBA"
-      ],
-      "crn": "16541"
-    }
-  },
-  "663": {
-    "600": {
-      "select": "SR",
-      "subject": "ATTR",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATTR",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "CLIN EDUC II",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Lori Greenwood (P)",
+            "Lori Greenwood"
+          ],
+          "credits": "3",
+          "course": "652",
+          "days": [
+            "R",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 217",
+            "TBA"
+          ],
+          "time": [
+            "10:30 am-12:30 pm",
+            "TBA"
+          ],
+          "crn": "16541"
+        }
+      }
+    },
+    "663": {
       "title": "CLIN EXAM & DIAG LE LAB",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Anthony M. Boucher (P)"
-      ],
-      "credits": "1",
-      "course": "663",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 217"
-      ],
-      "time": [
-        "10:00 am-11:50 am"
-      ],
-      "crn": "16615"
-    }
-  },
-  "655": {
-    "600": {
-      "select": "SR",
-      "subject": "ATTR",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATTR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLIN EXAM & DIAG LE LAB",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Anthony M. Boucher (P)"
+          ],
+          "credits": "1",
+          "course": "663",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 217"
+          ],
+          "time": [
+            "10:00 am-11:50 am"
+          ],
+          "crn": "16615"
+        }
+      }
+    },
+    "655": {
       "title": "CLIN EDUC V",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Anthony M. Boucher (P)",
-        "Anthony M. Boucher"
-      ],
-      "credits": "3",
-      "course": "655",
-      "days": [
-        "W",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "10:00 am-11:50 am",
-        "TBA"
-      ],
-      "crn": "16613"
-    }
-  },
-  "666": {
-    "600": {
-      "select": "SR",
-      "subject": "ATTR",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATTR",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "CLIN EDUC V",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Anthony M. Boucher (P)",
+            "Anthony M. Boucher"
+          ],
+          "credits": "3",
+          "course": "655",
+          "days": [
+            "W",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "10:00 am-11:50 am",
+            "TBA"
+          ],
+          "crn": "16613"
+        }
+      }
+    },
+    "666": {
       "title": "PHYSICAL REHAB",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Anthony M. Boucher (P)"
-      ],
-      "credits": "3",
-      "course": "666",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 215"
-      ],
-      "time": [
-        "08:45 am-09:35 am"
-      ],
-      "crn": "16616"
-    }
-  },
-  "667": {
-    "600": {
-      "select": "SR",
-      "subject": "ATTR",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATTR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PHYSICAL REHAB",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Anthony M. Boucher (P)"
+          ],
+          "credits": "3",
+          "course": "666",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 215"
+          ],
+          "time": [
+            "08:45 am-09:35 am"
+          ],
+          "crn": "16616"
+        }
+      }
+    },
+    "667": {
       "title": "PHYSICAL REHAB LAB",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Anthony M. Boucher (P)"
-      ],
-      "credits": "1",
-      "course": "667",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 217"
-      ],
-      "time": [
-        "08:30 am-10:20 am"
-      ],
-      "crn": "16617"
-    }
-  },
-  "668": {
-    "600": {
-      "select": "SR",
-      "subject": "ATTR",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATTR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PHYSICAL REHAB LAB",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Anthony M. Boucher (P)"
+          ],
+          "credits": "1",
+          "course": "667",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 217"
+          ],
+          "time": [
+            "08:30 am-10:20 am"
+          ],
+          "crn": "16617"
+        }
+      }
+    },
+    "668": {
       "title": "THERAPEUTIC MODAL",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Lori Greenwood (P)",
-        "Lori Greenwood (P)"
-      ],
-      "credits": "3",
-      "course": "668",
-      "days": [
-        "MF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 217",
-        "HELD 217"
-      ],
-      "time": [
-        "09:00 am-09:50 am",
-        "09:30 am-10:20 am"
-      ],
-      "crn": "16618"
-    }
-  },
-  "669": {
-    "600": {
-      "select": "SR",
-      "subject": "ATTR",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATTR",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "THERAPEUTIC MODAL",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Lori Greenwood (P)",
+            "Lori Greenwood (P)"
+          ],
+          "credits": "3",
+          "course": "668",
+          "days": [
+            "MF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 217",
+            "HELD 217"
+          ],
+          "time": [
+            "09:00 am-09:50 am",
+            "09:30 am-10:20 am"
+          ],
+          "crn": "16618"
+        }
+      }
+    },
+    "669": {
       "title": "THERAPEUTIC MODAL LAB",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Lori Greenwood (P)"
-      ],
-      "credits": "1",
-      "course": "669",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 217"
-      ],
-      "time": [
-        "10:30 am-12:20 pm"
-      ],
-      "crn": "16619"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATTR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THERAPEUTIC MODAL LAB",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Lori Greenwood (P)"
+          ],
+          "credits": "1",
+          "course": "669",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 217"
+          ],
+          "time": [
+            "10:30 am-12:20 pm"
+          ],
+          "crn": "16619"
+        }
+      }
+    },
+    "670": {
+      "title": "GEN MED COND & THERA MED",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATTR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "GEN MED COND & THERA MED",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Lori Greenwood (P)"
+          ],
+          "credits": "3",
+          "course": "670",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 217"
+          ],
+          "time": [
+            "06:30 pm-09:30 pm"
+          ],
+          "crn": "16620"
+        }
+      }
     }
   },
-  "670": {
-    "600": {
-      "select": "SR",
-      "subject": "ATTR",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "GEN MED COND & THERA MED",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Lori Greenwood (P)"
-      ],
-      "credits": "3",
-      "course": "670",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 217"
-      ],
-      "time": [
-        "06:30 pm-09:30 pm"
-      ],
-      "crn": "16620"
-    }
-  }
+  "title": "ATTR - Athletic Training",
+  "updated": "Thu Apr 07 01:10:59 CDT 2016"
 }

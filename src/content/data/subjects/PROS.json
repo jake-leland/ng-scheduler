@@ -1,467 +1,516 @@
 {
-  "5250": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "5250": {
       "title": "GERIATRIC PROSTHODONTICS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "1",
-      "course": "5250",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23014"
-    }
-  },
-  "5020": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "GERIATRIC PROSTHODONTICS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "1",
+          "course": "5250",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23014"
+        }
+      }
+    },
+    "5020": {
       "title": "TREATMT PLAN  CLINICAL REVIEW",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "0",
-      "course": "5020",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22932"
-    }
-  },
-  "5130": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "TREATMT PLAN  CLINICAL REVIEW",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "0",
+          "course": "5020",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22932"
+        }
+      }
+    },
+    "5130": {
       "title": "CLINICAL TEACHING",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "1",
-      "course": "5130",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23012"
-    }
-  },
-  "5022": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLINICAL TEACHING",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "1",
+          "course": "5130",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23012"
+        }
+      }
+    },
+    "5022": {
       "title": "INTERDISCIPLINARY CONFERENCES",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "0",
-      "course": "5022",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "05:00 pm-06:00 pm"
-      ],
-      "crn": "23008"
-    }
-  },
-  "5122": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "INTERDISCIPLINARY CONFERENCES",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "0",
+          "course": "5022",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "05:00 pm-06:00 pm"
+          ],
+          "crn": "23008"
+        }
+      }
+    },
+    "5122": {
       "title": "ADV PROS CONCEPTS  TECHNIQUES",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "1",
-      "course": "5122",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "10:00 am-12:00 pm"
-      ],
-      "crn": "23009"
-    }
-  },
-  "5301": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADV PROS CONCEPTS  TECHNIQUES",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "1",
+          "course": "5122",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "10:00 am-12:00 pm"
+          ],
+          "crn": "23009"
+        }
+      }
+    },
+    "5301": {
       "title": "CLINICAL PROSTHODONTICS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "3",
-      "course": "5301",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23015"
-    }
-  },
-  "5126": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLINICAL PROSTHODONTICS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "3",
+          "course": "5301",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23015"
+        }
+      }
+    },
+    "5126": {
       "title": "RELATED DISCIPLINE SEMINARS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "1",
-      "course": "5126",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23010"
-    }
-  },
-  "5V99": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RELATED DISCIPLINE SEMINARS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "1",
+          "course": "5126",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23010"
+        }
+      }
+    },
+    "5V99": {
       "title": "THESIS PREPARATION",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "0-5",
-      "course": "5V99",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22937"
-    }
-  },
-  "5127": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THESIS PREPARATION",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "0-5",
+          "course": "5V99",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22937"
+        }
+      }
+    },
+    "5127": {
       "title": "ADV TMD/OCCLUSAL CNCPT  TRMTS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "1.5",
-      "course": "5127",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:00 pm-04:00 pm"
-      ],
-      "crn": "23011"
-    }
-  },
-  "5226": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADV TMD/OCCLUSAL CNCPT  TRMTS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "1.5",
+          "course": "5127",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:00 pm-04:00 pm"
+          ],
+          "crn": "23011"
+        }
+      }
+    },
+    "5226": {
       "title": "OCCLUSAL CONCEPTS  TECHNIQUES",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "1.5",
-      "course": "5226",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "10:00 am-12:00 pm"
-      ],
-      "crn": "23013"
-    }
-  },
-  "5402": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "OCCLUSAL CONCEPTS  TECHNIQUES",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "1.5",
+          "course": "5226",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "10:00 am-12:00 pm"
+          ],
+          "crn": "23013"
+        }
+      }
+    },
+    "5402": {
       "title": "ADV CLINICAL PROSTHODONTICS I",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "2.5-4",
-      "course": "5402",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22934"
-    }
-  },
-  "5V98": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADV CLINICAL PROSTHODONTICS I",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "2.5-4",
+          "course": "5402",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22934"
+        }
+      }
+    },
+    "5V98": {
       "title": "THESIS RESEARCH",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "0-5",
-      "course": "5V98",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22935"
-    }
-  },
-  "5019": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THESIS RESEARCH",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "0-5",
+          "course": "5V98",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22935"
+        }
+      }
+    },
+    "5019": {
       "title": "JOURNAL CLUB",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "0",
-      "course": "5019",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22931"
-    }
-  },
-  "5118": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "JOURNAL CLUB",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "0",
+          "course": "5019",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22931"
+        }
+      }
+    },
+    "5118": {
       "title": "PROS TOPIC LITERATURE REVIEW",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": ".5-1",
-      "course": "5118",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22933"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PROS TOPIC LITERATURE REVIEW",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": ".5-1",
+          "course": "5118",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22933"
+        }
+      }
+    },
+    "5503": {
+      "title": "ADV CLINICAL PROSTHODONTICS II",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PROS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADV CLINICAL PROSTHODONTICS II",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "William W. Nagy (P)"
+          ],
+          "credits": "2.5-5",
+          "course": "5503",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22936"
+        }
+      }
     }
   },
-  "5503": {
-    "600": {
-      "select": "SR",
-      "subject": "PROS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ADV CLINICAL PROSTHODONTICS II",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "William W. Nagy (P)"
-      ],
-      "credits": "2.5-5",
-      "course": "5503",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22936"
-    }
-  }
+  "title": "PROS - Prosthodontics",
+  "updated": "Thu Apr 07 01:24:08 CDT 2016"
 }

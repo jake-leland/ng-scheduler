@@ -1,95 +1,108 @@
 {
-  "5V00": {
-    "600": {
-      "select": "SR",
-      "subject": "OMFP",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "5V00": {
       "title": "ORAL  MAX PATH SEMINAR",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Harvey P. Kessler (P)"
-      ],
-      "credits": "0-10",
-      "course": "5V00",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22925"
-    }
-  },
-  "5V01": {
-    "600": {
-      "select": "SR",
-      "subject": "OMFP",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "OMFP",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ORAL  MAX PATH SEMINAR",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Harvey P. Kessler (P)"
+          ],
+          "credits": "0-10",
+          "course": "5V00",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22925"
+        }
+      }
+    },
+    "5V01": {
       "title": "ANATOMIC PATH  AUTOPSY-BUMC",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Harvey P. Kessler (P)"
-      ],
-      "credits": "0-10",
-      "course": "5V01",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-05:00 pm"
-      ],
-      "crn": "22924"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "OMFP",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ANATOMIC PATH  AUTOPSY-BUMC",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Harvey P. Kessler (P)"
+          ],
+          "credits": "0-10",
+          "course": "5V01",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-05:00 pm"
+          ],
+          "crn": "22924"
+        }
+      }
+    },
+    "5V05": {
+      "title": "ORAL  MAX PATH SERVICE",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "OMFP",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ORAL  MAX PATH SERVICE",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Harvey P. Kessler (P)"
+          ],
+          "credits": "0",
+          "course": "5V05",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22926"
+        }
+      }
     }
   },
-  "5V05": {
-    "600": {
-      "select": "SR",
-      "subject": "OMFP",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ORAL  MAX PATH SERVICE",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Harvey P. Kessler (P)"
-      ],
-      "credits": "0",
-      "course": "5V05",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22926"
-    }
-  }
+  "title": "OMFP - Oral & Maxillofac Path",
+  "updated": "Thu Apr 07 01:21:57 CDT 2016"
 }

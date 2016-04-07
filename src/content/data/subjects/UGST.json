@@ -1,3436 +1,3458 @@
 {
-  "484": {
-    "501": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "484": {
       "title": "INTERNSHIP",
-      "remaining": "21",
-      "capacity": "21",
-      "instructor": [
-        "Nancy D. Vazquez (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "14027"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "INTERNSHIP",
-      "remaining": "9",
-      "capacity": "9",
-      "instructor": [
-        "Valerie Balester (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "14028"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "INTERNSHIP",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Kelly S. Wellman (P)"
-      ],
-      "credits": "0",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25630"
-    }
-  },
-  "485": {
-    "201": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-DIRECTED STUDIES",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HEND 103"
-      ],
-      "time": [
-        "08:00 pm-09:00 pm"
-      ],
-      "crn": "18877"
-    },
-    "202": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "202",
-      "title": "HNR-DIRECTED STUDIES",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HEND 103"
-      ],
-      "time": [
-        "01:40 pm-02:40 pm"
-      ],
-      "crn": "18878"
-    },
-    "203": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "203",
-      "title": "HNR-DIRECTED STUDIES",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HEND 103"
-      ],
-      "time": [
-        "04:10 pm-05:10 pm"
-      ],
-      "crn": "18879"
-    },
-    "206": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "206",
-      "title": "HNR-DIRECTED STUDIES",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Jonathan D. Kotinek (P), Sumana Datta"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "23163"
-    }
-  },
-  "181": {
-    "590": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "590",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27731"
-    },
-    "591": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "591",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27732"
-    },
-    "592": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "592",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27733"
-    },
-    "593": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "593",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27735"
-    },
-    "594": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "594",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27736"
-    },
-    "595": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "595",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27737"
-    },
-    "596": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "596",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27738"
-    },
-    "597": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "597",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27739"
-    },
-    "510": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
-      "title": "CENTURY SCHOLARS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P), Sarah C. Gros"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26792"
-    },
-    "598": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "598",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27740"
-    },
-    "511": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "511",
-      "title": "CENTURY SCHOLARS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P), Sarah C. Gros"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26794"
-    },
-    "599": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27742"
-    },
-    "512": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "FOCUS LC: ALVARADO",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26795"
-    },
-    "513": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "513",
-      "title": "FOCUS LC: BIZZELL",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26796"
-    },
-    "514": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "514",
-      "title": "FOCUS LC: COURTNEY CVM SCHLRS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26797"
-    },
-    "515": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "515",
-      "title": "FOCUS LC: CANTU",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26798"
-    },
-    "516": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "516",
-      "title": "FOCUS LC: CORNELIUS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26799"
-    },
-    "517": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "517",
-      "title": "FOCUS LC: BORLAUG ANSC SCHLRS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26800"
-    },
-    "518": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "518",
-      "title": "FOCUS LC: CRAWFORD",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26802"
-    },
-    "519": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "519",
-      "title": "FOCUS LC: CUSHING",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26803"
-    },
-    "520": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "520",
-      "title": "FOCUS LC: GAINES",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26804"
-    },
-    "521": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "521",
-      "title": "FOCUS LC: GATES",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26805"
-    },
-    "522": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "522",
-      "title": "FOCUS LC: HUANG PRE-MED SCHLRS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26806"
-    },
-    "523": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "523",
-      "title": "FOCUS LC: MCDONALD",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26808"
-    },
-    "524": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "524",
-      "title": "FOCUS LC: NASH",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26809"
-    },
-    "525": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "525",
-      "title": "FOCUS LC: WILLIAMS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26810"
-    },
-    "526": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "526",
-      "title": "FOCUS COMMUNITY LEADERS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26811"
-    },
-    "527": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "527",
-      "title": "GTF AGGIE SCHOLARS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26812"
-    },
-    "528": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "528",
-      "title": "HONORS FAMILY MEETING",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26813"
-    },
-    "529": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "529",
-      "title": "HONORS FAMILY MEETING",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26814"
-    },
-    "530": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "530",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26815"
-    },
-    "531": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "531",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26816"
-    },
-    "532": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "532",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26817"
-    },
-    "533": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "533",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26818"
-    },
-    "534": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "534",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26819"
-    },
-    "535": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "535",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26820"
-    },
-    "536": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "536",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26821"
-    },
-    "537": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "537",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26822"
-    },
-    "538": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "538",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26823"
-    },
-    "539": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "539",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26824"
-    },
-    "540": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "540",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26825"
-    },
-    "541": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "541",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26826"
-    },
-    "542": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "542",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26827"
-    },
-    "543": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "543",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26828"
-    },
-    "544": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "544",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26829"
-    },
-    "545": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "545",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26830"
-    },
-    "546": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "546",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26831"
-    },
-    "547": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "547",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26832"
-    },
-    "548": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "548",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26833"
-    },
-    "549": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "549",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26834"
-    },
-    "550": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26835"
-    },
-    "551": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "551",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26836"
-    },
-    "552": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "552",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26837"
-    },
-    "553": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "553",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26838"
-    },
-    "554": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "554",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26839"
-    },
-    "555": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "555",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26840"
-    },
-    "556": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "556",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26841"
-    },
-    "557": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "557",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26842"
-    },
-    "558": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "558",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26843"
-    },
-    "559": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "559",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26844"
-    },
-    "560": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "560",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26845"
-    },
-    "561": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "561",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26846"
-    },
-    "562": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "562",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26847"
-    },
-    "563": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "563",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26848"
-    },
-    "564": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "564",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26849"
-    },
-    "565": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "565",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26850"
-    },
-    "567": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "567",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26851"
-    },
-    "600": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27743"
-    },
-    "568": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "568",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26852"
-    },
-    "601": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27744"
-    },
-    "569": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "569",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26853"
-    },
-    "602": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27745"
-    },
-    "603": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27747"
-    },
-    "604": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27748"
-    },
-    "605": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27749"
-    },
-    "606": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27750"
-    },
-    "607": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27752"
-    },
-    "608": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27753"
-    },
-    "609": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27754"
-    },
-    "570": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "570",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26854"
-    },
-    "571": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "571",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26855"
-    },
-    "572": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "572",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26856"
-    },
-    "610": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27755"
-    },
-    "581": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "581",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEM 255"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm"
-      ],
-      "crn": "21933"
-    },
-    "582": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "582",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102"
-      ],
-      "time": [
-        "03:55 pm-04:45 pm"
-      ],
-      "crn": "21934"
-    },
-    "583": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "583",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEM 255"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm"
-      ],
-      "crn": "21935"
-    },
-    "584": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "584",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CSA 303"
-      ],
-      "time": [
-        "03:55 pm-04:45 pm"
-      ],
-      "crn": "21936"
-    },
-    "585": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "585",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-12:00 pm"
-      ],
-      "crn": "24527"
-    },
-    "586": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "586",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-12:00 pm"
-      ],
-      "crn": "24528"
-    },
-    "587": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "587",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "115",
-      "capacity": "115",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "03:55 pm-04:45 pm"
-      ],
-      "crn": "24529"
-    },
-    "588": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "588",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "115",
-      "capacity": "115",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm"
-      ],
-      "crn": "24530"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "ASPIRE",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Bonnie E. Davila"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26783"
-    },
-    "589": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "589",
-      "title": "FIRST YEAR SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27730"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "ASPIRE",
-      "remaining": "70",
-      "capacity": "70",
-      "instructor": [
-        "Sumana Datta (P), Bonnie E. Davila"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26784"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "ASPIRE",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Bonnie E. Davila"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26785"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "ASPIRE",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Bonnie E. Davila"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26786"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "ASPIRE",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sumana Datta (P), Bonnie E. Davila"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26787"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "CENTURY SCHOLARS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P), Sarah C. Gros"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26788"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "CENTURY SCHOLARS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P), Sarah C. Gros"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26789"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "CENTURY SCHOLARS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P), Sarah C. Gros"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26790"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "CENTURY SCHOLARS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Sumana Datta (P), Sarah C. Gros"
-      ],
-      "credits": "0",
-      "course": "181",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26791"
-    }
-  },
-  "491": {
-    "201": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21181"
-    },
-    "202": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "202",
-      "title": "HNR-RESEARCH",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Jonathan D. Kotinek (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "23164"
-    }
-  },
-  "492": {
-    "550": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERNSHIP: WCT I",
+          "remaining": "21",
+          "capacity": "21",
+          "instructor": [
+            "Nancy D. Vazquez (P)"
+          ],
+          "credits": "1",
+          "course": "484",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "14027"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTERNSHIP: WCT III",
+          "remaining": "9",
+          "capacity": "9",
+          "instructor": [
+            "Valerie Balester (P)"
+          ],
+          "credits": "1",
+          "course": "484",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "14028"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "INTERNSHIP: SUSTAINABILITY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Kelly S. Wellman (P)"
+          ],
+          "credits": "0",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25630"
+        }
+      }
+    },
+    "485": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "201": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-DIRECTED STUDIES",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "1",
+          "course": "485",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HEND 103"
+          ],
+          "time": [
+            "08:00 pm-09:00 pm"
+          ],
+          "crn": "18877"
+        },
+        "202": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "202",
+          "title": "HNR-DIRECTED STUDIES",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "1",
+          "course": "485",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HEND 103"
+          ],
+          "time": [
+            "01:40 pm-02:40 pm"
+          ],
+          "crn": "18878"
+        },
+        "203": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "203",
+          "title": "HNR-DIRECTED STUDIES",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "1",
+          "course": "485",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HEND 103"
+          ],
+          "time": [
+            "04:10 pm-05:10 pm"
+          ],
+          "crn": "18879"
+        },
+        "206": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "206",
+          "title": "HNR-DIRECTED STUDIES",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jonathan D. Kotinek (P), Sumana Datta"
+          ],
+          "credits": "0-4",
+          "course": "485",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "23163"
+        }
+      }
+    },
+    "181": {
+      "title": "FIRST YEAR SEMINAR",
+      "sections": {
+        "590": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "590",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27731"
+        },
+        "591": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "591",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27732"
+        },
+        "592": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "592",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27733"
+        },
+        "593": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "593",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27735"
+        },
+        "594": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "594",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27736"
+        },
+        "595": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "595",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27737"
+        },
+        "596": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "596",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27738"
+        },
+        "597": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "597",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27739"
+        },
+        "510": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "CENTURY SCHOLARS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P), Sarah C. Gros"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26792"
+        },
+        "598": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "598",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27740"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "511",
+          "title": "CENTURY SCHOLARS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P), Sarah C. Gros"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26794"
+        },
+        "599": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27742"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "FOCUS LC: ALVARADO",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "26795"
+        },
+        "513": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "513",
+          "title": "FOCUS LC: BIZZELL",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HFSB 105"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "26796"
+        },
+        "514": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "514",
+          "title": "FOCUS LC: COURTNEY CVM",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "26797"
+        },
+        "515": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "515",
+          "title": "FOCUS LC: CANTU",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEM 255"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "26798"
+        },
+        "516": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "516",
+          "title": "FOCUS LC: CORNELIUS",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "26799"
+        },
+        "517": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "517",
+          "title": "FOCUS LC: BORLAUG ANSC",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "26800"
+        },
+        "518": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "518",
+          "title": "FOCUS LC: CRAWFORD",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ENPH 216"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "26802"
+        },
+        "519": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "519",
+          "title": "FOCUS LC: CUSHING",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 115"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "26803"
+        },
+        "520": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "520",
+          "title": "FOCUS LC: GAINES",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "26804"
+        },
+        "521": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "521",
+          "title": "FOCUS LC: GATES",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 103"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "26805"
+        },
+        "522": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "522",
+          "title": "FOCUS LC: HUANG PRE-MED",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "26806"
+        },
+        "523": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "523",
+          "title": "FOCUS LC: MCDONALD",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "26808"
+        },
+        "524": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "524",
+          "title": "FOCUS LC: NASH",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "26809"
+        },
+        "525": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "525",
+          "title": "FOCUS LC: WILLIAMS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "26810"
+        },
+        "526": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "526",
+          "title": "FOCUS LC: COMMUNITY LEADERS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P), Paul A. Garza , Laura A. Wimberley"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CSA 303"
+          ],
+          "time": [
+            "03:00 pm-05:00 pm"
+          ],
+          "crn": "26811"
+        },
+        "527": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "527",
+          "title": "GTF AGGIE SCHOLARS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 163"
+          ],
+          "time": [
+            "03:00 pm-05:00 pm"
+          ],
+          "crn": "26812"
+        },
+        "528": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "528",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "26813"
+        },
+        "529": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "529",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "26814"
+        },
+        "530": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "530",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "26815"
+        },
+        "531": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "531",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "04:00 pm-04:50 pm"
+          ],
+          "crn": "26816"
+        },
+        "532": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "532",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 007"
+          ],
+          "time": [
+            "04:00 pm-04:50 pm"
+          ],
+          "crn": "26817"
+        },
+        "533": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "533",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "05:00 pm-05:50 pm"
+          ],
+          "crn": "26818"
+        },
+        "534": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "534",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "26819"
+        },
+        "535": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "535",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26820"
+        },
+        "536": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "536",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 164"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26821"
+        },
+        "537": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "537",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 120"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26822"
+        },
+        "538": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "538",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26823"
+        },
+        "539": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "539",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 107"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26824"
+        },
+        "540": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "540",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 227"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "26825"
+        },
+        "541": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "541",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "04:00 pm-04:50 pm"
+          ],
+          "crn": "26826"
+        },
+        "542": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "542",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "04:00 pm-04:50 pm"
+          ],
+          "crn": "26827"
+        },
+        "543": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "543",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "05:00 pm-05:50 pm"
+          ],
+          "crn": "26828"
+        },
+        "544": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "544",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "05:30 pm-06:20 pm"
+          ],
+          "crn": "26829"
+        },
+        "545": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "545",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26830"
+        },
+        "546": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "546",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26831"
+        },
+        "547": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "547",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "07:00 pm-07:50 pm"
+          ],
+          "crn": "26832"
+        },
+        "548": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "548",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "07:00 pm-07:50 pm"
+          ],
+          "crn": "26833"
+        },
+        "549": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "549",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "04:00 pm-04:50 pm"
+          ],
+          "crn": "26834"
+        },
+        "550": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 007"
+          ],
+          "time": [
+            "04:00 pm-04:50 pm"
+          ],
+          "crn": "26835"
+        },
+        "551": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "551",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "05:00 pm-05:50 pm"
+          ],
+          "crn": "26836"
+        },
+        "552": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "552",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ENPH 201"
+          ],
+          "time": [
+            "05:00 pm-05:50 pm"
+          ],
+          "crn": "26837"
+        },
+        "553": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "553",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26838"
+        },
+        "554": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "554",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26839"
+        },
+        "555": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "555",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26840"
+        },
+        "556": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "556",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "07:00 pm-07:50 pm"
+          ],
+          "crn": "26841"
+        },
+        "557": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "557",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "07:00 pm-07:50 pm"
+          ],
+          "crn": "26842"
+        },
+        "558": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "558",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "07:00 pm-07:50 pm"
+          ],
+          "crn": "26843"
+        },
+        "559": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "559",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 148"
+          ],
+          "time": [
+            "07:00 pm-07:50 pm"
+          ],
+          "crn": "26844"
+        },
+        "560": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "560",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "26845"
+        },
+        "561": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "561",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "26846"
+        },
+        "562": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "562",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "26847"
+        },
+        "563": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "563",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 373"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "26848"
+        },
+        "564": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "564",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "04:00 pm-04:50 pm"
+          ],
+          "crn": "26849"
+        },
+        "565": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "565",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "04:00 pm-04:50 pm"
+          ],
+          "crn": "26850"
+        },
+        "567": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "567",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 120"
+          ],
+          "time": [
+            "04:00 pm-04:50 pm"
+          ],
+          "crn": "26851"
+        },
+        "600": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27743"
+        },
+        "568": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "568",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "04:00 pm-04:50 pm"
+          ],
+          "crn": "26852"
+        },
+        "601": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27744"
+        },
+        "569": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "569",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "05:00 pm-05:50 pm"
+          ],
+          "crn": "26853"
+        },
+        "602": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27745"
+        },
+        "603": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27747"
+        },
+        "604": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27748"
+        },
+        "605": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27749"
+        },
+        "606": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27750"
+        },
+        "607": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27752"
+        },
+        "608": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27753"
+        },
+        "609": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27754"
+        },
+        "570": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "570",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "05:00 pm-05:50 pm"
+          ],
+          "crn": "26854"
+        },
+        "571": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "571",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 120"
+          ],
+          "time": [
+            "05:00 pm-05:50 pm"
+          ],
+          "crn": "26855"
+        },
+        "572": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "572",
+          "title": "HONORS FAMILY MEETING",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Sumana Datta (P), Wallace Fanning , Jonathan D. Kotinek"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "06:00 pm-06:50 pm"
+          ],
+          "crn": "26856"
+        },
+        "610": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27755"
+        },
+        "581": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "581",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEM 255"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm"
+          ],
+          "crn": "21933"
+        },
+        "582": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "582",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102"
+          ],
+          "time": [
+            "03:55 pm-04:45 pm"
+          ],
+          "crn": "21934"
+        },
+        "583": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "583",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEM 255"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm"
+          ],
+          "crn": "21935"
+        },
+        "584": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "584",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CSA 303"
+          ],
+          "time": [
+            "03:55 pm-04:45 pm"
+          ],
+          "crn": "21936"
+        },
+        "585": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "585",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-12:00 pm"
+          ],
+          "crn": "24527"
+        },
+        "586": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "586",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-12:00 pm"
+          ],
+          "crn": "24528"
+        },
+        "587": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "587",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "115",
+          "capacity": "115",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "03:55 pm-04:45 pm"
+          ],
+          "crn": "24529"
+        },
+        "588": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "588",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "115",
+          "capacity": "115",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm"
+          ],
+          "crn": "24530"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "ACREW",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Bonnie E. Davila"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm"
+          ],
+          "crn": "26783"
+        },
+        "589": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "589",
+          "title": "FIRST YEAR SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27730"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "ASPIRE",
+          "remaining": "70",
+          "capacity": "70",
+          "instructor": [
+            "Sumana Datta (P), Bonnie E. Davila"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 100"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm"
+          ],
+          "crn": "26784"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "ACREW",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Bonnie E. Davila"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1006"
+          ],
+          "time": [
+            "03:55 pm-04:45 pm"
+          ],
+          "crn": "26785"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "ACREW",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Bonnie E. Davila"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDER 1011"
+          ],
+          "time": [
+            "01:55 pm-04:45 pm"
+          ],
+          "crn": "26786"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "ASPIRE",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sumana Datta (P), Bonnie E. Davila"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26787"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "CENTURY SCHOLARS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P), Sarah C. Gros"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26788"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "CENTURY SCHOLARS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P), Sarah C. Gros"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26789"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "CENTURY SCHOLARS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P), Sarah C. Gros"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26790"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "CENTURY SCHOLARS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Sumana Datta (P), Sarah C. Gros"
+          ],
+          "credits": "0",
+          "course": "181",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26791"
+        }
+      }
+    },
+    "491": {
+      "title": "RESEARCH",
+      "sections": {
+        "201": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21181"
+        },
+        "202": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "202",
+          "title": "HNR-RESEARCH",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Jonathan D. Kotinek (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "23164"
+        }
+      }
+    },
+    "492": {
       "title": "COOP IN PUBLIC POLICY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Kristin S. Harper (P), Dustin K. Grabsch"
-      ],
-      "credits": "0-3",
-      "course": "492",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16983"
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "COOP IN PUBLIC POLICY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Kristin S. Harper (P), Dustin K. Grabsch"
+          ],
+          "credits": "1",
+          "course": "492",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16983"
+        },
+        "551": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "551",
+          "title": "COOP IN PUBLIC POLICY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Kristin S. Harper (P), Dustin K. Grabsch"
+          ],
+          "credits": "1",
+          "course": "492",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25713"
+        }
+      }
     },
-    "551": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "551",
-      "title": "COOP IN PUBLIC POLICY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Kristin S. Harper (P), Dustin K. Grabsch"
-      ],
-      "credits": "0-3",
-      "course": "492",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25713"
+    "285": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "201": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-DIRECTED STUDIES",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Sumana Datta (P)"
+          ],
+          "credits": "1",
+          "course": "285",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HEND 103"
+          ],
+          "time": [
+            "07:00 pm-08:00 pm"
+          ],
+          "crn": "18876"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "285",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16912"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Elizabeth K. Robinson (P)"
+          ],
+          "credits": "0-4",
+          "course": "285",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "16913"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Donnalee Dox (P)"
+          ],
+          "credits": "0-4",
+          "course": "285",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "01:20 pm-02:35 pm"
+          ],
+          "crn": "16914"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "DIRECTED STUDIES",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Paul Defigueiredo (P)"
+          ],
+          "credits": "1",
+          "course": "285",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "04:00 pm-05:00 pm"
+          ],
+          "crn": "22672"
+        },
+        "505": {
+          "select": "C",
+          "subject": "UGST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "285",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "24531"
+        }
+      }
     }
   },
-  "285": {
-    "201": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-DIRECTED STUDIES",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Sumana Datta (P)"
-      ],
-      "credits": "0-4",
-      "course": "285",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HEND 103"
-      ],
-      "time": [
-        "07:00 pm-08:00 pm"
-      ],
-      "crn": "18876"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "285",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16912"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Elizabeth K. Robinson (P)"
-      ],
-      "credits": "0-4",
-      "course": "285",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "16913"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Donnalee Dox (P)"
-      ],
-      "credits": "0-4",
-      "course": "285",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "01:20 pm-02:35 pm"
-      ],
-      "crn": "16914"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "DIRECTED STUDIES",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Paul Defigueiredo (P)"
-      ],
-      "credits": "1",
-      "course": "285",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 202"
-      ],
-      "time": [
-        "04:00 pm-05:00 pm"
-      ],
-      "crn": "22672"
-    },
-    "505": {
-      "select": "C",
-      "subject": "UGST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "285",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "24531"
-    }
-  }
+  "title": "UGST - Undergraduate Studies",
+  "updated": "Thu Apr 07 01:26:14 CDT 2016"
 }

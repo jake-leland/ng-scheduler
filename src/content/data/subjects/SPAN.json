@@ -1,2238 +1,2326 @@
 {
-  "491": {
-    "500": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "491": {
       "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23176"
-    }
-  },
-  "350": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23176"
+        }
+      }
+    },
+    "350": {
       "title": "PHONETICS",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Brian Imhoff (P)"
-      ],
-      "credits": "3",
-      "course": "350",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "21352"
-    }
-  },
-  "450": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PHONETICS",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Brian Imhoff (P)"
+          ],
+          "credits": "3",
+          "course": "350",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "21352"
+        }
+      }
+    },
+    "450": {
       "title": "CONT SP & SP AM LIT",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Stephen Miller (P)"
-      ],
-      "credits": "3",
-      "course": "450",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "21351"
-    }
-  },
-  "310": {
-    "931": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "931",
-      "title": "ORAL EXPRESSION",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "310",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "14072"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CONT SP & SP AM LIT",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Stephen Miller (P)"
+          ],
+          "credits": "3",
+          "course": "450",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "21351"
+        }
+      }
     },
-    "932": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "932",
+    "310": {
       "title": "ORAL EXPRESSION",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "310",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "14073"
-    }
-  },
-  "332": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "931": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "931",
+          "title": "ORAL EXPRESSION",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "310",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "14072"
+        },
+        "932": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "932",
+          "title": "ORAL EXPRESSION",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "310",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "14073"
+        }
+      }
+    },
+    "332": {
       "title": "SPAN LIT 1700 TO 1936",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Hilaire A. Kallendorf (P)"
-      ],
-      "credits": "3",
-      "course": "332",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "21348"
-    }
-  },
-  "311": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPAN LIT 1700 TO 1936",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Hilaire A. Kallendorf (P)"
+          ],
+          "credits": "3",
+          "course": "332",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "21348"
+        }
+      }
+    },
+    "311": {
       "title": "HISP CULT & CIV TO 18THC",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Victor Arizpe (P)"
-      ],
-      "credits": "3",
-      "course": "311",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "21347"
-    }
-  },
-  "312": {
-    "501": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "HISP CULT/CIV 18TH-PRES",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Alberto Moreiras (P)"
-      ],
-      "credits": "3",
-      "course": "312",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 227"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "12739"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "HISP CULT & CIV TO 18THC",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Victor Arizpe (P)"
+          ],
+          "credits": "3",
+          "course": "311",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "21347"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "312": {
       "title": "HISP CULT/CIV 18TH-PRES",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Teresa M. Vilaros (P)"
-      ],
-      "credits": "3",
-      "course": "312",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12740"
-    }
-  },
-  "411": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "HISP CULT/CIV 18TH-PRES",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Alberto Moreiras (P)"
+          ],
+          "credits": "3",
+          "course": "312",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 227"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "12739"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "HISP CULT/CIV 18TH-PRES",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Teresa M. Vilaros (P)"
+          ],
+          "credits": "3",
+          "course": "312",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12740"
+        }
+      }
+    },
+    "411": {
       "title": "CONT HISP SOC & CULT",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Alessandra Luiselli (P)"
-      ],
-      "credits": "3",
-      "course": "411",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "16928"
-    }
-  },
-  "412": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CONT HISP SOC & CULT",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Alessandra Luiselli (P)"
+          ],
+          "credits": "3",
+          "course": "411",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "16928"
+        }
+      }
+    },
+    "412": {
       "title": "HISPANIC WRITERS IN US",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Jose Villalobos (P)"
-      ],
-      "credits": "3",
-      "course": "412",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 121"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12741"
-    }
-  },
-  "218": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "HISPANIC WRITERS IN US",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Jose Villalobos (P)"
+          ],
+          "credits": "3",
+          "course": "412",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 121"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12741"
+        }
+      }
+    },
+    "218": {
       "title": "SPANISH FOR HEALTH PROF II",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Norma Arizpe (P)"
-      ],
-      "credits": "3",
-      "course": "218",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "28346"
-    }
-  },
-  "318": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPANISH FOR HEALTH PROF II",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Norma Arizpe (P)"
+          ],
+          "credits": "3",
+          "course": "218",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "28346"
+        }
+      }
+    },
+    "318": {
       "title": "ORAL COMM FOR HEALTH PROF",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Norma Arizpe (P)"
-      ],
-      "credits": "3",
-      "course": "318",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "28347"
-    }
-  },
-  "460": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ORAL COMM FOR HEALTH PROF",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Norma Arizpe (P)"
+          ],
+          "credits": "3",
+          "course": "318",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "28347"
+        }
+      }
+    },
+    "460": {
       "title": "TOPICS IN HISPANIC LIT",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Sarah Misemer (P)"
-      ],
-      "credits": "3",
-      "course": "460",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "27266"
-    }
-  },
-  "461": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "TOPICS IN HISPANIC LIT",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Sarah Misemer (P)"
+          ],
+          "credits": "3",
+          "course": "460",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "27266"
+        }
+      }
+    },
+    "461": {
       "title": "TOPICS IN HISPANIC CULT",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Eduardo Espina (P)"
-      ],
-      "credits": "3",
-      "course": "461",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "27270"
-    }
-  },
-  "484": {
-    "550": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "INTERNSHIP: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jose Villalobos (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19059"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "TOPICS IN HISPANIC CULT",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Eduardo Espina (P)"
+          ],
+          "credits": "3",
+          "course": "461",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "27270"
+        }
+      }
     },
-    "500": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "484": {
       "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jose Villalobos (P), Alain Lawo-Sukam"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14614"
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "INTERNSHIP: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jose Villalobos (P)"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19059"
+        },
+        "500": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jose Villalobos (P), Alain Lawo-Sukam"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14614"
+        },
+        "501": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jose Villalobos (P)"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20913"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jose Villalobos (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20913"
-    }
-  },
-  "320": {
-    "970": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "970",
+    "320": {
       "title": "INTRO TO HISPANIC LIT",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Sarah Misemer (P)"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "27264"
+      "sections": {
+        "970": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "970",
+          "title": "INTRO TO HISPANIC LIT",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Sarah Misemer (P)"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "27264"
+        },
+        "901": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "901",
+          "title": "INTRO TO HISPANIC LIT",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Juan Galdo (P)"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "13286"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "902",
+          "title": "INTRO TO HISPANIC LIT",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Alessandra Luiselli (P)"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "13287"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "903",
+          "title": "INTRO TO HISPANIC LIT",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Sarah Misemer (P)"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "13334"
+        }
+      }
     },
-    "901": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "901",
-      "title": "INTRO TO HISPANIC LIT",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Juan Galdo (P)"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "13286"
-    },
-    "902": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "902",
-      "title": "INTRO TO HISPANIC LIT",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Alessandra Luiselli (P)"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "13287"
-    },
-    "903": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "903",
-      "title": "INTRO TO HISPANIC LIT",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Sarah Misemer (P)"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "13334"
-    }
-  },
-  "485": {
-    "550": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19060"
-    },
-    "500": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14841"
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19060"
+        },
+        "500": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14841"
+        },
+        "501": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15877"
+        },
+        "502": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20922"
+        },
+        "503": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20923"
+        },
+        "504": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "HNR-DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20970"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15877"
-    },
-    "502": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20922"
-    },
-    "503": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20923"
-    },
-    "504": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "HNR-DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20970"
-    }
-  },
-  "101": {
-    "501": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "101": {
       "title": "BEGINNING SPANISH I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 121"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "13279"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "BEGINNING SPANISH I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 121"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "13279"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "BEGINNING SPANISH I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWRF",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 122",
+            "TBA"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "TBA"
+          ],
+          "crn": "12711"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "BEGINNING SPANISH I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 121"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "16924"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "BEGINNING SPANISH I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 121"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12712"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "BEGINNING SPANISH I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 122"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "15471"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "BEGINNING SPANISH I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 122"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "12713"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "BEGINNING SPANISH I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 121"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "16923"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "BEGINNING SPANISH I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 122"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12714"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "BEGINNING SPANISH I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWRF",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 122",
-        "TBA"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "TBA"
-      ],
-      "crn": "12711"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "BEGINNING SPANISH I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 121"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "16924"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "BEGINNING SPANISH I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 121"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12712"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "BEGINNING SPANISH I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 122"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "15471"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "BEGINNING SPANISH I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 122"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "12713"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "BEGINNING SPANISH I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 121"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "16923"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "BEGINNING SPANISH I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 122"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12714"
-    }
-  },
-  "102": {
-    "501": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "102": {
       "title": "BEGINNING SPANISH II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "102",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "12716"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "BEGINNING SPANISH II",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "102",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "12716"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "BEGINNING SPANISH II",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "102",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 122"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12717"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "BEGINNING SPANISH II",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "102",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 121"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "16927"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "BEGINNING SPANISH II",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "102",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 122"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12718"
+        },
+        "505": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "BEGINNING SPANISH II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "102",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 122"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "26047"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "BEGINNING SPANISH II",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "102",
+          "days": [
+            "MTWR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 121"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "27255"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "BEGINNING SPANISH II",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "102",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 122"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "27257"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "BEGINNING SPANISH II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "102",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 122"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12717"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "BEGINNING SPANISH II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "102",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 121"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "16927"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "BEGINNING SPANISH II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "102",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 122"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12718"
-    },
-    "505": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "BEGINNING SPANISH II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "102",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 122"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "26047"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "BEGINNING SPANISH II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "102",
-      "days": [
-        "MTWR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 121"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "27255"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "BEGINNING SPANISH II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "102",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 122"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "27257"
-    }
-  },
-  "201": {
-    "200": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
-      "title": "HNR-INTERMEDIATE SPAN I",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "13283"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "201": {
       "title": "INTERMEDIATE SPAN I",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "22679"
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-INTERMEDIATE SPAN I",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "13283"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTERMEDIATE SPAN I",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "22679"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERMEDIATE SPAN I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 118"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "12719"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTERMEDIATE SPAN I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "12720"
+        },
+        "503": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "INTERMEDIATE SPAN I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 119"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12721"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "INTERMEDIATE SPAN I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Jose Villalobos (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12722"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "INTERMEDIATE SPAN I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Alain Lawo-Sukam (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12723"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "INTERMEDIATE SPAN I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Norma Arizpe (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "12724"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "INTERMEDIATE SPAN I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "12725"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "INTERMEDIATE SPAN I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "12726"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "INTERMEDIATE SPAN I",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "12727"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "INTERMEDIATE SPAN I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 118"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "12719"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "INTERMEDIATE SPAN I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "12720"
-    },
-    "503": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "INTERMEDIATE SPAN I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 119"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12721"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "INTERMEDIATE SPAN I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Jose Villalobos (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12722"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "INTERMEDIATE SPAN I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Alain Lawo-Sukam (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12723"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "INTERMEDIATE SPAN I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Norma Arizpe (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "12724"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "INTERMEDIATE SPAN I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "12725"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "INTERMEDIATE SPAN I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "12726"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "INTERMEDIATE SPAN I",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "12727"
-    }
-  },
-  "202": {
-    "200": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
-      "title": "HNR:INTERMEDIATE SPAN II",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Stephen Miller (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "28348"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "202": {
       "title": "INTERMEDIATE SPAN II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Juan Galdo (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "12728"
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "HNR:INTERMEDIATE SPAN II",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Stephen Miller (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "28348"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERMEDIATE SPAN II",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Juan Galdo (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "12728"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTERMEDIATE SPAN II",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Patricia L. Timmons (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12729"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "INTERMEDIATE SPAN II",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Victor Arizpe (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 120"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "13904"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "INTERMEDIATE SPAN II",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "Stephen Miller (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "12730"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "INTERMEDIATE SPAN II",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Dionisio Ortega-Aguilar (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 121"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "12731"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "INTERMEDIATE SPAN II",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Patricia L. Timmons (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12732"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "INTERMEDIATE SPAN II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Patricia L. Timmons (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12729"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "INTERMEDIATE SPAN II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Victor Arizpe (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 120"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "13904"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "INTERMEDIATE SPAN II",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "Stephen Miller (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "12730"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "INTERMEDIATE SPAN II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Dionisio Ortega-Aguilar (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 121"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "12731"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "INTERMEDIATE SPAN II",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Patricia L. Timmons (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12732"
-    }
-  },
-  "203": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "203": {
       "title": "INT SPAN HERTG-SPEAKERS",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Dionisio Ortega-Aguilar (P)"
-      ],
-      "credits": "3",
-      "course": "203",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "19057"
-    }
-  },
-  "302": {
-    "501": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INT SPAN HERTG-SPEAKERS",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Dionisio Ortega-Aguilar (P)"
+          ],
+          "credits": "3",
+          "course": "203",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "19057"
+        }
+      }
+    },
+    "302": {
       "title": "ADVANCED GRAMMAR",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12733"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "ADVANCED GRAMMAR",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12733"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "ADVANCED GRAMMAR",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Brian Imhoff (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "16926"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "ADVANCED GRAMMAR",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Brian Imhoff (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "12734"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "ADVANCED GRAMMAR",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Brian Imhoff (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "16926"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "ADVANCED GRAMMAR",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Brian Imhoff (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "12734"
-    }
-  },
-  "303": {
-    "970": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "970",
-      "title": "HNR:COMP & CONVERSATION",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Eduardo Espina (P)"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "28339"
-    },
-    "902": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "902",
+    "303": {
       "title": "COMP & CONVERSATION",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Patricia L. Timmons (P)"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "12736"
+      "sections": {
+        "970": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "970",
+          "title": "HNR:COMP & CONVERSATION",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Eduardo Espina (P)"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "28339"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "902",
+          "title": "COMP & CONVERSATION",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Patricia L. Timmons (P)"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "12736"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "903",
+          "title": "COMP & CONVERSATION",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Teresa M. Vilaros (P)"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12737"
+        },
+        "904": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "904",
+          "title": "COMP & CONVERSATION",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Eduardo Espina (P)"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "13285"
+        }
+      }
     },
-    "903": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "903",
-      "title": "COMP & CONVERSATION",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Teresa M. Vilaros (P)"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12737"
-    },
-    "904": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "904",
-      "title": "COMP & CONVERSATION",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Eduardo Espina (P)"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "13285"
-    }
-  },
-  "304": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "304": {
       "title": "ADV GRAM FOR HERTG-SPKRS",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Dionisio Ortega-Aguilar (P)"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "13752"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ADV GRAM FOR HERTG-SPKRS",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Dionisio Ortega-Aguilar (P)"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "13752"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "ADV GRAM FOR HERTG-SPKRS",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 225"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "21346"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "ADV GRAM FOR HERTG-SPKRS",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 225"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "21346"
-    }
-  },
-  "306": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "306": {
       "title": "BUSINESS SPANISH",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Victor Arizpe (P)"
-      ],
-      "credits": "3",
-      "course": "306",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 226"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "12738"
-    }
-  },
-  "208": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BUSINESS SPANISH",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Victor Arizpe (P)"
+          ],
+          "credits": "3",
+          "course": "306",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 226"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "12738"
+        }
+      }
+    },
+    "208": {
       "title": "SPANISH FOR HEALTH PROF I",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Norma Arizpe (P)"
-      ],
-      "credits": "3",
-      "course": "208",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 228"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "28345"
-    }
-  },
-  "307": {
-    "500": {
-      "select": "C",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPANISH FOR HEALTH PROF I",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Norma Arizpe (P)"
+          ],
+          "credits": "3",
+          "course": "208",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 228"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "28345"
+        }
+      }
+    },
+    "307": {
       "title": "SPAN FOR THE SCIENCES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "307",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 119"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "27263"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPAN FOR THE SCIENCES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "307",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 119"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "27263"
+        }
+      }
+    },
+    "407": {
+      "title": "SPAN ENGL TRANSLATION",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPAN ENGL TRANSLATION",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Maria Moyna (P)"
+          ],
+          "credits": "3",
+          "course": "407",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "28375"
+        }
+      }
     }
   },
-  "407": {
-    "500": {
-      "select": "SR",
-      "subject": "SPAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "SPAN ENGL TRANSLATION",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Maria Moyna (P)"
-      ],
-      "credits": "3",
-      "course": "407",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "28375"
-    }
-  }
+  "title": "SPAN - Spanish",
+  "updated": "Thu Apr 07 01:25:36 CDT 2016"
 }

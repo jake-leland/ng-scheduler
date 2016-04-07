@@ -1,33 +1,40 @@
 {
-  "5225": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "HPED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "5225": {
       "title": "TEACHING SKILLS FOR HLTH PROF",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ernestine S. Lacy (P)"
-      ],
-      "credits": "1",
-      "course": "5225",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25087"
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "HPED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "TEACHING SKILLS FOR HLTH PROF",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ernestine S. Lacy (P)"
+          ],
+          "credits": "1",
+          "course": "5225",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25087"
+        }
+      }
     }
-  }
+  },
+  "title": "HPED - Health Professions Ed",
+  "updated": "Thu Apr 07 01:18:02 CDT 2016"
 }

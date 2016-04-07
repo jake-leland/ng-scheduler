@@ -1,432 +1,472 @@
 {
-  "485": {
-    "500": {
-      "select": "C",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Donnalee Dox (P)"
-      ],
-      "credits": "3",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19839"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Donnalee Dox (P)"
+          ],
+          "credits": "3",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19839"
+        },
+        "501": {
+          "select": "C",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Donnalee Dox (P)"
+          ],
+          "credits": "3",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19919"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Donnalee Dox (P)"
-      ],
-      "credits": "3",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19919"
-    }
-  },
-  "321": {
-    "500": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "321": {
       "title": "POLITICAL ISLAM & JIHAD",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Sena Karasipahi (P)"
-      ],
-      "credits": "3",
-      "course": "321",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 214"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "24404"
-    }
-  },
-  "365": {
-    "500": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "HIST RELIGION AMER I",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Evan P. Haefeli (P)"
-      ],
-      "credits": "3",
-      "course": "365",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 110"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "21614"
-    }
-  },
-  "312": {
-    "501": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "CONTEMPLATION MOD WORLD",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Jessica M. Havens (P)"
-      ],
-      "credits": "3",
-      "course": "312",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 119"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "21392"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "POLITICAL ISLAM & JIHAD",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Sena Karasipahi (P)"
+          ],
+          "credits": "3",
+          "course": "321",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 214"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "24404"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "365": {
+      "title": "HIST RELIGION AMER I",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "HIST RELIGION AMER I",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Evan P. Haefeli (P)"
+          ],
+          "credits": "3",
+          "course": "365",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 110"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "21614"
+        }
+      }
+    },
+    "312": {
       "title": "CONTEMPLATION MOD WORLD",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Donnalee Dox (P)"
-      ],
-      "credits": "3",
-      "course": "312",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 262"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "28411"
-    }
-  },
-  "489": {
-    "900": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
-      "title": "SPTP:ALRO-ATLANTIC RELIGIONS",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Nicole Castor (P)"
-      ],
-      "credits": "3",
-      "course": "489",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ANTH 237"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "28489"
-    }
-  },
-  "418": {
-    "500": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CONTEMPLATION MOD WORLD",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Jessica M. Havens (P)"
+          ],
+          "credits": "3",
+          "course": "312",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 119"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "21392"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CONTEMPLATION MOD WORLD",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Donnalee Dox (P)"
+          ],
+          "credits": "3",
+          "course": "312",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 262"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "28411"
+        }
+      }
+    },
+    "489": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "SPTP:ALRO-ATLANTIC RELIGIONS",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Nicole Castor (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ANTH 237"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "28489"
+        }
+      }
+    },
+    "418": {
       "title": "EURO INT GREECE MID AGES",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "418",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "YMCA 113"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "27391"
-    }
-  },
-  "392": {
-    "500": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "EURO INT GREECE MID AGES",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "418",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "YMCA 113"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "27391"
+        }
+      }
+    },
+    "392": {
       "title": "LIT RELIGION AND CULTURE",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Margare Ezell-Mainzer (P)"
-      ],
-      "credits": "3",
-      "course": "392",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 372"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "27389"
-    }
-  },
-  "419": {
-    "500": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "LIT RELIGION AND CULTURE",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Margare Ezell-Mainzer (P)"
+          ],
+          "credits": "3",
+          "course": "392",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 372"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "27389"
+        }
+      }
+    },
+    "419": {
       "title": "EURO INT MID AGES-17TH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "419",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "YMCA 115"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "27393"
-    }
-  },
-  "480": {
-    "900": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "EURO INT MID AGES-17TH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "419",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "YMCA 115"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "27393"
+        }
+      }
+    },
+    "480": {
       "title": "RELIGIOUS COMMUNICATION",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Heidi Campbell (P)"
-      ],
-      "credits": "3",
-      "course": "480",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLTN 018"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "26053"
-    }
-  },
-  "360": {
-    "500": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "RELIGIOUS COMMUNICATION",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Heidi Campbell (P)"
+          ],
+          "credits": "3",
+          "course": "480",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLTN 018"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "26053"
+        }
+      }
+    },
+    "360": {
       "title": "BIBLE AS LITERATURE",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "William Clark (P)"
-      ],
-      "credits": "3",
-      "course": "360",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 466"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "19232"
-    }
-  },
-  "251": {
-    "500": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BIBLE AS LITERATURE",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "William Clark (P)"
+          ],
+          "credits": "3",
+          "course": "360",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 466"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "19232"
+        }
+      }
+    },
+    "251": {
       "title": "CLASSICAL MYTHOLOGY",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "251",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 209"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "21390"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CLASSICAL MYTHOLOGY",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "251",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 209"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "21390"
+        }
+      }
+    },
+    "340": {
+      "title": "FOLKLORE & SUPERNATURAL",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "RELS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "FOLKLORE & SUPERNATURAL",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Thomas Green (P)"
+          ],
+          "credits": "3",
+          "course": "340",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 214"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "27384"
+        }
+      }
     }
   },
-  "340": {
-    "500": {
-      "select": "SR",
-      "subject": "RELS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "FOLKLORE & SUPERNATURAL",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Thomas Green (P)"
-      ],
-      "credits": "3",
-      "course": "340",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 214"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "27384"
-    }
-  }
+  "title": "RELS - Religious Studies",
+  "updated": "Thu Apr 07 01:24:38 CDT 2016"
 }

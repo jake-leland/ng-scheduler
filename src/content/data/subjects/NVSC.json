@@ -1,611 +1,633 @@
 {
-  "210": {
-    "501": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "210": {
       "title": "LDRSHIP & MANAGEMENT I",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Melissa Mueller (P)",
-        "Melissa Mueller"
-      ],
-      "credits": "3",
-      "course": "210",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 108",
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "16438"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "LDRSHIP & MANAGEMENT I",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Melissa Mueller (P)",
+            "Melissa Mueller"
+          ],
+          "credits": "3",
+          "course": "210",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 108",
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "16438"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "LDRSHIP & MANAGEMENT I",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Christopher D. Marrs (P)",
+            "Christopher D. Marrs"
+          ],
+          "credits": "3",
+          "course": "210",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 108",
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "16439"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "LDRSHIP & MANAGEMENT I",
+          "remaining": "51",
+          "capacity": "51",
+          "instructor": [
+            "Mary B. Pena (P)",
+            "Mary B. Pena"
+          ],
+          "credits": "3",
+          "course": "210",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 108",
+            "TBA"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "16440"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "LDRSHIP & MANAGEMENT I",
+          "remaining": "55",
+          "capacity": "55",
+          "instructor": [
+            "Mary B. Pena (P)",
+            "Mary B. Pena"
+          ],
+          "credits": "3",
+          "course": "210",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 108",
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "16441"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "LDRSHIP & MANAGEMENT I",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Christopher D. Marrs (P)",
-        "Christopher D. Marrs"
-      ],
-      "credits": "3",
-      "course": "210",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 108",
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "16439"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "LDRSHIP & MANAGEMENT I",
-      "remaining": "51",
-      "capacity": "51",
-      "instructor": [
-        "Mary B. Pena (P)",
-        "Mary B. Pena"
-      ],
-      "credits": "3",
-      "course": "210",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 108",
-        "TBA"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "16440"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "LDRSHIP & MANAGEMENT I",
-      "remaining": "55",
-      "capacity": "55",
-      "instructor": [
-        "Mary B. Pena (P)",
-        "Mary B. Pena"
-      ],
-      "credits": "3",
-      "course": "210",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 108",
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "16441"
-    }
-  },
-  "320": {
-    "500": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+    "320": {
       "title": "NAVAL SHIPS SYS I ENGR",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "David F. Steinberger (P)",
-        "David F. Steinberger"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 111",
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "16442"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "NAVAL SHIPS SYS I ENGR",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "David F. Steinberger (P)",
+            "David F. Steinberger"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 111",
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "16442"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "NAVAL SHIPS SYS I ENGR",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "David F. Steinberger (P)",
+            "David F. Steinberger"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 111",
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "20636"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "NAVAL SHIPS SYS I ENGR",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "David F. Steinberger (P)",
-        "David F. Steinberger"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 111",
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "20636"
-    }
-  },
-  "485": {
-    "550": {
-      "select": "C",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26769"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Jason T. Liebsch (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "NGLE 104"
-      ],
-      "time": [
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "13770"
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26769"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Jason T. Liebsch (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "NGLE 104"
+          ],
+          "time": [
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "13770"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Jason T. Liebsch (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "19947"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Jason T. Liebsch (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "19947"
-    }
-  },
-  "101": {
-    "501": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "101": {
       "title": "INTRO TO NAVAL SCIENCE",
-      "remaining": "51",
-      "capacity": "51",
-      "instructor": [
-        "Jason T. Liebsch (P)",
-        "Jason T. Liebsch"
-      ],
-      "credits": "2",
-      "course": "101",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 108",
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "12247"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "INTRO TO NAVAL SCIENCE",
+          "remaining": "51",
+          "capacity": "51",
+          "instructor": [
+            "Jason T. Liebsch (P)",
+            "Jason T. Liebsch"
+          ],
+          "credits": "2",
+          "course": "101",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 108",
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "12247"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "INTRO TO NAVAL SCIENCE",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Jason T. Liebsch (P)",
+            "Jason T. Liebsch"
+          ],
+          "credits": "2",
+          "course": "101",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 108",
+            "TBA"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "12248"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "INTRO TO NAVAL SCIENCE",
+          "remaining": "51",
+          "capacity": "51",
+          "instructor": [
+            "Allison M. Hamel (P)",
+            "Allison M. Hamel"
+          ],
+          "credits": "2",
+          "course": "101",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 108",
+            "TBA"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "12249"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "INTRO TO NAVAL SCIENCE",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Allison M. Hamel (P)",
+            "Allison M. Hamel"
+          ],
+          "credits": "2",
+          "course": "101",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 108",
+            "TBA"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "12250"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "505",
+          "title": "INTRO TO NAVAL SCIENCE",
+          "remaining": "55",
+          "capacity": "55",
+          "instructor": [
+            "Frank Roney (P)",
+            "Frank Roney"
+          ],
+          "credits": "2",
+          "course": "101",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 108",
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "12251"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "506",
+          "title": "INTRO TO NAVAL SCIENCE",
+          "remaining": "54",
+          "capacity": "54",
+          "instructor": [
+            "Frank Roney (P)",
+            "Frank Roney"
+          ],
+          "credits": "2",
+          "course": "101",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 108",
+            "TBA"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "23054"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "INTRO TO NAVAL SCIENCE",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Jason T. Liebsch (P)",
-        "Jason T. Liebsch"
-      ],
-      "credits": "2",
-      "course": "101",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 108",
-        "TBA"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "12248"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "INTRO TO NAVAL SCIENCE",
-      "remaining": "51",
-      "capacity": "51",
-      "instructor": [
-        "Allison M. Hamel (P)",
-        "Allison M. Hamel"
-      ],
-      "credits": "2",
-      "course": "101",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 108",
-        "TBA"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "12249"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "INTRO TO NAVAL SCIENCE",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Allison M. Hamel (P)",
-        "Allison M. Hamel"
-      ],
-      "credits": "2",
-      "course": "101",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 108",
-        "TBA"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "12250"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "505",
-      "title": "INTRO TO NAVAL SCIENCE",
-      "remaining": "55",
-      "capacity": "55",
-      "instructor": [
-        "Frank Roney (P)",
-        "Frank Roney"
-      ],
-      "credits": "2",
-      "course": "101",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 108",
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "12251"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "506",
-      "title": "INTRO TO NAVAL SCIENCE",
-      "remaining": "54",
-      "capacity": "54",
-      "instructor": [
-        "Frank Roney (P)",
-        "Frank Roney"
-      ],
-      "credits": "2",
-      "course": "101",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 108",
-        "TBA"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "23054"
-    }
-  },
-  "410": {
-    "500": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+    "410": {
       "title": "AMPHIBIOUS WARFARE",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Jason D. Morgan (P)",
-        "Jason D. Morgan"
-      ],
-      "credits": "3",
-      "course": "410",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 111",
-        "MILS 107"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "12252"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "AMPHIBIOUS WARFARE",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Jason D. Morgan (P)",
+            "Jason D. Morgan"
+          ],
+          "credits": "3",
+          "course": "410",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 111",
+            "MILS 107"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "12252"
+        }
+      }
+    },
+    "404": {
+      "title": "NAVAL OPS & SEAMANSHIP",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "NAVAL OPS & SEAMANSHIP",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Maxwell B. Schmidt (P)",
+            "Maxwell B. Schmidt"
+          ],
+          "credits": "3",
+          "course": "404",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 107",
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "16443"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "NVSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "NAVAL OPS & SEAMANSHIP",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Maxwell B. Schmidt (P)",
+            "Maxwell B. Schmidt"
+          ],
+          "credits": "3",
+          "course": "404",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 107",
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "04:00 pm-05:45 pm"
+          ],
+          "crn": "22632"
+        }
+      }
     }
   },
-  "404": {
-    "500": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
-      "title": "NAVAL OPS & SEAMANSHIP",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Maxwell B. Schmidt (P)",
-        "Maxwell B. Schmidt"
-      ],
-      "credits": "3",
-      "course": "404",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 107",
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "16443"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "NVSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "NAVAL OPS & SEAMANSHIP",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Maxwell B. Schmidt (P)",
-        "Maxwell B. Schmidt"
-      ],
-      "credits": "3",
-      "course": "404",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 107",
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "04:00 pm-05:45 pm"
-      ],
-      "crn": "22632"
-    }
-  }
+  "title": "NVSC - Naval Science",
+  "updated": "Thu Apr 07 01:21:45 CDT 2016"
 }

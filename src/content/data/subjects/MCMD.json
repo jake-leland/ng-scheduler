@@ -1,95 +1,108 @@
 {
-  "671": {
-    "600": {
-      "select": "SR",
-      "subject": "MCMD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "671": {
       "title": "MACROMOLECULAR FLDNG.  DESIGN",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "671",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22331"
-    }
-  },
-  "674": {
-    "600": {
-      "select": "SR",
-      "subject": "MCMD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MCMD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "MACROMOLECULAR FLDNG.  DESIGN",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "671",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22331"
+        }
+      }
+    },
+    "674": {
       "title": "PROTEIN FOLDING  STABILITY",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Sarah Bondos (P)"
-      ],
-      "credits": "1",
-      "course": "674",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22332"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MCMD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PROTEIN FOLDING  STABILITY",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Sarah Bondos (P)"
+          ],
+          "credits": "1",
+          "course": "674",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22332"
+        }
+      }
+    },
+    "625": {
+      "title": "NUCLEIC ACID-PROTEIN INTERACT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MCMD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "NUCLEIC ACID-PROTEIN INTERACT",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "625",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22330"
+        }
+      }
     }
   },
-  "625": {
-    "600": {
-      "select": "SR",
-      "subject": "MCMD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "NUCLEIC ACID-PROTEIN INTERACT",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "625",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22330"
-    }
-  }
+  "title": "MCMD - Molecular Cell Medicine",
+  "updated": "Thu Apr 07 01:20:04 CDT 2016"
 }

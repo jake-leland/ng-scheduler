@@ -1,0 +1,56 @@
+.manage md-content {
+    background-color: transparent !important;
+}
+
+.manage md-content md-tabs {
+    border: 1px solid #e1e1e1;
+}
+
+.manage md-content md-tabs md-tab-content {
+    background: #f6f6f6;
+}
+
+.manage md-content md-tabs md-tabs-wrapper {
+    background: white;
+}
+
+.manage md-content h1:first-child {
+    margin-top: 0;
+}
+
+.manage md-input-container {
+    padding-bottom: 0;
+}
+
+.manage .remove-tab {
+    margin-bottom: 40px;
+}
+
+.manage .demo-tab > div > div {
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.manage .edit-form input {
+    width: 100%;
+}
+
+.manage md-tabs {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.manage md-tab[disabled] {
+    opacity: 0.5;
+}
+
+.manage label {
+    text-align: left;
+}
+
+.manage .long > input {
+    width: 264px;
+}
+
+.manage .md-button.add-tab {
+    transform: translateY(5px);
+}

@@ -1,279 +1,307 @@
 {
-  "5141": {
-    "600": {
-      "select": "SR",
-      "subject": "ENDO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "5141": {
       "title": "SPECIAL PROBLEMS IN ENDO",
-      "remaining": "9",
-      "capacity": "9",
-      "instructor": [
-        "Gerald N. Glickman (P)"
-      ],
-      "credits": "1",
-      "course": "5141",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22947"
-    }
-  },
-  "5142": {
-    "600": {
-      "select": "SR",
-      "subject": "ENDO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ADV SPEC PROBLEMS IN ENDO",
-      "remaining": "9",
-      "capacity": "9",
-      "instructor": [
-        "Gerald N. Glickman (P)"
-      ],
-      "credits": "1",
-      "course": "5142",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-12:00 pm"
-      ],
-      "crn": "22948"
-    }
-  },
-  "5121": {
-    "600": {
-      "select": "SR",
-      "subject": "ENDO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ENDO TREATMENT PLAN CONFERENCE",
-      "remaining": "9",
-      "capacity": "9",
-      "instructor": [
-        "Gerald N. Glickman (P)"
-      ],
-      "credits": "1",
-      "course": "5121",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22946"
-    }
-  },
-  "5111": {
-    "600": {
-      "select": "SR",
-      "subject": "ENDO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "CURRENT LITERATURE REVIEW",
-      "remaining": "9",
-      "capacity": "9",
-      "instructor": [
-        "Jianing He (P)"
-      ],
-      "credits": "1",
-      "course": "5111",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "10:00 am-12:00 pm"
-      ],
-      "crn": "22945"
-    }
-  },
-  "5222": {
-    "600": {
-      "select": "SR",
-      "subject": "ENDO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "CLINICAL ENDODONTICS",
-      "remaining": "9",
-      "capacity": "9",
-      "instructor": [
-        "Gerald N. Glickman (P)"
-      ],
-      "credits": "2",
-      "course": "5222",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22949"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENDO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SPECIAL PROBLEMS IN ENDO",
+          "remaining": "9",
+          "capacity": "9",
+          "instructor": [
+            "Gerald N. Glickman (P)"
+          ],
+          "credits": "1",
+          "course": "5141",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22947"
+        }
+      }
     },
-    "601": {
-      "select": "SR",
-      "subject": "ENDO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
+    "5142": {
+      "title": "ADV SPEC PROBLEMS IN ENDO",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENDO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADV SPEC PROBLEMS IN ENDO",
+          "remaining": "9",
+          "capacity": "9",
+          "instructor": [
+            "Gerald N. Glickman (P)"
+          ],
+          "credits": "1",
+          "course": "5142",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-12:00 pm"
+          ],
+          "crn": "22948"
+        }
+      }
+    },
+    "5121": {
+      "title": "ENDO TREATMENT PLAN CONFERENCE",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENDO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ENDO TREATMENT PLAN CONFERENCE",
+          "remaining": "9",
+          "capacity": "9",
+          "instructor": [
+            "Gerald N. Glickman (P)"
+          ],
+          "credits": "1",
+          "course": "5121",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22946"
+        }
+      }
+    },
+    "5111": {
+      "title": "CURRENT LITERATURE REVIEW",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENDO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CURRENT LITERATURE REVIEW",
+          "remaining": "9",
+          "capacity": "9",
+          "instructor": [
+            "Jianing He (P)"
+          ],
+          "credits": "1",
+          "course": "5111",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "10:00 am-12:00 pm"
+          ],
+          "crn": "22945"
+        }
+      }
+    },
+    "5222": {
       "title": "CLINICAL ENDODONTICS",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Gerald N. Glickman (P)"
-      ],
-      "credits": "2",
-      "course": "5222",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26042"
-    }
-  },
-  "5223": {
-    "600": {
-      "select": "SR",
-      "subject": "ENDO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENDO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLINICAL ENDODONTICS",
+          "remaining": "9",
+          "capacity": "9",
+          "instructor": [
+            "Gerald N. Glickman (P)"
+          ],
+          "credits": "2",
+          "course": "5222",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22949"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "ENDO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "CLINICAL ENDODONTICS",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Gerald N. Glickman (P)"
+          ],
+          "credits": "2",
+          "course": "5222",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26042"
+        }
+      }
+    },
+    "5223": {
       "title": "ADV CLINICAL ENDODONTICS",
-      "remaining": "9",
-      "capacity": "9",
-      "instructor": [
-        "Gerald N. Glickman (P)"
-      ],
-      "credits": "2",
-      "course": "5223",
-      "days": [
-        "MWRF"
-      ],
-      "date (mm/dd)": [
-        "08/15-09/28"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "10:00 am-05:00 pm"
-      ],
-      "crn": "22950"
-    }
-  },
-  "5213": {
-    "600": {
-      "select": "SR",
-      "subject": "ENDO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENDO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADV CLINICAL ENDODONTICS",
+          "remaining": "9",
+          "capacity": "9",
+          "instructor": [
+            "Gerald N. Glickman (P)"
+          ],
+          "credits": "2",
+          "course": "5223",
+          "days": [
+            "MWRF"
+          ],
+          "date (mm/dd)": [
+            "08/15-09/28"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "10:00 am-05:00 pm"
+          ],
+          "crn": "22950"
+        }
+      }
+    },
+    "5213": {
       "title": "IMPLANT CONCEPTS & TREATMENT",
-      "remaining": "11",
-      "capacity": "11",
-      "instructor": [
-        "Dimitrios E. Kontogiorgos (P)"
-      ],
-      "credits": "2",
-      "course": "5213",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-10:00 am"
-      ],
-      "crn": "23020"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENDO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "IMPLANT CONCEPTS & TREATMENT",
+          "remaining": "11",
+          "capacity": "11",
+          "instructor": [
+            "Dimitrios E. Kontogiorgos (P)"
+          ],
+          "credits": "2",
+          "course": "5213",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-10:00 am"
+          ],
+          "crn": "23020"
+        }
+      }
+    },
+    "5V98": {
+      "title": "RSRCH FOR THE MASTER'S THESIS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENDO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RSRCH FOR THE MASTER'S THESIS",
+          "remaining": "9",
+          "capacity": "9",
+          "instructor": [
+            "Gerald N. Glickman (P)"
+          ],
+          "credits": "1-5",
+          "course": "5V98",
+          "days": [
+            "MWRF"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "10:00 am-11:00 am"
+          ],
+          "crn": "22951"
+        }
+      }
     }
   },
-  "5V98": {
-    "600": {
-      "select": "SR",
-      "subject": "ENDO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "RSRCH FOR THE MASTER'S THESIS",
-      "remaining": "9",
-      "capacity": "9",
-      "instructor": [
-        "Gerald N. Glickman (P)"
-      ],
-      "credits": "1-5",
-      "course": "5V98",
-      "days": [
-        "MWRF"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "10:00 am-11:00 am"
-      ],
-      "crn": "22951"
-    }
-  }
+  "title": "ENDO - Endodontics",
+  "updated": "Thu Apr 07 01:15:08 CDT 2016"
 }

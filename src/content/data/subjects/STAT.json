@@ -1,3206 +1,3303 @@
 {
-  "491": {
-    "432": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "432",
+  "courses": {
+    "491": {
       "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Alan Dabney (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28615"
-    }
-  },
-  "691": {
-    "650": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Michael Longnecker (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16050"
+      "sections": {
+        "432": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "432",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Alan Dabney (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28615"
+        }
+      }
     },
-    "640": {
-      "select": "C",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27182"
+      "sections": {
+        "650": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Michael Longnecker (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16050"
+        },
+        "640": {
+          "select": "C",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27182"
+        },
+        "641": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "641",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Ursula Mueller-Harknett (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14551"
+        },
+        "620": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "620",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Valen Johnson (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20597"
+        },
+        "610": {
+          "select": "C",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27181"
+        },
+        "632": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Alan Dabney (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14506"
+        },
+        "643": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Huiyan Sang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21378"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mikyoung Jun (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14513"
+        },
+        "622": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "622",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Bani Mallick (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14550"
+        },
+        "644": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "644",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Lan Zhou (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26586"
+        },
+        "634": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "634",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Simon Sheather (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14553"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Matthias S. Katzfuss (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26422"
+        },
+        "624": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Clifford Spiegelman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19382"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Raymond Carroll (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14505"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Michael Longnecker (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14548"
+        },
+        "636": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "636",
+          "title": "RESEARCH",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jianhua Huang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14511"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Suhasini Subbarao (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14554"
+        },
+        "626": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "626",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Suojin Wang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16489"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Daren Cline (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26340"
+        },
+        "627": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "627",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Thomas Wehrly (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14555"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Fred Dahm (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14507"
+        },
+        "628": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "628",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mohsen Pourahmadi (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14552"
+        },
+        "639": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "639",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Samiran Sinha (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16976"
+        },
+        "609": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jeffrey Hart (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14509"
+        }
+      }
     },
-    "641": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "641",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Ursula Mueller-Harknett (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14551"
+    "211": {
+      "title": "PRIN OF STATISTICS I",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "PRIN OF STATISTICS I",
+          "remaining": "150",
+          "capacity": "150",
+          "instructor": [
+            "Lloyd Hatfield (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MPHY 205"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "12762"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "PRIN OF STATISTICS I",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Lloyd Hatfield (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12763"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "PRIN OF STATISTICS I",
+          "remaining": "150",
+          "capacity": "150",
+          "instructor": [
+            "Fred Dahm (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MPHY 205"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12764"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "PRIN OF STATISTICS I",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Irina Gaynanova (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "13873"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "PRIN OF STATISTICS I",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Huiyan Sang (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "13874"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "PRIN OF STATISTICS I",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Mikyoung Jun (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "16977"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "PRIN OF STATISTICS I",
+          "remaining": "104",
+          "capacity": "104",
+          "instructor": [
+            "Fred Dahm (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 105"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "19381"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "PRIN OF STATISTICS I",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Matthias S. Katzfuss (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "22465"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "PRIN OF STATISTICS I",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Lloyd Hatfield (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 113"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "23895"
+        }
+      }
     },
-    "620": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "620",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Valen Johnson (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20597"
+    "651": {
+      "title": "STAT IN RESEARCH I",
+      "sections": {
+        "699": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "STAT IN RESEARCH I",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Derya G. Akleman (P)"
+          ],
+          "credits": "3",
+          "course": "651",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "05:00 pm-06:15 pm"
+          ],
+          "crn": "16978"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "STAT IN RESEARCH I",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Clifford Spiegelman (P)"
+          ],
+          "credits": "3",
+          "course": "651",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 113"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "12790"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "STAT IN RESEARCH I",
+          "remaining": "51",
+          "capacity": "51",
+          "instructor": [
+            "Derya G. Akleman (P)"
+          ],
+          "credits": "3",
+          "course": "651",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "05:00 pm-06:15 pm"
+          ],
+          "crn": "13948"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "STAT IN RESEARCH I",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Clifford Spiegelman (P)"
+          ],
+          "credits": "3",
+          "course": "651",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 113"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12791"
+        },
+        "603": {
+          "select": "C",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "STAT IN RESEARCH I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "651",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 113"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "23901"
+        }
+      }
+    },
+    "673": {
+      "title": "TIME SERIES ANLYS I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "TIME SERIES ANLYS I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Suhasini Subbarao (P)"
+          ],
+          "credits": "3",
+          "course": "673",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "27179"
+        }
+      }
+    },
+    "212": {
+      "title": "PRIN OF STATISTICS II",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "PRIN OF STATISTICS II",
+          "remaining": "120",
+          "capacity": "120",
+          "instructor": [
+            "Mohsen Pourahmadi (P)"
+          ],
+          "credits": "3",
+          "course": "212",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 169"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "12765"
+        }
+      }
+    },
+    "630": {
+      "title": "OVERVIEW OF MATH STAT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "OVERVIEW OF MATH STAT",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Thomas Wehrly (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "17220"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "OVERVIEW OF MATH STAT",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Thomas Wehrly (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 411"
+          ],
+          "time": [
+            "05:00 pm-06:00 pm"
+          ],
+          "crn": "13945"
+        }
+      }
+    },
+    "652": {
+      "title": "STAT IN RESEARCH II",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "STAT IN RESEARCH II",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Derya G. Akleman (P)"
+          ],
+          "credits": "3",
+          "course": "652",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "13876"
+        },
+        "699": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "STAT IN RESEARCH II",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Derya G. Akleman (P)"
+          ],
+          "credits": "3",
+          "course": "652",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "05:00 pm-06:15 pm"
+          ],
+          "crn": "16979"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "STAT IN RESEARCH II",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Derya G. Akleman (P)"
+          ],
+          "credits": "3",
+          "course": "652",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "05:00 pm-06:15 pm"
+          ],
+          "crn": "13949"
+        }
+      }
     },
     "610": {
-      "select": "C",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27181"
+      "title": "DISTRIBUTION THEORY",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DISTRIBUTION THEORY",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Huiyan Sang (P)"
+          ],
+          "credits": "3",
+          "course": "610",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 113"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "12782"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DISTRIBUTION THEORY",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Anirban Bhattacharya (P)"
+          ],
+          "credits": "3",
+          "course": "610",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12783"
+        }
+      }
     },
-    "632": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Alan Dabney (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14506"
+    "414": {
+      "title": "MATH STATISTICS I",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MATH STATISTICS I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Daren Cline (P)"
+          ],
+          "credits": "3",
+          "course": "414",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12778"
+        }
+      }
     },
-    "643": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Huiyan Sang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21378"
-    },
-    "611": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mikyoung Jun (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14513"
-    },
-    "622": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "622",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Bani Mallick (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14550"
-    },
-    "644": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "644",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Lan Zhou (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26586"
-    },
-    "634": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "634",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Simon Sheather (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14553"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Matthias S. Katzfuss (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26422"
-    },
-    "624": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Clifford Spiegelman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19382"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Raymond Carroll (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14505"
+    "612": {
+      "title": "THRY OF LINEAR MODELS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THRY OF LINEAR MODELS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Raymond Carroll (P)"
+          ],
+          "credits": "3",
+          "course": "612",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "12784"
+        }
+      }
     },
     "614": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Michael Longnecker (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14548"
+      "title": "PROBABILITY FOR STAT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PROBABILITY FOR STAT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Xianyang Zhang (P)"
+          ],
+          "credits": "3",
+          "course": "614",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12785"
+        }
+      }
     },
     "636": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "636",
-      "title": "RESEARCH",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Jianhua Huang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14511"
+      "title": "APPLIED MULTIVARIATE ANLY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "APPLIED MULTIVARIATE ANLY",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Alan Dabney (P)"
+          ],
+          "credits": "3",
+          "course": "636",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12787"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "APPLIED MULTIVARIATE ANLY",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Alan Dabney (P)"
+          ],
+          "credits": "3",
+          "course": "636",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 411"
+          ],
+          "time": [
+            "06:00 pm-07:00 pm"
+          ],
+          "crn": "13946"
+        }
+      }
+    },
+    "616": {
+      "title": "STAT ASPECTS OF MACH LEARN I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "STAT ASPECTS OF MACH LEARN I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Anirban Bhattacharya (P)"
+          ],
+          "credits": "3",
+          "course": "616",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "23899"
+        }
+      }
+    },
+    "638": {
+      "title": "APPLIED BAYES METHODS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "APPLIED BAYES METHODS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Jeffrey Hart (P)"
+          ],
+          "credits": "3",
+          "course": "638",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "21364"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "APPLIED BAYES METHODS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Jeffrey Hart (P)"
+          ],
+          "credits": "3",
+          "course": "638",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "06:30 pm-07:30 pm"
+          ],
+          "crn": "21366"
+        }
+      }
+    },
+    "681": {
+      "title": "SEMINAR",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Anirban Bhattacharya (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 113"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "13878"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "SEMINAR",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Michael Longnecker (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "13950"
+        }
+      }
+    },
+    "684": {
+      "title": "PROFESSIONAL INTERNSHP",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PROFESSIONAL INTERNSHP",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Edward R. Jones (P)"
+          ],
+          "credits": "1-3",
+          "course": "684",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "04:00 pm-05:00 pm"
+          ],
+          "crn": "13879"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "PROFESSIONAL INTERNSHP",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Edward R. Jones (P)"
+          ],
+          "credits": "1-3",
+          "course": "684",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "13951"
+        }
+      }
+    },
+    "201": {
+      "title": "ELEM STAT INFERENCE",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "ELEM STAT INFERENCE",
+          "remaining": "104",
+          "capacity": "104",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 203"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "22460"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "ELEM STAT INFERENCE",
+          "remaining": "126",
+          "capacity": "126",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MPHY 205"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "12761"
+        }
+      }
+    },
+    "641": {
+      "title": "METHODS OF STAT I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "METHODS OF STAT I",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Michael Longnecker (P)"
+          ],
+          "credits": "3",
+          "course": "641",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12788"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "METHODS OF STAT I",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Michael Longnecker (P)"
+          ],
+          "credits": "3",
+          "course": "641",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "05:00 pm-06:00 pm"
+          ],
+          "crn": "13947"
+        }
+      }
+    },
+    "685": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "651": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "DIRECTED STUDIES:IN-AB",
+          "remaining": "13",
+          "capacity": "13",
+          "instructor": [
+            "Simon Sheather (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:01 pm-09:31 pm"
+          ],
+          "crn": "21377"
+        },
+        "632": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Alan Dabney (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14500"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mikyoung Jun (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16975"
+        },
+        "622": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "622",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Bani Mallick (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16973"
+        },
+        "644": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "644",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Lan Zhou (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26585"
+        },
+        "710": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "710",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Simon Sheather (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "09:01 pm-09:31 pm"
+          ],
+          "crn": "21375"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "DIRECTED STUDIES",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Simon Sheather (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "13952"
+        },
+        "602": {
+          "select": "C",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27180"
+        },
+        "624": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Clifford Spiegelman (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16974"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Michael Longnecker (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14503"
+        },
+        "636": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "636",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jianhua Huang (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23335"
+        },
+        "648": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "648",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Edward R. Jones (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23902"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Daren Cline (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26285"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Fred Dahm (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14501"
+        },
+        "639": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "639",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Samiran Sinha (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14504"
+        }
+      }
+    },
+    "301": {
+      "title": "INTRO TO BIOMETRY",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTRO TO BIOMETRY",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Suhasini Subbarao (P)"
+          ],
+          "credits": "3",
+          "course": "301",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "12766"
+        }
+      }
+    },
+    "302": {
+      "title": "STATISTICAL METHODS",
+      "sections": {
+        "510": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "STATISTICAL METHODS",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Elizabeth Y. Kolodziej (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "27176"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "511",
+          "title": "STATISTICAL METHODS",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "27177"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "STATISTICAL METHODS",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Hwachi C. Liang (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12767"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "STATISTICAL METHODS",
+          "remaining": "120",
+          "capacity": "120",
+          "instructor": [
+            "Elizabeth Y. Kolodziej (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 169"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12768"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "STATISTICAL METHODS",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Hwachi C. Liang (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12769"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "STATISTICAL METHODS",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Hwachi C. Liang (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12770"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "STATISTICAL METHODS",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 113"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "12771"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "STATISTICAL METHODS",
+          "remaining": "120",
+          "capacity": "120",
+          "instructor": [
+            "Howard Newton (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 169"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "12772"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "STATISTICAL METHODS",
+          "remaining": "120",
+          "capacity": "120",
+          "instructor": [
+            "Elizabeth Y. Kolodziej (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 169"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "12773"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "STATISTICAL METHODS",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Thomas Wehrly (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 113"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "12774"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "STATISTICAL METHODS",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "Samiran Sinha (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "22463"
+        }
+      }
+    },
+    "303": {
+      "title": "STATISTICAL METHODS",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "STATISTICAL METHODS",
+          "remaining": "97",
+          "capacity": "97",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 150"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "12775"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "STATISTICAL METHODS",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Julie A. Hagen (P)"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 113"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12776"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "STATISTICAL METHODS",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 113"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12777"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "STATISTICAL METHODS",
+          "remaining": "230",
+          "capacity": "230",
+          "instructor": [
+            "Julie A. Hagen (P)"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BSBE 115"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "23896"
+        }
+      }
+    },
+    "601": {
+      "title": "STATISTICAL ANALYSIS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "STATISTICAL ANALYSIS",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Daren Cline (P)",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "601",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457",
+            "BLOC 457"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "12:45 pm-01:35 pm"
+          ],
+          "crn": "12779"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "700",
+          "title": "STATISTICAL ANALYSIS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Daren Cline (P)",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "601",
+          "days": [
+            "WEB",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB",
+            "WEB"
+          ],
+          "time": [
+            "WEB",
+            "WEB"
+          ],
+          "crn": "13941"
+        }
+      }
+    },
+    "645": {
+      "title": "APPL BIOSTAT & DATA ANLY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "APPL BIOSTAT & DATA ANLY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Alan Dabney (P)"
+          ],
+          "credits": "3",
+          "course": "645",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "13877"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "APPL BIOSTAT & DATA ANLY",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Alan Dabney (P)"
+          ],
+          "credits": "3",
+          "course": "645",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 411"
+          ],
+          "time": [
+            "07:00 pm-08:00 pm"
+          ],
+          "crn": "13970"
+        }
+      }
+    },
+    "647": {
+      "title": "SPATIAL STATISTICS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SPATIAL STATISTICS",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Mikyoung Jun (P)"
+          ],
+          "credits": "3",
+          "course": "647",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "12789"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "SPATIAL STATISTICS",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Mikyoung Jun (P)"
+          ],
+          "credits": "3",
+          "course": "647",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "06:00 pm-07:00 pm"
+          ],
+          "crn": "27178"
+        }
+      }
     },
     "604": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Suhasini Subbarao (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14554"
-    },
-    "626": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "626",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Suojin Wang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16489"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Daren Cline (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26340"
-    },
-    "627": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "627",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Thomas Wehrly (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14555"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Fred Dahm (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14507"
-    },
-    "628": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "628",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mohsen Pourahmadi (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14552"
-    },
-    "639": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "639",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Samiran Sinha (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16976"
-    },
-    "609": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jeffrey Hart (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14509"
-    }
-  },
-  "211": {
-    "501": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "PRIN OF STATISTICS I",
-      "remaining": "150",
-      "capacity": "150",
-      "instructor": [
-        "Lloyd Hatfield (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MPHY 205"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "12762"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "PRIN OF STATISTICS I",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Lloyd Hatfield (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12763"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "PRIN OF STATISTICS I",
-      "remaining": "150",
-      "capacity": "150",
-      "instructor": [
-        "Fred Dahm (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MPHY 205"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12764"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "PRIN OF STATISTICS I",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Irina Gaynanova (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "13873"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "PRIN OF STATISTICS I",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Huiyan Sang (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "13874"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "PRIN OF STATISTICS I",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Mikyoung Jun (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "16977"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "PRIN OF STATISTICS I",
-      "remaining": "104",
-      "capacity": "104",
-      "instructor": [
-        "Fred Dahm (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 105"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "19381"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "PRIN OF STATISTICS I",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Matthias S. Katzfuss (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "22465"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "PRIN OF STATISTICS I",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Lloyd Hatfield (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 113"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "23895"
-    }
-  },
-  "651": {
-    "699": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "STAT IN RESEARCH I",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Derya G. Akleman (P)"
-      ],
-      "credits": "3",
-      "course": "651",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "05:00 pm-06:15 pm"
-      ],
-      "crn": "16978"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "STAT IN RESEARCH I",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Clifford Spiegelman (P)"
-      ],
-      "credits": "3",
-      "course": "651",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 113"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "12790"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "STAT IN RESEARCH I",
-      "remaining": "51",
-      "capacity": "51",
-      "instructor": [
-        "Derya G. Akleman (P)"
-      ],
-      "credits": "3",
-      "course": "651",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "05:00 pm-06:15 pm"
-      ],
-      "crn": "13948"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "STAT IN RESEARCH I",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Clifford Spiegelman (P)"
-      ],
-      "credits": "3",
-      "course": "651",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 113"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12791"
-    },
-    "603": {
-      "select": "C",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "STAT IN RESEARCH I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "651",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 113"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "23901"
-    }
-  },
-  "673": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "TIME SERIES ANLYS I",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Suhasini Subbarao (P)"
-      ],
-      "credits": "3",
-      "course": "673",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "27179"
-    }
-  },
-  "212": {
-    "501": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "PRIN OF STATISTICS II",
-      "remaining": "120",
-      "capacity": "120",
-      "instructor": [
-        "Mohsen Pourahmadi (P)"
-      ],
-      "credits": "3",
-      "course": "212",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 169"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "12765"
-    }
-  },
-  "630": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "OVERVIEW OF MATH STAT",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Thomas Wehrly (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "17220"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "OVERVIEW OF MATH STAT",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Thomas Wehrly (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 411"
-      ],
-      "time": [
-        "05:00 pm-06:00 pm"
-      ],
-      "crn": "13945"
-    }
-  },
-  "652": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "STAT IN RESEARCH II",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Derya G. Akleman (P)"
-      ],
-      "credits": "3",
-      "course": "652",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "13876"
-    },
-    "699": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "STAT IN RESEARCH II",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Derya G. Akleman (P)"
-      ],
-      "credits": "3",
-      "course": "652",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "05:00 pm-06:15 pm"
-      ],
-      "crn": "16979"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "STAT IN RESEARCH II",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Derya G. Akleman (P)"
-      ],
-      "credits": "3",
-      "course": "652",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "05:00 pm-06:15 pm"
-      ],
-      "crn": "13949"
-    }
-  },
-  "610": {
-    "601": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DISTRIBUTION THEORY",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Huiyan Sang (P)"
-      ],
-      "credits": "3",
-      "course": "610",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 113"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "12782"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "DISTRIBUTION THEORY",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Anirban Bhattacharya (P)"
-      ],
-      "credits": "3",
-      "course": "610",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12783"
-    }
-  },
-  "414": {
-    "500": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "MATH STATISTICS I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Daren Cline (P)"
-      ],
-      "credits": "3",
-      "course": "414",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12778"
-    }
-  },
-  "612": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "THRY OF LINEAR MODELS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Raymond Carroll (P)"
-      ],
-      "credits": "3",
-      "course": "612",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "12784"
-    }
-  },
-  "614": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PROBABILITY FOR STAT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Xianyang Zhang (P)"
-      ],
-      "credits": "3",
-      "course": "614",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12785"
-    }
-  },
-  "636": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "APPLIED MULTIVARIATE ANLY",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Alan Dabney (P)"
-      ],
-      "credits": "3",
-      "course": "636",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12787"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "APPLIED MULTIVARIATE ANLY",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Alan Dabney (P)"
-      ],
-      "credits": "3",
-      "course": "636",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 411"
-      ],
-      "time": [
-        "06:00 pm-07:00 pm"
-      ],
-      "crn": "13946"
-    }
-  },
-  "616": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "STAT ASPECTS OF MACH LEARN I",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Anirban Bhattacharya (P)"
-      ],
-      "credits": "3",
-      "course": "616",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "23899"
-    }
-  },
-  "638": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "APPLIED BAYES METHODS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Jeffrey Hart (P)"
-      ],
-      "credits": "3",
-      "course": "638",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "21364"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "APPLIED BAYES METHODS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Jeffrey Hart (P)"
-      ],
-      "credits": "3",
-      "course": "638",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "06:30 pm-07:30 pm"
-      ],
-      "crn": "21366"
-    }
-  },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SEMINAR",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Anirban Bhattacharya (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 113"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "13878"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "SEMINAR",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Michael Longnecker (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "13950"
-    }
-  },
-  "684": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PROFESSIONAL INTERNSHP",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Edward R. Jones (P)"
-      ],
-      "credits": "1-3",
-      "course": "684",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "04:00 pm-05:00 pm"
-      ],
-      "crn": "13879"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "PROFESSIONAL INTERNSHP",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Edward R. Jones (P)"
-      ],
-      "credits": "1-3",
-      "course": "684",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "13951"
-    }
-  },
-  "201": {
-    "501": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "ELEM STAT INFERENCE",
-      "remaining": "104",
-      "capacity": "104",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 203"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "22460"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "ELEM STAT INFERENCE",
-      "remaining": "126",
-      "capacity": "126",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MPHY 205"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "12761"
-    }
-  },
-  "641": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "METHODS OF STAT I",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Michael Longnecker (P)"
-      ],
-      "credits": "3",
-      "course": "641",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12788"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "METHODS OF STAT I",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Michael Longnecker (P)"
-      ],
-      "credits": "3",
-      "course": "641",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "05:00 pm-06:00 pm"
-      ],
-      "crn": "13947"
-    }
-  },
-  "685": {
-    "651": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "DIRECTED STUDIES:IN-AB",
-      "remaining": "13",
-      "capacity": "13",
-      "instructor": [
-        "Simon Sheather (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:01 pm-09:31 pm"
-      ],
-      "crn": "21377"
-    },
-    "632": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Alan Dabney (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14500"
-    },
-    "611": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mikyoung Jun (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16975"
-    },
-    "622": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "622",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Bani Mallick (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16973"
-    },
-    "644": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "644",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Lan Zhou (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26585"
-    },
-    "710": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "710",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Simon Sheather (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "09:01 pm-09:31 pm"
-      ],
-      "crn": "21375"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "DIRECTED STUDIES",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Simon Sheather (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "13952"
-    },
-    "602": {
-      "select": "C",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27180"
-    },
-    "624": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Clifford Spiegelman (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16974"
-    },
-    "614": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Michael Longnecker (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14503"
-    },
-    "636": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "636",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jianhua Huang (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23335"
+      "title": "STATISTICAL COMPUTATIONS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "STATISTICAL COMPUTATIONS",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Faron D. Kincheloe (P)"
+          ],
+          "credits": "3",
+          "course": "604",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "12780"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "STATISTICAL COMPUTATIONS",
+          "remaining": "34",
+          "capacity": "34",
+          "instructor": [
+            "Faron D. Kincheloe (P)"
+          ],
+          "credits": "3",
+          "course": "604",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "13943"
+        }
+      }
     },
     "648": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "648",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Edward R. Jones (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23902"
+      "title": "APPLIED STAT & DATA ANALYS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "APPLIED STAT & DATA ANALYS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Lan Zhou (P)"
+          ],
+          "credits": "3",
+          "course": "648",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "13274"
+        }
+      }
+    },
+    "407": {
+      "title": "PRINCIPLES SAMPLE SURV",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PRINCIPLES SAMPLE SURV",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Suojin Wang (P)"
+          ],
+          "credits": "3",
+          "course": "407",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "13311"
+        }
+      }
     },
     "605": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Daren Cline (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26285"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Fred Dahm (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14501"
-    },
-    "639": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "639",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Samiran Sinha (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14504"
-    }
-  },
-  "301": {
-    "500": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "INTRO TO BIOMETRY",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Suhasini Subbarao (P)"
-      ],
-      "credits": "3",
-      "course": "301",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "12766"
-    }
-  },
-  "302": {
-    "510": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
-      "title": "STATISTICAL METHODS",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Elizabeth Y. Kolodziej (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "27176"
-    },
-    "511": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "511",
-      "title": "STATISTICAL METHODS",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "27177"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "STATISTICAL METHODS",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Hwachi C. Liang (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12767"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "STATISTICAL METHODS",
-      "remaining": "120",
-      "capacity": "120",
-      "instructor": [
-        "Elizabeth Y. Kolodziej (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 169"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12768"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "STATISTICAL METHODS",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Hwachi C. Liang (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12769"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "STATISTICAL METHODS",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Hwachi C. Liang (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12770"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "STATISTICAL METHODS",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 113"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "12771"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "STATISTICAL METHODS",
-      "remaining": "120",
-      "capacity": "120",
-      "instructor": [
-        "Howard Newton (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 169"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "12772"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "STATISTICAL METHODS",
-      "remaining": "120",
-      "capacity": "120",
-      "instructor": [
-        "Elizabeth Y. Kolodziej (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 169"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "12773"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "STATISTICAL METHODS",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Thomas Wehrly (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 113"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "12774"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "STATISTICAL METHODS",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "Samiran Sinha (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "22463"
-    }
-  },
-  "303": {
-    "501": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "STATISTICAL METHODS",
-      "remaining": "97",
-      "capacity": "97",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 150"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "12775"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "STATISTICAL METHODS",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Julie A. Hagen (P)"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 113"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12776"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "STATISTICAL METHODS",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 113"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12777"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "STATISTICAL METHODS",
-      "remaining": "230",
-      "capacity": "230",
-      "instructor": [
-        "Julie A. Hagen (P)"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BSBE 115"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "23896"
-    }
-  },
-  "601": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "STATISTICAL ANALYSIS",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Daren Cline (P)",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "601",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457",
-        "BLOC 457"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "12:45 pm-01:35 pm"
-      ],
-      "crn": "12779"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "700",
-      "title": "STATISTICAL ANALYSIS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Daren Cline (P)",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "601",
-      "days": [
-        "WEB",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB",
-        "WEB"
-      ],
-      "time": [
-        "WEB",
-        "WEB"
-      ],
-      "crn": "13941"
-    }
-  },
-  "645": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "APPL BIOSTAT & DATA ANLY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Alan Dabney (P)"
-      ],
-      "credits": "3",
-      "course": "645",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "13877"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "APPL BIOSTAT & DATA ANLY",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Alan Dabney (P)"
-      ],
-      "credits": "3",
-      "course": "645",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 411"
-      ],
-      "time": [
-        "07:00 pm-08:00 pm"
-      ],
-      "crn": "13970"
-    }
-  },
-  "647": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SPATIAL STATISTICS",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Mikyoung Jun (P)"
-      ],
-      "credits": "3",
-      "course": "647",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "12789"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "SPATIAL STATISTICS",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Mikyoung Jun (P)"
-      ],
-      "credits": "3",
-      "course": "647",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "06:00 pm-07:00 pm"
-      ],
-      "crn": "27178"
-    }
-  },
-  "604": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "STATISTICAL COMPUTATIONS",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Faron D. Kincheloe (P)"
-      ],
-      "credits": "3",
-      "course": "604",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "12780"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "STATISTICAL COMPUTATIONS",
-      "remaining": "34",
-      "capacity": "34",
-      "instructor": [
-        "Faron D. Kincheloe (P)"
-      ],
-      "credits": "3",
-      "course": "604",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "13943"
-    }
-  },
-  "648": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "APPLIED STAT & DATA ANALYS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Lan Zhou (P)"
-      ],
-      "credits": "3",
-      "course": "648",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "13274"
-    }
-  },
-  "407": {
-    "500": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "PRINCIPLES SAMPLE SURV",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Suojin Wang (P)"
-      ],
-      "credits": "3",
-      "course": "407",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "13311"
-    }
-  },
-  "605": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
       "title": "ADV STAT COMPUTATION",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Samiran Sinha (P)"
-      ],
-      "credits": "3",
-      "course": "605",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 457"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "27528"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADV STAT COMPUTATION",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Samiran Sinha (P)"
+          ],
+          "credits": "3",
+          "course": "605",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 457"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "27528"
+        }
+      }
+    },
+    "607": {
+      "title": "SAMPLING",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SAMPLING",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Suojin Wang (P)"
+          ],
+          "credits": "3",
+          "course": "607",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 411"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "12781"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "STAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "SAMPLING",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Suojin Wang (P)"
+          ],
+          "credits": "3",
+          "course": "607",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 448"
+          ],
+          "time": [
+            "06:00 pm-07:00 pm"
+          ],
+          "crn": "13944"
+        }
+      }
     }
   },
-  "607": {
-    "600": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SAMPLING",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Suojin Wang (P)"
-      ],
-      "credits": "3",
-      "course": "607",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 411"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "12781"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "STAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "SAMPLING",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Suojin Wang (P)"
-      ],
-      "credits": "3",
-      "course": "607",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 448"
-      ],
-      "time": [
-        "06:00 pm-07:00 pm"
-      ],
-      "crn": "13944"
-    }
-  }
+  "title": "STAT - Statistics",
+  "updated": "Thu Apr 07 01:26:00 CDT 2016"
 }

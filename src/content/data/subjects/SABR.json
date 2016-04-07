@@ -1,64 +1,74 @@
 {
-  "300": {
-    "550": {
-      "select": "SR",
-      "subject": "SABR",
-      "campus": "OFF",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
+  "courses": {
+    "300": {
       "title": "STUDY ABROAD",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Lisa J. Tauferner (P)"
-      ],
-      "credits": "1-18",
-      "course": "300",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27946"
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "SABR",
+          "campus": "OFF",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "STUDY ABROAD",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Lisa J. Tauferner (P)"
+          ],
+          "credits": "1-18",
+          "course": "300",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27946"
+        }
+      }
+    },
+    "399": {
+      "title": "STUDY ABROAD",
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "SABR",
+          "campus": "OFF",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "STUDY ABROAD",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Lisa J. Tauferner (P)"
+          ],
+          "credits": "1-18",
+          "course": "399",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27947"
+        }
+      }
     }
   },
-  "399": {
-    "550": {
-      "select": "SR",
-      "subject": "SABR",
-      "campus": "OFF",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "STUDY ABROAD",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Lisa J. Tauferner (P)"
-      ],
-      "credits": "1-18",
-      "course": "399",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27947"
-    }
-  }
+  "title": "SABR - Study Abroad",
+  "updated": "Thu Apr 07 01:24:52 CDT 2016"
 }

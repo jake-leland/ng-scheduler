@@ -1,2757 +1,2898 @@
 {
-  "391": {
-    "501": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "391": {
       "title": "MEASURE & EVAL IN HRD/TCM",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "391",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 569"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "13100"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "MEASURE & EVAL IN HRD/TCM",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "391",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 569"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "13100"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "MEASURE & EVAL IN HRD/TCM",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Judy R. Sandlin (P)"
+          ],
+          "credits": "3",
+          "course": "391",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 569"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "13101"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "MEASURE & EVAL IN HRD/TCM",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Judy R. Sandlin (P)"
-      ],
-      "credits": "3",
-      "course": "391",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 569"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "13101"
-    }
-  },
-  "490": {
-    "920": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "920",
+    "490": {
       "title": "RESEARCH IN HRD/TCM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Judy R. Sandlin (P)"
-      ],
-      "credits": "3",
-      "course": "490",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26897"
+      "sections": {
+        "920": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "920",
+          "title": "RESEARCH IN HRD/TCM",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Daniel H. Bowen (P)"
+          ],
+          "credits": "3",
+          "course": "490",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26897"
+        },
+        "921": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "921",
+          "title": "RESEARCH IN HRD/TCM",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "490",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26898"
+        },
+        "901": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "901",
+          "title": "RESEARCH IN HRD/TCM",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Judy R. Sandlin (P)"
+          ],
+          "credits": "3",
+          "course": "490",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 569"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "26896"
+        }
+      }
     },
-    "921": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "921",
-      "title": "RESEARCH IN HRD/TCM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "490",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26898"
-    },
-    "901": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "901",
-      "title": "RESEARCH IN HRD/TCM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Judy R. Sandlin (P)"
-      ],
-      "credits": "3",
-      "course": "490",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 569"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "26896"
-    }
-  },
-  "371": {
-    "920": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "920",
+    "371": {
       "title": "APP LEARNING PRINCIPLES",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Karen S. Smith (P)"
-      ],
-      "credits": "3",
-      "course": "371",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14344"
+      "sections": {
+        "950": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "950",
+          "title": "APP LEARNING PRINCIPLES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jill L. Zarestky (P)"
+          ],
+          "credits": "3",
+          "course": "371",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 503"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "28657"
+        },
+        "920": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "920",
+          "title": "APP LEARNING PRINCIPLES",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Karen S. Smith (P)"
+          ],
+          "credits": "3",
+          "course": "371",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14344"
+        },
+        "921": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "921",
+          "title": "APP LEARNING PRINCIPLES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Karen S. Smith (P)"
+          ],
+          "credits": "3",
+          "course": "371",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "26186"
+        },
+        "901": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "901",
+          "title": "APP LEARNING PRINCIPLES",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jill L. Zarestky (P)"
+          ],
+          "credits": "3",
+          "course": "371",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 503"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "11125"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "902",
+          "title": "APP LEARNING PRINCIPLES",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Jill L. Zarestky (P)"
+          ],
+          "credits": "3",
+          "course": "371",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 503"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "11126"
+        }
+      }
     },
-    "921": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "921",
-      "title": "APP LEARNING PRINCIPLES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Karen S. Smith (P)"
-      ],
-      "credits": "3",
-      "course": "371",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "26186"
-    },
-    "901": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "901",
-      "title": "APP LEARNING PRINCIPLES",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Jill L. Zarestky (P)"
-      ],
-      "credits": "3",
-      "course": "371",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 503"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "11125"
-    },
-    "902": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "902",
-      "title": "APP LEARNING PRINCIPLES",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Jill L. Zarestky (P)"
-      ],
-      "credits": "3",
-      "course": "371",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 503"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "11126"
-    }
-  },
-  "690": {
-    "601": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
+    "690": {
       "title": "THRY OF EHRD RESEARCH",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Homer Tolson (P)"
-      ],
-      "credits": "3",
-      "course": "690",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 569"
-      ],
-      "time": [
-        "05:00 pm-08:00 pm"
-      ],
-      "crn": "19504"
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "THRY OF EHRD RESEARCH",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Homer Tolson (P)"
+          ],
+          "credits": "3",
+          "course": "690",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 569"
+          ],
+          "time": [
+            "05:00 pm-08:00 pm"
+          ],
+          "crn": "19504"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "THRY OF EHRD RESEARCH",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Homer Tolson (P)"
+          ],
+          "credits": "3",
+          "course": "690",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 569"
+          ],
+          "time": [
+            "05:00 pm-08:00 pm"
+          ],
+          "crn": "13104"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "THRY OF EHRD RESEARCH",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Homer Tolson (P)"
+          ],
+          "credits": "3",
+          "course": "690",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 575"
+          ],
+          "time": [
+            "01:00 pm-04:00 pm"
+          ],
+          "crn": "25545"
+        }
+      }
     },
-    "602": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "THRY OF EHRD RESEARCH",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Homer Tolson (P)"
-      ],
-      "credits": "3",
-      "course": "690",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 569"
-      ],
-      "time": [
-        "05:00 pm-08:00 pm"
-      ],
-      "crn": "13104"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "THRY OF EHRD RESEARCH",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Homer Tolson (P)"
-      ],
-      "credits": "3",
-      "course": "690",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 575"
-      ],
-      "time": [
-        "01:00 pm-04:00 pm"
-      ],
-      "crn": "25545"
-    }
-  },
-  "372": {
-    "597": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "597",
+    "372": {
       "title": "LEARNING AND DEVL IN HRD",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "MacHuma A. Muyia (P)"
-      ],
-      "credits": "3",
-      "course": "372",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "22903"
+      "sections": {
+        "597": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "597",
+          "title": "LEARNING AND DEVL IN HRD",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "MacHuma A. Muyia (P)"
+          ],
+          "credits": "3",
+          "course": "372",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "22903"
+        },
+        "598": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "598",
+          "title": "LEARNING AND DEVL IN HRD",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "MacHuma A. Muyia (P)"
+          ],
+          "credits": "3",
+          "course": "372",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "16610"
+        },
+        "569": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "569",
+          "title": "LEARNING AND DEVL IN HRD",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "372",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28441"
+        }
+      }
     },
-    "598": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "598",
-      "title": "LEARNING AND DEVL IN HRD",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "MacHuma A. Muyia (P)"
-      ],
-      "credits": "3",
-      "course": "372",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "16610"
-    },
-    "569": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "569",
-      "title": "LEARNING AND DEVL IN HRD",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "372",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28441"
-    }
-  },
-  "691": {
-    "660": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "660",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14983"
-    },
-    "661": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "661",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14984"
-    },
-    "662": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "662",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Larry M. Dooley (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14985"
-    },
-    "663": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "663",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jia Wang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14986"
-    },
-    "664": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "664",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Dominique Chlup (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15229"
-    },
-    "610": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jia Wang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14978"
+      "sections": {
+        "660": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "660",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14983"
+        },
+        "661": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "661",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14984"
+        },
+        "662": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "662",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Larry M. Dooley (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14985"
+        },
+        "663": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "663",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jia Wang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14986"
+        },
+        "664": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "664",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Dominique Chlup (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15229"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jia Wang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14978"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Dominique Chlup (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15228"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Michael M. Beyerlein (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20963"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Homer Tolson (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18948"
+        },
+        "656": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "656",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14979"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Lisa Baumgartner (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14971"
+        },
+        "657": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "657",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Michael M. Beyerlein (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14980"
+        },
+        "658": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "658",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Fredrick Nafukho (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14981"
+        },
+        "604": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14972"
+        },
+        "659": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "659",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mary Alfred (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14982"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Fredrick Nafukho (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14973"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mary Alfred (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14974"
+        },
+        "607": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14975"
+        },
+        "608": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14976"
+        },
+        "609": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Larry M. Dooley (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14977"
+        }
+      }
     },
-    "611": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Dominique Chlup (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15228"
+    "374": {
+      "title": "ORGANIZATIONAL DEVELOPMT",
+      "sections": {
+        "599": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "ORGANIZATIONAL DEVELOPMT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "MacHuma A. Muyia (P)"
+          ],
+          "credits": "3",
+          "course": "374",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "24234"
+        }
+      }
     },
-    "601": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Michael M. Beyerlein (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20963"
+    "210": {
+      "title": "LEGAL & ETHICAL ENVR HRD",
+      "sections": {
+        "597": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "597",
+          "title": "LEGAL & ETHICAL ENVR HRD",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Rhonda M. Fowler (P)"
+          ],
+          "credits": "3",
+          "course": "210",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "26109"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "LEGAL & ETHICAL ENVR HRD",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Mario Torres (P)"
+          ],
+          "credits": "3",
+          "course": "210",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "25108"
+        }
+      }
+    },
+    "651": {
+      "title": "MDLS EPIST & INQY EHRD",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "MDLS EPIST & INQY EHRD",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Beverly Irby (P)"
+          ],
+          "credits": "3",
+          "course": "651",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 569"
+          ],
+          "time": [
+            "05:00 pm-08:00 pm"
+          ],
+          "crn": "13012"
+        },
+        "602": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "MDLS EPIST & INQY EHRD",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jean Madsen (P)"
+          ],
+          "credits": "3",
+          "course": "651",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27692"
+        }
+      }
+    },
+    "630": {
+      "title": "ADULT LEARNING",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 4,
+          "active": "0",
+          "section": "600",
+          "title": "ADULT LEARNING",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Lisa Baumgartner (P)",
+            "Lisa Baumgartner (P)",
+            "Lisa Baumgartner (P)",
+            "Lisa Baumgartner (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "S",
+            "S",
+            "S",
+            "S"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 503",
+            "EDCT 503",
+            "EDCT 503",
+            "EDCT 503"
+          ],
+          "time": [
+            "09:00 am-05:00 pm",
+            "09:00 am-05:00 pm",
+            "09:00 am-05:00 pm",
+            "10:00 am-03:00 pm"
+          ],
+          "crn": "13011"
+        },
+        "699": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "ADULT LEARNING",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Lisa Baumgartner (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "20997"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "ADULT LEARNING",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Lisa Baumgartner (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "20998"
+        }
+      }
+    },
+    "477": {
+      "title": "PROJECT MGMT IN ORG",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PROJECT MGMT IN ORG",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "477",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "21652"
+        },
+        "599": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "PROJECT MGMT IN ORG",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "477",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "21999"
+        }
+      }
+    },
+    "413": {
+      "title": "CONFLICT MGMT & DIALOGUE",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CONFLICT MGMT & DIALOGUE",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Nancy S. Hutchins (P)"
+          ],
+          "credits": "3",
+          "course": "413",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 222"
+          ],
+          "time": [
+            "12:40 pm-03:40 pm"
+          ],
+          "crn": "25448"
+        }
+      }
+    },
+    "315": {
+      "title": "APPLIED HRD IN THE WORKPLACE",
+      "sections": {
+        "597": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "597",
+          "title": "APPLIED HRD IN THE WORKPLACE",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christine L. Mark (P)"
+          ],
+          "credits": "3",
+          "course": "315",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "26111"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "APPLIED HRD IN THE WORKPLACE",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christine L. Mark (P)"
+          ],
+          "credits": "3",
+          "course": "315",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "25110"
+        }
+      }
     },
     "612": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Homer Tolson (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18948"
-    },
-    "656": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "656",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14979"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Lisa Baumgartner (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14971"
-    },
-    "657": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "657",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Michael M. Beyerlein (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14980"
-    },
-    "658": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "658",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Fredrick Nafukho (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14981"
-    },
-    "604": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14972"
-    },
-    "659": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "659",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mary Alfred (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14982"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Fredrick Nafukho (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14973"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mary Alfred (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14974"
-    },
-    "607": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14975"
-    },
-    "608": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14976"
-    },
-    "609": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Larry M. Dooley (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14977"
-    }
-  },
-  "374": {
-    "599": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "ORGANIZATIONAL DEVELOPMT",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "MacHuma A. Muyia (P)"
-      ],
-      "credits": "3",
-      "course": "374",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "24234"
-    }
-  },
-  "210": {
-    "597": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "597",
-      "title": "LEGAL & ETHICAL ENVR HRD",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Rhonda M. Fowler (P)"
-      ],
-      "credits": "3",
-      "course": "210",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "26109"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "LEGAL & ETHICAL ENVR HRD",
-      "remaining": "42",
-      "capacity": "42",
-      "instructor": [
-        "Mario Torres (P)"
-      ],
-      "credits": "3",
-      "course": "210",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "25108"
-    }
-  },
-  "651": {
-    "601": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "MDLS EPIST & INQY EHRD",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Beverly Irby (P)"
-      ],
-      "credits": "3",
-      "course": "651",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 569"
-      ],
-      "time": [
-        "05:00 pm-08:00 pm"
-      ],
-      "crn": "13012"
-    },
-    "602": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "MDLS EPIST & INQY EHRD",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jean Madsen (P)"
-      ],
-      "credits": "3",
-      "course": "651",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27692"
-    }
-  },
-  "630": {
-    "600": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 4,
-      "active": "0",
-      "section": "600",
-      "title": "ADULT LEARNING",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Lisa Baumgartner (P)",
-        "Lisa Baumgartner (P)",
-        "Lisa Baumgartner (P)",
-        "Lisa Baumgartner (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "S",
-        "S",
-        "S",
-        "S"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 503",
-        "EDCT 503",
-        "EDCT 503",
-        "EDCT 503"
-      ],
-      "time": [
-        "09:00 am-05:00 pm",
-        "09:00 am-05:00 pm",
-        "09:00 am-05:00 pm",
-        "10:00 am-03:00 pm"
-      ],
-      "crn": "13011"
-    },
-    "699": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "ADULT LEARNING",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Lisa Baumgartner (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "20997"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "ADULT LEARNING",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Lisa Baumgartner (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "20998"
-    }
-  },
-  "477": {
-    "500": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "PROJECT MGMT IN ORG",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "477",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "21652"
-    },
-    "599": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "PROJECT MGMT IN ORG",
-      "remaining": "49",
-      "capacity": "49",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "477",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "21999"
-    }
-  },
-  "413": {
-    "500": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "CONFLICT MGMT & DIALOGUE",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Nancy S. Hutchins (P)"
-      ],
-      "credits": "3",
-      "course": "413",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 222"
-      ],
-      "time": [
-        "12:40 pm-03:40 pm"
-      ],
-      "crn": "25448"
-    }
-  },
-  "315": {
-    "597": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "597",
-      "title": "APPLIED HRD IN THE WORKPLACE",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Christine L. Mark (P)"
-      ],
-      "credits": "3",
-      "course": "315",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "26111"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "APPLIED HRD IN THE WORKPLACE",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Christine L. Mark (P)"
-      ],
-      "credits": "3",
-      "course": "315",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "25110"
-    }
-  },
-  "612": {
-    "699": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
       "title": "TRAINING & DEV IN HRD",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Larry M. Dooley (P)"
-      ],
-      "credits": "3",
-      "course": "612",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14124"
+      "sections": {
+        "699": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "TRAINING & DEV IN HRD",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Larry M. Dooley (P)"
+          ],
+          "credits": "3",
+          "course": "612",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14124"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "TRAINING & DEV IN HRD",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Larry M. Dooley (P)"
+          ],
+          "credits": "3",
+          "course": "612",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14125"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "TRAINING & DEV IN HRD",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Larry M. Dooley (P)"
-      ],
-      "credits": "3",
-      "course": "612",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14125"
-    }
-  },
-  "613": {
-    "600": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "613": {
       "title": "CAREER DEV IN HRD",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "613",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "05:00 pm-08:00 pm"
-      ],
-      "crn": "16623"
-    }
-  },
-  "636": {
-    "600": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CAREER DEV IN HRD",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "613",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "05:00 pm-08:00 pm"
+          ],
+          "crn": "16623"
+        }
+      }
+    },
+    "636": {
       "title": "WRKG WITH ADULT GROUPS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Connie Woods (P)"
-      ],
-      "credits": "3",
-      "course": "636",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 408"
-      ],
-      "time": [
-        "03:00 pm-06:00 pm"
-      ],
-      "crn": "17202"
-    }
-  },
-  "638": {
-    "700": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "WRKG WITH ADULT GROUPS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Connie Woods (P)"
+          ],
+          "credits": "3",
+          "course": "636",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 408"
+          ],
+          "time": [
+            "03:00 pm-06:00 pm"
+          ],
+          "crn": "17202"
+        }
+      }
+    },
+    "638": {
       "title": "ISSUES ADULT EDUCATION",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "638",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "27693"
-    }
-  },
-  "618": {
-    "699": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
+      "sections": {
+        "700": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "ISSUES ADULT EDUCATION",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "638",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "27693"
+        }
+      }
+    },
+    "618": {
       "title": "EVALUATION MODELS IN HRD",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Khalil M. Dirani (P)"
-      ],
-      "credits": "3",
-      "course": "618",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25362"
+      "sections": {
+        "699": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "EVALUATION MODELS IN HRD",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Khalil M. Dirani (P)"
+          ],
+          "credits": "3",
+          "course": "618",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25362"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "EVALUATION MODELS IN HRD",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Khalil M. Dirani (P)"
+          ],
+          "credits": "3",
+          "course": "618",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25363"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "EVALUATION MODELS IN HRD",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Khalil M. Dirani (P)"
-      ],
-      "credits": "3",
-      "course": "618",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25363"
-    }
-  },
-  "481": {
-    "500": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "481": {
       "title": "CAPSTONE SEMINAR HRD/TCM",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Rhonda M. Fowler (P)"
-      ],
-      "credits": "3",
-      "course": "481",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "05:30 pm-08:30 pm"
-      ],
-      "crn": "13099"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CAPSTONE SEMINAR HRD/TCM",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Rhonda M. Fowler (P)"
+          ],
+          "credits": "3",
+          "course": "481",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "05:30 pm-08:30 pm"
+          ],
+          "crn": "13099"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CAPSTONE SEMINAR HRD/TCM",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Rhonda M. Fowler (P)"
+          ],
+          "credits": "3",
+          "course": "481",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "05:30 pm-08:30 pm"
+          ],
+          "crn": "27694"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "CAPSTONE SEMINAR HRD/TCM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Rhonda M. Fowler (P)"
-      ],
-      "credits": "3",
-      "course": "481",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "05:30 pm-08:30 pm"
-      ],
-      "crn": "27694"
-    }
-  },
-  "681": {
-    "699": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
+    "681": {
       "title": "SEMINAR",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Fredrick Nafukho (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "15516"
+      "sections": {
+        "699": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "SEMINAR",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Fredrick Nafukho (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "15516"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "SEMINAR",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Fredrick Nafukho (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14120"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "SEMINAR",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Fredrick Nafukho (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14120"
-    }
-  },
-  "484": {
-    "700": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
+    "484": {
       "title": "PROFESSIONAL INTERNSHIP",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Khalil M. Dirani (P)"
-      ],
-      "credits": "6",
-      "course": "484",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "26888"
-    }
-  },
-  "485": {
-    "500": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Judy R. Sandlin (P)"
-      ],
-      "credits": "0-12",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20594"
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "PROFESSIONAL INTERNSHIP",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Khalil M. Dirani (P)"
+          ],
+          "credits": "6",
+          "course": "484",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "26888"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Khalil M. Dirani (P)"
-      ],
-      "credits": "0-12",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23425"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Judy R. Sandlin (P)"
+          ],
+          "credits": "0-12",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20594"
+        },
+        "501": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Khalil M. Dirani (P)"
+          ],
+          "credits": "0-12",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23425"
+        },
+        "502": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Christine L. Mark (P)"
+          ],
+          "credits": "0-12",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26699"
+        }
+      }
     },
-    "502": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Christine L. Mark (P)"
-      ],
-      "credits": "0-12",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26699"
-    }
-  },
-  "101": {
-    "500": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "101": {
       "title": "LEARN COMMUN LDSHP DEV",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Judy R. Sandlin (P)"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 569"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "21653"
-    }
-  },
-  "684": {
-    "655": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "655",
-      "title": "PROF INTERNSHIP: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Larry M. Dooley (P)"
-      ],
-      "credits": "1-6",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20802"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "LEARN COMMUN LDSHP DEV",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Judy R. Sandlin (P)"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 569"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "21653"
+        }
+      }
     },
-    "700": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
+    "684": {
       "title": "PROF INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jia Wang (P)"
-      ],
-      "credits": "1-6",
-      "course": "684",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "19956"
-    }
-  },
-  "685": {
-    "601": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jia Wang (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15134"
+      "sections": {
+        "655": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "655",
+          "title": "PROF INTERNSHIP: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Larry M. Dooley (P)"
+          ],
+          "credits": "1-6",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20802"
+        },
+        "700": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "PROF INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jia Wang (P)"
+          ],
+          "credits": "1-6",
+          "course": "684",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "19956"
+        }
+      }
     },
-    "602": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
+    "685": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Fredrick Nafukho (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15234"
+      "sections": {
+        "601": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jia Wang (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15134"
+        },
+        "602": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Fredrick Nafukho (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15234"
+        },
+        "603": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mary Alfred (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16040"
+        },
+        "604": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Larry M. Dooley (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16201"
+        },
+        "606": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Michael M. Beyerlein (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16372"
+        }
+      }
+    },
+    "203": {
+      "title": "FOUNDATIONS HR DEV",
+      "sections": {
+        "598": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "598",
+          "title": "FOUNDATIONS HR DEV",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Katherine L. Yeager (P)"
+          ],
+          "credits": "3",
+          "course": "203",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25120"
+        },
+        "599": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "FOUNDATIONS HR DEV",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "203",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "26108"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "FOUNDATIONS HR DEV",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Katherine L. Yeager (P)"
+          ],
+          "credits": "3",
+          "course": "203",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "25118"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "FOUNDATIONS HR DEV",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Katherine L. Yeager (P)"
+          ],
+          "credits": "3",
+          "course": "203",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 569"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "25119"
+        }
+      }
+    },
+    "643": {
+      "title": "ADULT ED GLOBAL SOC JUST",
+      "sections": {
+        "699": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "ADULT ED GLOBAL SOC JUST",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jill L. Zarestky (P)"
+          ],
+          "credits": "3",
+          "course": "643",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "26706"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "ADULT ED GLOBAL SOC JUST",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Jill L. Zarestky (P)"
+          ],
+          "credits": "3",
+          "course": "643",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "21000"
+        }
+      }
+    },
+    "601": {
+      "title": "FOUNDATIONS OF HRD",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "FOUNDATIONS OF HRD",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Jia Wang (P)"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 503"
+          ],
+          "time": [
+            "05:00 pm-08:00 pm"
+          ],
+          "crn": "13732"
+        }
+      }
+    },
+    "689": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SPTP: CONFLICT MGMT & DIALOG",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Nancy T. Watson (P)"
+          ],
+          "credits": "3",
+          "course": "689",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 569"
+          ],
+          "time": [
+            "09:10 am-12:20 pm"
+          ],
+          "crn": "27944"
+        }
+      }
+    },
+    "624": {
+      "title": "CHANGE THEORY",
+      "sections": {
+        "699": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "CHANGE THEORY",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Matthew G. Upton (P)"
+          ],
+          "credits": "3",
+          "course": "624",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25555"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "CHANGE THEORY",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Matthew G. Upton (P)"
+          ],
+          "credits": "3",
+          "course": "624",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25556"
+        }
+      }
+    },
+    "405": {
+      "title": "LEADERSHIP IN HRD/TCM",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "LEADERSHIP IN HRD/TCM",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "405",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "11128"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "LEADERSHIP IN HRD/TCM",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "405",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 202"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "25647"
+        }
+      }
     },
     "603": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Mary Alfred (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16040"
-    },
-    "604": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Larry M. Dooley (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16201"
-    },
-    "606": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Michael M. Beyerlein (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16372"
-    }
-  },
-  "203": {
-    "598": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "598",
-      "title": "FOUNDATIONS HR DEV",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Katherine L. Yeager (P)"
-      ],
-      "credits": "3",
-      "course": "203",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25120"
-    },
-    "599": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "FOUNDATIONS HR DEV",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "203",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "26108"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "FOUNDATIONS HR DEV",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Katherine L. Yeager (P)"
-      ],
-      "credits": "3",
-      "course": "203",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "25118"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "FOUNDATIONS HR DEV",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Katherine L. Yeager (P)"
-      ],
-      "credits": "3",
-      "course": "203",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 569"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "25119"
-    }
-  },
-  "643": {
-    "699": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "ADULT ED GLOBAL SOC JUST",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jill L. Zarestky (P)"
-      ],
-      "credits": "3",
-      "course": "643",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "26706"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "ADULT ED GLOBAL SOC JUST",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Jill L. Zarestky (P)"
-      ],
-      "credits": "3",
-      "course": "643",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "21000"
-    }
-  },
-  "601": {
-    "600": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "FOUNDATIONS OF HRD",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Jia Wang (P)"
-      ],
-      "credits": "3",
-      "course": "601",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 503"
-      ],
-      "time": [
-        "05:00 pm-08:00 pm"
-      ],
-      "crn": "13732"
-    }
-  },
-  "689": {
-    "600": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SPTP: CONFLICT MGMT & DIALOG",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Nancy T. Watson (P)"
-      ],
-      "credits": "3",
-      "course": "689",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 569"
-      ],
-      "time": [
-        "09:10 am-12:20 pm"
-      ],
-      "crn": "27944"
-    }
-  },
-  "624": {
-    "699": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "CHANGE THEORY",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Matthew G. Upton (P)"
-      ],
-      "credits": "3",
-      "course": "624",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25555"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "CHANGE THEORY",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Matthew G. Upton (P)"
-      ],
-      "credits": "3",
-      "course": "624",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25556"
-    }
-  },
-  "405": {
-    "500": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "LEADERSHIP IN HRD/TCM",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "405",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "11128"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "LEADERSHIP IN HRD/TCM",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "405",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 202"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "25647"
-    }
-  },
-  "603": {
-    "699": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
       "title": "APPLIED THRETL FOUND HRD",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Larry M. Dooley (P)"
-      ],
-      "credits": "3",
-      "course": "603",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14126"
+      "sections": {
+        "699": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "APPLIED THRETL FOUND HRD",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Larry M. Dooley (P)"
+          ],
+          "credits": "3",
+          "course": "603",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14126"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "APPLIED THRETL FOUND HRD",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Larry M. Dooley (P)"
+          ],
+          "credits": "3",
+          "course": "603",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14033"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "APPLIED THRETL FOUND HRD",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Larry M. Dooley (P)"
-      ],
-      "credits": "3",
-      "course": "603",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14033"
-    }
-  },
-  "625": {
-    "699": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
+    "625": {
       "title": "ORG DEV & PERFORM IN HRD",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Michael M. Beyerlein (P)"
-      ],
-      "credits": "3",
-      "course": "625",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14122"
+      "sections": {
+        "699": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "ORG DEV & PERFORM IN HRD",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Michael M. Beyerlein (P)"
+          ],
+          "credits": "3",
+          "course": "625",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14122"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "ORG DEV & PERFORM IN HRD",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Michael M. Beyerlein (P)"
+          ],
+          "credits": "3",
+          "course": "625",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14123"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "ORG DEV & PERFORM IN HRD",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Michael M. Beyerlein (P)"
-      ],
-      "credits": "3",
-      "course": "625",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14123"
-    }
-  },
-  "627": {
-    "699": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
+    "627": {
       "title": "RSCH & DEVEL IN EHRD",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Michael M. Beyerlein (P)"
-      ],
-      "credits": "3",
-      "course": "627",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14121"
+      "sections": {
+        "699": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "RSCH & DEVEL IN EHRD",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Michael M. Beyerlein (P)"
+          ],
+          "credits": "3",
+          "course": "627",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14121"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "RSCH & DEVEL IN EHRD",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Michael M. Beyerlein (P)"
+          ],
+          "credits": "3",
+          "course": "627",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14034"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "RSCH & DEVEL IN EHRD",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Michael M. Beyerlein (P)"
-      ],
-      "credits": "3",
-      "course": "627",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14034"
-    }
-  },
-  "408": {
-    "550": {
-      "select": "C",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "GLOBAL DIV IN WORKPLACE: IN-AB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Judy R. Sandlin (P)"
-      ],
-      "credits": "3",
-      "course": "408",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 306"
-      ],
-      "time": [
-        "05:30 pm-06:30 pm"
-      ],
-      "crn": "20996"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "408": {
       "title": "GLOBAL DIV IN WORKPLACE",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Carolyn L. Sandoval (P)"
-      ],
-      "credits": "3",
-      "course": "408",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "11129"
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "GLOBAL DIV IN WORKPLACE: IN-AB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Judy R. Sandlin (P)"
+          ],
+          "credits": "3",
+          "course": "408",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 306"
+          ],
+          "time": [
+            "05:30 pm-06:30 pm"
+          ],
+          "crn": "20996"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "GLOBAL DIV IN WORKPLACE",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Carolyn L. Sandoval (P)"
+          ],
+          "credits": "3",
+          "course": "408",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "11129"
+        }
+      }
+    },
+    "607": {
+      "title": "INTERNATIONAL HRD",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "EHRD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "INTERNATIONAL HRD",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Jia Wang (P)"
+          ],
+          "credits": "3",
+          "course": "607",
+          "days": [
+            "S"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "09:00 am-05:00 pm"
+          ],
+          "crn": "26899"
+        }
+      }
     }
   },
-  "607": {
-    "600": {
-      "select": "SR",
-      "subject": "EHRD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "INTERNATIONAL HRD",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Jia Wang (P)"
-      ],
-      "credits": "3",
-      "course": "607",
-      "days": [
-        "S"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "09:00 am-05:00 pm"
-      ],
-      "crn": "26899"
-    }
-  }
+  "title": "EHRD - Ed Human Res Develop",
+  "updated": "Thu Apr 07 01:14:57 CDT 2016"
 }

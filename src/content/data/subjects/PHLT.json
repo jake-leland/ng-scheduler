@@ -1,1790 +1,1866 @@
 {
-  "491": {
-    "500": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "491": {
       "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gilbert Ramirez (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28034"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gilbert Ramirez (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28034"
+        },
+        "501": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jennifer M. Griffith (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28035"
+        },
+        "502": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Bernard Appiah (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28036"
+        },
+        "503": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Stephanie A. Kodatt (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28037"
+        },
+        "504": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Szu-Hsuan Lin (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28038"
+        },
+        "505": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jennifer A. Ross (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28039"
+        },
+        "506": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Monica Campos-Bowers (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28040"
+        },
+        "507": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Marjorie A. Clendenin (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28041"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jennifer M. Griffith (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28035"
-    },
-    "502": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Bernard Appiah (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28036"
-    },
-    "503": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Stephanie A. Kodatt (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28037"
-    },
-    "504": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Szu-Hsuan Lin (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28038"
-    },
-    "505": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jennifer A. Ross (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28039"
-    },
-    "506": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Monica Campos-Bowers (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28040"
-    },
-    "507": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Marjorie A. Clendenin (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28041"
-    }
-  },
-  "330": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "330": {
       "title": "ENV & PUBLIC HEALTH",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Jennifer A. Ross (P)"
-      ],
-      "credits": "3",
-      "course": "330",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "12:45 pm-02:20 pm"
-      ],
-      "crn": "24865"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ENV & PUBLIC HEALTH",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Jennifer A. Ross (P)"
+          ],
+          "credits": "3",
+          "course": "330",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "12:45 pm-02:20 pm"
+          ],
+          "crn": "24865"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "ENV & PUBLIC HEALTH",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "330",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 152"
+          ],
+          "time": [
+            "12:45 pm-02:20 pm"
+          ],
+          "crn": "28013"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "ENV & PUBLIC HEALTH",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "330",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 152"
-      ],
-      "time": [
-        "12:45 pm-02:20 pm"
-      ],
-      "crn": "28013"
-    }
-  },
-  "484": {
-    "500": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "484": {
       "title": "PHLT STUDIES FIELD EXPERIENCE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jennifer M. Griffith (P)"
-      ],
-      "credits": "3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28025"
-    }
-  },
-  "331": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PHLT STUDIES FIELD EXPERIENCE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jennifer M. Griffith (P)"
+          ],
+          "credits": "3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28025"
+        }
+      }
+    },
+    "331": {
       "title": "OCC SAFETY & HLTH 1",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Annamarie D. Bokelmann (P)"
-      ],
-      "credits": "3",
-      "course": "331",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "28014"
-    }
-  },
-  "441": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "OCC SAFETY & HLTH 1",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Annamarie D. Bokelmann (P)"
+          ],
+          "credits": "3",
+          "course": "331",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "28014"
+        }
+      }
+    },
+    "441": {
       "title": "STRAT POP HEALTH IMPROVMNT",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Jennifer M. Griffith (P)"
-      ],
-      "credits": "3",
-      "course": "441",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "28020"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "STRAT POP HEALTH IMPROVMNT",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Jennifer M. Griffith (P)"
+          ],
+          "credits": "3",
+          "course": "441",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "28020"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "STRAT POP HEALTH IMPROVMNT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "441",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 153"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "28021"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "STRAT POP HEALTH IMPROVMNT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "441",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 153"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "28021"
-    }
-  },
-  "485": {
-    "500": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gilbert Ramirez (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28026"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gilbert Ramirez (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28026"
+        },
+        "501": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jennifer M. Griffith (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28027"
+        },
+        "502": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Bernard Appiah (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28028"
+        },
+        "503": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Stephanie A. Kodatt (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28029"
+        },
+        "504": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Szu-Hsuan Lin (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28030"
+        },
+        "505": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jennifer A. Ross (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28031"
+        },
+        "506": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Monica Campos-Bowers (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28032"
+        },
+        "507": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Marjorie A. Clendenin (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28033"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jennifer M. Griffith (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28027"
-    },
-    "502": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Bernard Appiah (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28028"
-    },
-    "503": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Stephanie A. Kodatt (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28029"
-    },
-    "504": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Szu-Hsuan Lin (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28030"
-    },
-    "505": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jennifer A. Ross (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28031"
-    },
-    "506": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Monica Campos-Bowers (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28032"
-    },
-    "507": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Marjorie A. Clendenin (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28033"
-    }
-  },
-  "310": {
-    "900": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
+    "310": {
       "title": "PUBLIC HEALTH WRITING",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Marjorie A. Clendenin (P)"
-      ],
-      "credits": "1",
-      "course": "310",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "26033"
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "PUBLIC HEALTH WRITING",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Marjorie A. Clendenin (P)"
+          ],
+          "credits": "1",
+          "course": "310",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "26033"
+        },
+        "901": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "901",
+          "title": "PUBLIC HEALTH WRITING",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "310",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "26034"
+        },
+        "902": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "902",
+          "title": "PUBLIC HEALTH WRITING",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Marjorie A. Clendenin (P)"
+          ],
+          "credits": "1",
+          "course": "310",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "01:50 pm-02:20 pm"
+          ],
+          "crn": "24862"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "903",
+          "title": "PUBLIC HEALTH WRITING",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Monica Campos-Bowers (P)"
+          ],
+          "credits": "1",
+          "course": "310",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 152"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "28006"
+        }
+      }
     },
-    "901": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "901",
-      "title": "PUBLIC HEALTH WRITING",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "310",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "26034"
-    },
-    "902": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "902",
-      "title": "PUBLIC HEALTH WRITING",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Marjorie A. Clendenin (P)"
-      ],
-      "credits": "1",
-      "course": "310",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "01:50 pm-02:20 pm"
-      ],
-      "crn": "24862"
-    },
-    "903": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "903",
-      "title": "PUBLIC HEALTH WRITING",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Monica Campos-Bowers (P)"
-      ],
-      "credits": "1",
-      "course": "310",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 152"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "28006"
-    }
-  },
-  "201": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "201": {
       "title": "ORIENT TO PUBLIC HEALTH",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Jennifer M. Griffith (P)"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "09:35 am-10:35 am"
-      ],
-      "crn": "27995"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ORIENT TO PUBLIC HEALTH",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Jennifer M. Griffith (P)"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "09:35 am-10:35 am"
+          ],
+          "crn": "27995"
+        },
+        "501": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "ORIENT TO PUBLIC HEALTH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "09:35 am-10:35 am"
+          ],
+          "crn": "27996"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "ORIENT TO PUBLIC HEALTH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "09:35 am-10:35 am"
-      ],
-      "crn": "27996"
-    }
-  },
-  "289": {
-    "200": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
-      "title": "SPTP: HNR-BROAD STREET",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Donald J. Curtis Jr. (P)"
-      ],
-      "credits": "2",
-      "course": "289",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "11:10 am-12:10 pm"
-      ],
-      "crn": "28060"
+    "289": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "200": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "SPTP: HNR-BROAD STREET",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Donald J. Curtis Jr. (P)"
+          ],
+          "credits": "2",
+          "course": "289",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "11:10 am-12:10 pm"
+          ],
+          "crn": "28060"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SPTP: ZOMBIE APOCALPYSE",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Ellisa Jones-Mckyer (P)"
+          ],
+          "credits": "3",
+          "course": "289",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "28059"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SPTP: ZOMBIE APOCALPYSE",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Ellisa Jones-Mckyer (P)"
-      ],
-      "credits": "3",
-      "course": "289",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "28059"
-    }
-  },
-  "311": {
-    "900": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
+    "311": {
       "title": "NARRATIVE APPROACH PUBLIC HLTH",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Marjorie A. Clendenin (P)"
-      ],
-      "credits": "1",
-      "course": "311",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "24863"
-    }
-  },
-  "410": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "PUBLIC HEALTH COMM",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Bernard Appiah (P)"
-      ],
-      "credits": "3",
-      "course": "410",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "24866"
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "NARRATIVE APPROACH PUBLIC HLTH",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Marjorie A. Clendenin (P)"
+          ],
+          "credits": "1",
+          "course": "311",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "24863"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "410": {
       "title": "PUBLIC HEALTH COMM",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "410",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 152"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "28015"
-    }
-  },
-  "432": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PUBLIC HEALTH COMM",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Bernard Appiah (P)"
+          ],
+          "credits": "3",
+          "course": "410",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "24866"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "PUBLIC HEALTH COMM",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "410",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 152"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "28015"
+        }
+      }
+    },
+    "432": {
       "title": "HUMAN FCTRS AND ERGO HLTH SFTY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Camille Peres (P)"
-      ],
-      "credits": "3",
-      "course": "432",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "28019"
-    }
-  },
-  "411": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "HUMAN FCTRS AND ERGO HLTH SFTY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Camille Peres (P)"
+          ],
+          "credits": "3",
+          "course": "432",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "28019"
+        }
+      }
+    },
+    "411": {
       "title": "PROJECT MGMT PUBLIC HEALTH",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Stephanie A. Kodatt (P)"
-      ],
-      "credits": "3",
-      "course": "411",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "28016"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PROJECT MGMT PUBLIC HEALTH",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Stephanie A. Kodatt (P)"
+          ],
+          "credits": "3",
+          "course": "411",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "28016"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "PROJECT MGMT PUBLIC HEALTH",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "411",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 152"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "28017"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "PROJECT MGMT PUBLIC HEALTH",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "411",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 152"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "28017"
-    }
-  },
-  "302": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "302": {
       "title": "FOUNDATIONS PUBLIC HEALTH",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Stephanie A. Kodatt (P)"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "02:20 pm-03:25 pm"
-      ],
-      "crn": "24855"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "FOUNDATIONS PUBLIC HEALTH",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Stephanie A. Kodatt (P)"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "02:20 pm-03:25 pm"
+          ],
+          "crn": "24855"
+        },
+        "501": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "FOUNDATIONS PUBLIC HEALTH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "27997"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "FOUNDATIONS PUBLIC HEALTH",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "302",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 152"
+          ],
+          "time": [
+            "02:20 pm-03:25 pm"
+          ],
+          "crn": "27998"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "FOUNDATIONS PUBLIC HEALTH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "27997"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "FOUNDATIONS PUBLIC HEALTH",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "302",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 152"
-      ],
-      "time": [
-        "02:20 pm-03:25 pm"
-      ],
-      "crn": "27998"
-    }
-  },
-  "313": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "313": {
       "title": "HLTH CARE PUBLIC HLTH SYSTEMS",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Szu-Hsuan Lin (P)"
-      ],
-      "credits": "3",
-      "course": "313",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "24864"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "HLTH CARE PUBLIC HLTH SYSTEMS",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Szu-Hsuan Lin (P)"
+          ],
+          "credits": "3",
+          "course": "313",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "24864"
+        },
+        "501": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "HLTH CARE PUBLIC HLTH SYSTEMS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "313",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "02:40 pm-03:35 pm"
+          ],
+          "crn": "28007"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "HLTH CARE PUBLIC HLTH SYSTEMS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "313",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 152"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "28008"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "HLTH CARE PUBLIC HLTH SYSTEMS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "313",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "02:40 pm-03:35 pm"
-      ],
-      "crn": "28007"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "HLTH CARE PUBLIC HLTH SYSTEMS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "313",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 152"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "28008"
-    }
-  },
-  "445": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "445": {
       "title": "APPLICATIONS OF PUBLIC HEALTH",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Jennifer M. Griffith (P)"
-      ],
-      "credits": "3",
-      "course": "445",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "28022"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "APPLICATIONS OF PUBLIC HEALTH",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Jennifer M. Griffith (P)"
+          ],
+          "credits": "3",
+          "course": "445",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "28022"
+        },
+        "501": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "APPLICATIONS OF PUBLIC HEALTH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "445",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "28023"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "APPLICATIONS OF PUBLIC HEALTH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "445",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "28023"
-    }
-  },
-  "489": {
-    "501": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SPTP: HEALTH ENTREPRENEURSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "James Burdine (P)"
-      ],
-      "credits": "3",
-      "course": "489",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 107"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "28061"
+    "489": {
+      "title": "SPECIAL TOPICS IN...",
+      "sections": {
+        "501": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SPTP: HEALTH ENTREPRENEURSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "James Burdine (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 107"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "28061"
+        },
+        "502": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "SPTP:HLTHY AGING & PUBLIC HLTH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Marcia Ory (P)"
+          ],
+          "credits": "1",
+          "course": "489",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm"
+          ],
+          "crn": "28062"
+        }
+      }
     },
-    "502": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "SPTP:HLTHY AGING & PUBLIC HLTH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Marcia Ory (P)"
-      ],
-      "credits": "1",
-      "course": "489",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm"
-      ],
-      "crn": "28062"
-    }
-  },
-  "303": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "303": {
       "title": "SOC DYNAMICS POP HLTH",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Bernard Appiah (P)"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "24856"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SOC DYNAMICS POP HLTH",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Bernard Appiah (P)"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "24856"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SOC DYNAMICS POP HLTH",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 152"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "27999"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SOC DYNAMICS POP HLTH",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 152"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "27999"
-    }
-  },
-  "314": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "314": {
       "title": "PUB HLTH DATA MGT ASSMNT I",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Jennifer A. Ross (P)"
-      ],
-      "credits": "2",
-      "course": "314",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "09:35 am-10:35 am"
-      ],
-      "crn": "28009"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PUB HLTH DATA MGT ASSMNT I",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Jennifer A. Ross (P)"
+          ],
+          "credits": "2",
+          "course": "314",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "09:35 am-10:35 am"
+          ],
+          "crn": "28009"
+        },
+        "501": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "PUB HLTH DATA MGT ASSMNT I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "314",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "28010"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "PUB HLTH DATA MGT ASSMNT I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "314",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 152"
+          ],
+          "time": [
+            "09:35 am-10:35 am"
+          ],
+          "crn": "28011"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "PUB HLTH DATA MGT ASSMNT I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "314",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "28010"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "PUB HLTH DATA MGT ASSMNT I",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "314",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 152"
-      ],
-      "time": [
-        "09:35 am-10:35 am"
-      ],
-      "crn": "28011"
-    }
-  },
-  "304": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "304": {
       "title": "BIO BASIS OF PUBLIC HLTH",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Jennifer A. Ross (P)"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "24861"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BIO BASIS OF PUBLIC HLTH",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Jennifer A. Ross (P)"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "24861"
+        },
+        "501": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "BIO BASIS OF PUBLIC HLTH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "28000"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "BIO BASIS OF PUBLIC HLTH",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 152"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "28001"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "BIO BASIS OF PUBLIC HLTH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "28000"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "BIO BASIS OF PUBLIC HLTH",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 152"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "28001"
-    }
-  },
-  "315": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "315": {
       "title": "PUB HLTH DATA MGT ASSMNT II",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Szu-Hsuan Lin (P)"
-      ],
-      "credits": "2",
-      "course": "315",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "12:45 pm-01:45 pm"
-      ],
-      "crn": "28012"
-    }
-  },
-  "305": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "EPIDEMIOLOGY PUBLIC HEALTH",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Gilbert Ramirez (P)"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "28002"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PUB HLTH DATA MGT ASSMNT II",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Szu-Hsuan Lin (P)"
+          ],
+          "credits": "2",
+          "course": "315",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "12:45 pm-01:45 pm"
+          ],
+          "crn": "28012"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "305": {
       "title": "EPIDEMIOLOGY PUBLIC HEALTH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "REYN 141"
-      ],
-      "time": [
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "28003"
-    }
-  },
-  "416": {
-    "500": {
-      "select": "SR",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "EPIDEMIOLOGY PUBLIC HEALTH",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Gilbert Ramirez (P)"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "28002"
+        },
+        "501": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "EPIDEMIOLOGY PUBLIC HEALTH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "REYN 141"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "28003"
+        }
+      }
+    },
+    "416": {
       "title": "PUB HLTH LEADERSHP & ETHICS",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Stephanie A. Kodatt (P)"
-      ],
-      "credits": "3",
-      "course": "416",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 111"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "28018"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PUB HLTH LEADERSHP & ETHICS",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Stephanie A. Kodatt (P)"
+          ],
+          "credits": "3",
+          "course": "416",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 111"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "28018"
+        }
+      }
+    },
+    "307": {
+      "title": "PUBLIC HLTH IN GLOBAL CONTEXT",
+      "sections": {
+        "598": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "598",
+          "title": "PUBLIC HLTH IN GLOBAL CONTEXT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Bernard Appiah (P)"
+          ],
+          "credits": "3",
+          "course": "307",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28005"
+        },
+        "599": {
+          "select": "C",
+          "subject": "PHLT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "PUBLIC HLTH IN GLOBAL CONTEXT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "307",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28004"
+        }
+      }
     }
   },
-  "307": {
-    "598": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "598",
-      "title": "PUBLIC HLTH IN GLOBAL CONTEXT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Bernard Appiah (P)"
-      ],
-      "credits": "3",
-      "course": "307",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28005"
-    },
-    "599": {
-      "select": "C",
-      "subject": "PHLT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "PUBLIC HLTH IN GLOBAL CONTEXT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "307",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28004"
-    }
-  }
+  "title": "PHLT - Public Health",
+  "updated": "Thu Apr 07 01:23:04 CDT 2016"
 }

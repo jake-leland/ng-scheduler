@@ -1,3465 +1,3655 @@
 {
-  "230": {
-    "501": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "230": {
       "title": "CLASSICAL SOCI THEORY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "James Burk (P)"
-      ],
-      "credits": "3",
-      "course": "230",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 112"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12673"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CLASSICAL SOCI THEORY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "James Burk (P)"
+          ],
+          "credits": "3",
+          "course": "230",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 112"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12673"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CLASSICAL SOCI THEORY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Harland Prechel (P)"
+          ],
+          "credits": "3",
+          "course": "230",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 204"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "12674"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "CLASSICAL SOCI THEORY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Stjepan Mestrovic (P)"
+          ],
+          "credits": "3",
+          "course": "230",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "AIEN M309"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "24385"
+        },
+        "900": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "CLASSICAL SOCI THEORY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Katheryn A. Dietrich (P)"
+          ],
+          "credits": "3",
+          "course": "230",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 308"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "21343"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "CLASSICAL SOCI THEORY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Harland Prechel (P)"
-      ],
-      "credits": "3",
-      "course": "230",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HRBB 204"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "12674"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "CLASSICAL SOCI THEORY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Stjepan Mestrovic (P)"
-      ],
-      "credits": "3",
-      "course": "230",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "AIEN M309"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "24385"
-    },
-    "900": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
-      "title": "CLASSICAL SOCI THEORY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Katheryn A. Dietrich (P)"
-      ],
-      "credits": "3",
-      "course": "230",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 308"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "21343"
-    }
-  },
-  "430": {
-    "501": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "430": {
       "title": "CONTEMP SOC THEORY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "430",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "12681"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CONTEMP SOC THEORY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "430",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "12681"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CONTEMP SOC THEORY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "430",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 308"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "12682"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "CONTEMP SOC THEORY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Katheryn A. Dietrich (P)"
+          ],
+          "credits": "3",
+          "course": "430",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 308"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "24388"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "CONTEMP SOC THEORY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "430",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 308"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "12682"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "CONTEMP SOC THEORY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Katheryn A. Dietrich (P)"
-      ],
-      "credits": "3",
-      "course": "430",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 308"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "24388"
-    }
-  },
-  "310": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "310": {
       "title": "MOTHERHOOD IN SOCIETY",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Joan Wolf (P)"
-      ],
-      "credits": "3",
-      "course": "310",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 463"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "28511"
-    }
-  },
-  "312": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MOTHERHOOD IN SOCIETY",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Joan Wolf (P)"
+          ],
+          "credits": "3",
+          "course": "310",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 463"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "28511"
+        }
+      }
+    },
+    "312": {
       "title": "POPULATION & SOCIETY",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Dudley Poston (P)"
-      ],
-      "credits": "3",
-      "course": "312",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 110"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "19534"
-    }
-  },
-  "313": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "POPULATION & SOCIETY",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Dudley Poston (P)"
+          ],
+          "credits": "3",
+          "course": "312",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 110"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "19534"
+        }
+      }
+    },
+    "313": {
       "title": "MILITARY WAR & SOCIETY",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "James Burk (P)"
-      ],
-      "credits": "3",
-      "course": "313",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "25181"
-    }
-  },
-  "478": {
-    "500": {
-      "select": "C",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MILITARY WAR & SOCIETY",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "James Burk (P)"
+          ],
+          "credits": "3",
+          "course": "313",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "25181"
+        }
+      }
+    },
+    "478": {
       "title": "PROF DVPMT SOCIOLOGY I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "478",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 326"
-      ],
-      "time": [
-        "11:30 am-12:30 pm"
-      ],
-      "crn": "28512"
-    }
-  },
-  "314": {
-    "501": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SOCIAL PROBLEMS",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Alexander Hernandez (P)"
-      ],
-      "credits": "3",
-      "course": "314",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "12676"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PROF DVPMT SOCIOLOGY I",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Katheryn A. Dietrich (P)"
+          ],
+          "credits": "1",
+          "course": "478",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 326"
+          ],
+          "time": [
+            "11:30 am-12:30 pm"
+          ],
+          "crn": "28512"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "314": {
       "title": "SOCIAL PROBLEMS",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Alexander Hernandez (P)"
-      ],
-      "credits": "3",
-      "course": "314",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "21902"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SOCIAL PROBLEMS",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Alexander Hernandez (P)"
+          ],
+          "credits": "3",
+          "course": "314",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "12676"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "SOCIAL PROBLEMS",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Alexander Hernandez (P)"
+          ],
+          "credits": "3",
+          "course": "314",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "21902"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "SOCIAL PROBLEMS",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Nancy Plankey- Videla (P)"
+          ],
+          "credits": "3",
+          "course": "314",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "24894"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "SOCIAL PROBLEMS",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Nancy Plankey- Videla (P)"
-      ],
-      "credits": "3",
-      "course": "314",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "24894"
-    }
-  },
-  "479": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "479": {
       "title": "PROF DVPMT SOCIOLOGY II",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Katheryn A. Dietrich (P), Judith Linneman"
-      ],
-      "credits": "2",
-      "course": "479",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "19826"
-    }
-  },
-  "316": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PROF DVPMT SOCIOLOGY II",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Katheryn A. Dietrich (P), Judith Linneman"
+          ],
+          "credits": "2",
+          "course": "479",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "19826"
+        }
+      }
+    },
+    "316": {
       "title": "SOCIOLOGY OF GENDER",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Chaitanya Lakkimsetti (P)"
-      ],
-      "credits": "3",
-      "course": "316",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 308"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "27491"
-    }
-  },
-  "635": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SOCIOLOGY OF GENDER",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Chaitanya Lakkimsetti (P)"
+          ],
+          "credits": "3",
+          "course": "316",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 308"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "27491"
+        }
+      }
+    },
+    "635": {
       "title": "SOC OF COMPLEX ORG",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Theresa M. Morris (P)"
-      ],
-      "credits": "3",
-      "course": "635",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "09:00 am-12:00 pm"
-      ],
-      "crn": "24393"
-    }
-  },
-  "317": {
-    "501": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "RACIAL AND ETHNIC RELATS",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "Wendy Moore (P)"
-      ],
-      "credits": "3",
-      "course": "317",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "12677"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SOC OF COMPLEX ORG",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Theresa M. Morris (P)"
+          ],
+          "credits": "3",
+          "course": "635",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "09:00 am-12:00 pm"
+          ],
+          "crn": "24393"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "317": {
       "title": "RACIAL AND ETHNIC RELATS",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "Arthur Sakamoto (P)"
-      ],
-      "credits": "3",
-      "course": "317",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 110"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "12678"
-    }
-  },
-  "319": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "RACIAL AND ETHNIC RELATS",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "Wendy Moore (P)"
+          ],
+          "credits": "3",
+          "course": "317",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "12677"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "RACIAL AND ETHNIC RELATS",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "Arthur Sakamoto (P)"
+          ],
+          "credits": "3",
+          "course": "317",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 110"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "12678"
+        }
+      }
+    },
+    "319": {
       "title": "SOC OF SPORT",
-      "remaining": "70",
-      "capacity": "70",
-      "instructor": [
-        "Reuben May (P)"
-      ],
-      "credits": "3",
-      "course": "319",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12680"
-    }
-  },
-  "285": {
-    "500": {
-      "select": "C",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SOC OF SPORT",
+          "remaining": "70",
+          "capacity": "70",
+          "instructor": [
+            "Reuben May (P)"
+          ],
+          "credits": "3",
+          "course": "319",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12680"
+        }
+      }
+    },
+    "285": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "285",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "03:00 pm-04:00 pm"
-      ],
-      "crn": "28509"
-    }
-  },
-  "681": {
-    "601": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-3",
+          "course": "285",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "03:00 pm-04:00 pm"
+          ],
+          "crn": "28509"
+        }
+      }
+    },
+    "681": {
       "title": "SEMINAR IN SOCIOLOGY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Judith Linneman (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "08:00 am-09:00 am"
-      ],
-      "crn": "19535"
+      "sections": {
+        "602": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "SEM IN SOCI:NEW STUDENTS",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Wendy Moore (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 326"
+          ],
+          "time": [
+            "12:30 pm-01:30 pm"
+          ],
+          "crn": "12686"
+        },
+        "603": {
+          "select": "C",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "SEMINAR IN SOCIOLOGY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19536"
+        }
+      }
     },
-    "602": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "SEM IN SOCI:NEW STUDENTS",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Wendy Moore (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 326"
-      ],
-      "time": [
-        "12:30 pm-01:30 pm"
-      ],
-      "crn": "12686"
-    },
-    "603": {
-      "select": "C",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "SEMINAR IN SOCIOLOGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19536"
-    }
-  },
-  "484": {
-    "535": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "535",
+    "484": {
       "title": "FIELD EXPERIENCES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Katheryn A. Dietrich (P)"
-      ],
-      "credits": "0-4",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15123"
+      "sections": {
+        "535": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "535",
+          "title": "FIELD EXPERIENCES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Katheryn A. Dietrich (P)"
+          ],
+          "credits": "0-4",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15123"
+        },
+        "900": {
+          "select": "C",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "FIELD EXPERIENCES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Katheryn A. Dietrich (P)"
+          ],
+          "credits": "0-4",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19827"
+        }
+      }
     },
-    "900": {
-      "select": "C",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
-      "title": "FIELD EXPERIENCES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Katheryn A. Dietrich (P)"
-      ],
-      "credits": "0-4",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19827"
-    }
-  },
-  "323": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "682": {
+      "title": "GRANT WRITING SOCIAL SCIENCES",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "GRANT WRITING SOCIAL SCIENCES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Daniel Howard (P)"
+          ],
+          "credits": "3",
+          "course": "682",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:00 pm-05:00 pm"
+          ],
+          "crn": "28684"
+        }
+      }
+    },
+    "485": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Judith Linneman (P)"
+          ],
+          "credits": "0",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "08:00 am-09:00 am"
+          ],
+          "crn": "28681"
+        }
+      }
+    },
+    "323": {
       "title": "SOCI OF AFRICAN AMERCNS",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Reuben May (P)"
-      ],
-      "credits": "3",
-      "course": "323",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "13872"
-    }
-  },
-  "203": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SOCI OF AFRICAN AMERCNS",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Reuben May (P)"
+          ],
+          "credits": "3",
+          "course": "323",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "13872"
+        }
+      }
+    },
+    "203": {
       "title": "U.S. MEXICO BORDER",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Patrick A. Goldsmith (P)"
-      ],
-      "credits": "3",
-      "course": "203",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "24891"
-    }
-  },
-  "489": {
-    "501": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SPTP:RACE, ETHNICITY & JUSTICE",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Eason M. John (P)"
-      ],
-      "credits": "3",
-      "course": "489",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HRBB 131"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "28506"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "U.S. MEXICO BORDER",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Patrick A. Goldsmith (P)"
+          ],
+          "credits": "3",
+          "course": "203",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "24891"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "SPTP: ENTREPRENEURIAL PERSPCTV",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Patricia H. Thornton (P)"
-      ],
-      "credits": "3",
-      "course": "489",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 103"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "28566"
+    "489": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SPTP:RACE, ETHNICITY & JUSTICE",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Eason M. John (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 131"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "28506"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "SPTP: ENTREPRENEURIAL PERSPCTV (Syllabus)",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Patricia H. Thornton (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 103"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "28566"
+        },
+        "900": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "SPTP:IMAGES OF WOMEN",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Mary Henderson (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 308"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "28604"
+        }
+      }
     },
-    "900": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
-      "title": "SPTP:IMAGES OF WOMEN",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Mary Henderson (P)"
-      ],
-      "credits": "3",
-      "course": "489",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 308"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "28604"
-    }
-  },
-  "205": {
-    "510": {
-      "select": "NR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
-      "title": "FOCUS: INTRO TO SOCIOLOGY",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HRBB 126"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12667"
-    },
-    "511": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "511",
+    "205": {
       "title": "INTRO TO SOCIOLOGY",
-      "remaining": "120",
-      "capacity": "120",
-      "instructor": [
-        "Samuel R. Cohn (P)"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "26151"
+      "sections": {
+        "510": {
+          "select": "NR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "FOCUS: INTRO TO SOCIOLOGY",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 126"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12667"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "511",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "105",
+          "capacity": "105",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "26151"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "145",
+          "capacity": "145",
+          "instructor": [
+            "Timothy S. Woods (P)"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 110"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "13867"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Wendy Moore (P)"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "05:45 pm-07:00 pm"
+          ],
+          "crn": "27486"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Timothy S. Woods (P)"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 110"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "12660"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "145",
+          "capacity": "145",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 110"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12661"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "145",
+          "capacity": "145",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 110"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12662"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "145",
+          "capacity": "145",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 110"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "12663"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "26",
+          "capacity": "26",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 110"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12664"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "105",
+          "capacity": "105",
+          "instructor": [
+            "Samuel R. Cohn (P)"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "13868"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "145",
+          "capacity": "145",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 110"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "12665"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "INTRO TO SOCIOLOGY",
+          "remaining": "145",
+          "capacity": "145",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 110"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "12666"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "INTRO TO SOCIOLOGY",
-      "remaining": "145",
-      "capacity": "145",
-      "instructor": [
-        "Timothy S. Woods (P)"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 110"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "13867"
-    },
-    "512": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "INTRO TO SOCIOLOGY",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Wendy Moore (P)"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "05:45 pm-07:00 pm"
-      ],
-      "crn": "27486"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "INTRO TO SOCIOLOGY",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Timothy S. Woods (P)"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 110"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "12660"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "INTRO TO SOCIOLOGY",
-      "remaining": "145",
-      "capacity": "145",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 110"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12661"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "INTRO TO SOCIOLOGY",
-      "remaining": "145",
-      "capacity": "145",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 110"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12662"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "INTRO TO SOCIOLOGY",
-      "remaining": "145",
-      "capacity": "145",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 110"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "12663"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "INTRO TO SOCIOLOGY",
-      "remaining": "26",
-      "capacity": "26",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 110"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12664"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "INTRO TO SOCIOLOGY",
-      "remaining": "145",
-      "capacity": "145",
-      "instructor": [
-        "Samuel R. Cohn (P)"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "13868"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "INTRO TO SOCIOLOGY",
-      "remaining": "145",
-      "capacity": "145",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 110"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "12665"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "INTRO TO SOCIOLOGY",
-      "remaining": "145",
-      "capacity": "145",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 110"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "12666"
-    }
-  },
-  "326": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "326": {
       "title": "SOCIOLOGY OF RELIGION",
-      "remaining": "240",
-      "capacity": "240",
-      "instructor": [
-        "Robert Mackin (P)"
-      ],
-      "credits": "3",
-      "course": "326",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 108"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "27492"
-    }
-  },
-  "206": {
-    "200": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SOCIOLOGY OF RELIGION",
+          "remaining": "240",
+          "capacity": "240",
+          "instructor": [
+            "Robert Mackin (P)"
+          ],
+          "credits": "3",
+          "course": "326",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 108"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "27492"
+        }
+      }
+    },
+    "206": {
       "title": "GLOBAL SOCIAL TRENDS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Samuel R. Cohn (P)"
-      ],
-      "credits": "3",
-      "course": "206",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FRAN 201"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "27487"
-    }
-  },
-  "207": {
-    "502": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "INTRO GENDER & SOCIETY",
-      "remaining": "80",
-      "capacity": "80",
-      "instructor": [
-        "Theresa M. Morris (P)"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12669"
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "GLOBAL SOCIAL TRENDS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Samuel R. Cohn (P)"
+          ],
+          "credits": "3",
+          "course": "206",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FRAN 201"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "27487"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
+    "207": {
       "title": "INTRO GENDER & SOCIETY",
-      "remaining": "80",
-      "capacity": "80",
-      "instructor": [
-        "Chaitanya Lakkimsetti (P)"
-      ],
-      "credits": "3",
-      "course": "207",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "13282"
-    }
-  },
-  "647": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SEM DEMOG: SEXUALITY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Dudley Poston (P)"
-      ],
-      "credits": "3",
-      "course": "647",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "03:00 pm-06:00 pm"
-      ],
-      "crn": "20533"
-    }
-  },
-  "208": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "502": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTRO GENDER & SOCIETY",
+          "remaining": "80",
+          "capacity": "80",
+          "instructor": [
+            "Theresa M. Morris (P)"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12669"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "INTRO GENDER & SOCIETY",
+          "remaining": "80",
+          "capacity": "80",
+          "instructor": [
+            "Chaitanya Lakkimsetti (P)"
+          ],
+          "credits": "3",
+          "course": "207",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "13282"
+        }
+      }
+    },
+    "647": {
+      "title": "SEM DEMOG & HUMAN ECOL",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEM DEMOG: SEXUALITY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Dudley Poston (P)"
+          ],
+          "credits": "3",
+          "course": "647",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "03:00 pm-06:00 pm"
+          ],
+          "crn": "20533"
+        }
+      }
+    },
+    "208": {
       "title": "INTRO TO AGING AND SOCIETY",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Timothy S. Woods (P)"
-      ],
-      "credits": "3",
-      "course": "208",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "28505"
-    }
-  },
-  "604": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "COMP HIST METH: SOCI OF LATINO",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Edward Murguia (P)"
-      ],
-      "credits": "3",
-      "course": "604",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "09:00 am-12:00 pm"
-      ],
-      "crn": "27498"
-    }
-  },
-  "408": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "DEATH AND DYING",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Alexander Hernandez (P)"
-      ],
-      "credits": "3",
-      "course": "408",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "28508"
-    }
-  },
-  "691": {
-    "650": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Dudley Poston (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20490"
-    },
-    "651": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Stjepan Mestrovic (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25892"
-    },
-    "630": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "630",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Wendy Moore (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15608"
-    },
-    "652": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "652",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Edward Murguia (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18717"
-    },
-    "610": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mark Fossett (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14939"
-    },
-    "654": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Jane Sell (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23341"
-    },
-    "676": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "676",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Sarah Gatson (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18705"
-    },
-    "611": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Verna Keith (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15146"
-    },
-    "612": {
-      "select": "C",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15941"
-    },
-    "613": {
-      "select": "C",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20223"
-    },
-    "636": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "636",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Mary Henderson (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20702"
-    },
-    "615": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Sarah Gatson (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15476"
-    },
-    "617": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "617",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Reuben May (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15147"
-    },
-    "618": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "618",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "William McIntosh (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15113"
-    },
-    "619": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "619",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Stjepan Mestrovic (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15148"
-    },
-    "680": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "680",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "William McIntosh (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18719"
-    },
-    "661": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "661",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mark Fossett (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18442"
-    },
-    "640": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Dudley Poston (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15112"
-    },
-    "662": {
-      "select": "C",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "662",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20164"
-    },
-    "663": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "663",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Harland Prechel (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23127"
-    },
-    "620": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "620",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Edward Murguia (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18202"
-    },
-    "642": {
-      "select": "C",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "642",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17735"
-    },
-    "664": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "664",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Verna Keith (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23524"
-    },
-    "686": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "686",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Wendy Moore (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18743"
-    },
-    "621": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Harland Prechel (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17736"
-    },
-    "624": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Theresa M. Morris (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25972"
-    },
-    "603": {
-      "select": "C",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15748"
-    },
-    "625": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "625",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jane Sell (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14940"
-    },
-    "669": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "669",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Joe Feagin (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20958"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTRO TO AGING AND SOCIETY",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Timothy S. Woods (P)"
+          ],
+          "credits": "3",
+          "course": "208",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "28505"
+        }
+      }
     },
     "604": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Joseph Jewell (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19939"
+      "title": "COMPT HISTORICAL METHODS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "COMP HIST METH: SOCI OF LATINO",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Edward Murguia (P)"
+          ],
+          "credits": "3",
+          "course": "604",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "09:00 am-12:00 pm"
+          ],
+          "crn": "27498"
+        }
+      }
     },
-    "605": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "James Burk (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17734"
+    "408": {
+      "title": "DEATH AND DYING",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DEATH AND DYING",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Alexander Hernandez (P)"
+          ],
+          "credits": "3",
+          "course": "408",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "28508"
+        }
+      }
     },
-    "607": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Joe Feagin (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15145"
+      "sections": {
+        "650": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Dudley Poston (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20490"
+        },
+        "651": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Stjepan Mestrovic (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25892"
+        },
+        "630": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "630",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Wendy Moore (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15608"
+        },
+        "652": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "652",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Edward Murguia (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18717"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mark Fossett (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14939"
+        },
+        "654": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Jane Sell (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23341"
+        },
+        "676": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "676",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Sarah Gatson (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18705"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Verna Keith (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15146"
+        },
+        "612": {
+          "select": "C",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15941"
+        },
+        "613": {
+          "select": "C",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20223"
+        },
+        "636": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "636",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Mary Henderson (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20702"
+        },
+        "615": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Sarah Gatson (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15476"
+        },
+        "617": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "617",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Reuben May (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15147"
+        },
+        "618": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "618",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "William McIntosh (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15113"
+        },
+        "619": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "619",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Stjepan Mestrovic (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15148"
+        },
+        "680": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "680",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "William McIntosh (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18719"
+        },
+        "661": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "661",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mark Fossett (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18442"
+        },
+        "640": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Dudley Poston (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15112"
+        },
+        "662": {
+          "select": "C",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "662",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20164"
+        },
+        "663": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "663",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Harland Prechel (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23127"
+        },
+        "620": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "620",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Edward Murguia (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18202"
+        },
+        "642": {
+          "select": "C",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "642",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17735"
+        },
+        "664": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "664",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Verna Keith (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23524"
+        },
+        "686": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "686",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Wendy Moore (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18743"
+        },
+        "621": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Harland Prechel (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17736"
+        },
+        "624": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Theresa M. Morris (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25972"
+        },
+        "603": {
+          "select": "C",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15748"
+        },
+        "625": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "625",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jane Sell (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14940"
+        },
+        "669": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "669",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Joe Feagin (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20958"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Joseph Jewell (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19939"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "James Burk (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17734"
+        },
+        "607": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Joe Feagin (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15145"
+        },
+        "629": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "629",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Nancy Plankey- Videla (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17885"
+        }
+      }
     },
-    "629": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "629",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Nancy Plankey- Videla (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17885"
-    }
-  },
-  "210": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "210": {
       "title": "SOCI OF TECH & SCIENCE",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Sarah Gatson (P)"
-      ],
-      "credits": "3",
-      "course": "210",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "27488"
-    }
-  },
-  "211": {
-    "501": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SOCIOLOGY OF DEVIANCE",
-      "remaining": "105",
-      "capacity": "105",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "12670"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SOCI OF TECH & SCIENCE",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Sarah Gatson (P)"
+          ],
+          "credits": "3",
+          "course": "210",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "27488"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "211": {
       "title": "SOCIOLOGY OF DEVIANCE",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Heili Pals (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "27489"
-    }
-  },
-  "212": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SOCIOLOGY OF DEVIANCE",
+          "remaining": "105",
+          "capacity": "105",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "12670"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "SOCIOLOGY OF DEVIANCE",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Heili Pals (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "27489"
+        }
+      }
+    },
+    "212": {
       "title": "SOCIOLOGY OF POPULAR CULTURE",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Sarah Gatson (P)"
-      ],
-      "credits": "3",
-      "course": "212",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "27490"
-    }
-  },
-  "412": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SOCIOLOGY OF POPULAR CULTURE",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Sarah Gatson (P)"
+          ],
+          "credits": "3",
+          "course": "212",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "27490"
+        }
+      }
+    },
+    "412": {
       "title": "POLITICAL SOCIOLOGY",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Robert Mackin (P)"
-      ],
-      "credits": "3",
-      "course": "412",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "27494"
-    }
-  },
-  "611": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "POLITICAL SOCIOLOGY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Robert Mackin (P)"
+          ],
+          "credits": "3",
+          "course": "412",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "27494"
+        }
+      }
+    },
+    "611": {
       "title": "CLASSICAL SOC THEORY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Harland Prechel (P)"
-      ],
-      "credits": "3",
-      "course": "611",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "09:00 am-12:00 pm"
-      ],
-      "crn": "12683"
-    }
-  },
-  "217": {
-    "501": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "INTRO TO RACE & ETHNICITY",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "217",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 204"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "24383"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLASSICAL SOC THEORY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Harland Prechel (P)"
+          ],
+          "credits": "3",
+          "course": "611",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "09:00 am-12:00 pm"
+          ],
+          "crn": "12683"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "217": {
       "title": "INTRO TO RACE & ETHNICITY",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Mary E. Campbell (P)"
-      ],
-      "credits": "3",
-      "course": "217",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 102"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "24384"
-    }
-  },
-  "338": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTRO TO RACE & ETHNICITY",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "217",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 204"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "24383"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTRO TO RACE & ETHNICITY",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Mary E. Campbell (P)"
+          ],
+          "credits": "3",
+          "course": "217",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 102"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "24384"
+        }
+      }
+    },
+    "338": {
       "title": "LATINO IMMIGRATION",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Nancy Plankey- Videla (P)"
-      ],
-      "credits": "3",
-      "course": "338",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "AIEN M113"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "28507"
-    }
-  },
-  "415": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "LATINO IMMIGRATION",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Nancy Plankey- Videla (P)"
+          ],
+          "credits": "3",
+          "course": "338",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "AIEN M113"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "28507"
+        }
+      }
+    },
+    "415": {
       "title": "SOCIOLOGY OF EDUCATION",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Edward Murguia (P)"
-      ],
-      "credits": "3",
-      "course": "415",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "21344"
-    }
-  },
-  "657": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SEM IN CULTURE:RELIGION",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Stjepan Mestrovic (P)"
-      ],
-      "credits": "3",
-      "course": "657",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "06:00 pm-09:00 pm"
-      ],
-      "crn": "24394"
-    }
-  },
-  "617": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SOCIOLOGY OF EDUCATION",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Edward Murguia (P)"
+          ],
+          "credits": "3",
+          "course": "415",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "21344"
+        }
+      }
+    },
+    "657": {
+      "title": "SEM IN CULTURE",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEM IN CULTURE:RELIGION",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Stjepan Mestrovic (P)"
+          ],
+          "credits": "3",
+          "course": "657",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "06:00 pm-09:00 pm"
+          ],
+          "crn": "24394"
+        }
+      }
+    },
+    "617": {
       "title": "COMP RACIAL-ETHNIC RLTNS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Joseph Jewell (P)"
-      ],
-      "credits": "3",
-      "course": "617",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "02:00 pm-05:00 pm"
-      ],
-      "crn": "27499"
-    }
-  },
-  "618": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SOCIOLOGY OF EDUCATION (Syllabus)",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Patrick A. Goldsmith (P)"
-      ],
-      "credits": "3",
-      "course": "618",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "09:00 am-12:00 pm"
-      ],
-      "crn": "27503"
-    }
-  },
-  "220": {
-    "501": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "METH OF SOC RESEARCH",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Judith Linneman (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "220",
-      "days": [
-        "MWF",
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 308",
-        "ACAD 308"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12671"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "COMP RACIAL-ETHNIC RLTNS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Joseph Jewell (P)"
+          ],
+          "credits": "3",
+          "course": "617",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "02:00 pm-05:00 pm"
+          ],
+          "crn": "27499"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "METH OF SOC RESEARCH",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Judith Linneman (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "220",
-      "days": [
-        "MWF",
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 308",
-        "ACAD 308"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "10:20 am-11:10 am"
-      ],
-      "crn": "12672"
+    "618": {
+      "title": "SOCIOLOGY OF EDUCATION",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SOCIOLOGY OF EDUCATION (Syllabus)",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Patrick A. Goldsmith (P)"
+          ],
+          "credits": "3",
+          "course": "618",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "09:00 am-12:00 pm"
+          ],
+          "crn": "27503"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
+    "220": {
       "title": "METH OF SOC RESEARCH",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Warren P. Waren (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "220",
-      "days": [
-        "MWF",
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201",
-        "HECC 201"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "16940"
-    }
-  },
-  "463": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "METH OF SOC RESEARCH",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Judith Linneman (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "220",
+          "days": [
+            "MWF",
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 308",
+            "ACAD 308"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12671"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "METH OF SOC RESEARCH",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Judith Linneman (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "220",
+          "days": [
+            "MWF",
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 308",
+            "ACAD 308"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "10:20 am-11:10 am"
+          ],
+          "crn": "12672"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "METH OF SOC RESEARCH",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Warren P. Waren (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "220",
+          "days": [
+            "MWF",
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201",
+            "HECC 201"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "16940"
+        }
+      }
+    },
+    "463": {
       "title": "GENDER IN ASIA",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Kazuko Suzuki (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCTS 215"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "27496"
-    }
-  },
-  "661": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "GENDER IN ASIA",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Kazuko Suzuki (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCTS 215"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "27496"
+        }
+      }
+    },
+    "661": {
       "title": "SOCIOLOGY OF GENDER",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Kazuko Suzuki (P)"
-      ],
-      "credits": "3",
-      "course": "661",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "06:00 pm-09:00 pm"
-      ],
-      "crn": "27505"
-    }
-  },
-  "420": {
-    "901": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "901",
-      "title": "ADV METH SOC RESEARCH",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Warren P. Waren (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "420",
-      "days": [
-        "MWF",
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201",
-        "TBA"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "14247"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SOCIOLOGY OF GENDER",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Kazuko Suzuki (P)"
+          ],
+          "credits": "3",
+          "course": "661",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 308"
+          ],
+          "time": [
+            "04:00 pm-07:00 pm"
+          ],
+          "crn": "27505"
+        }
+      }
     },
-    "902": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "902",
+    "420": {
       "title": "ADV METH SOC RESEARCH",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Warren P. Waren (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "420",
-      "days": [
-        "MWF",
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201",
-        "TBA"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "14248"
+      "sections": {
+        "901": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "901",
+          "title": "ADV METH SOC RESEARCH",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Warren P. Waren (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "420",
+          "days": [
+            "MWF",
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201",
+            "TBA"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "14247"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "902",
+          "title": "ADV METH SOC RESEARCH",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Warren P. Waren (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "420",
+          "days": [
+            "MWF",
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201",
+            "TBA"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "14248"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "903",
+          "title": "ADV METH SOC RESEARCH",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "420",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201",
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "08:00 am-09:15 am"
+          ],
+          "crn": "16942"
+        },
+        "904": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "904",
+          "title": "ADV METH SOC RESEARCH",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Arthur Sakamoto (P)"
+          ],
+          "credits": "3",
+          "course": "420",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "27495"
+        }
+      }
     },
-    "903": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "903",
-      "title": "ADV METH SOC RESEARCH",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "420",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201",
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "08:00 am-09:15 am"
-      ],
-      "crn": "16942"
-    },
-    "904": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "904",
-      "title": "ADV METH SOC RESEARCH",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Arthur Sakamoto (P)"
-      ],
-      "credits": "3",
-      "course": "420",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "27495"
-    }
-  },
-  "621": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "621": {
       "title": "SOCIAL PSYCHOLOGY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Heili Pals (P)"
-      ],
-      "credits": "3",
-      "course": "621",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 326"
-      ],
-      "time": [
-        "09:00 am-12:00 pm"
-      ],
-      "crn": "24390"
-    }
-  },
-  "304": {
-    "501": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "CRIMINOLOGY",
-      "remaining": "140",
-      "capacity": "140",
-      "instructor": [
-        "Eason M. John (P)"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCTS 208"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "12675"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SOCIAL PSYCHOLOGY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Heili Pals (P)"
+          ],
+          "credits": "3",
+          "course": "621",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 326"
+          ],
+          "time": [
+            "09:00 am-12:00 pm"
+          ],
+          "crn": "24390"
+        }
+      }
     },
-    "502": {
-      "select": "C",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "304": {
       "title": "CRIMINOLOGY",
-      "remaining": "TBA",
-      "capacity": "0",
-      "instructor": [
-        "08/29-12/14"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "TBA"
-      ],
-      "date (mm/dd)": [
-        "TBA"
-      ],
-      "location": [
-        "080 and 081 and Core Social & Beh Sci (KSOC) and Univ Req-Soc & Beh Sci (USSC)"
-      ],
-      "time": [
-        "0"
-      ],
-      "crn": "28568"
-    }
-  },
-  "425": {
-    "500": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "CRIMINOLOGY",
+          "remaining": "140",
+          "capacity": "140",
+          "instructor": [
+            "Eason M. John (P)"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCTS 208"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "12675"
+        },
+        "502": {
+          "select": "C",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CRIMINOLOGY",
+          "remaining": "TBA",
+          "capacity": "0",
+          "instructor": [
+            "08/29-12/14"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "TBA"
+          ],
+          "date (mm/dd)": [
+            "TBA"
+          ],
+          "location": [
+            "080 and 081 and Core Social & Beh Sci (KSOC) and Univ Req-Soc & Beh Sci (USSC)"
+          ],
+          "time": [
+            "0"
+          ],
+          "crn": "28568"
+        }
+      }
+    },
+    "425": {
       "title": "MEDICAL SOCIOLOGY",
-      "remaining": "70",
-      "capacity": "70",
-      "instructor": [
-        "Verna Keith (P)"
-      ],
-      "credits": "3",
-      "course": "425",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HFSB 104"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "24387"
-    }
-  },
-  "623": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "MEAS OF SOC PARAMETERS",
-      "remaining": "21",
-      "capacity": "21",
-      "instructor": [
-        "William McIntosh (P)"
-      ],
-      "credits": "3",
-      "course": "623",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "02:00 pm-05:00 pm"
-      ],
-      "crn": "12684"
-    }
-  },
-  "667": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SEM RACE:RCSM, PLTCS, P.POLICY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Joe Feagin (P)"
-      ],
-      "credits": "3",
-      "course": "667",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 326"
-      ],
-      "time": [
-        "02:00 pm-05:00 pm"
-      ],
-      "crn": "27506"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MEDICAL SOCIOLOGY",
+          "remaining": "70",
+          "capacity": "70",
+          "instructor": [
+            "Verna Keith (P)"
+          ],
+          "credits": "3",
+          "course": "425",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HFSB 104"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "24387"
+        }
+      }
     },
-    "602": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "SEM RACE: RACIAL IDNTY&IDNTFCT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Mary E. Campbell (P)"
-      ],
-      "credits": "3",
-      "course": "667",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "02:00 pm-05:00 pm"
-      ],
-      "crn": "28510"
-    }
-  },
-  "624": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "623": {
+      "title": "MEAS OF SOC PARAMETERS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "MEAS OF SOC PARAMETERS",
+          "remaining": "21",
+          "capacity": "21",
+          "instructor": [
+            "William McIntosh (P)"
+          ],
+          "credits": "3",
+          "course": "623",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "02:00 pm-05:00 pm"
+          ],
+          "crn": "12684"
+        }
+      }
+    },
+    "667": {
+      "title": "SEM RACE & ETHNIC RELS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEM RACE:RCSM, PLTCS, P.POLICY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Joe Feagin (P)"
+          ],
+          "credits": "3",
+          "course": "667",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 326"
+          ],
+          "time": [
+            "02:00 pm-05:00 pm"
+          ],
+          "crn": "27506"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "SEM RACE: RACIAL IDNTY&IDNTFCT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Mary E. Campbell (P)"
+          ],
+          "credits": "3",
+          "course": "667",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "02:00 pm-05:00 pm"
+          ],
+          "crn": "28510"
+        }
+      }
+    },
+    "624": {
       "title": "QUALITATIVE METHOD",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Mary Henderson (P)"
-      ],
-      "credits": "3",
-      "course": "624",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "05:00 pm-08:00 pm"
-      ],
-      "crn": "12685"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "QUALITATIVE METHOD",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Mary Henderson (P)"
+          ],
+          "credits": "3",
+          "course": "624",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "05:00 pm-08:00 pm"
+          ],
+          "crn": "12685"
+        }
+      }
+    },
+    "627": {
+      "title": "SEM LAW DEV & SOC CONT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEM LAW DEV: CRIME & LIFE CRSE",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Holly Foster (P)"
+          ],
+          "credits": "3",
+          "course": "627",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 307"
+          ],
+          "time": [
+            "06:00 pm-09:00 pm"
+          ],
+          "crn": "27504"
+        }
+      }
     }
   },
-  "627": {
-    "600": {
-      "select": "SR",
-      "subject": "SOCI",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SEM LAW DEV: CRIME & LIFE CRSE",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Holly Foster (P)"
-      ],
-      "credits": "3",
-      "course": "627",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 307"
-      ],
-      "time": [
-        "06:00 pm-09:00 pm"
-      ],
-      "crn": "27504"
-    }
-  }
+  "title": "SOCI - Sociology",
+  "updated": "Thu Apr 07 01:25:26 CDT 2016"
 }

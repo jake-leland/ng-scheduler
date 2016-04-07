@@ -1,1240 +1,1298 @@
 {
-  "281": {
-    "599": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
+  "courses": {
+    "281": {
       "title": "JOURNALISM CNCPTS IN AG",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Holli R. Leggette (P)"
-      ],
-      "credits": "3",
-      "course": "281",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25190"
+      "sections": {
+        "599": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "JOURNALISM CNCPTS IN AG",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Holli R. Leggette (P)"
+          ],
+          "credits": "3",
+          "course": "281",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25190"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "JOURNALISM CNCPTS IN AG",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Holli R. Leggette (P)"
+          ],
+          "credits": "3",
+          "course": "281",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25191"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "JOURNALISM CNCPTS IN AG",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Holli R. Leggette (P)"
-      ],
-      "credits": "3",
-      "course": "281",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25191"
-    }
-  },
-  "491": {
-    "500": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "491": {
       "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22536"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22536"
+        },
+        "501": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23095"
+        },
+        "538": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "538",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Billy R. McKim (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20559"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23095"
-    },
-    "538": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "538",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Billy R. McKim (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20559"
-    }
-  },
-  "481": {
-    "500": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+    "481": {
       "title": "SEMINAR",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Deborah W. Dunsford (P)",
-        "Tobin D. Redwine , Tracy A. Rutherford"
-      ],
-      "credits": "3",
-      "course": "481",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 113",
-        "AGLS 113"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "09:00 am-09:50 am"
-      ],
-      "crn": "24007"
-    }
-  },
-  "494": {
-    "555": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "555",
-      "title": "INTERNSHIP: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Tracy A. Rutherford (P)"
-      ],
-      "credits": "1-6",
-      "course": "494",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15485"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "SEMINAR",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Deborah W. Dunsford (P)",
+            "Tobin D. Redwine , Tracy A. Rutherford"
+          ],
+          "credits": "3",
+          "course": "481",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 113",
+            "AGLS 113"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "09:00 am-09:50 am"
+          ],
+          "crn": "24007"
+        }
+      }
     },
-    "556": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "556",
-      "title": "INTERNSHIP: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Deborah W. Dunsford (P)"
-      ],
-      "credits": "1-6",
-      "course": "494",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18260"
-    },
-    "557": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "557",
-      "title": "INTERNSHIP: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Billy R. McKim (P)"
-      ],
-      "credits": "1-6",
-      "course": "494",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23304"
-    },
-    "515": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "515",
+    "494": {
       "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Tracy A. Rutherford (P)"
-      ],
-      "credits": "1-6",
-      "course": "494",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "10081"
+      "sections": {
+        "555": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "555",
+          "title": "INTERNSHIP: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Tracy A. Rutherford (P)"
+          ],
+          "credits": "1-6",
+          "course": "494",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15485"
+        },
+        "556": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "556",
+          "title": "INTERNSHIP: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Deborah W. Dunsford (P)"
+          ],
+          "credits": "1-6",
+          "course": "494",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18260"
+        },
+        "557": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "557",
+          "title": "INTERNSHIP: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Billy R. McKim (P)"
+          ],
+          "credits": "1-6",
+          "course": "494",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23304"
+        },
+        "515": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "515",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Tracy A. Rutherford (P)"
+          ],
+          "credits": "1-6",
+          "course": "494",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "10081"
+        },
+        "516": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "516",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Deborah W. Dunsford (P)"
+          ],
+          "credits": "1-6",
+          "course": "494",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "10082"
+        },
+        "538": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "538",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Billy R. McKim (P)"
+          ],
+          "credits": "1-6",
+          "course": "494",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20200"
+        }
+      }
     },
-    "516": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "516",
-      "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Deborah W. Dunsford (P)"
-      ],
-      "credits": "1-6",
-      "course": "494",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "10082"
-    },
-    "538": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "538",
-      "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Billy R. McKim (P)"
-      ],
-      "credits": "1-6",
-      "course": "494",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20200"
-    }
-  },
-  "485": {
-    "521": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "521",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gary Wingenbach (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20642"
+      "sections": {
+        "521": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "521",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gary Wingenbach (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20642"
+        },
+        "512": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Tobin D. Redwine (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22624"
+        },
+        "515": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "515",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Tracy A. Rutherford (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15584"
+        },
+        "516": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "516",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Deborah W. Dunsford (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15262"
+        },
+        "538": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "538",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Billy R. McKim (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18737"
+        }
+      }
     },
-    "512": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Tobin D. Redwine (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22624"
-    },
-    "515": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "515",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Tracy A. Rutherford (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15584"
-    },
-    "516": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "516",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Deborah W. Dunsford (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15262"
-    },
-    "538": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "538",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Billy R. McKim (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18737"
-    }
-  },
-  "366": {
-    "501": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "501",
+    "366": {
       "title": "RADIO BROADCASTING",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Billy R. McKim (P)",
-        "Billy R. McKim",
-        "Billy R. McKim"
-      ],
-      "credits": "3",
-      "course": "366",
-      "days": [
-        "MW",
-        "W",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 114",
-        "AGLS 111B",
-        "AGLS 111C"
-      ],
-      "time": [
-        "05:30 pm-07:00 pm",
-        "07:00 pm-09:00 pm",
-        "07:00 pm-09:00 pm"
-      ],
-      "crn": "24739"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "RADIO BROADCASTING",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Billy R. McKim (P)",
+            "Billy R. McKim",
+            "Billy R. McKim"
+          ],
+          "credits": "3",
+          "course": "366",
+          "days": [
+            "MW",
+            "W",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 114",
+            "AGLS 111B",
+            "AGLS 111C"
+          ],
+          "time": [
+            "05:30 pm-07:00 pm",
+            "07:00 pm-09:00 pm",
+            "07:00 pm-09:00 pm"
+          ],
+          "crn": "24739"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "RADIO BROADCASTING",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Billy R. McKim (P)",
+            "Billy R. McKim",
+            "Billy R. McKim (P)"
+          ],
+          "credits": "3",
+          "course": "366",
+          "days": [
+            "MW",
+            "W",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 114",
+            "AGLS 111B",
+            "AGLS 111C"
+          ],
+          "time": [
+            "05:30 pm-07:00 pm",
+            "07:00 pm-09:00 pm",
+            "07:00 pm-09:00 pm"
+          ],
+          "crn": "24740"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "502",
-      "title": "RADIO BROADCASTING",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Billy R. McKim (P)",
-        "Billy R. McKim",
-        "Billy R. McKim (P)"
-      ],
-      "credits": "3",
-      "course": "366",
-      "days": [
-        "MW",
-        "W",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 110",
-        "AGLS 111B",
-        "AGLS 111C"
-      ],
-      "time": [
-        "05:30 pm-06:20 pm",
-        "07:00 pm-09:00 pm",
-        "07:00 pm-09:00 pm"
-      ],
-      "crn": "24740"
-    }
-  },
-  "312": {
-    "501": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "312": {
       "title": "EDITING FOR AG AUDIENCES",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Deborah W. Dunsford (P)",
-        "Deborah W. Dunsford"
-      ],
-      "credits": "3",
-      "course": "312",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1004",
-        "TBA"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "19055"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "EDITING FOR AG AUDIENCES",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Deborah W. Dunsford (P)",
+            "Deborah W. Dunsford"
+          ],
+          "credits": "3",
+          "course": "312",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1004",
+            "TBA"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "19055"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "700",
+          "title": "EDITING FOR AG AUDIENCES",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Paul McGrath",
+            "Paul McGrath (P)"
+          ],
+          "credits": "3",
+          "course": "312",
+          "days": [
+            "WEB",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB",
+            "WEB"
+          ],
+          "time": [
+            "WEB",
+            "WEB"
+          ],
+          "crn": "21992"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "700",
-      "title": "EDITING FOR AG AUDIENCES",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Paul McGrath",
-        "Paul McGrath (P)"
-      ],
-      "credits": "3",
-      "course": "312",
-      "days": [
-        "WEB",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB",
-        "WEB"
-      ],
-      "time": [
-        "WEB",
-        "WEB"
-      ],
-      "crn": "21992"
-    }
-  },
-  "411": {
-    "500": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+    "411": {
       "title": "AUDIENCE AND COMM RSRCH MTHDS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Billy R. McKim",
-        "Billy R. McKim (P)"
-      ],
-      "credits": "3",
-      "course": "411",
-      "days": [
-        "TR",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HFSB 119X",
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "TBA"
-      ],
-      "crn": "28300"
-    }
-  },
-  "466": {
-    "500": {
-      "select": "C",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 4,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "AUDIENCE AND COMM RSRCH MTHDS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Billy R. McKim",
+            "Billy R. McKim (P)"
+          ],
+          "credits": "3",
+          "course": "411",
+          "days": [
+            "TR",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HFSB 119X",
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "TBA"
+          ],
+          "crn": "28300"
+        }
+      }
+    },
+    "466": {
       "title": "ADVANCED RADIO BROADCASTING",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Billy R. McKim",
-        "Billy R. McKim",
-        "Billy R. McKim (P)",
-        "Billy R. McKim (P)"
-      ],
-      "credits": "3",
-      "course": "466",
-      "days": [
-        "TR",
-        "TR",
-        "T",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 111B",
-        "AGLS 111C",
-        "AGLS 111C",
-        "AGLS 111B"
-      ],
-      "time": [
-        "06:20 pm-08:20 pm",
-        "06:20 pm-08:20 pm",
-        "05:20 pm-06:10 pm",
-        "05:20 pm-06:10 pm"
-      ],
-      "crn": "27081"
-    }
-  },
-  "313": {
-    "901": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "901",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 4,
+          "active": "0",
+          "section": "500",
+          "title": "ADVANCED RADIO BROADCASTING",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Billy R. McKim",
+            "Billy R. McKim",
+            "Billy R. McKim (P)",
+            "Billy R. McKim (P)"
+          ],
+          "credits": "3",
+          "course": "466",
+          "days": [
+            "TR",
+            "TR",
+            "T",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 111B",
+            "AGLS 111C",
+            "AGLS 111C",
+            "AGLS 111B"
+          ],
+          "time": [
+            "06:20 pm-08:20 pm",
+            "06:20 pm-08:20 pm",
+            "05:20 pm-06:10 pm",
+            "05:20 pm-06:10 pm"
+          ],
+          "crn": "27081"
+        }
+      }
+    },
+    "313": {
       "title": "AG MEDIA WRITING I",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Deborah W. Dunsford (P)",
-        "Deborah W. Dunsford"
-      ],
-      "credits": "3",
-      "course": "313",
-      "days": [
-        "MW",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 117",
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "12:40 pm-01:55 pm"
-      ],
-      "crn": "19056"
+      "sections": {
+        "901": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "901",
+          "title": "AG MEDIA WRITING I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Deborah W. Dunsford (P)",
+            "Deborah W. Dunsford"
+          ],
+          "credits": "3",
+          "course": "313",
+          "days": [
+            "MW",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 117",
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "12:40 pm-01:55 pm"
+          ],
+          "crn": "19056"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "902",
+          "title": "AG MEDIA WRITING I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Deborah W. Dunsford (P)",
+            "Deborah W. Dunsford"
+          ],
+          "credits": "3",
+          "course": "313",
+          "days": [
+            "MW",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 117",
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "02:10 pm-03:25 pm"
+          ],
+          "crn": "19058"
+        }
+      }
     },
-    "902": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "902",
-      "title": "AG MEDIA WRITING I",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Deborah W. Dunsford (P)",
-        "Deborah W. Dunsford"
-      ],
-      "credits": "3",
-      "course": "313",
-      "days": [
-        "MW",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 117",
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "02:10 pm-03:25 pm"
-      ],
-      "crn": "19058"
-    }
-  },
-  "105": {
-    "501": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "105": {
       "title": "INTRO TO AG COMM",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Lori M. Costello (P)"
-      ],
-      "credits": "3",
-      "course": "105",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 115"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "24003"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTRO TO AG COMM",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Lori M. Costello (P)"
+          ],
+          "credits": "3",
+          "course": "105",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 115"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "24003"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTRO TO AG COMM",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Lori M. Costello (P)"
+          ],
+          "credits": "3",
+          "course": "105",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 115"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "24004"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "INTRO TO AG COMM",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Lori M. Costello (P)"
-      ],
-      "credits": "3",
-      "course": "105",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 115"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "24004"
-    }
-  },
-  "314": {
-    "901": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "901",
+    "314": {
       "title": "AG MEDIA WRITING II",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Tobin D. Redwine (P)",
-        "Tobin D. Redwine"
-      ],
-      "credits": "3",
-      "course": "314",
-      "days": [
-        "MW",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 113",
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "09:35 am-10:50 am"
-      ],
-      "crn": "19061"
+      "sections": {
+        "901": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "901",
+          "title": "AG MEDIA WRITING II",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Tobin D. Redwine (P)",
+            "Tobin D. Redwine"
+          ],
+          "credits": "3",
+          "course": "314",
+          "days": [
+            "MW",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 113",
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "09:35 am-10:50 am"
+          ],
+          "crn": "19061"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "902",
+          "title": "AG MEDIA WRITING II",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Tobin D. Redwine (P)",
+            "Tobin D. Redwine"
+          ],
+          "credits": "3",
+          "course": "314",
+          "days": [
+            "MW",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 113",
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "19062"
+        }
+      }
     },
-    "902": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "902",
-      "title": "AG MEDIA WRITING II",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Tobin D. Redwine (P)",
-        "Tobin D. Redwine"
-      ],
-      "credits": "3",
-      "course": "314",
-      "days": [
-        "MW",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 113",
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "19062"
-    }
-  },
-  "413": {
-    "500": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "413": {
       "title": "EMERGING MEDIA IN AGRICULTURE",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Holli R. Leggette (P)"
-      ],
-      "credits": "3",
-      "course": "413",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 117"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "28299"
-    }
-  },
-  "305": {
-    "599": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "EMERGING MEDIA IN AGRICULTURE",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Holli R. Leggette (P)"
+          ],
+          "credits": "3",
+          "course": "413",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 117"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "28299"
+        }
+      }
+    },
+    "305": {
       "title": "THEORY & PRAC OF AG PUB",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Holli R. Leggette (P)"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25192"
+      "sections": {
+        "599": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "THEORY & PRAC OF AG PUB",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Holli R. Leggette (P)"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25192"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "THEORY & PRAC OF AG PUB",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Holli R. Leggette (P)"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25193"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "THEORY & PRAC OF AG PUB",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Holli R. Leggette (P)"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25193"
-    }
-  },
-  "405": {
-    "501": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "405": {
       "title": "AGRI PUBLICATION PROD",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Tracy A. Rutherford (P)",
-        "Tracy A. Rutherford"
-      ],
-      "credits": "3",
-      "course": "405",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 113",
-        "AGLS 130"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "10079"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "AGRI PUBLICATION PROD",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Tracy A. Rutherford (P)",
+            "Tracy A. Rutherford"
+          ],
+          "credits": "3",
+          "course": "405",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 113",
+            "AGLS 130"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "10079"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "AGRI PUBLICATION PROD",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Tracy A. Rutherford (P)",
+            "Tracy A. Rutherford"
+          ],
+          "credits": "3",
+          "course": "405",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 113",
+            "AGLS 130"
+          ],
+          "time": [
+            "10:20 pm-11:10 pm",
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "12976"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "AGRI PUBLICATION PROD",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Tracy A. Rutherford (P)",
-        "Tracy A. Rutherford"
-      ],
-      "credits": "3",
-      "course": "405",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 113",
-        "AGLS 130"
-      ],
-      "time": [
-        "10:20 pm-11:10 pm",
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "12976"
-    }
-  },
-  "307": {
-    "501": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "307": {
       "title": "DESIGN FOR AG MEDIA",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Tracy A. Rutherford (P)",
-        "Tracy A. Rutherford"
-      ],
-      "credits": "3",
-      "course": "307",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 113",
-        "TBA"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "10:20 am-12:20 pm"
-      ],
-      "crn": "13618"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "DESIGN FOR AG MEDIA",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Tracy A. Rutherford (P)",
+            "Tracy A. Rutherford"
+          ],
+          "credits": "3",
+          "course": "307",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 113",
+            "TBA"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "10:20 am-12:20 pm"
+          ],
+          "crn": "13618"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "700",
+          "title": "DESIGN FOR AG MEDIA",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Tracy A. Rutherford (P)",
+            "Tracy A. Rutherford (P)"
+          ],
+          "credits": "3",
+          "course": "307",
+          "days": [
+            "WEB",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB",
+            "WEB"
+          ],
+          "time": [
+            "WEB",
+            "WEB"
+          ],
+          "crn": "25194"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "700",
-      "title": "DESIGN FOR AG MEDIA",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Tracy A. Rutherford (P)",
-        "Tracy A. Rutherford (P)"
-      ],
-      "credits": "3",
-      "course": "307",
-      "days": [
-        "WEB",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB",
-        "WEB"
-      ],
-      "time": [
-        "WEB",
-        "WEB"
-      ],
-      "crn": "25194"
-    }
-  },
-  "406": {
-    "500": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+    "406": {
       "title": "AG PR METHODS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Deborah W. Dunsford (P)",
-        "Deborah W. Dunsford"
-      ],
-      "credits": "3",
-      "course": "406",
-      "days": [
-        "MWF",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 113",
-        "TBA"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "TBA"
-      ],
-      "crn": "10080"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "AG PR METHODS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Deborah W. Dunsford (P)",
+            "Deborah W. Dunsford"
+          ],
+          "credits": "3",
+          "course": "406",
+          "days": [
+            "MWF",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 113",
+            "TBA"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "TBA"
+          ],
+          "crn": "10080"
+        }
+      }
+    },
+    "308": {
+      "title": "AGRICULTURAL PHOTOGRAPHY",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AGCJ",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "AGRICULTURAL PHOTOGRAPHY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Tobin D. Redwine (P)"
+          ],
+          "credits": "3",
+          "course": "308",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 113"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "24737"
+        }
+      }
     }
   },
-  "308": {
-    "501": {
-      "select": "SR",
-      "subject": "AGCJ",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "AGRICULTURAL PHOTOGRAPHY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Tobin D. Redwine (P)"
-      ],
-      "credits": "3",
-      "course": "308",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 113"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "24737"
-    }
-  }
+  "title": "AGCJ - Ag Comm & Journalism",
+  "updated": "Thu Apr 07 01:09:21 CDT 2016"
 }

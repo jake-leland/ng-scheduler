@@ -1,861 +1,800 @@
 {
-  "683": {
-    "621": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
+  "courses": {
+    "683": {
       "title": "FIELD PRACTICUM IN",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Rafael Lara-Alecio (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23131"
+      "sections": {
+        "621": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "FIELD PRACTICUM IN",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Rafael Lara-Alecio (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23131"
+        },
+        "665": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "665",
+          "title": "FIELD PRACTICUM: IN-ABSENTIA",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Yolanda Padron (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15614"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "FIELD PRAC: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Sandra T. Acosta (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19786"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "FIELD PRACTICUM IN",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Fuhui Tong (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18601"
+        },
+        "615": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "FIELD PRACTICUM IN",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Yolanda Padron (P)"
+          ],
+          "credits": "1-15",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19911"
+        }
+      }
     },
-    "665": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "665",
-      "title": "FIELD PRACTICUM: IN-ABSENTIA",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Yolanda Padron (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15614"
+    "684": {
+      "title": "PROFESS INTERNSHIP",
+      "sections": {
+        "685": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "685",
+          "title": "PROF INTERNSHIP: IN-ABSENTIA",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Sandra T. Acosta (P)"
+          ],
+          "credits": "1-4",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17880"
+        },
+        "621": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "PROFESS INTERNSHIP",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Rafael Lara-Alecio (P)"
+          ],
+          "credits": "1-4",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18576"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "PROFESS INTERNSHIP",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Fuhui Tong (P)"
+          ],
+          "credits": "1-4",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20956"
+        },
+        "615": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "PROFESS INTERNSHIP",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22581"
+        }
+      }
     },
-    "601": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "FIELD PRAC: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Sandra T. Acosta (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19786"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "FIELD PRACTICUM IN",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Fuhui Tong (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18601"
-    },
-    "615": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "FIELD PRACTICUM IN",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Yolanda Padron (P)"
-      ],
-      "credits": "1-15",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19911"
-    }
-  },
-  "684": {
     "685": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "685",
-      "title": "PROF INTERNSHIP: IN-ABSENTIA",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Sandra T. Acosta (P)"
-      ],
-      "credits": "1-4",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17880"
-    },
-    "621": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "PROFESS INTERNSHIP",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Rafael Lara-Alecio (P)"
-      ],
-      "credits": "1-4",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18576"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "PROFESS INTERNSHIP",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Fuhui Tong (P)"
-      ],
-      "credits": "1-4",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20956"
-    },
-    "615": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "PROFESS INTERNSHIP",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22581"
-    }
-  },
-  "685": {
-    "621": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
       "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Rafael Lara-Alecio (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20717"
+      "sections": {
+        "621": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Rafael Lara-Alecio (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20717"
+        },
+        "665": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "665",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Yolanda Padron (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18636"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Fuhui Tong (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18697"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Hector H. Rivera (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26375"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Sandra T. Acosta (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26398"
+        }
+      }
     },
-    "665": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "665",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Yolanda Padron (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18636"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Fuhui Tong (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18697"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Hector H. Rivera (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26375"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Sandra T. Acosta (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26398"
-    }
-  },
-  "620": {
-    "600": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "620": {
       "title": "CURRENT ISSUES IN BESL",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hector H. Rivera (P)"
-      ],
-      "credits": "3",
-      "course": "620",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 614"
-      ],
-      "time": [
-        "05:00 pm-08:00 pm"
-      ],
-      "crn": "15069"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CURRENT ISSUES IN BESL",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hector H. Rivera (P)"
+          ],
+          "credits": "3",
+          "course": "620",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 614"
+          ],
+          "time": [
+            "05:00 pm-08:00 pm"
+          ],
+          "crn": "15069"
+        },
+        "700": {
+          "select": "C",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "CURRENT ISSUES IN BESL",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "620",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "19996"
+        }
+      }
     },
-    "700": {
-      "select": "C",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "CURRENT ISSUES IN BESL",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "620",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "19996"
-    }
-  },
-  "611": {
-    "699": {
-      "select": "C",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
+    "611": {
       "title": "DUAL LANGUAGE PROG METHD",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Yolanda Padron (P)"
-      ],
-      "credits": "3",
-      "course": "611",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "15254"
+      "sections": {
+        "699": {
+          "select": "C",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "DUAL LANGUAGE PROG METHD",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Yolanda Padron (P)"
+          ],
+          "credits": "3",
+          "course": "611",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "15254"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "DUAL LANGUAGE PROG METHD",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Yolanda Padron (P)"
+          ],
+          "credits": "3",
+          "course": "611",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "13975"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "DUAL LANGUAGE PROG METHD",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Yolanda Padron (P)"
-      ],
-      "credits": "3",
-      "course": "611",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "13975"
-    }
-  },
-  "613": {
-    "699": {
-      "select": "C",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
+    "613": {
       "title": "SPAN/ENG BILITERACY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sandra T. Acosta (P)"
-      ],
-      "credits": "3",
-      "course": "613",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "15059"
+      "sections": {
+        "699": {
+          "select": "C",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "SPAN/ENG BILITERACY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sandra T. Acosta (P)"
+          ],
+          "credits": "3",
+          "course": "613",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "15059"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "SPAN/ENG BILITERACY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Sandra T. Acosta (P)"
+          ],
+          "credits": "3",
+          "course": "613",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "13976"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "SPAN/ENG BILITERACY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Sandra T. Acosta (P)"
-      ],
-      "credits": "3",
-      "course": "613",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "13976"
-    }
-  },
-  "614": {
-    "699": {
-      "select": "C",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
+    "614": {
       "title": "BESL CURRICULUM DEV LANG",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Rafael Lara-Alecio (P)"
-      ],
-      "credits": "3",
-      "course": "614",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "17738"
+      "sections": {
+        "699": {
+          "select": "C",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "BESL CURRICULUM DEV LANG",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Rafael Lara-Alecio (P)"
+          ],
+          "credits": "3",
+          "course": "614",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "17738"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "BESL CURRICULUM DEV LANG",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Rafael Lara-Alecio (P)"
+          ],
+          "credits": "3",
+          "course": "614",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "13983"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "BESL CURRICULUM DEV LANG",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Rafael Lara-Alecio (P)"
-      ],
-      "credits": "3",
-      "course": "614",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "13983"
+    "691": {
+      "title": "RESEARCH",
+      "sections": {
+        "621": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Rafael Lara-Alecio (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "24271"
+        },
+        "665": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "665",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Yolanda Padron (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23043"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Fuhui Tong (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18602"
+        },
+        "615": {
+          "select": "SR",
+          "subject": "BIED",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Yolanda Padron (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25882"
+        }
+      }
     }
   },
-  "617": {
-    "600": {
-      "select": "C",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "EVAL PROG WITH LANG MINO",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Fuhui Tong (P)"
-      ],
-      "credits": "3",
-      "course": "617",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "04:30 pm-07:30 pm"
-      ],
-      "crn": "17701"
-    },
-    "699": {
-      "select": "C",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "EVAL PROG WITH LANG MINO",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Fuhui Tong (P)"
-      ],
-      "credits": "3",
-      "course": "617",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "04:30 pm-07:30 pm"
-      ],
-      "crn": "15589"
-    },
-    "700": {
-      "select": "C",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "EVAL PROG WITH LANG MINO",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Fuhui Tong (P)"
-      ],
-      "credits": "3",
-      "course": "617",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "04:30 pm-07:30 pm"
-      ],
-      "crn": "13977"
-    }
-  },
-  "691": {
-    "621": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Rafael Lara-Alecio (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "24271"
-    },
-    "665": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "665",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Yolanda Padron (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23043"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Fuhui Tong (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18602"
-    },
-    "615": {
-      "select": "SR",
-      "subject": "BIED",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Yolanda Padron (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25882"
-    }
-  }
+  "title": "BIED - Bilingual Education",
+  "updated": "Thu Apr 07 01:11:21 CDT 2016"
 }

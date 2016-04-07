@@ -1,1596 +1,1660 @@
 {
-  "350": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "350": {
       "title": "ANALOG ELECTRONICS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Jay R. Porter (P)",
-        "Arash Torkan"
-      ],
-      "credits": "4",
-      "course": "350",
-      "days": [
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 010"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "04:30 pm-07:10 pm"
-      ],
-      "crn": "24809"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ANALOG ELECTRONICS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Jay R. Porter (P)",
+            "Arash Torkan"
+          ],
+          "credits": "4",
+          "course": "350",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 010"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "04:30 pm-07:10 pm"
+          ],
+          "crn": "24809"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ANALOG ELECTRONICS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Jay R. Porter (P)",
+            "Arash Torkan"
+          ],
+          "credits": "4",
+          "course": "350",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 010"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "04:30 pm-07:10 pm"
+          ],
+          "crn": "24808"
+        },
+        "503": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "ANALOG ELECTRONICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Arash Torkan",
+            "Jay R. Porter (P)"
+          ],
+          "credits": "4",
+          "course": "350",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "27548"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ANALOG ELECTRONICS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Jay R. Porter (P)",
-        "Arash Torkan"
-      ],
-      "credits": "4",
-      "course": "350",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 010"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "04:30 pm-07:10 pm"
-      ],
-      "crn": "24808"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "ANALOG ELECTRONICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Arash Torkan",
-        "Jay R. Porter (P)"
-      ],
-      "credits": "4",
-      "course": "350",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "27548"
-    }
-  },
-  "352": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "352": {
       "title": "ELECTRONICS TEST I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Rainer J. Fink (P)",
-        "Rainer J. Fink"
-      ],
-      "credits": "4",
-      "course": "352",
-      "days": [
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 010"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "24806"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ELECTRONICS TEST I",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Rainer J. Fink (P)",
+            "Rainer J. Fink"
+          ],
+          "credits": "4",
+          "course": "352",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 010"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "24806"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ELECTRONICS TEST I",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Rainer J. Fink (P)",
+            "Rainer J. Fink"
+          ],
+          "credits": "4",
+          "course": "352",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 010"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "01:50 pm-04:30 pm"
+          ],
+          "crn": "24805"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ELECTRONICS TEST I",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Rainer J. Fink (P)",
-        "Rainer J. Fink"
-      ],
-      "credits": "4",
-      "course": "352",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 010"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "01:50 pm-04:30 pm"
-      ],
-      "crn": "24805"
-    }
-  },
-  "462": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "462": {
       "title": "CONTROL SYSTEMS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Xingyong Song",
-        "Xingyong Song (P)"
-      ],
-      "credits": "4",
-      "course": "462",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "RDMC 302",
-        "THOM 121"
-      ],
-      "time": [
-        "05:30 pm-08:10 pm",
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "24797"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "CONTROL SYSTEMS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Xingyong Song",
+            "Xingyong Song (P)"
+          ],
+          "credits": "4",
+          "course": "462",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDMC 302",
+            "THOM 121"
+          ],
+          "time": [
+            "05:30 pm-08:10 pm",
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "24797"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "CONTROL SYSTEMS",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Xingyong Song",
+            "Xingyong Song (P)"
+          ],
+          "credits": "4",
+          "course": "462",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDMC 302",
+            "THOM 121"
+          ],
+          "time": [
+            "08:00 am-10:40 am",
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "24798"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "CONTROL SYSTEMS",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Xingyong Song",
-        "Xingyong Song (P)"
-      ],
-      "credits": "4",
-      "course": "462",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "RDMC 302",
-        "THOM 121"
-      ],
-      "time": [
-        "08:00 am-10:40 am",
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "24798"
-    }
-  },
-  "210": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "210": {
       "title": "CIRCUIT ANALYSIS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Walter Buchanan (P)",
-        "Walter Buchanan"
-      ],
-      "credits": "4",
-      "course": "210",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 205"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm",
-        "08:00 am-10:40 am"
-      ],
-      "crn": "24771"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "CIRCUIT ANALYSIS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Walter Buchanan (P)",
+            "Walter Buchanan"
+          ],
+          "credits": "4",
+          "course": "210",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 205"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm",
+            "08:00 am-10:40 am"
+          ],
+          "crn": "24771"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "CIRCUIT ANALYSIS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Walter Buchanan (P)",
+            "Walter Buchanan"
+          ],
+          "credits": "4",
+          "course": "210",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 205"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm",
+            "08:00 am-10:40 am"
+          ],
+          "crn": "24772"
+        },
+        "503": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "CIRCUIT ANALYSIS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Walter Buchanan (P)",
+            "Walter Buchanan"
+          ],
+          "credits": "4",
+          "course": "210",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 205"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm",
+            "01:50 pm-04:30 pm"
+          ],
+          "crn": "24773"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "CIRCUIT ANALYSIS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Walter Buchanan (P)",
-        "Walter Buchanan"
-      ],
-      "credits": "4",
-      "course": "210",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 205"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm",
-        "08:00 am-10:40 am"
-      ],
-      "crn": "24772"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "CIRCUIT ANALYSIS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Walter Buchanan (P)",
-        "Walter Buchanan"
-      ],
-      "credits": "4",
-      "course": "210",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 205"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm",
-        "01:50 pm-04:30 pm"
-      ],
-      "crn": "24773"
-    }
-  },
-  "452": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "452": {
       "title": "ELECTRONICS TEST II",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Rainer J. Fink (P)",
-        "Ellen Onderko"
-      ],
-      "credits": "3",
-      "course": "452",
-      "days": [
-        "TR",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ETB 1035",
-        "THOM 010"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "08:00 am-10:40 am"
-      ],
-      "crn": "24800"
+      "sections": {
+        "501": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ELECTRONICS TEST II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Rainer J. Fink (P)",
+            "Ellen Onderko"
+          ],
+          "credits": "3",
+          "course": "452",
+          "days": [
+            "TR",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ETB 1035",
+            "THOM 010"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "08:00 am-10:40 am"
+          ],
+          "crn": "24800"
+        },
+        "502": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ELECTRONICS TEST II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Rainer J. Fink (P)",
+            "Ellen Onderko"
+          ],
+          "credits": "3",
+          "course": "452",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ETB 1035",
+            "THOM 010"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "08:00 am-10:40 am"
+          ],
+          "crn": "24793"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ELECTRONICS TEST II",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Rainer J. Fink (P)",
-        "Ellen Onderko"
-      ],
-      "credits": "3",
-      "course": "452",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ETB 1035",
-        "THOM 010"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "08:00 am-10:40 am"
-      ],
-      "crn": "24793"
-    }
-  },
-  "211": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "211": {
       "title": "PWR SYS & CIRCUIT APP",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Walter Buchanan (P)",
-        "Jiayuan Zhang"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "TR",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 204"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "03:55 pm-06:35 pm"
-      ],
-      "crn": "24774"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "PWR SYS & CIRCUIT APP",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Walter Buchanan (P)",
+            "Jiayuan Zhang"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "TR",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 204"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "03:55 pm-06:35 pm"
+          ],
+          "crn": "24774"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "PWR SYS & CIRCUIT APP",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Walter Buchanan (P)",
+            "Jiayuan Zhang"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 204"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "04:30 pm-07:10 pm"
+          ],
+          "crn": "24775"
+        },
+        "503": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "PWR SYS & CIRCUIT APP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jiayuan Zhang",
+            "Walter Buchanan (P)"
+          ],
+          "credits": "3",
+          "course": "211",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 204",
+            "THOM 122"
+          ],
+          "time": [
+            "04:30 pm-07:10 pm",
+            "09:35 am-10:50 am"
+          ],
+          "crn": "24776"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "PWR SYS & CIRCUIT APP",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Walter Buchanan (P)",
-        "Jiayuan Zhang"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 204"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "04:30 pm-07:10 pm"
-      ],
-      "crn": "24775"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "PWR SYS & CIRCUIT APP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jiayuan Zhang",
-        "Walter Buchanan (P)"
-      ],
-      "credits": "3",
-      "course": "211",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 204",
-        "THOM 122"
-      ],
-      "time": [
-        "04:30 pm-07:10 pm",
-        "09:35 am-10:50 am"
-      ],
-      "crn": "24776"
-    }
-  },
-  "420": {
-    "500": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "420": {
       "title": "ENGR TECH CAPSTONE II",
-      "remaining": "36",
-      "capacity": "36",
-      "instructor": [
-        "Joseph Morgan (P)"
-      ],
-      "credits": "2",
-      "course": "420",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110"
-      ],
-      "time": [
-        "04:10 pm-10:00 pm"
-      ],
-      "crn": "24802"
-    }
-  },
-  "333": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ENGR TECH CAPSTONE II",
+          "remaining": "36",
+          "capacity": "36",
+          "instructor": [
+            "Joseph Morgan (P)"
+          ],
+          "credits": "2",
+          "course": "420",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110"
+          ],
+          "time": [
+            "04:10 pm-10:00 pm"
+          ],
+          "crn": "24802"
+        }
+      }
+    },
+    "333": {
       "title": "PRODUCT DEVELOPMENT",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Matthew J. Leonard",
-        "Matthew J. Leonard (P)"
-      ],
-      "credits": "3",
-      "course": "333",
-      "days": [
-        "M",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 205",
-        "THOM 121"
-      ],
-      "time": [
-        "01:50 pm-04:30 pm",
-        "03:00 pm-04:40 pm"
-      ],
-      "crn": "24799"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "PRODUCT DEVELOPMENT",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Matthew J. Leonard",
+            "Matthew J. Leonard (P)"
+          ],
+          "credits": "3",
+          "course": "333",
+          "days": [
+            "M",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 205",
+            "THOM 121"
+          ],
+          "time": [
+            "01:50 pm-04:30 pm",
+            "03:00 pm-04:40 pm"
+          ],
+          "crn": "24799"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "PRODUCT DEVELOPMENT",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Matthew J. Leonard",
+            "Matthew J. Leonard (P)"
+          ],
+          "credits": "3",
+          "course": "333",
+          "days": [
+            "M",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 205",
+            "THOM 121"
+          ],
+          "time": [
+            "04:30 pm-07:10 pm",
+            "03:00 pm-04:40 pm"
+          ],
+          "crn": "24801"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "PRODUCT DEVELOPMENT",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Matthew J. Leonard",
-        "Matthew J. Leonard (P)"
-      ],
-      "credits": "3",
-      "course": "333",
-      "days": [
-        "M",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 205",
-        "THOM 121"
-      ],
-      "time": [
-        "04:30 pm-07:10 pm",
-        "03:00 pm-04:40 pm"
-      ],
-      "crn": "24801"
-    }
-  },
-  "355": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "355": {
       "title": "EMAG & HIGH FREQ SYSTEMS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Jay R. Porter",
-        "Jay R. Porter (P)"
-      ],
-      "credits": "4",
-      "course": "355",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 010",
-        "THOM 121"
-      ],
-      "time": [
-        "10:20 am-01:00 pm",
-        "08:00 am-09:15 am"
-      ],
-      "crn": "24765"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "EMAG & HIGH FREQ SYSTEMS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Jay R. Porter",
+            "Jay R. Porter (P)"
+          ],
+          "credits": "4",
+          "course": "355",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 010",
+            "THOM 121"
+          ],
+          "time": [
+            "10:20 am-01:00 pm",
+            "08:00 am-09:15 am"
+          ],
+          "crn": "24765"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "EMAG & HIGH FREQ SYSTEMS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Jay R. Porter (P)",
+            "Jay R. Porter"
+          ],
+          "credits": "4",
+          "course": "355",
+          "days": [
+            "TR",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 010"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "12:00 pm-02:40 pm"
+          ],
+          "crn": "24769"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "EMAG & HIGH FREQ SYSTEMS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Jay R. Porter (P)",
-        "Jay R. Porter"
-      ],
-      "credits": "4",
-      "course": "355",
-      "days": [
-        "TR",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 010"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "12:00 pm-02:40 pm"
-      ],
-      "crn": "24769"
-    }
-  },
-  "455": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "455": {
       "title": "WIRELESS TRNSMISSION SYS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "John C. Bosshard (P)",
-        "John C. Bosshard"
-      ],
-      "credits": "4",
-      "course": "455",
-      "days": [
-        "MWF",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 101"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "01:50 pm-04:30 pm"
-      ],
-      "crn": "24794"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "WIRELESS TRNSMISSION SYS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "John C. Bosshard (P)",
+            "John C. Bosshard"
+          ],
+          "credits": "4",
+          "course": "455",
+          "days": [
+            "MWF",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 101"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "01:50 pm-04:30 pm"
+          ],
+          "crn": "24794"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "WIRELESS TRNSMISSION SYS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "John C. Bosshard (P)",
+            "John C. Bosshard"
+          ],
+          "credits": "4",
+          "course": "455",
+          "days": [
+            "MWF",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 101"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "09:35 am-12:15 pm"
+          ],
+          "crn": "24796"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "WIRELESS TRNSMISSION SYS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "John C. Bosshard (P)",
-        "John C. Bosshard"
-      ],
-      "credits": "4",
-      "course": "455",
-      "days": [
-        "MWF",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 101"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "09:35 am-12:15 pm"
-      ],
-      "crn": "24796"
-    }
-  },
-  "269": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "269": {
       "title": "EMBEDDED SYS DEV IN C",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Adam J. Burke (P)",
-        "Adam J. Burke"
-      ],
-      "credits": "3",
-      "course": "269",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 101"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "11:30 am-02:10 pm"
-      ],
-      "crn": "24783"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "EMBEDDED SYS DEV IN C",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Adam J. Burke (P)",
+            "Adam J. Burke"
+          ],
+          "credits": "3",
+          "course": "269",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 101"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "11:30 am-02:10 pm"
+          ],
+          "crn": "24783"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "EMBEDDED SYS DEV IN C",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Adam J. Burke (P)",
+            "Adam J. Burke"
+          ],
+          "credits": "3",
+          "course": "269",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 101"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "08:00 am-10:40 am"
+          ],
+          "crn": "24785"
+        },
+        "503": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "EMBEDDED SYS DEV IN C",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Adam J. Burke (P)",
+            "Adam J. Burke"
+          ],
+          "credits": "3",
+          "course": "269",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 101"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "11:30 am-02:10 pm"
+          ],
+          "crn": "24768"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "EMBEDDED SYS DEV IN C",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Adam J. Burke (P)",
-        "Adam J. Burke"
-      ],
-      "credits": "3",
-      "course": "269",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 101"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "08:00 am-10:40 am"
-      ],
-      "crn": "24785"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "EMBEDDED SYS DEV IN C",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Adam J. Burke (P)",
-        "Adam J. Burke"
-      ],
-      "credits": "3",
-      "course": "269",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 101"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "11:30 am-02:10 pm"
-      ],
-      "crn": "24768"
-    }
-  },
-  "369": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "369": {
       "title": "EMBEDDED SYSTEMS SOFTWAR",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Gang Sun (P)",
-        "Gang Sun"
-      ],
-      "credits": "4",
-      "course": "369",
-      "days": [
-        "MWF",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 101A"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "03:50 pm-06:30 pm"
-      ],
-      "crn": "24784"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "EMBEDDED SYSTEMS SOFTWAR",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Gang Sun (P)",
+            "Gang Sun"
+          ],
+          "credits": "4",
+          "course": "369",
+          "days": [
+            "MWF",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 101A"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "03:50 pm-06:30 pm"
+          ],
+          "crn": "24784"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "EMBEDDED SYSTEMS SOFTWAR",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Gang Sun (P)",
+            "Gang Sun"
+          ],
+          "credits": "4",
+          "course": "369",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 101A"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "01:50 pm-04:30 pm"
+          ],
+          "crn": "24786"
+        },
+        "503": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "EMBEDDED SYSTEMS SOFTWAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gang Sun (P)",
+            "Gang Sun"
+          ],
+          "credits": "4",
+          "course": "369",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 101A"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "05:00 pm-07:40 pm"
+          ],
+          "crn": "24788"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "EMBEDDED SYSTEMS SOFTWAR",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Gang Sun (P)",
-        "Gang Sun"
-      ],
-      "credits": "4",
-      "course": "369",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 101A"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "01:50 pm-04:30 pm"
-      ],
-      "crn": "24786"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "EMBEDDED SYSTEMS SOFTWAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gang Sun (P)",
-        "Gang Sun"
-      ],
-      "credits": "4",
-      "course": "369",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 101A"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "05:00 pm-07:40 pm"
-      ],
-      "crn": "24788"
-    }
-  },
-  "315": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "315": {
       "title": "LOCAL METRO AREA NETWORK",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Ana Goulart (P)",
-        "Ana Goulart"
-      ],
-      "credits": "4",
-      "course": "315",
-      "days": [
-        "MWF",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 105"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "03:55 pm-06:35 pm"
-      ],
-      "crn": "24777"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "LOCAL METRO AREA NETWORK",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Ana Goulart (P)",
+            "Ana Goulart"
+          ],
+          "credits": "4",
+          "course": "315",
+          "days": [
+            "MWF",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 105"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "03:55 pm-06:35 pm"
+          ],
+          "crn": "24777"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "LOCAL METRO AREA NETWORK",
+          "remaining": "16",
+          "capacity": "16",
+          "instructor": [
+            "Ana Goulart (P)",
+            "Ana Goulart"
+          ],
+          "credits": "4",
+          "course": "315",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 105"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "03:00 pm-05:40 pm"
+          ],
+          "crn": "24787"
+        },
+        "503": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "LOCAL METRO AREA NETWORK",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ana Goulart (P)",
+            "Ana Goulart"
+          ],
+          "credits": "4",
+          "course": "315",
+          "days": [
+            "MWF",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 122",
+            "THOM 105"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "03:55 pm-06:35 pm"
+          ],
+          "crn": "24792"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "LOCAL METRO AREA NETWORK",
-      "remaining": "16",
-      "capacity": "16",
-      "instructor": [
-        "Ana Goulart (P)",
-        "Ana Goulart"
-      ],
-      "credits": "4",
-      "course": "315",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 105"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "03:00 pm-05:40 pm"
-      ],
-      "crn": "24787"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "LOCAL METRO AREA NETWORK",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ana Goulart (P)",
-        "Ana Goulart"
-      ],
-      "credits": "4",
-      "course": "315",
-      "days": [
-        "MWF",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 122",
-        "THOM 105"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "03:55 pm-06:35 pm"
-      ],
-      "crn": "24792"
-    }
-  },
-  "359": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "359": {
       "title": "ELEC INSTRUMENTATION",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Jiayuan Zhang",
-        "Wei Zhan (P)"
-      ],
-      "credits": "4",
-      "course": "359",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 204",
-        "THOM 121"
-      ],
-      "time": [
-        "10:00 am-12:40 pm",
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "24779"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ELEC INSTRUMENTATION",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Jiayuan Zhang",
+            "Wei Zhan (P)"
+          ],
+          "credits": "4",
+          "course": "359",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 204",
+            "THOM 121"
+          ],
+          "time": [
+            "10:00 am-12:40 pm",
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "24779"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ELEC INSTRUMENTATION",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Wei Zhan (P)",
+            "Jiayuan Zhang"
+          ],
+          "credits": "4",
+          "course": "359",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 204"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "10:00 am-12:40 pm"
+          ],
+          "crn": "24781"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ELEC INSTRUMENTATION",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Wei Zhan (P)",
-        "Jiayuan Zhang"
-      ],
-      "credits": "4",
-      "course": "359",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 204"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "10:00 am-12:40 pm"
-      ],
-      "crn": "24781"
-    }
-  },
-  "349": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "349": {
       "title": "MICROCONTROLLER ARCH",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Gang Sun (P)",
-        "Gang Sun"
-      ],
-      "credits": "4",
-      "course": "349",
-      "days": [
-        "MWF",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 101A"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "11:10 am-01:50 pm"
-      ],
-      "crn": "24803"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "MICROCONTROLLER ARCH",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Gang Sun (P)",
+            "Gang Sun"
+          ],
+          "credits": "4",
+          "course": "349",
+          "days": [
+            "MWF",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 101A"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "11:10 am-01:50 pm"
+          ],
+          "crn": "24803"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "MICROCONTROLLER ARCH",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Gang Sun (P)",
+            "Gang Sun"
+          ],
+          "credits": "4",
+          "course": "349",
+          "days": [
+            "MWF",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 101A"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "04:30 pm-07:10 pm"
+          ],
+          "crn": "24804"
+        },
+        "503": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "MICROCONTROLLER ARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gang Sun (P)",
+            "Gang Sun"
+          ],
+          "credits": "4",
+          "course": "349",
+          "days": [
+            "MWF",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 101A"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "04:30 pm-07:10 pm"
+          ],
+          "crn": "24807"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "MICROCONTROLLER ARCH",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Gang Sun (P)",
-        "Gang Sun"
-      ],
-      "credits": "4",
-      "course": "349",
-      "days": [
-        "MWF",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 101A"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "04:30 pm-07:10 pm"
-      ],
-      "crn": "24804"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "MICROCONTROLLER ARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gang Sun (P)",
-        "Gang Sun"
-      ],
-      "credits": "4",
-      "course": "349",
-      "days": [
-        "MWF",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 101A"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "04:30 pm-07:10 pm"
-      ],
-      "crn": "24807"
-    }
-  },
-  "415": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "415": {
       "title": "ADV NETWORK SYS & SECUR",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Ana Goulart (P)",
-        "Arun Gopalakrishna"
-      ],
-      "credits": "3",
-      "course": "415",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 105"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "03:55 pm-06:35 pm"
-      ],
-      "crn": "24789"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ADV NETWORK SYS & SECUR",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Ana Goulart (P)",
+            "Arun Gopalakrishna"
+          ],
+          "credits": "3",
+          "course": "415",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 105"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "03:55 pm-06:35 pm"
+          ],
+          "crn": "24789"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ADV NETWORK SYS & SECUR",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Ana Goulart (P)",
+            "Arun Gopalakrishna"
+          ],
+          "credits": "3",
+          "course": "415",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 105"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "03:55 pm-06:35 pm"
+          ],
+          "crn": "24790"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ADV NETWORK SYS & SECUR",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Ana Goulart (P)",
-        "Arun Gopalakrishna"
-      ],
-      "credits": "3",
-      "course": "415",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 105"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "03:55 pm-06:35 pm"
-      ],
-      "crn": "24790"
-    }
-  },
-  "219": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "219": {
       "title": "DIGITAL ELECTRONICS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Joseph Morgan (P)",
-        "Joseph Morgan"
-      ],
-      "credits": "4",
-      "course": "219",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110",
-        "THOM 205"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "05:30 pm-08:10 pm"
-      ],
-      "crn": "24778"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "DIGITAL ELECTRONICS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Joseph Morgan (P)",
+            "Joseph Morgan"
+          ],
+          "credits": "4",
+          "course": "219",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110",
+            "THOM 205"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "05:30 pm-08:10 pm"
+          ],
+          "crn": "24778"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "DIGITAL ELECTRONICS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Joseph Morgan (P)",
+            "Joseph Morgan"
+          ],
+          "credits": "4",
+          "course": "219",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110",
+            "THOM 205"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "08:00 am-10:40 am"
+          ],
+          "crn": "24780"
+        },
+        "503": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "DIGITAL ELECTRONICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Joseph Morgan (P)",
+            "Joseph Morgan"
+          ],
+          "credits": "4",
+          "course": "219",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110",
+            "THOM 205"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "04:50 pm-07:30 pm"
+          ],
+          "crn": "24782"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "DIGITAL ELECTRONICS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Joseph Morgan (P)",
-        "Joseph Morgan"
-      ],
-      "credits": "4",
-      "course": "219",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110",
-        "THOM 205"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "08:00 am-10:40 am"
-      ],
-      "crn": "24780"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "DIGITAL ELECTRONICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Joseph Morgan (P)",
-        "Joseph Morgan"
-      ],
-      "credits": "4",
-      "course": "219",
-      "days": [
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110",
-        "THOM 205"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "04:50 pm-07:30 pm"
-      ],
-      "crn": "24782"
-    }
-  },
-  "329": {
-    "501": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "329": {
       "title": "SIX SIGMA & APPL STAT",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Wei Zhan (P)",
-        "Wei Zhan"
-      ],
-      "credits": "3",
-      "course": "329",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 204"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm",
-        "03:55 pm-06:35 pm"
-      ],
-      "crn": "24795"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "SIX SIGMA & APPL STAT",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Wei Zhan (P)",
+            "Wei Zhan"
+          ],
+          "credits": "3",
+          "course": "329",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 204"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "03:55 pm-06:35 pm"
+          ],
+          "crn": "24795"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "SIX SIGMA & APPL STAT",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Wei Zhan (P)",
+            "Arun Gopalakrishna"
+          ],
+          "credits": "3",
+          "course": "329",
+          "days": [
+            "TR",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 121",
+            "THOM 204"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "11:10 am-01:50 pm"
+          ],
+          "crn": "26045"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "SIX SIGMA & APPL STAT",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Wei Zhan (P)",
-        "Arun Gopalakrishna"
-      ],
-      "credits": "3",
-      "course": "329",
-      "days": [
-        "TR",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 121",
-        "THOM 204"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm",
-        "11:10 am-01:50 pm"
-      ],
-      "crn": "26045"
-    }
-  },
-  "319": {
-    "501": {
-      "select": "C",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "319": {
       "title": "ENGINEERING LEADERSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "319",
-      "days": [
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "RDMC 302"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm",
-        "01:50 pm-04:30 pm"
-      ],
-      "crn": "28603"
+      "sections": {
+        "501": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ENGINEERING LEADERSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Behbood Zoghi (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "319",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "RDMC 302"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "01:50 pm-04:30 pm"
+          ],
+          "crn": "28603"
+        },
+        "502": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ENGINEERING LEADERSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "319",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110",
+            "RDMC 302"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "01:50 pm-04:30 pm"
+          ],
+          "crn": "28610"
+        }
+      }
     },
-    "502": {
-      "select": "C",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ENGINEERING LEADERSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "319",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110",
-        "RDMC 302"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm",
-        "01:50 pm-04:30 pm"
-      ],
-      "crn": "28610"
-    }
-  },
-  "419": {
-    "900": {
-      "select": "SR",
-      "subject": "ESET",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
+    "419": {
       "title": "ENGR TECH CAPSTONE I",
-      "remaining": "36",
-      "capacity": "36",
-      "instructor": [
-        "Joseph Morgan (P)"
-      ],
-      "credits": "3",
-      "course": "419",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FERM 110"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "24791"
+      "sections": {
+        "900": {
+          "select": "C",
+          "subject": "ESET",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "ENGR TECH CAPSTONE I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Joseph Morgan (P)"
+          ],
+          "credits": "3",
+          "course": "419",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FERM 110"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "24791"
+        }
+      }
     }
-  }
+  },
+  "title": "ESET - Electronic Sys Eng Tech",
+  "updated": "Thu Apr 07 01:16:00 CDT 2016"
 }

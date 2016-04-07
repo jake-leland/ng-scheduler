@@ -1,1877 +1,1935 @@
 {
-  "691": {
-    "660": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "660",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ann McNamara (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15348"
+  "courses": {
+    "691": {
+      "title": "RESEARCH",
+      "sections": {
+        "660": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "660",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ann McNamara (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15348"
+        },
+        "650": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ergun Akleman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15335"
+        },
+        "661": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "661",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Frederic Parke (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15351"
+        },
+        "651": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard Davison (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23472"
+        },
+        "652": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "652",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ann McNamara (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26766"
+        },
+        "664": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "664",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Louis Tassinary (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15357"
+        },
+        "654": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Philip Galanter (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15341"
+        },
+        "600": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ergun Akleman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15334"
+        },
+        "611": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Frederic Parke (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15350"
+        },
+        "601": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Francis K. Quek (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20722"
+        },
+        "612": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Felice L. House (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26562"
+        },
+        "602": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sherman S. Finch (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23240"
+        },
+        "657": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "657",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Carol Lafayette (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15344"
+        },
+        "603": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ann McNamara (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23367"
+        },
+        "604": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Philip Galanter (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15340"
+        },
+        "615": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jinsil Seo (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16467"
+        },
+        "659": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "659",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Timothy D. McLaughlin (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15347"
+        },
+        "605": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sharon Lynn Chu Yew Yee (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26362"
+        },
+        "616": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "616",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Eric D. Ragan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28563"
+        },
+        "607": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Carol Lafayette (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15343"
+        },
+        "609": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Timothy D. McLaughlin (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15346"
+        }
+      }
     },
-    "650": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ergun Akleman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15335"
+    "670": {
+      "title": "COMPUTATIONAL GEOMETRY",
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "COMPUTATIONAL GEOMETRY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "670",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23107"
+        }
+      }
     },
-    "661": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "661",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Frederic Parke (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15351"
+    "693": {
+      "title": "PROFESSIONAL STUDY",
+      "sections": {
+        "650": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "PROF STUDY: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Carol Lafayette (P)"
+          ],
+          "credits": "1-9",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20755"
+        },
+        "600": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sherman S. Finch (P)"
+          ],
+          "credits": "1-9",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22832"
+        },
+        "601": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Stephen Caffey (P)"
+          ],
+          "credits": "1-9",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17785"
+        },
+        "602": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Carol Lafayette (P)"
+          ],
+          "credits": "1-9",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17787"
+        },
+        "603": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Frederic Parke (P)"
+          ],
+          "credits": "1-9",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17786"
+        },
+        "604": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Timothy D. McLaughlin (P)"
+          ],
+          "credits": "1-9",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20121"
+        },
+        "605": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard Davison (P)"
+          ],
+          "credits": "1-9",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18764"
+        },
+        "606": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-9",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26867"
+        },
+        "607": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jinsil Seo (P)"
+          ],
+          "credits": "1-9",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20809"
+        },
+        "608": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ergun Akleman (P)"
+          ],
+          "credits": "1-9",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23320"
+        }
+      }
     },
-    "651": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard Davison (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23472"
+    "684": {
+      "title": "PROFESSIONAL INTERNSHIP",
+      "sections": {
+        "650": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "PROFESSIONAL INTERNSHIP-IN AB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Carol Lafayette (P)"
+          ],
+          "credits": "3",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20932"
+        },
+        "600": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PROFESSIONAL INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20754"
+        }
+      }
     },
-    "652": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "652",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ann McNamara (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26766"
+    "630": {
+      "title": "CONTEMP ART STUDIO/SEM I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "CONTEMP ART STUDIO/SEM I",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Carol Lafayette (P)",
+            "Carol Lafayette"
+          ],
+          "credits": "4",
+          "course": "630",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 429",
+            "ARCC 429"
+          ],
+          "time": [
+            "02:20 pm-03:10 pm",
+            "03:11 pm-04:50 pm"
+          ],
+          "crn": "16453"
+        }
+      }
     },
-    "664": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "664",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Louis Tassinary (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15357"
+    "641": {
+      "title": "VISUAL STORYTELLING",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "VISUAL STORYTELLING",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Ergun Akleman (P)",
+            "Ergun Akleman"
+          ],
+          "credits": "3",
+          "course": "641",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 205",
+            "ARCC 205"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "10:20 am-12:00 pm"
+          ],
+          "crn": "27924"
+        }
+      }
+    },
+    "685": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "650": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ann McNamara (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20790"
+        },
+        "651": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Carol Lafayette (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18695"
+        },
+        "652": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "652",
+          "title": "DIRECTED STUDIES: IN ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard Davison (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20921"
+        },
+        "600": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ergun Akleman (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20905"
+        },
+        "611": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Frederic Parke (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15349"
+        },
+        "601": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Felice L. House (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23529"
+        },
+        "612": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15352"
+        },
+        "602": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard Davison (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15337"
+        },
+        "603": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Eric D. Ragan (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26519"
+        },
+        "614": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ann McNamara (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16461"
+        },
+        "604": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Andre Thomas (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26521"
+        },
+        "615": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jinsil Seo (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16463"
+        },
+        "609": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Timothy D. McLaughlin (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15345"
+        }
+      }
+    },
+    "675": {
+      "title": "GEOMETRIC MODELING",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "GEOMETRIC MODELING",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Scott Schaefer (P)"
+          ],
+          "credits": "3",
+          "course": "675",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 007"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "25611"
+        }
+      }
+    },
+    "643": {
+      "title": "TIME BASED MEDIA I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "TIME BASED MEDIA I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Carol Lafayette (P)",
+            "Carol Lafayette"
+          ],
+          "credits": "4",
+          "course": "643",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 414",
+            "ARCC 414"
+          ],
+          "time": [
+            "09:35 am-10:25 am",
+            "10:26 am-12:05 pm"
+          ],
+          "crn": "19019"
+        }
+      }
     },
     "654": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Philip Galanter (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15341"
+      "title": "DIGITAL IMAGE",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "DIGITAL IMAGE",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Ergun Akleman (P)",
+            "Ergun Akleman"
+          ],
+          "credits": "4",
+          "course": "654",
+          "days": [
+            "MW",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 414",
+            "ARCC 414"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "09:16 am-10:05 am"
+          ],
+          "crn": "12832"
+        }
+      }
     },
-    "600": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ergun Akleman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15334"
+    "622": {
+      "title": "DESIGN COMM I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "DESIGN COMM I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Felice L. House (P)",
+            "Felice L. House"
+          ],
+          "credits": "4",
+          "course": "622",
+          "days": [
+            "MW",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 414",
+            "ARCC 414"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "02:41 pm-04:20 pm"
+          ],
+          "crn": "13354"
+        }
+      }
     },
-    "611": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Frederic Parke (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15350"
-    },
-    "601": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Francis K. Quek (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20722"
-    },
-    "612": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Felice L. House (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26562"
-    },
-    "602": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sherman S. Finch (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23240"
-    },
-    "657": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "657",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Carol Lafayette (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15344"
-    },
-    "603": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ann McNamara (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23367"
-    },
-    "604": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Philip Galanter (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15340"
-    },
-    "615": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jinsil Seo (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16467"
-    },
-    "659": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "659",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Timothy D. McLaughlin (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15347"
-    },
-    "605": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sharon Lynn Chu Yew Yee (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26362"
-    },
-    "616": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "616",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Eric D. Ragan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28563"
-    },
-    "607": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Carol Lafayette (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15343"
-    },
-    "609": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Timothy D. McLaughlin (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15346"
-    }
-  },
-  "670": {
-    "600": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "COMPUTATIONAL GEOMETRY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "670",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23107"
-    }
-  },
-  "693": {
-    "650": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "PROF STUDY: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Carol Lafayette (P)"
-      ],
-      "credits": "1-9",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20755"
-    },
-    "600": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sherman S. Finch (P)"
-      ],
-      "credits": "1-9",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22832"
-    },
-    "601": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Stephen Caffey (P)"
-      ],
-      "credits": "1-9",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17785"
-    },
-    "602": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Carol Lafayette (P)"
-      ],
-      "credits": "1-9",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17787"
-    },
-    "603": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Frederic Parke (P)"
-      ],
-      "credits": "1-9",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17786"
-    },
-    "604": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Timothy D. McLaughlin (P)"
-      ],
-      "credits": "1-9",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20121"
-    },
-    "605": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard Davison (P)"
-      ],
-      "credits": "1-9",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18764"
-    },
-    "606": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-9",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26867"
-    },
-    "607": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jinsil Seo (P)"
-      ],
-      "credits": "1-9",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20809"
-    },
-    "608": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "PROFESSIONAL STUDY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ergun Akleman (P)"
-      ],
-      "credits": "1-9",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23320"
-    }
-  },
-  "684": {
-    "650": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "PROFESSIONAL INTERNSHIP-IN AB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Carol Lafayette (P)"
-      ],
-      "credits": "3",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20932"
-    },
-    "600": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PROFESSIONAL INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20754"
-    }
-  },
-  "630": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "CONTEMP ART STUDIO/SEM I",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Carol Lafayette (P)",
-        "Carol Lafayette"
-      ],
-      "credits": "4",
-      "course": "630",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 429",
-        "ARCC 429"
-      ],
-      "time": [
-        "02:20 pm-03:10 pm",
-        "03:11 pm-04:50 pm"
-      ],
-      "crn": "16453"
-    }
-  },
-  "641": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "VISUAL STORYTELLING",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Ergun Akleman (P)",
-        "Ergun Akleman"
-      ],
-      "credits": "3",
-      "course": "641",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 205",
-        "ARCC 205"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "10:20 am-12:00 pm"
-      ],
-      "crn": "27924"
-    }
-  },
-  "685": {
-    "650": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ann McNamara (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20790"
-    },
-    "651": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Carol Lafayette (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18695"
-    },
-    "652": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "652",
-      "title": "DIRECTED STUDIES: IN ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard Davison (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20921"
-    },
-    "600": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ergun Akleman (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20905"
-    },
-    "611": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Frederic Parke (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15349"
-    },
-    "601": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Felice L. House (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23529"
-    },
-    "612": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15352"
-    },
-    "602": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard Davison (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15337"
-    },
-    "603": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Eric D. Ragan (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26519"
+    "613": {
+      "title": "3D MODELING & ANIMATN",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "3D MODELING & ANIMATN",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Ann McNamara (P)",
+            "Ann McNamara"
+          ],
+          "credits": "4",
+          "course": "613",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 414",
+            "ARCC 414"
+          ],
+          "time": [
+            "11:30 am-01:35 pm",
+            "11:30 am-01:35 pm"
+          ],
+          "crn": "13378"
+        }
+      }
     },
     "614": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ann McNamara (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16461"
+      "title": "FORM/INSTAL/ENVIRONMT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "FORM/INSTAL/ENVIRONMT",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jinsil Seo (P)",
+            "Jinsil Seo"
+          ],
+          "credits": "3",
+          "course": "614",
+          "days": [
+            "MW",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "01:31 pm-02:45 pm"
+          ],
+          "crn": "27923"
+        }
+      }
     },
-    "604": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Andre Thomas (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26521"
+    "658": {
+      "title": "EXPERIMENTAL TECHNIQUE",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "EXPERIMENTAL TECHNIQUE",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Francis K. Quek (P)",
+            "Francis K. Quek"
+          ],
+          "credits": "3",
+          "course": "658",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 414",
+            "ARCC 414"
+          ],
+          "time": [
+            "05:30 pm-06:20 pm",
+            "06:21 pm-07:10 pm"
+          ],
+          "crn": "21063"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "601",
+          "title": "EXPERIMENTAL TECHNIQUE (Syllabus)",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Sharon Lynn Chu Yew Yee (P)",
+            "Sharon Lynn Chu Yew Yee"
+          ],
+          "credits": "3",
+          "course": "658",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 346",
+            "ARCA 346"
+          ],
+          "time": [
+            "03:55 pm-04:45 pm",
+            "04:46 pm-05:35 pm"
+          ],
+          "crn": "28562"
+        }
+      }
     },
     "615": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jinsil Seo (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16463"
-    },
-    "609": {
-      "select": "C",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Timothy D. McLaughlin (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15345"
-    }
-  },
-  "675": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "GEOMETRIC MODELING",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Scott Schaefer (P)"
-      ],
-      "credits": "3",
-      "course": "675",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 007"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "25611"
-    }
-  },
-  "643": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "TIME BASED MEDIA I",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Carol Lafayette (P)",
-        "Carol Lafayette"
-      ],
-      "credits": "4",
-      "course": "643",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 414",
-        "ARCC 414"
-      ],
-      "time": [
-        "09:35 am-10:25 am",
-        "10:26 am-12:05 pm"
-      ],
-      "crn": "19019"
-    }
-  },
-  "654": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "DIGITAL IMAGE",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Ergun Akleman (P)",
-        "Ergun Akleman"
-      ],
-      "credits": "4",
-      "course": "654",
-      "days": [
-        "MW",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 414",
-        "ARCC 414"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "09:16 am-10:05 am"
-      ],
-      "crn": "12832"
-    }
-  },
-  "622": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "DESIGN COMM I",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Felice L. House (P)",
-        "Felice L. House"
-      ],
-      "credits": "4",
-      "course": "622",
-      "days": [
-        "MW",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 414",
-        "ARCC 414"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "02:41 pm-04:20 pm"
-      ],
-      "crn": "13354"
-    }
-  },
-  "613": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "3D MODELING & ANIMATN",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Ann McNamara (P)",
-        "Ann McNamara"
-      ],
-      "credits": "4",
-      "course": "613",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 414",
-        "ARCC 414"
-      ],
-      "time": [
-        "11:30 am-01:35 pm",
-        "11:30 am-01:35 pm"
-      ],
-      "crn": "13378"
-    }
-  },
-  "614": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "FORM/INSTAL/ENVIRONMT",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jinsil Seo (P)",
-        "Jinsil Seo"
-      ],
-      "credits": "3",
-      "course": "614",
-      "days": [
-        "MW",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "01:31 pm-02:45 pm"
-      ],
-      "crn": "27923"
-    }
-  },
-  "658": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "EXPERIMENTAL TECHNIQUE",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Francis K. Quek (P)",
-        "Francis K. Quek"
-      ],
-      "credits": "3",
-      "course": "658",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 414",
-        "ARCC 414"
-      ],
-      "time": [
-        "05:30 pm-06:20 pm",
-        "06:21 pm-07:10 pm"
-      ],
-      "crn": "21063"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "601",
-      "title": "EXPERIMENTAL TECHNIQUE (Syllabus)",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Sharon Lynn Chu Yew Yee (P)",
-        "Sharon Lynn Chu Yew Yee"
-      ],
-      "credits": "3",
-      "course": "658",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 346",
-        "ARCA 346"
-      ],
-      "time": [
-        "03:55 pm-04:45 pm",
-        "04:46 pm-05:35 pm"
-      ],
-      "crn": "28562"
-    }
-  },
-  "615": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
       "title": "COMPUTER ANIMATION",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Timothy D. McLaughlin (P)",
-        "Timothy D. McLaughlin"
-      ],
-      "credits": "4",
-      "course": "615",
-      "days": [
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 414",
-        "ARCC 414"
-      ],
-      "time": [
-        "02:20 pm-04:25 pm",
-        "02:20 pm-04:25 pm"
-      ],
-      "crn": "23727"
-    }
-  },
-  "626": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "COMPUTER ANIMATION",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Timothy D. McLaughlin (P)",
+            "Timothy D. McLaughlin"
+          ],
+          "credits": "4",
+          "course": "615",
+          "days": [
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 414",
+            "ARCC 414"
+          ],
+          "time": [
+            "02:20 pm-04:25 pm",
+            "02:20 pm-04:25 pm"
+          ],
+          "crn": "23727"
+        }
+      }
+    },
+    "626": {
       "title": "GENERATIVE ART & DESIGN",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Philip Galanter (P)",
-        "Philip Galanter",
-        "Philip Galanter"
-      ],
-      "credits": "3",
-      "course": "626",
-      "days": [
-        "M",
-        "M",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 429",
-        "ARCC 429",
-        "ARCC 429"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm",
-        "05:01 pm-06:15 pm",
-        "04:10 pm-06:15 pm"
-      ],
-      "crn": "20386"
-    }
-  },
-  "659": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "600",
+          "title": "GENERATIVE ART & DESIGN",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Philip Galanter (P)",
+            "Philip Galanter",
+            "Philip Galanter"
+          ],
+          "credits": "3",
+          "course": "626",
+          "days": [
+            "M",
+            "M",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 429",
+            "ARCC 429",
+            "ARCC 429"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm",
+            "05:01 pm-06:15 pm",
+            "04:10 pm-06:15 pm"
+          ],
+          "crn": "20386"
+        }
+      }
+    },
+    "659": {
       "title": "PHYSIC BASED MODELING",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "John Keyser (P)",
-        "John Keyser"
-      ],
-      "credits": "3",
-      "course": "659",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "ARCC 307"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm",
-        "01:36 pm-02:25 pm"
-      ],
-      "crn": "12833"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "PHYSIC BASED MODELING",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "John Keyser (P)",
+            "John Keyser"
+          ],
+          "credits": "3",
+          "course": "659",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "ARCC 307"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "01:36 pm-02:25 pm"
+          ],
+          "crn": "12833"
+        }
+      }
+    },
+    "617": {
+      "title": "ADV ANIMATION",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "ADV ANIMATION",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Frederic Parke (P)",
+            "Frederic Parke"
+          ],
+          "credits": "4",
+          "course": "617",
+          "days": [
+            "MW",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 414",
+            "ARCC 414"
+          ],
+          "time": [
+            "05:45 pm-06:45 pm",
+            "06:46 pm-08:15 pm"
+          ],
+          "crn": "23728"
+        }
+      }
     }
   },
-  "617": {
-    "600": {
-      "select": "SR",
-      "subject": "VIZA",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "ADV ANIMATION",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Frederic Parke (P)",
-        "Frederic Parke"
-      ],
-      "credits": "4",
-      "course": "617",
-      "days": [
-        "MW",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 414",
-        "ARCC 414"
-      ],
-      "time": [
-        "05:45 pm-06:45 pm",
-        "06:46 pm-08:15 pm"
-      ],
-      "crn": "23728"
-    }
-  }
+  "title": "VIZA - Visualization",
+  "updated": "Thu Apr 07 01:26:36 CDT 2016"
 }

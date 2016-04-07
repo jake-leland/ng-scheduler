@@ -1,93 +1,103 @@
 {
-  "685": {
-    "629": {
-      "select": "SR",
-      "subject": "VPAR",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "629",
+  "courses": {
+    "685": {
       "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Patricia J. Holman (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13929"
+      "sections": {
+        "629": {
+          "select": "SR",
+          "subject": "VPAR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "629",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Patricia J. Holman (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13929"
+        }
+      }
+    },
+    "691": {
+      "title": "RESEARCH",
+      "sections": {
+        "620": {
+          "select": "SR",
+          "subject": "VPAR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "620",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Karen Snowden (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15238"
+        },
+        "629": {
+          "select": "SR",
+          "subject": "VPAR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "629",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Patricia J. Holman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13930"
+        }
+      }
     }
   },
-  "691": {
-    "620": {
-      "select": "SR",
-      "subject": "VPAR",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "620",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Karen Snowden (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15238"
-    },
-    "629": {
-      "select": "SR",
-      "subject": "VPAR",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "629",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Patricia J. Holman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13930"
-    }
-  }
+  "title": "VPAR - Veterinary Parasitology",
+  "updated": "Thu Apr 07 01:26:40 CDT 2016"
 }

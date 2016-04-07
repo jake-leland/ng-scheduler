@@ -1,1174 +1,1196 @@
 {
-  "485": {
-    "501": {
-      "select": "C",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Brandon J. Koster (P), Jeffrey B. Archer"
-      ],
-      "credits": "1-3",
-      "course": "485",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "19129"
+      "sections": {
+        "501": {
+          "select": "C",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Brandon J. Koster (P), Jeffrey B. Archer"
+          ],
+          "credits": "1-3",
+          "course": "485",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "19129"
+        },
+        "502": {
+          "select": "C",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Brandon J. Koster (P)"
+          ],
+          "credits": "1",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18045"
+        }
+      }
     },
-    "502": {
-      "select": "C",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Brandon J. Koster (P)"
-      ],
-      "credits": "1",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18045"
-    }
-  },
-  "101": {
-    "510": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
+    "101": {
       "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "15612"
+      "sections": {
+        "510": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "15612"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "511",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "18397"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "10057"
+        },
+        "512": {
+          "select": "C",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "20526"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "10058"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "10059"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "10060"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "10061"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "10062"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "15610"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "15611"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "FOUNDATIONS OF THE USAF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "101",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "15613"
+        }
+      }
     },
-    "511": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "511",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "18397"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "10057"
-    },
-    "512": {
-      "select": "C",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "20526"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "10058"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "10059"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "10060"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "10061"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "10062"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "15610"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "15611"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "FOUNDATIONS OF THE USAF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Christopher K. Jordan (P), Warren O. Cohn , Mary Hague , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "101",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "15613"
-    }
-  },
-  "201": {
-    "510": {
-      "select": "C",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
+    "201": {
       "title": "EVOL OF AIR&SPACE POWER",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Brandon J. Koster (P)"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "21859"
+      "sections": {
+        "510": {
+          "select": "C",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "EVOL OF AIR&SPACE POWER",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Brandon J. Koster (P)"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "21859"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "EVOL OF AIR&SPACE POWER",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Brandon J. Koster (P), Hugh Hanlon"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "10067"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "EVOL OF AIR&SPACE POWER",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Brandon J. Koster (P), Hugh Hanlon"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "10068"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "EVOL OF AIR&SPACE POWER",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Brandon J. Koster (P), Hugh Hanlon"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "10069"
+        },
+        "504": {
+          "select": "C",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "EVOL OF AIR&SPACE POWER",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Brandon J. Koster (P), Hugh Hanlon"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "10070"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "EVOL OF AIR&SPACE POWER",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Brandon J. Koster (P), Hugh Hanlon"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "13614"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "EVOL OF AIR&SPACE POWER",
+          "remaining": "31",
+          "capacity": "31",
+          "instructor": [
+            "Brandon J. Koster (P), Hugh Hanlon"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "10071"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "EVOL OF AIR&SPACE POWER",
+          "remaining": "31",
+          "capacity": "31",
+          "instructor": [
+            "Brandon J. Koster (P), Hugh Hanlon"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "16473"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "EVOL OF AIR&SPACE POWER",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Brandon J. Koster (P), Hugh Hanlon"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "16474"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "EVOL OF AIR&SPACE POWER",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Brandon J. Koster (P), Hugh Hanlon"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "21858"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "EVOL OF AIR&SPACE POWER",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Brandon J. Koster (P), Hugh Hanlon"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "10067"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "EVOL OF AIR&SPACE POWER",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Brandon J. Koster (P), Hugh Hanlon"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "10068"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "EVOL OF AIR&SPACE POWER",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Brandon J. Koster (P), Hugh Hanlon"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "10069"
-    },
-    "504": {
-      "select": "C",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "EVOL OF AIR&SPACE POWER",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Brandon J. Koster (P), Hugh Hanlon"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "10070"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "EVOL OF AIR&SPACE POWER",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Brandon J. Koster (P), Hugh Hanlon"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "13614"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "EVOL OF AIR&SPACE POWER",
-      "remaining": "31",
-      "capacity": "31",
-      "instructor": [
-        "Brandon J. Koster (P), Hugh Hanlon"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "10071"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "EVOL OF AIR&SPACE POWER",
-      "remaining": "31",
-      "capacity": "31",
-      "instructor": [
-        "Brandon J. Koster (P), Hugh Hanlon"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "16473"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "EVOL OF AIR&SPACE POWER",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Brandon J. Koster (P), Hugh Hanlon"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "16474"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "EVOL OF AIR&SPACE POWER",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Brandon J. Koster (P), Hugh Hanlon"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "21858"
-    }
-  },
-  "105": {
-    "501": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "105": {
       "title": "AFROTC LEADERSHIP LAB",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "105",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 111"
-      ],
-      "time": [
-        "04:15 pm-06:15 pm"
-      ],
-      "crn": "10063"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "AFROTC LEADERSHIP LAB",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "105",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 111"
+          ],
+          "time": [
+            "04:15 pm-06:15 pm"
+          ],
+          "crn": "10063"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "AFROTC LEADERSHIP LAB",
+          "remaining": "107",
+          "capacity": "107",
+          "instructor": [
+            "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "105",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 113"
+          ],
+          "time": [
+            "04:15 pm-06:15 pm"
+          ],
+          "crn": "10064"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "AFROTC LEADERSHIP LAB",
+          "remaining": "107",
+          "capacity": "107",
+          "instructor": [
+            "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "105",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 201"
+          ],
+          "time": [
+            "04:15 pm-06:15 pm"
+          ],
+          "crn": "10065"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "AFROTC LEADERSHIP LAB",
+          "remaining": "106",
+          "capacity": "106",
+          "instructor": [
+            "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "105",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 109"
+          ],
+          "time": [
+            "04:15 pm-06:15 pm"
+          ],
+          "crn": "10066"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "AFROTC LEADERSHIP LAB",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "105",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 110"
+          ],
+          "time": [
+            "04:15 pm-06:15 pm"
+          ],
+          "crn": "16472"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "AFROTC LEADERSHIP LAB",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "105",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "04:15 pm-06:15 pm"
+          ],
+          "crn": "19814"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "AFROTC LEADERSHIP LAB",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "105",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "04:15 pm-06:15 pm"
+          ],
+          "crn": "19815"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "AFROTC LEADERSHIP LAB",
+          "remaining": "66",
+          "capacity": "66",
+          "instructor": [
+            "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
+          ],
+          "credits": "1",
+          "course": "105",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 315"
+          ],
+          "time": [
+            "09:10 am-11:10 am"
+          ],
+          "crn": "19812"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "AFROTC LEADERSHIP LAB",
-      "remaining": "107",
-      "capacity": "107",
-      "instructor": [
-        "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "105",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 113"
-      ],
-      "time": [
-        "04:15 pm-06:15 pm"
-      ],
-      "crn": "10064"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "AFROTC LEADERSHIP LAB",
-      "remaining": "107",
-      "capacity": "107",
-      "instructor": [
-        "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "105",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 201"
-      ],
-      "time": [
-        "04:15 pm-06:15 pm"
-      ],
-      "crn": "10065"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "AFROTC LEADERSHIP LAB",
-      "remaining": "106",
-      "capacity": "106",
-      "instructor": [
-        "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "105",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 109"
-      ],
-      "time": [
-        "04:15 pm-06:15 pm"
-      ],
-      "crn": "10066"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "AFROTC LEADERSHIP LAB",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "105",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 110"
-      ],
-      "time": [
-        "04:15 pm-06:15 pm"
-      ],
-      "crn": "16472"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "AFROTC LEADERSHIP LAB",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "105",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "04:15 pm-06:15 pm"
-      ],
-      "crn": "19814"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "AFROTC LEADERSHIP LAB",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "105",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "04:15 pm-06:15 pm"
-      ],
-      "crn": "19815"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "AFROTC LEADERSHIP LAB",
-      "remaining": "66",
-      "capacity": "66",
-      "instructor": [
-        "Jeffrey B. Archer (P), Christopher K. Jordan , Brandon J. Koster"
-      ],
-      "credits": "1",
-      "course": "105",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 315"
-      ],
-      "time": [
-        "09:10 am-11:10 am"
-      ],
-      "crn": "19812"
-    }
-  },
-  "303": {
-    "501": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "303": {
       "title": "AIR FORCE LDRSHP STUDIES",
-      "remaining": "21",
-      "capacity": "21",
-      "instructor": [
-        "Neil T. Sanger (P), Brandon J. Koster"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "13615"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "AIR FORCE LDRSHP STUDIES",
+          "remaining": "21",
+          "capacity": "21",
+          "instructor": [
+            "Neil T. Sanger (P), Brandon J. Koster"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "13615"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "AIR FORCE LDRSHP STUDIES",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "Neil T. Sanger (P), Brandon J. Koster"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "10072"
+        },
+        "503": {
+          "select": "C",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "AIR FORCE LDRSHP STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "10073"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "AIR FORCE LDRSHP STUDIES",
+          "remaining": "21",
+          "capacity": "21",
+          "instructor": [
+            "Neil T. Sanger (P), Brandon J. Koster"
+          ],
+          "credits": "3",
+          "course": "303",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "17705"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "AIR FORCE LDRSHP STUDIES",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "Neil T. Sanger (P), Brandon J. Koster"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "10072"
-    },
-    "503": {
-      "select": "C",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "AIR FORCE LDRSHP STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "10073"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "AIR FORCE LDRSHP STUDIES",
-      "remaining": "21",
-      "capacity": "21",
-      "instructor": [
-        "Neil T. Sanger (P), Brandon J. Koster"
-      ],
-      "credits": "3",
-      "course": "303",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "17705"
+    "403": {
+      "title": "NATL SECURITY AFFAIRS",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "NATL SECURITY AFFAIRS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Jeffrey B. Archer (P), Brandon J. Koster"
+          ],
+          "credits": "3",
+          "course": "403",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "10074"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "NATL SECURITY AFFAIRS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Jeffrey B. Archer (P), Brandon J. Koster"
+          ],
+          "credits": "3",
+          "course": "403",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "13616"
+        },
+        "503": {
+          "select": "C",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "NATL SECURITY AFFAIRS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jeffrey B. Archer (P), Brandon J. Koster"
+          ],
+          "credits": "3",
+          "course": "403",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "10075"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "AERS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "NATL SECURITY AFFAIRS",
+          "remaining": "17",
+          "capacity": "17",
+          "instructor": [
+            "Jeffrey B. Archer (P), Brandon J. Koster"
+          ],
+          "credits": "3",
+          "course": "403",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "19126"
+        }
+      }
     }
   },
-  "403": {
-    "501": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "NATL SECURITY AFFAIRS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Jeffrey B. Archer (P), Brandon J. Koster"
-      ],
-      "credits": "3",
-      "course": "403",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "10074"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "NATL SECURITY AFFAIRS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Jeffrey B. Archer (P), Brandon J. Koster"
-      ],
-      "credits": "3",
-      "course": "403",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "13616"
-    },
-    "503": {
-      "select": "C",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "NATL SECURITY AFFAIRS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jeffrey B. Archer (P), Brandon J. Koster"
-      ],
-      "credits": "3",
-      "course": "403",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "10075"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "AERS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "NATL SECURITY AFFAIRS",
-      "remaining": "17",
-      "capacity": "17",
-      "instructor": [
-        "Jeffrey B. Archer (P), Brandon J. Koster"
-      ],
-      "credits": "3",
-      "course": "403",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "19126"
-    }
-  }
+  "title": "AERS - Aerospace Studies",
+  "updated": "Thu Apr 07 01:09:13 CDT 2016"
 }

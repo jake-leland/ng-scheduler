@@ -1,318 +1,346 @@
 {
-  "484": {
-    "700": {
-      "select": "C",
-      "subject": "TCMG",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
+  "courses": {
+    "484": {
       "title": "PROFESSIONAL INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Karen S. Smith (P)"
-      ],
-      "credits": "6",
-      "course": "484",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "26903"
-    }
-  },
-  "476": {
-    "500": {
-      "select": "SR",
-      "subject": "TCMG",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "TCMG",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "PROFESSIONAL INTERNSHIP",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Karen S. Smith (P)"
+          ],
+          "credits": "6",
+          "course": "484",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "26903"
+        }
+      }
+    },
+    "476": {
       "title": "MANAGING TECH NETWORKS",
-      "remaining": "31",
-      "capacity": "31",
-      "instructor": [
-        "Robert T. Jones (P)",
-        "Robert T. Jones"
-      ],
-      "credits": "4",
-      "course": "476",
-      "days": [
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 616",
-        "EDCT 616"
-      ],
-      "time": [
-        "11:10 am-12:25 pm",
-        "12:45 pm-03:35 pm"
-      ],
-      "crn": "25447"
-    }
-  },
-  "412": {
-    "500": {
-      "select": "SR",
-      "subject": "TCMG",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "TCMG",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "MANAGING TECH NETWORKS",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Robert T. Jones (P)",
+            "Robert T. Jones"
+          ],
+          "credits": "4",
+          "course": "476",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 616",
+            "EDCT 616"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "12:45 pm-03:35 pm"
+          ],
+          "crn": "25447"
+        }
+      }
+    },
+    "412": {
       "title": "CONTEMP ISSUES IN TCM",
-      "remaining": "34",
-      "capacity": "34",
-      "instructor": [
-        "Benjamin L. Smith (P)"
-      ],
-      "credits": "3",
-      "course": "412",
-      "days": [
-        "MF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 616"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "25432"
-    }
-  },
-  "303": {
-    "500": {
-      "select": "SR",
-      "subject": "TCMG",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "TCMG",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CONTEMP ISSUES IN TCM",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Benjamin L. Smith (P)"
+          ],
+          "credits": "3",
+          "course": "412",
+          "days": [
+            "MF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 616"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "25432"
+        }
+      }
+    },
+    "303": {
       "title": "UNIX SYS ADMIN PRACT",
-      "remaining": "34",
-      "capacity": "34",
-      "instructor": [
-        "Robert T. Jones (P)",
-        "Robert T. Jones (P)"
-      ],
-      "credits": "4",
-      "course": "303",
-      "days": [
-        "TR",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 616",
-        "EDCT 616"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "09:35 am-10:50 am"
-      ],
-      "crn": "25200"
-    }
-  },
-  "402": {
-    "598": {
-      "select": "SR",
-      "subject": "TCMG",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "598",
-      "title": "INSTRUCT TECH & DESIGN",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Christine L. Mark (P)"
-      ],
-      "credits": "3",
-      "course": "402",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25113"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "TCMG",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "UNIX SYS ADMIN PRACT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Robert T. Jones (P)",
+            "Robert T. Jones (P)"
+          ],
+          "credits": "4",
+          "course": "303",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 616",
+            "EDCT 616"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "09:35 am-10:50 am"
+          ],
+          "crn": "25200"
+        }
+      }
     },
-    "599": {
-      "select": "SR",
-      "subject": "TCMG",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
+    "402": {
       "title": "INSTRUCT TECH & DESIGN",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Christine L. Mark (P)"
-      ],
-      "credits": "3",
-      "course": "402",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25114"
-    }
-  },
-  "308": {
-    "700": {
-      "select": "C",
-      "subject": "TCMG",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "CYBERSECURITY DIGITAL ETHICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "308",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "26900"
+      "sections": {
+        "598": {
+          "select": "SR",
+          "subject": "TCMG",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "598",
+          "title": "INSTRUCT TECH & DESIGN",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Christine L. Mark (P)"
+          ],
+          "credits": "3",
+          "course": "402",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25113"
+        },
+        "599": {
+          "select": "SR",
+          "subject": "TCMG",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "INSTRUCT TECH & DESIGN",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Christine L. Mark (P)"
+          ],
+          "credits": "3",
+          "course": "402",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25114"
+        }
+      }
     },
-    "701": {
-      "select": "C",
-      "subject": "TCMG",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "701",
+    "308": {
       "title": "CYBERSECURITY DIGITAL ETHICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "308",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "26901"
-    }
-  },
-  "272": {
-    "500": {
-      "select": "SR",
-      "subject": "TCMG",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "TCMG",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "CYBERSECURITY DIGITAL ETHICS",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "308",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "26900"
+        },
+        "701": {
+          "select": "SR",
+          "subject": "TCMG",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "701",
+          "title": "CYBERSECURITY DIGITAL ETHICS",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "308",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "26901"
+        }
+      }
+    },
+    "272": {
       "title": "TECH & END USER SUPPORT",
-      "remaining": "34",
-      "capacity": "34",
-      "instructor": [
-        "Benjamin L. Smith (P)"
-      ],
-      "credits": "3",
-      "course": "272",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 616"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "25198"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "TCMG",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "TECH & END USER SUPPORT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Benjamin L. Smith (P)"
+          ],
+          "credits": "3",
+          "course": "272",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 616"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "25198"
+        }
+      }
+    },
+    "274": {
+      "title": "DIST NETWORKING FOR T&D",
+      "sections": {
+        "599": {
+          "select": "SR",
+          "subject": "TCMG",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "DIST NETWORKING FOR T&D",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Jacob R. Chandler (P)"
+          ],
+          "credits": "3",
+          "course": "274",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "25112"
+        }
+      }
     }
   },
-  "274": {
-    "599": {
-      "select": "SR",
-      "subject": "TCMG",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "DIST NETWORKING FOR T&D",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Jacob R. Chandler (P)"
-      ],
-      "credits": "3",
-      "course": "274",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "25112"
-    }
-  }
+  "title": "TCMG - Technology Management",
+  "updated": "Thu Apr 07 01:26:03 CDT 2016"
 }

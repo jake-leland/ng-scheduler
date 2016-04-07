@@ -1,622 +1,686 @@
 {
-  "5042": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "5042": {
       "title": "TMD CLINIC",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "James R. Polson (P)"
-      ],
-      "credits": "0",
-      "course": "5042",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:00 pm-05:00 pm"
-      ],
-      "crn": "22973"
-    }
-  },
-  "5110": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "TMD CLINIC",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "James R. Polson (P)"
+          ],
+          "credits": "0",
+          "course": "5042",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:00 pm-05:00 pm"
+          ],
+          "crn": "22973"
+        }
+      }
+    },
+    "5110": {
       "title": "ORTHOGNATHIC SURG CONFER II",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Reginald W. Taylor (P)"
-      ],
-      "credits": "0",
-      "course": "5110",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22974"
-    }
-  },
-  "5111": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ORTHOGNATHIC SURG CONFER II",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Reginald W. Taylor (P)"
+          ],
+          "credits": "0",
+          "course": "5110",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22974"
+        }
+      }
+    },
+    "5111": {
       "title": "ORTHOGNATHIC SURGERY CONFER",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Reginald W. Taylor (P)"
-      ],
-      "credits": "0",
-      "course": "5111",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22968"
-    }
-  },
-  "5199": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ORTHOGNATHIC SURGERY CONFER",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Reginald W. Taylor (P)"
+          ],
+          "credits": "0",
+          "course": "5111",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22968"
+        }
+      }
+    },
+    "5199": {
       "title": "THESIS",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Peter H. Buschang (P)"
-      ],
-      "credits": "1",
-      "course": "5199",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "01:00 pm-05:00 pm"
-      ],
-      "crn": "22977"
-    }
-  },
-  "5112": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THESIS",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Peter H. Buschang (P)"
+          ],
+          "credits": "1",
+          "course": "5199",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "01:00 pm-05:00 pm"
+          ],
+          "crn": "22977"
+        }
+      }
+    },
+    "5112": {
       "title": "ORTHOGNATHIC SUR SEMINAR",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Monte K. Collins (P)"
-      ],
-      "credits": ".5",
-      "course": "5112",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22983"
-    }
-  },
-  "5200": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ORTHOGNATHIC SUR SEMINAR",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Monte K. Collins (P)"
+          ],
+          "credits": ".5",
+          "course": "5112",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22983"
+        }
+      }
+    },
+    "5200": {
       "title": "INTRODUCTION TO ORTHODONTICS I",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Larry P. Tadlock (P)"
-      ],
-      "credits": ".5-1.5",
-      "course": "5200",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22985"
-    }
-  },
-  "5201": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "INTRODUCTION TO ORTHODONTICS I",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Larry P. Tadlock (P)"
+          ],
+          "credits": ".5-1.5",
+          "course": "5200",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22985"
+        }
+      }
+    },
+    "5201": {
       "title": "INTRO TO ORTHODONTICS II",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Larry P. Tadlock (P)"
-      ],
-      "credits": "1",
-      "course": "5201",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22976"
-    }
-  },
-  "5103": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "INTRO TO ORTHODONTICS II",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Larry P. Tadlock (P)"
+          ],
+          "credits": "1",
+          "course": "5201",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22976"
+        }
+      }
+    },
+    "5103": {
       "title": "BIOMECHANICS I",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Katie Julien (P)"
-      ],
-      "credits": "1",
-      "course": "5103",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22980"
-    }
-  },
-  "5125": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "BIOMECHANICS I",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Katie Julien (P)"
+          ],
+          "credits": "1",
+          "course": "5103",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22980"
+        }
+      }
+    },
+    "5125": {
       "title": "CLINICAL SPECIALTY SEMINAR II",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Larry P. Tadlock (P)"
-      ],
-      "credits": "0-10",
-      "course": "5125",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22975"
-    }
-  },
-  "5050": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLINICAL SPECIALTY SEMINAR II",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Larry P. Tadlock (P)"
+          ],
+          "credits": "0-10",
+          "course": "5125",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22975"
+        }
+      }
+    },
+    "5050": {
       "title": "CRANIOFACIAL ANOMALIES CLINIC",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Jeffrey S. Genecov (P)"
-      ],
-      "credits": "0",
-      "course": "5050",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22967"
-    }
-  },
-  "5115": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CRANIOFACIAL ANOMALIES CLINIC",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Jeffrey S. Genecov (P)"
+          ],
+          "credits": "0",
+          "course": "5050",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22967"
+        }
+      }
+    },
+    "5115": {
       "title": "CLINICAL SPECIALTY SEMINARS I",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Larry P. Tadlock (P)"
-      ],
-      "credits": "0-3",
-      "course": "5115",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22984"
-    }
-  },
-  "5126": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLINICAL SPECIALTY SEMINARS I",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Larry P. Tadlock (P)"
+          ],
+          "credits": "0-3",
+          "course": "5115",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22984"
+        }
+      }
+    },
+    "5126": {
       "title": "CLINICAL SPECIALTY SEMINAR III",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Larry P. Tadlock (P)"
-      ],
-      "credits": "2",
-      "course": "5126",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22969"
-    }
-  },
-  "5148": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLINICAL SPECIALTY SEMINAR III",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Larry P. Tadlock (P)"
+          ],
+          "credits": "2",
+          "course": "5126",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22969"
+        }
+      }
+    },
+    "5148": {
       "title": "INDEPENDENT RESEARCH",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Peter H. Buschang (P)"
-      ],
-      "credits": "0-10",
-      "course": "5148",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "01:00 pm-05:00 pm"
-      ],
-      "crn": "22979"
-    }
-  },
-  "5533": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "INDEPENDENT RESEARCH",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Peter H. Buschang (P)"
+          ],
+          "credits": "0-10",
+          "course": "5148",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "01:00 pm-05:00 pm"
+          ],
+          "crn": "22979"
+        }
+      }
+    },
+    "5533": {
       "title": "CLINICAL ORTHODONTICS I",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Katie Julien (P)"
-      ],
-      "credits": "3",
-      "course": "5533",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-12:00 pm"
-      ],
-      "crn": "22986"
-    }
-  },
-  "5248": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLINICAL ORTHODONTICS I",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Katie Julien (P)"
+          ],
+          "credits": "3",
+          "course": "5533",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-12:00 pm"
+          ],
+          "crn": "22986"
+        }
+      }
+    },
+    "5248": {
       "title": "INDEPENDENT RSCH/JOURNAL ART",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Peter H. Buschang (P)"
-      ],
-      "credits": "2",
-      "course": "5248",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22971"
-    }
-  },
-  "5534": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "INDEPENDENT RSCH/JOURNAL ART",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Peter H. Buschang (P)"
+          ],
+          "credits": "2",
+          "course": "5248",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22971"
+        }
+      }
+    },
+    "5534": {
       "title": "CLINICAL ORTHODONTICS II",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Katie Julien (P)"
-      ],
-      "credits": "3",
-      "course": "5534",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22978"
-    }
-  },
-  "5535": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLINICAL ORTHODONTICS II",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Katie Julien (P)"
+          ],
+          "credits": "3",
+          "course": "5534",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22978"
+        }
+      }
+    },
+    "5535": {
       "title": "CLINICAL ORTHODONTICS III",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Katie Julien (P)"
-      ],
-      "credits": "3",
-      "course": "5535",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:00 am-12:00 pm"
-      ],
-      "crn": "22972"
-    }
-  },
-  "5129": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "CLINICAL ORTHODONTICS III",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Katie Julien (P)"
+          ],
+          "credits": "3",
+          "course": "5535",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:00 am-12:00 pm"
+          ],
+          "crn": "22972"
+        }
+      }
+    },
+    "5129": {
       "title": "ADV ORTHODONTIC PRAC MGMT",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Phillip M. Campbell (P)"
-      ],
-      "credits": "2",
-      "course": "5129",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22970"
-    }
-  },
-  "5108": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADV ORTHODONTIC PRAC MGMT",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Phillip M. Campbell (P)"
+          ],
+          "credits": "2",
+          "course": "5129",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22970"
+        }
+      }
+    },
+    "5108": {
       "title": "ADVANCED CEPHALOMETRICS",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Peter H. Buschang (P)"
-      ],
-      "credits": "1",
-      "course": "5108",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "03:00 pm-05:00 pm"
-      ],
-      "crn": "22981"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADVANCED CEPHALOMETRICS",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Peter H. Buschang (P)"
+          ],
+          "credits": "1",
+          "course": "5108",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "03:00 pm-05:00 pm"
+          ],
+          "crn": "22981"
+        }
+      }
+    },
+    "5109": {
+      "title": "ORTHOGNATHIC SURG CONFERENCE I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ORTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ORTHOGNATHIC SURG CONFERENCE I",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Reginald W. Taylor (P)"
+          ],
+          "credits": "0",
+          "course": "5109",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22982"
+        }
+      }
     }
   },
-  "5109": {
-    "600": {
-      "select": "SR",
-      "subject": "ORTH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ORTHOGNATHIC SURG CONFERENCE I",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Reginald W. Taylor (P)"
-      ],
-      "credits": "0",
-      "course": "5109",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22982"
-    }
-  }
+  "title": "ORTH - Orthodontics",
+  "updated": "Thu Apr 07 01:22:04 CDT 2016"
 }

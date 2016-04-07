@@ -1,33 +1,40 @@
 {
-  "201": {
-    "500": {
-      "select": "SR",
-      "subject": "LMAS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "201": {
       "title": "INTRO LATINO MEXICAN AMER STUD",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Carlos Blanton (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 323"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "28513"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "LMAS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTRO LATINO MEXICAN AMER STUD",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Carlos Blanton (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 323"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "28513"
+        }
+      }
     }
-  }
+  },
+  "title": "LMAS - Latino/Mex Amer Studies",
+  "updated": "Thu Apr 07 01:19:38 CDT 2016"
 }

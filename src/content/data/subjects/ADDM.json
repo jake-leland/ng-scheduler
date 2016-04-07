@@ -1,33 +1,40 @@
 {
-  "5220": {
-    "600": {
-      "select": "SR",
-      "subject": "ADDM",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "5220": {
       "title": "ADVANCED DENTAL MATERIALS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "David F. Murchison (P)"
-      ],
-      "credits": "2",
-      "course": "5220",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23004"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ADDM",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADVANCED DENTAL MATERIALS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "David F. Murchison (P)"
+          ],
+          "credits": "2",
+          "course": "5220",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23004"
+        }
+      }
     }
-  }
+  },
+  "title": "ADDM - Dental Materials",
+  "updated": "Thu Apr 07 01:09:00 CDT 2016"
 }

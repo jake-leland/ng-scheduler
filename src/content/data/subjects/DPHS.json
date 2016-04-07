@@ -1,33 +1,40 @@
 {
-  "5000": {
-    "600": {
-      "select": "C\n                              MM ",
-      "subject": "DPHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "5000": {
       "title": "DENTAL PUBLIC HLTH PRACTICUM",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-9",
-      "course": "5000",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28463"
+      "sections": {
+        "600": {
+          "select": "C\n                              MM ",
+          "subject": "DPHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DENTAL PUBLIC HLTH PRACTICUM",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-9",
+          "course": "5000",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28463"
+        }
+      }
     }
-  }
+  },
+  "title": "DPHS - Dental Public Health",
+  "updated": "Thu Apr 07 01:13:52 CDT 2016"
 }

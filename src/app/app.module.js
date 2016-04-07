@@ -7,6 +7,7 @@
 
 
             'app.core',
-            'app.scheduler'
+            'app.schedule',
+            'app.manage'
         ]);
 })();

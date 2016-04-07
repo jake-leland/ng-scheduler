@@ -1,228 +1,244 @@
 {
-  "101": {
-    "501": {
-      "select": "SR",
-      "subject": "JAPN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "101": {
       "title": "BEGINNING JAPANESE I",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "George Adams (P)",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWRF",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HRBB 104",
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-08:50 am",
-        "TBA"
-      ],
-      "crn": "11621"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "JAPN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "BEGINNING JAPANESE I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "George Adams (P)",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWRF",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 104",
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "TBA"
+          ],
+          "crn": "11621"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "JAPN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "BEGINNING JAPANESE I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "George Adams (P)",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWRF",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 104",
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "TBA"
+          ],
+          "crn": "11622"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "JAPN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "BEGINNING JAPANESE I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "George Adams (P)",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MTWRF",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 227",
+            "TBA"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "TBA"
+          ],
+          "crn": "21360"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "JAPN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "BEGINNING JAPANESE I",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "George Adams (P)",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWRF",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HRBB 104",
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "TBA"
-      ],
-      "crn": "11622"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "JAPN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "BEGINNING JAPANESE I",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "George Adams (P)",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MTWRF",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 227",
-        "TBA"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "TBA"
-      ],
-      "crn": "21360"
-    }
-  },
-  "201": {
-    "501": {
-      "select": "SR",
-      "subject": "JAPN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "201": {
       "title": "INTERMEDIATE JAPANESE I",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Yuki Waugh (P)"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MTWR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 264"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "11623"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "JAPN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERMEDIATE JAPANESE I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Yuki Waugh (P)"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MTWR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 264"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "11623"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "JAPN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTERMEDIATE JAPANESE I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Yuki Waugh (P)"
+          ],
+          "credits": "4",
+          "course": "201",
+          "days": [
+            "MTWR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 227"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "11624"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "JAPN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "INTERMEDIATE JAPANESE I",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Yuki Waugh (P)"
-      ],
-      "credits": "4",
-      "course": "201",
-      "days": [
-        "MTWR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 227"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "11624"
-    }
-  },
-  "301": {
-    "500": {
-      "select": "SR",
-      "subject": "JAPN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "301": {
       "title": "UPPER LEVEL JAPANESE I",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Yuki Waugh (P)"
-      ],
-      "credits": "3",
-      "course": "301",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 123"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "24343"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "JAPN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "UPPER LEVEL JAPANESE I",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Yuki Waugh (P)"
+          ],
+          "credits": "3",
+          "course": "301",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 123"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "24343"
+        }
+      }
+    },
+    "491": {
+      "title": "RESEARCH",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "JAPN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Yuki Waugh (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25778"
+        }
+      }
     }
   },
-  "491": {
-    "500": {
-      "select": "C",
-      "subject": "JAPN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Yuki Waugh (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25778"
-    }
-  }
+  "title": "JAPN - Japanese",
+  "updated": "Thu Apr 07 01:18:45 CDT 2016"
 }

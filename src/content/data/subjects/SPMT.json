@@ -1,2688 +1,2806 @@
 {
-  "491": {
-    "500": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "491": {
       "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23450"
-    }
-  },
-  "690": {
-    "600": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23450"
+        }
+      }
+    },
+    "690": {
       "title": "THEORY OF RES IN SPT MGT",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Charles Shea (P)"
-      ],
-      "credits": "3",
-      "course": "690",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 306"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "13270"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THEORY OF RES IN SPT MGT",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Charles Shea (P)"
+          ],
+          "credits": "3",
+          "course": "690",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 306"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "13270"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "THEORY OF RES IN SPT MGT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Matthew B. Walker (P)"
+          ],
+          "credits": "3",
+          "course": "690",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "22011"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "THEORY OF RES IN SPT MGT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Matthew B. Walker (P)"
-      ],
-      "credits": "3",
-      "course": "690",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "22011"
-    }
-  },
-  "691": {
-    "650": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Akilah Carter (P)"
-      ],
-      "credits": "1-18",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23536"
-    },
-    "651": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "George B. Cunningham (P)"
-      ],
-      "credits": "1-18",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26438"
-    },
-    "643": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gregg Bennett (P)"
-      ],
-      "credits": "1-18",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15447"
+      "sections": {
+        "650": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Akilah Carter (P)"
+          ],
+          "credits": "1-18",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23536"
+        },
+        "651": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "George B. Cunningham (P)"
+          ],
+          "credits": "1-18",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26438"
+        },
+        "643": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gregg Bennett (P)"
+          ],
+          "credits": "1-18",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15447"
+        },
+        "665": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "665",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gregg Bennett (P)"
+          ],
+          "credits": "1-18",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16127"
+        },
+        "601": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Matthew B. Walker (P)"
+          ],
+          "credits": "1-18",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20492"
+        },
+        "667": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "667",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "George B. Cunningham (P)"
+          ],
+          "credits": "1-18",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15563"
+        },
+        "602": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Singer (P)"
+          ],
+          "credits": "1-18",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26232"
+        },
+        "668": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "668",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Singer (P)"
+          ],
+          "credits": "1-18",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18954"
+        },
+        "636": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "636",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Akilah Carter (P)"
+          ],
+          "credits": "1-18",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18498"
+        }
+      }
     },
-    "665": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "665",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gregg Bennett (P)"
-      ],
-      "credits": "1-18",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16127"
-    },
-    "601": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Matthew B. Walker (P)"
-      ],
-      "credits": "1-18",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20492"
-    },
-    "667": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "667",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "George B. Cunningham (P)"
-      ],
-      "credits": "1-18",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15563"
-    },
-    "602": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Singer (P)"
-      ],
-      "credits": "1-18",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26232"
-    },
-    "668": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "668",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Singer (P)"
-      ],
-      "credits": "1-18",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18954"
-    },
-    "636": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "636",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Akilah Carter (P)"
-      ],
-      "credits": "1-18",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18498"
-    }
-  },
-  "333": {
-    "501": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "333": {
       "title": "SPORT MANAGEMENT",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Theodore Hayduk (P)"
-      ],
-      "credits": "3",
-      "course": "333",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 120"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12742"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SPORT MANAGEMENT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Theodore Hayduk (P)"
+          ],
+          "credits": "3",
+          "course": "333",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 120"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12742"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "SPORT MANAGEMENT",
+          "remaining": "39",
+          "capacity": "39",
+          "instructor": [
+            "John Singer (P)"
+          ],
+          "credits": "3",
+          "course": "333",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 120"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "16874"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "SPORT MANAGEMENT",
+          "remaining": "39",
+          "capacity": "39",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "3",
+          "course": "333",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 105"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "24910"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "SPORT MANAGEMENT",
-      "remaining": "39",
-      "capacity": "39",
-      "instructor": [
-        "John Singer (P)"
-      ],
-      "credits": "3",
-      "course": "333",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 120"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "16874"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "SPORT MANAGEMENT",
-      "remaining": "39",
-      "capacity": "39",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "3",
-      "course": "333",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 105"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "24910"
-    }
-  },
-  "630": {
-    "699": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
+    "630": {
       "title": "ECONOMIC ISSUES IN SPORT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Steven H. Salaga (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "27893"
+      "sections": {
+        "699": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "ECONOMIC ISSUES IN SPORT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Steven H. Salaga (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "27893"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "ECONOMIC ISSUES IN SPORT",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Steven H. Salaga (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "27894"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "ECONOMIC ISSUES IN SPORT",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Steven H. Salaga (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "27894"
-    }
-  },
-  "334": {
-    "500": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "334": {
       "title": "SPORT COMMUNICATION",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jonathan D. Wood (P)"
-      ],
-      "credits": "3",
-      "course": "334",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 302"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "13281"
-    }
-  },
-  "610": {
-    "600": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPORT COMMUNICATION",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jonathan D. Wood (P)"
+          ],
+          "credits": "3",
+          "course": "334",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 302"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "13281"
+        }
+      }
+    },
+    "610": {
       "title": "ADMIN OF SPORT ORG",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "610",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 110"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12751"
-    }
-  },
-  "336": {
-    "500": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "DIVERSITY IN SPORT ORGS",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "John Singer (P)"
-      ],
-      "credits": "3",
-      "course": "336",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 306"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "12743"
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ADMIN OF SPORT ORG",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "610",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12751"
+        }
+      }
     },
-    "599": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
+    "336": {
       "title": "DIVERSITY IN SPORT ORGS",
-      "remaining": "275",
-      "capacity": "275",
-      "instructor": [
-        "Anthony J. Weems (P)"
-      ],
-      "credits": "3",
-      "course": "336",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14157"
-    }
-  },
-  "611": {
-    "600": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIVERSITY IN SPORT ORGS",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "John Singer (P)"
+          ],
+          "credits": "3",
+          "course": "336",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 306"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "12743"
+        },
+        "599": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "DIVERSITY IN SPORT ORGS",
+          "remaining": "275",
+          "capacity": "275",
+          "instructor": [
+            "Anthony J. Weems (P)"
+          ],
+          "credits": "3",
+          "course": "336",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14157"
+        }
+      }
+    },
+    "611": {
       "title": "REVENUE GENERATION SPORT",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Steven H. Salaga (P)"
-      ],
-      "credits": "3",
-      "course": "611",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 120"
-      ],
-      "time": [
-        "03:55 pm-05:00 pm"
-      ],
-      "crn": "12752"
-    }
-  },
-  "655": {
-    "700": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "REVENUE GENERATION SPORT",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Steven H. Salaga (P)"
+          ],
+          "credits": "3",
+          "course": "611",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 120"
+          ],
+          "time": [
+            "03:55 pm-05:00 pm"
+          ],
+          "crn": "12752"
+        }
+      }
+    },
+    "655": {
       "title": "SPORT LAW",
-      "remaining": "23",
-      "capacity": "23",
-      "instructor": [
-        "Paul Batista (P)"
-      ],
-      "credits": "3",
-      "course": "655",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "16996"
-    }
-  },
-  "337": {
-    "599": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "SPORT LAW",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Paul Batista (P)"
+          ],
+          "credits": "3",
+          "course": "655",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "16996"
+        }
+      }
+    },
+    "337": {
       "title": "INTNL SPORT BUSINESS",
-      "remaining": "350",
-      "capacity": "350",
-      "instructor": [
-        "Matthew L. Goldsmith (P)"
-      ],
-      "credits": "3",
-      "course": "337",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14158"
-    }
-  },
-  "217": {
-    "599": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "FOUNDATION OF SPORT MGMT",
-      "remaining": "200",
-      "capacity": "200",
-      "instructor": [
-        "Shane L. Hudson (P)"
-      ],
-      "credits": "3",
-      "course": "217",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14156"
+      "sections": {
+        "599": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "INTNL SPORT BUSINESS",
+          "remaining": "350",
+          "capacity": "350",
+          "instructor": [
+            "Matthew L. Goldsmith (P)"
+          ],
+          "credits": "3",
+          "course": "337",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14158"
+        }
+      }
     },
-    "504": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
+    "217": {
       "title": "FOUNDATION OF SPORT MGMT",
-      "remaining": "48",
-      "capacity": "48",
-      "instructor": [
-        "Katherine M. Brown (P)"
-      ],
-      "credits": "3",
-      "course": "217",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 107"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "21255"
+      "sections": {
+        "599": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "FOUNDATION OF SPORT MGMT",
+          "remaining": "200",
+          "capacity": "200",
+          "instructor": [
+            "Shane L. Hudson (P)"
+          ],
+          "credits": "3",
+          "course": "217",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14156"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "FOUNDATION OF SPORT MGMT",
+          "remaining": "48",
+          "capacity": "48",
+          "instructor": [
+            "Katherine M. Brown (P)"
+          ],
+          "credits": "3",
+          "course": "217",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 107"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "21255"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "FOUNDATION OF SPORT MGMT",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Shane L. Hudson (P)"
+          ],
+          "credits": "3",
+          "course": "217",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HECC 200"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "22718"
+        }
+      }
     },
-    "505": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "FOUNDATION OF SPORT MGMT",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Shane L. Hudson (P)"
-      ],
-      "credits": "3",
-      "course": "217",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HECC 200"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "22718"
-    }
-  },
-  "613": {
-    "600": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "613": {
       "title": "DIVERSITY IN SPORT ORG",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "613",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 120"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12753"
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DIVERSITY IN SPORT ORG",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "613",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "12753"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "DIVERSITY IN SPORT ORG",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "Elizabeth N. Melton (P)"
+          ],
+          "credits": "3",
+          "course": "613",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "15638"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "DIVERSITY IN SPORT ORG",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "Elizabeth N. Melton (P)"
-      ],
-      "credits": "3",
-      "course": "613",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "15638"
-    }
-  },
-  "615": {
-    "600": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "615": {
       "title": "SPORT MARKETING",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Gregg Bennett (P)"
-      ],
-      "credits": "3",
-      "course": "615",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 107"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "13340"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SPORT MARKETING",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Gregg Bennett (P)"
+          ],
+          "credits": "3",
+          "course": "615",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 107"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "13340"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "SPORT MARKETING",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "Khalid W. Ballouli (P)"
+          ],
+          "credits": "3",
+          "course": "615",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "15639"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "SPORT MARKETING",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "Khalid W. Ballouli (P)"
-      ],
-      "credits": "3",
-      "course": "615",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "15639"
-    }
-  },
-  "319": {
-    "500": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "319": {
       "title": "SOC OF SPORT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "3",
-      "course": "319",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 105"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "27891"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SOC OF SPORT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "3",
+          "course": "319",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 105"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "27891"
+        },
+        "599": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "SOC OF SPORT",
+          "remaining": "200",
+          "capacity": "200",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "319",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "20012"
+        }
+      }
     },
-    "599": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "SOC OF SPORT",
-      "remaining": "200",
-      "capacity": "200",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "319",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "20012"
-    }
-  },
-  "481": {
-    "595": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "595",
-      "title": "SEMINAR IN SPORT AGENT",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Paul Batista (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "27885"
+    "481": {
+      "title": "SEMINAR",
+      "sections": {
+        "595": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "595",
+          "title": "SEMINAR IN SPORT AGENT",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Paul Batista (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "27885"
+        },
+        "596": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "596",
+          "title": "SEMINAR IN SPORT HISTORY",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Paul E. Keiper (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "27886"
+        },
+        "597": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "597",
+          "title": "SEMINAR IN SOCIAL PSYC",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "27887"
+        },
+        "598": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "598",
+          "title": "SEMINAR IN COLLEGE ATHLETICS",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Shane L. Hudson (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "27888"
+        }
+      }
     },
-    "596": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "596",
-      "title": "SEMINAR IN SPORT HISTORY",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Paul E. Keiper (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "27886"
-    },
-    "597": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "597",
-      "title": "SEMINAR IN SOCIAL PSYC",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "27887"
-    },
-    "598": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "598",
-      "title": "SEMINAR IN COLLEGE ATHLETICS",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Shane L. Hudson (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "27888"
-    }
-  },
-  "482": {
-    "901": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "901",
+    "482": {
       "title": "PROFESSIONAL WRITING SEMINAR",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Kayla D. Jones (P)"
-      ],
-      "credits": "1",
-      "course": "482",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 342A"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12748"
+      "sections": {
+        "901": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "901",
+          "title": "PROFESSIONAL WRITING SEMINAR",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Kayla D. Jones (P)"
+          ],
+          "credits": "1",
+          "course": "482",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 342A"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12748"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "902",
+          "title": "PROFESSIONAL WRITING SEMINAR",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Kayla D. Jones (P)"
+          ],
+          "credits": "1",
+          "course": "482",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12749"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "903",
+          "title": "PROFESSIONAL WRITING SEMINAR",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Kayla D. Jones (P)"
+          ],
+          "credits": "1",
+          "course": "482",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12750"
+        },
+        "904": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "904",
+          "title": "PROFESSIONAL WRITING SEMINAR",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Kayla D. Jones (P)"
+          ],
+          "credits": "1",
+          "course": "482",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 342A"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "22847"
+        },
+        "905": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "905",
+          "title": "PROFESSIONAL WRITING SEMINAR",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Kayla D. Jones (P)"
+          ],
+          "credits": "1",
+          "course": "482",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCTS 216"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "22848"
+        }
+      }
     },
-    "902": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "902",
-      "title": "PROFESSIONAL WRITING SEMINAR",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Kayla D. Jones (P)"
-      ],
-      "credits": "1",
-      "course": "482",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 202"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12749"
-    },
-    "903": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "903",
-      "title": "PROFESSIONAL WRITING SEMINAR",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Kayla D. Jones (P)"
-      ],
-      "credits": "1",
-      "course": "482",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 202"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12750"
-    },
-    "904": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "904",
-      "title": "PROFESSIONAL WRITING SEMINAR",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Kayla D. Jones (P)"
-      ],
-      "credits": "1",
-      "course": "482",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 342A"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "22847"
-    },
-    "905": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "905",
-      "title": "PROFESSIONAL WRITING SEMINAR",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Kayla D. Jones (P)"
-      ],
-      "credits": "1",
-      "course": "482",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCTS 216"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "22848"
-    }
-  },
-  "285": {
-    "536": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "536",
+    "285": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Shane L. Hudson (P)"
-      ],
-      "credits": "0-4",
-      "course": "285",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 120"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "13905"
-    }
-  },
-  "340": {
-    "599": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
+      "sections": {
+        "536": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "536",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Shane L. Hudson (P)"
+          ],
+          "credits": "0-4",
+          "course": "285",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 120"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "13905"
+        }
+      }
+    },
+    "340": {
       "title": "SPORT GOVERNANCE",
-      "remaining": "100",
-      "capacity": "100",
-      "instructor": [
-        "Sloane H. Milstein (P)"
-      ],
-      "credits": "3",
-      "course": "340",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14558"
-    }
-  },
-  "483": {
-    "501": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "599": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "SPORT GOVERNANCE",
+          "remaining": "100",
+          "capacity": "100",
+          "instructor": [
+            "Sloane H. Milstein (P)"
+          ],
+          "credits": "3",
+          "course": "340",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14558"
+        }
+      }
+    },
+    "483": {
       "title": "PRACTICUM IN SPORT MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gregg Bennett (P)"
-      ],
-      "credits": "3",
-      "course": "483",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26092"
+      "sections": {
+        "501": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "PRACTICUM IN SPORT MGMT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gregg Bennett (P)"
+          ],
+          "credits": "3",
+          "course": "483",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26092"
+        },
+        "502": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "PRACTICUM IN SPORT MGMT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "3",
+          "course": "483",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26465"
+        }
+      }
     },
-    "502": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "PRACTICUM IN SPORT MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "3",
-      "course": "483",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26465"
-    }
-  },
-  "220": {
-    "500": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "220": {
       "title": "OLYMPIC STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Paul E. Keiper (P)"
-      ],
-      "credits": "3",
-      "course": "220",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 342A"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "21257"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "OLYMPIC STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Paul E. Keiper (P)"
+          ],
+          "credits": "3",
+          "course": "220",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 342A"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "21257"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "OLYMPIC STUDIES",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Sloane H. Milstein (P)"
+          ],
+          "credits": "3",
+          "course": "220",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 302"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "27889"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "OLYMPIC STUDIES",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Sloane H. Milstein (P)"
-      ],
-      "credits": "3",
-      "course": "220",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 302"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "27889"
-    }
-  },
-  "484": {
-    "551": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "551",
-      "title": "INTERNSHIP IN SPORT MGMT:IN-AB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Shane L. Hudson (P)"
-      ],
-      "credits": "0-12",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13908"
-    },
-    "501": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "484": {
       "title": "INTERNSHIP IN SPORT MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Shane L. Hudson (P)"
-      ],
-      "credits": "0-12",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13906"
-    }
-  },
-  "682": {
-    "695": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "695",
-      "title": "SEMINAR IN CAPSTONE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "682",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28531"
+      "sections": {
+        "551": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "551",
+          "title": "INTERNSHIP IN SPORT MGMT:IN-AB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Shane L. Hudson (P)"
+          ],
+          "credits": "0-12",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13908"
+        },
+        "501": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERNSHIP IN SPORT MGMT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Shane L. Hudson (P)"
+          ],
+          "credits": "0-12",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13906"
+        }
+      }
     },
-    "696": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "696",
-      "title": "SEMINAR IN SPORT HISTORY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Paul E. Keiper (P)"
-      ],
-      "credits": "1",
-      "course": "682",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "19817"
+    "682": {
+      "title": "SEMINAR IN...",
+      "sections": {
+        "695": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "695",
+          "title": "SEMINAR IN CAPSTONE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "682",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28531"
+        },
+        "696": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "696",
+          "title": "SEMINAR IN SPORT HISTORY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Paul E. Keiper (P)"
+          ],
+          "credits": "1",
+          "course": "682",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "19817"
+        },
+        "697": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "697",
+          "title": "SEMINAR IN SOCIAL PSYC",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "1",
+          "course": "682",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "19818"
+        },
+        "601": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "SEM IN QUALITATIVE STATISTICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Singer (P)"
+          ],
+          "credits": "1",
+          "course": "682",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 339"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "27895"
+        },
+        "602": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "SEM IN QUALITATIVE STATISTICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Singer (P)"
+          ],
+          "credits": "1",
+          "course": "682",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 339"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "12755"
+        },
+        "604": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "SEM IN ORGANIZATIONAL THEORY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Matthew B. Walker (P)"
+          ],
+          "credits": "1",
+          "course": "682",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 339"
+          ],
+          "time": [
+            "11:20 am-12:10 pm"
+          ],
+          "crn": "22485"
+        },
+        "703": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "703",
+          "title": "SEMINAR IN SPORT HISTORY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Paul E. Keiper (P)"
+          ],
+          "credits": "1",
+          "course": "682",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "22005"
+        },
+        "605": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "SEM IN ORGANIZATIONAL THEORY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Matthew B. Walker (P)"
+          ],
+          "credits": "1",
+          "course": "682",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 339"
+          ],
+          "time": [
+            "12:15 pm-01:00 pm"
+          ],
+          "crn": "26175"
+        },
+        "704": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "704",
+          "title": "SEMINAR IN SOCIAL PSYC",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "1",
+          "course": "682",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "22006"
+        },
+        "705": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "705",
+          "title": "SEMINAR IN...CAPSTONE",
+          "remaining": "TBA",
+          "capacity": "0",
+          "instructor": [
+            "08/29-12/14"
+          ],
+          "credits": "1",
+          "course": "682",
+          "days": [
+            "TBA"
+          ],
+          "date (mm/dd)": [
+            "TBA"
+          ],
+          "location": [
+            "3peat Exclusion"
+          ],
+          "time": [
+            "0"
+          ],
+          "crn": "28530"
+        }
+      }
     },
-    "697": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "697",
-      "title": "SEMINAR IN SOCIAL PSYC",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "1",
-      "course": "682",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "19818"
-    },
-    "601": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "SEM IN QUALITATIVE STATISTICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Singer (P)"
-      ],
-      "credits": "1",
-      "course": "682",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 339"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "27895"
-    },
-    "602": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "SEM IN QUALITATIVE STATISTICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Singer (P)"
-      ],
-      "credits": "1",
-      "course": "682",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 339"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "12755"
-    },
-    "604": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "SEM IN ORGANIZATIONAL THEORY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Matthew B. Walker (P)"
-      ],
-      "credits": "1",
-      "course": "682",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 339"
-      ],
-      "time": [
-        "11:20 am-12:10 pm"
-      ],
-      "crn": "22485"
-    },
-    "703": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "703",
-      "title": "SEMINAR IN SPORT HISTORY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Paul E. Keiper (P)"
-      ],
-      "credits": "1",
-      "course": "682",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "22005"
-    },
-    "605": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "SEM IN ORGANIZATIONAL THEORY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Matthew B. Walker (P)"
-      ],
-      "credits": "1",
-      "course": "682",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 339"
-      ],
-      "time": [
-        "12:15 pm-01:00 pm"
-      ],
-      "crn": "26175"
-    },
-    "704": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "704",
-      "title": "SEMINAR IN SOCIAL PSYC",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "1",
-      "course": "682",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "22006"
-    },
-    "705": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "705",
-      "title": "SEMINAR IN...CAPSTONE",
-      "remaining": "TBA",
-      "capacity": "0",
-      "instructor": [
-        "08/29-12/14"
-      ],
-      "credits": "1",
-      "course": "682",
-      "days": [
-        "TBA"
-      ],
-      "date (mm/dd)": [
-        "TBA"
-      ],
-      "location": [
-        "3peat Exclusion"
-      ],
-      "time": [
-        "0"
-      ],
-      "crn": "28530"
-    }
-  },
-  "485": {
-    "502": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26180"
+      "sections": {
+        "502": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26180"
+        },
+        "503": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26206"
+        },
+        "504": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26468"
+        }
+      }
     },
-    "503": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26206"
-    },
-    "504": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26468"
-    }
-  },
-  "683": {
-    "603": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
+    "683": {
       "title": "PRACTICUM IN SPORT MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "3",
-      "course": "683",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26458"
-    }
-  },
-  "420": {
-    "500": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "603": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "PRACTICUM IN SPORT MGMT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "3",
+          "course": "683",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26458"
+        }
+      }
+    },
+    "420": {
       "title": "SPORTS FACILITY PLAN",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Andrew T. Pittman (P)"
-      ],
-      "credits": "3",
-      "course": "420",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 342A"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "21751"
-    }
-  },
-  "684": {
-    "601": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPORTS FACILITY PLAN",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Andrew T. Pittman (P)"
+          ],
+          "credits": "3",
+          "course": "420",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 342A"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "21751"
+        }
+      }
+    },
+    "684": {
       "title": "INTERNSHIP IN SPT MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "1-6",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20655"
+      "sections": {
+        "601": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "INTERNSHIP IN SPT MGMT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "1-6",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20655"
+        },
+        "700": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "INTERNSHIP IN SPT MGMT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "1-6",
+          "course": "684",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "21266"
+        }
+      }
     },
-    "700": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "INTERNSHIP IN SPT MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "1-6",
-      "course": "684",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "21266"
-    }
-  },
-  "421": {
-    "501": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "421": {
       "title": "LEGAL ASPECTS OF SPORT",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Paul Batista (P)"
-      ],
-      "credits": "3",
-      "course": "421",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 306"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12745"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "LEGAL ASPECTS OF SPORT",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Paul Batista (P)"
+          ],
+          "credits": "3",
+          "course": "421",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 306"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12745"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "LEGAL ASPECTS OF SPORT",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Paul Batista (P)"
+          ],
+          "credits": "3",
+          "course": "421",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 306"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "12746"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "LEGAL ASPECTS OF SPORT",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Andrew T. Pittman (P)"
+          ],
+          "credits": "3",
+          "course": "421",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 306"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "27892"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "LEGAL ASPECTS OF SPORT",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Paul Batista (P)"
-      ],
-      "credits": "3",
-      "course": "421",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 306"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "12746"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "LEGAL ASPECTS OF SPORT",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Andrew T. Pittman (P)"
-      ],
-      "credits": "3",
-      "course": "421",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 306"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "27892"
-    }
-  },
-  "685": {
-    "643": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
+    "685": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gregg Bennett (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15723"
+      "sections": {
+        "643": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gregg Bennett (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15723"
+        },
+        "600": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13910"
+        }
+      }
     },
-    "600": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13910"
-    }
-  },
-  "422": {
-    "501": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "422": {
       "title": "FINC SPORT OPERATIONS",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Sloane H. Milstein (P)"
-      ],
-      "credits": "3",
-      "course": "422",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 105"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "14159"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "FINC SPORT OPERATIONS",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Sloane H. Milstein (P)"
+          ],
+          "credits": "3",
+          "course": "422",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 105"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "14159"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "FINC SPORT OPERATIONS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Marlene A. Dixon (P)"
+          ],
+          "credits": "3",
+          "course": "422",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 120"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "16876"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "FINC SPORT OPERATIONS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Marlene A. Dixon (P)"
-      ],
-      "credits": "3",
-      "course": "422",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 120"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "16876"
-    }
-  },
-  "225": {
-    "500": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "225": {
       "title": "PRAC SKILLS SPORT PROF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sloane H. Milstein (P)"
-      ],
-      "credits": "3",
-      "course": "225",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 302"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "21261"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PRAC SKILLS SPORT PROF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sloane H. Milstein (P)"
+          ],
+          "credits": "3",
+          "course": "225",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 302"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "21261"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "PRAC SKILLS SPORT PROF",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sloane H. Milstein (P)"
+          ],
+          "credits": "3",
+          "course": "225",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 302"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "27890"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "PRAC SKILLS SPORT PROF",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sloane H. Milstein (P)"
-      ],
-      "credits": "3",
-      "course": "225",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 302"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "27890"
-    }
-  },
-  "423": {
-    "901": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "901",
+    "423": {
       "title": "MKTG ASPECTS OF SPORT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "423",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 202"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "12747"
+      "sections": {
+        "901": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "901",
+          "title": "MKTG ASPECTS OF SPORT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "423",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "12747"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "902",
+          "title": "MKTG ASPECTS OF SPORT",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Gregg Bennett (P)"
+          ],
+          "credits": "3",
+          "course": "423",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "14164"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "903",
+          "title": "MKTG ASPECTS OF SPORT",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "3",
+          "course": "423",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "13942"
+        },
+        "904": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "904",
+          "title": "MKTG ASPECTS OF SPORT",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Gregg Bennett (P)"
+          ],
+          "credits": "3",
+          "course": "423",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "14165"
+        },
+        "905": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "905",
+          "title": "MKTG ASPECTS OF SPORT",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "David S. Waltemyer (P)"
+          ],
+          "credits": "3",
+          "course": "423",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 202"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "20734"
+        }
+      }
     },
-    "902": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "902",
-      "title": "MKTG ASPECTS OF SPORT",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Gregg Bennett (P)"
-      ],
-      "credits": "3",
-      "course": "423",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 202"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "14164"
+    "489": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SPTP: SPORT SALES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Natasha T. Brison (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "28071"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "SPTP: RISK MANAGEMENT",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Andrew T. Pittman (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 306"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "28070"
+        }
+      }
     },
-    "903": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "903",
-      "title": "MKTG ASPECTS OF SPORT",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "3",
-      "course": "423",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 202"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "13942"
-    },
-    "904": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "904",
-      "title": "MKTG ASPECTS OF SPORT",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Gregg Bennett (P)"
-      ],
-      "credits": "3",
-      "course": "423",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 202"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "14165"
-    },
-    "905": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "905",
-      "title": "MKTG ASPECTS OF SPORT",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "David S. Waltemyer (P)"
-      ],
-      "credits": "3",
-      "course": "423",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 202"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "20734"
-    }
-  },
-  "489": {
-    "501": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SPTP: SPORT SALES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Natasha T. Brison (P)"
-      ],
-      "credits": "3",
-      "course": "489",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 110"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "28071"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "SPTP: RISK MANAGEMENT",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Andrew T. Pittman (P)"
-      ],
-      "credits": "3",
-      "course": "489",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 306"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "28070"
-    }
-  },
-  "402": {
-    "500": {
-      "select": "C",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "402": {
       "title": "PRE INTERN FIELD EXPER",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Shane L. Hudson (P)"
-      ],
-      "credits": "1",
-      "course": "402",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 632"
-      ],
-      "time": [
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12744"
-    }
-  },
-  "304": {
-    "599": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PRE INTERN FIELD EXPER",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Shane L. Hudson (P)"
+          ],
+          "credits": "1",
+          "course": "402",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 632"
+          ],
+          "time": [
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12744"
+        }
+      }
+    },
+    "304": {
       "title": "SPORT PSYC MGMT & PRACT",
-      "remaining": "350",
-      "capacity": "350",
-      "instructor": [
-        "Justin R. Garner (P)"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "20013"
-    }
-  },
-  "601": {
-    "600": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "RES METHODS FOR SPT ORG",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Paul E. Keiper (P)"
-      ],
-      "credits": "3",
-      "course": "601",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 306"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "16129"
+      "sections": {
+        "599": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "SPORT PSYC MGMT & PRACT",
+          "remaining": "350",
+          "capacity": "350",
+          "instructor": [
+            "Justin R. Garner (P)"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "20013"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "RES METHODS FOR SPT ORG",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Paul E. Keiper (P)"
-      ],
-      "credits": "3",
-      "course": "601",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "15637"
-    }
-  },
-  "623": {
-    "700": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "ATHLETICS ADMINISTRATION",
-      "remaining": "23",
-      "capacity": "23",
-      "instructor": [
-        "Shane L. Hudson (P)"
-      ],
-      "credits": "3",
-      "course": "623",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "21262"
-    }
-  },
-  "689": {
     "601": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "SPTP: SPORT SALES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Natasha T. Brison (P)"
-      ],
-      "credits": "3",
-      "course": "689",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 110"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "28486"
+      "title": "RES METHODS FOR SPT ORG",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RES METHODS FOR SPT ORG",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Paul E. Keiper (P)"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 306"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "16129"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "RES METHODS FOR SPT ORG",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Paul E. Keiper (P)"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "15637"
+        }
+      }
     },
-    "603": {
-      "select": "SR",
-      "subject": "SPMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "SPTP: RISK MANAGEMETN",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Andrew T. Pittman (P)"
-      ],
-      "credits": "3",
-      "course": "689",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 306"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "28484"
+    "623": {
+      "title": "ATHLETICS ADMINISTRATION",
+      "sections": {
+        "700": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "ATHLETICS ADMINISTRATION",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Shane L. Hudson (P)"
+          ],
+          "credits": "3",
+          "course": "623",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "21262"
+        }
+      }
+    },
+    "689": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "SPTP: SPORT SALES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Natasha T. Brison (P)"
+          ],
+          "credits": "3",
+          "course": "689",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "28486"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "SPMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "SPTP: RISK MANAGEMETN",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Andrew T. Pittman (P)"
+          ],
+          "credits": "3",
+          "course": "689",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 306"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "28484"
+        }
+      }
     }
-  }
+  },
+  "title": "SPMT - Sport Management",
+  "updated": "Thu Apr 07 01:25:49 CDT 2016"
 }

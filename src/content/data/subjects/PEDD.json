@@ -1,188 +1,210 @@
 {
-  "5V22": {
-    "600": {
-      "select": "SR",
-      "subject": "PEDD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "5V22": {
       "title": "HOSPITAL DENTISTRY II",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Carolyn A. Kerins (P)"
-      ],
-      "credits": "2.5",
-      "course": "5V22",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-05:00 pm"
-      ],
-      "crn": "22930"
-    }
-  },
-  "5V99": {
-    "600": {
-      "select": "SR",
-      "subject": "PEDD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PEDD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "HOSPITAL DENTISTRY II",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Carolyn A. Kerins (P)"
+          ],
+          "credits": "2.5",
+          "course": "5V22",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-05:00 pm"
+          ],
+          "crn": "22930"
+        }
+      }
+    },
+    "5V99": {
       "title": "THESIS PREPARATION",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Carolyn A. Kerins (P)"
-      ],
-      "credits": "1-5",
-      "course": "5V99",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23003"
-    }
-  },
-  "5V98": {
-    "600": {
-      "select": "SR",
-      "subject": "PEDD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PEDD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THESIS PREPARATION",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Carolyn A. Kerins (P)"
+          ],
+          "credits": "1-5",
+          "course": "5V99",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23003"
+        }
+      }
+    },
+    "5V98": {
       "title": "RESEARCH FOR MASTER'S THESIS",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Carolyn A. Kerins (P)"
-      ],
-      "credits": "1",
-      "course": "5V98",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26325"
-    }
-  },
-  "5V12": {
-    "600": {
-      "select": "SR",
-      "subject": "PEDD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PEDD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RESEARCH FOR MASTER'S THESIS",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Carolyn A. Kerins (P)"
+          ],
+          "credits": "1",
+          "course": "5V98",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26325"
+        }
+      }
+    },
+    "5V12": {
       "title": "PEDIATRIC DENTISTRY II",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Carolyn A. Kerins (P)"
-      ],
-      "credits": "3",
-      "course": "5V12",
-      "days": [
-        "TWR"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-05:00 pm"
-      ],
-      "crn": "22929"
-    }
-  },
-  "5V15": {
-    "600": {
-      "select": "SR",
-      "subject": "PEDD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PEDD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PEDIATRIC DENTISTRY II",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Carolyn A. Kerins (P)"
+          ],
+          "credits": "3",
+          "course": "5V12",
+          "days": [
+            "TWR"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-05:00 pm"
+          ],
+          "crn": "22929"
+        }
+      }
+    },
+    "5V15": {
       "title": "PEDIATRIC DENTISTRY V",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Carolyn A. Kerins (P)"
-      ],
-      "credits": "5",
-      "course": "5V15",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-12:00 pm"
-      ],
-      "crn": "22927"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PEDD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PEDIATRIC DENTISTRY V",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Carolyn A. Kerins (P)"
+          ],
+          "credits": "5",
+          "course": "5V15",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-12:00 pm"
+          ],
+          "crn": "22927"
+        }
+      }
+    },
+    "5V25": {
+      "title": "HOSPITAL DENTISTRY V",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PEDD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "HOSPITAL DENTISTRY V",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Carolyn A. Kerins (P)"
+          ],
+          "credits": "4",
+          "course": "5V25",
+          "days": [
+            "MTWRF"
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-05:00 pm"
+          ],
+          "crn": "22928"
+        }
+      }
     }
   },
-  "5V25": {
-    "600": {
-      "select": "SR",
-      "subject": "PEDD",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "HOSPITAL DENTISTRY V",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Carolyn A. Kerins (P)"
-      ],
-      "credits": "4",
-      "course": "5V25",
-      "days": [
-        "MTWRF"
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-05:00 pm"
-      ],
-      "crn": "22928"
-    }
-  }
+  "title": "PEDD - Pediatric Dentistry",
+  "updated": "Thu Apr 07 01:22:05 CDT 2016"
 }

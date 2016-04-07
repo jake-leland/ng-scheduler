@@ -1,91 +1,98 @@
 {
-  "300": {
-    "301": {
-      "select": "NR",
-      "subject": "ELIT",
-      "campus": "EL",
-      "classes": 1,
-      "active": "0",
-      "section": "301",
+  "courses": {
+    "300": {
       "title": "TOEFL PREPARATION",
-      "remaining": "13",
-      "capacity": "13",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "300",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ENPH 201"
-      ],
-      "time": [
-        "04:00 pm-05:00 pm"
-      ],
-      "crn": "11152"
-    },
-    "302": {
-      "select": "C",
-      "subject": "ELIT",
-      "campus": "EL",
-      "classes": 1,
-      "active": "0",
-      "section": "302",
-      "title": "TOEFL PREPARATION",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "300",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23480"
-    },
-    "303": {
-      "select": "C",
-      "subject": "ELIT",
-      "campus": "EL",
-      "classes": 1,
-      "active": "0",
-      "section": "303",
-      "title": "TOEFL PREPARATION",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Mike L. Downey (P)"
-      ],
-      "credits": "3",
-      "course": "300",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ENPH 201"
-      ],
-      "time": [
-        "04:00 pm-05:00 pm"
-      ],
-      "crn": "23481"
+      "sections": {
+        "301": {
+          "select": "NR",
+          "subject": "ELIT",
+          "campus": "EL",
+          "classes": 1,
+          "active": "0",
+          "section": "301",
+          "title": "TOEFL PREPARATION",
+          "remaining": "13",
+          "capacity": "13",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "300",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ENPH 201"
+          ],
+          "time": [
+            "04:00 pm-05:00 pm"
+          ],
+          "crn": "11152"
+        },
+        "302": {
+          "select": "C",
+          "subject": "ELIT",
+          "campus": "EL",
+          "classes": 1,
+          "active": "0",
+          "section": "302",
+          "title": "TOEFL PREPARATION",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "300",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23480"
+        },
+        "303": {
+          "select": "C",
+          "subject": "ELIT",
+          "campus": "EL",
+          "classes": 1,
+          "active": "0",
+          "section": "303",
+          "title": "TOEFL PREPARATION",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mike L. Downey (P)"
+          ],
+          "credits": "3",
+          "course": "300",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ENPH 201"
+          ],
+          "time": [
+            "04:00 pm-05:00 pm"
+          ],
+          "crn": "23481"
+        }
+      }
     }
-  }
+  },
+  "title": "ELIT - TOEFL Preparation",
+  "updated": "Thu Apr 07 01:15:04 CDT 2016"
 }

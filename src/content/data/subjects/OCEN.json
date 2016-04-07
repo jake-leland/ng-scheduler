@@ -1,1163 +1,1212 @@
 {
-  "481": {
-    "500": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "481": {
       "title": "SEMINAR",
-      "remaining": "41",
-      "capacity": "41",
-      "instructor": [
-        "Moohyun Kim (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 110"
-      ],
-      "time": [
-        "04:20 pm-06:10 pm"
-      ],
-      "crn": "12257"
-    }
-  },
-  "691": {
-    "681": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "681",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SEMINAR",
+          "remaining": "41",
+          "capacity": "41",
+          "instructor": [
+            "Moohyun Kim (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 110"
+          ],
+          "time": [
+            "04:20 pm-06:10 pm"
+          ],
+          "crn": "12257"
+        }
+      }
+    },
+    "691": {
       "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jeffrey Falzarano (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16004"
+      "sections": {
+        "681": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "681",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jeffrey Falzarano (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16004"
+        },
+        "671": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "671",
+          "title": "RESEARCH: GALVESTON",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Vijaykumar Panchang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18804"
+        },
+        "683": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "683",
+          "title": "RESEARCH: GALVESTON",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Juan Horrillo (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15961"
+        },
+        "640": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Robert Randall (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15525"
+        },
+        "651": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Scott Socolofsky (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15636"
+        },
+        "673": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "673",
+          "title": "RESEARCH: GALVESTON",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "John A. Sweetman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15960"
+        },
+        "654": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jun Zhang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15459"
+        },
+        "622": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "622",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Jens Figlus (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20864"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Kuang-An Chang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16048"
+        },
+        "645": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "645",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Richard Mercier (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15962"
+        },
+        "667": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "667",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "James M. Kaihatu (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15526"
+        },
+        "613": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hamn Chen (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15527"
+        },
+        "638": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "638",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "John Niedzwecki (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15955"
+        },
+        "628": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "628",
+          "title": "RESEARCH",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Moohyun Kim (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15561"
+        }
+      }
+    },
+    "681": {
+      "title": "SEMINAR",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "51",
+          "capacity": "51",
+          "instructor": [
+            "Moohyun Kim (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 110"
+          ],
+          "time": [
+            "04:20 pm-06:10 pm"
+          ],
+          "crn": "12260"
+        }
+      }
     },
     "671": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "671",
-      "title": "RESEARCH: GALVESTON",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Vijaykumar Panchang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18804"
+      "title": "OCEAN WAVE MECHANICS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "OCEAN WAVE MECHANICS",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "James M. Kaihatu (P)"
+          ],
+          "credits": "3",
+          "course": "671",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 219"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12258"
+        }
+      }
     },
-    "683": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "683",
-      "title": "RESEARCH: GALVESTON",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Juan Horrillo (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15961"
-    },
-    "640": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Robert Randall (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15525"
-    },
-    "651": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Scott Socolofsky (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15636"
+    "485": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "540": {
+          "select": "C",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "540",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Robert Randall (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18478"
+        }
+      }
     },
     "673": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "673",
-      "title": "RESEARCH: GALVESTON",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "John A. Sweetman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15960"
-    },
-    "654": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jun Zhang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15459"
-    },
-    "622": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "622",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Jens Figlus (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20864"
-    },
-    "612": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Kuang-An Chang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16048"
-    },
-    "645": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "645",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Richard Mercier (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15962"
-    },
-    "667": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "667",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "James M. Kaihatu (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15526"
-    },
-    "613": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hamn Chen (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15527"
-    },
-    "638": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "638",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "John Niedzwecki (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15955"
-    },
-    "628": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "628",
-      "title": "RESEARCH",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Moohyun Kim (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15561"
-    }
-  },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SEMINAR",
-      "remaining": "51",
-      "capacity": "51",
-      "instructor": [
-        "Moohyun Kim (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 110"
-      ],
-      "time": [
-        "04:20 pm-06:10 pm"
-      ],
-      "crn": "12260"
-    }
-  },
-  "671": {
-    "600": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "OCEAN WAVE MECHANICS",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "James M. Kaihatu (P)"
-      ],
-      "credits": "3",
-      "course": "671",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 219"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12258"
-    }
-  },
-  "485": {
-    "540": {
-      "select": "C",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "540",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Robert Randall (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18478"
-    }
-  },
-  "673": {
-    "600": {
-      "select": "C",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
       "title": "NONLIN HYDRODYNAM PROB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "673",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVLB 109"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "28389"
-    }
-  },
-  "685": {
-    "683": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "683",
-      "title": "DIRECTED STUDIES: GALVESTON",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Juan Horrillo (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18826"
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "NONLIN HYDRODYNAM PROB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "673",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVLB 109"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "28389"
+        }
+      }
     },
-    "640": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
+    "685": {
       "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Robert Randall (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18730"
+      "sections": {
+        "683": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "683",
+          "title": "DIRECTED STUDIES: GALVESTON",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Juan Horrillo (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18826"
+        },
+        "640": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Robert Randall (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18730"
+        },
+        "651": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Scott Socolofsky (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18690"
+        },
+        "654": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Jun Zhang (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20107"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Kuang-An Chang (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19966"
+        },
+        "645": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "645",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Richard Mercier (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19977"
+        },
+        "667": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "667",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "James M. Kaihatu (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20850"
+        },
+        "613": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Hamn Chen (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23360"
+        },
+        "628": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "628",
+          "title": "DIRECTED STUDIES",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Moohyun Kim (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16386"
+        },
+        "681": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "681",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Jeffrey Falzarano (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16038"
+        }
+      }
     },
-    "651": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Scott Socolofsky (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18690"
-    },
-    "654": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Jun Zhang (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20107"
-    },
-    "612": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Kuang-An Chang (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19966"
-    },
-    "645": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "645",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Richard Mercier (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19977"
-    },
-    "667": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "667",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "James M. Kaihatu (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20850"
-    },
-    "613": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Hamn Chen (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23360"
-    },
-    "628": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "628",
-      "title": "DIRECTED STUDIES",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Moohyun Kim (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16386"
-    },
-    "681": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "681",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Jeffrey Falzarano (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16038"
-    }
-  },
-  "400": {
-    "500": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "400": {
       "title": "BASIC COASTAL ENGR",
-      "remaining": "41",
-      "capacity": "41",
-      "instructor": [
-        "James M. Kaihatu (P)"
-      ],
-      "credits": "3",
-      "course": "400",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 203"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "12253"
-    }
-  },
-  "401": {
-    "500": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BASIC COASTAL ENGR",
+          "remaining": "41",
+          "capacity": "41",
+          "instructor": [
+            "James M. Kaihatu (P)"
+          ],
+          "credits": "3",
+          "course": "400",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 203"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "12253"
+        }
+      }
+    },
+    "401": {
       "title": "UNDERWATER ACOUSTICS",
-      "remaining": "42",
-      "capacity": "42",
-      "instructor": [
-        "Robert Randall (P)"
-      ],
-      "credits": "3",
-      "course": "401",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 203"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "12254"
-    }
-  },
-  "336": {
-    "501": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "FLUID DYNAMICS LAB",
-      "remaining": "13",
-      "capacity": "13",
-      "instructor": [
-        "Kuang-An Chang (P)"
-      ],
-      "credits": "1",
-      "course": "336",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVLB 109"
-      ],
-      "time": [
-        "12:45 pm-02:35 pm"
-      ],
-      "crn": "19353"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "UNDERWATER ACOUSTICS",
+          "remaining": "42",
+          "capacity": "42",
+          "instructor": [
+            "Robert Randall (P)"
+          ],
+          "credits": "3",
+          "course": "401",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 203"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "12254"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "336": {
       "title": "FLUID DYNAMICS LAB",
-      "remaining": "13",
-      "capacity": "13",
-      "instructor": [
-        "Kuang-An Chang (P)"
-      ],
-      "credits": "1",
-      "course": "336",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVLB 109"
-      ],
-      "time": [
-        "11:30 am-01:20 pm"
-      ],
-      "crn": "13008"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "FLUID DYNAMICS LAB",
+          "remaining": "13",
+          "capacity": "13",
+          "instructor": [
+            "Kuang-An Chang (P)"
+          ],
+          "credits": "1",
+          "course": "336",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVLB 109"
+          ],
+          "time": [
+            "12:45 pm-02:35 pm"
+          ],
+          "crn": "19353"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "FLUID DYNAMICS LAB",
+          "remaining": "13",
+          "capacity": "13",
+          "instructor": [
+            "Kuang-An Chang (P)"
+          ],
+          "credits": "1",
+          "course": "336",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVLB 109"
+          ],
+          "time": [
+            "11:30 am-01:20 pm"
+          ],
+          "crn": "13008"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "FLUID DYNAMICS LAB",
+          "remaining": "13",
+          "capacity": "13",
+          "instructor": [
+            "Kuang-An Chang (P)"
+          ],
+          "credits": "1",
+          "course": "336",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVLB 109"
+          ],
+          "time": [
+            "01:50 pm-03:40 pm"
+          ],
+          "crn": "26288"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "FLUID DYNAMICS LAB",
-      "remaining": "13",
-      "capacity": "13",
-      "instructor": [
-        "Kuang-An Chang (P)"
-      ],
-      "credits": "1",
-      "course": "336",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVLB 109"
-      ],
-      "time": [
-        "01:50 pm-03:40 pm"
-      ],
-      "crn": "26288"
-    }
-  },
-  "402": {
-    "500": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "402": {
       "title": "PRNCPLS OF NAVAL ARCH",
-      "remaining": "37",
-      "capacity": "37",
-      "instructor": [
-        "Jeffrey Falzarano (P)"
-      ],
-      "credits": "3",
-      "course": "402",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 203"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "12255"
-    }
-  },
-  "677": {
-    "600": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PRNCPLS OF NAVAL ARCH",
+          "remaining": "37",
+          "capacity": "37",
+          "instructor": [
+            "Jeffrey Falzarano (P)"
+          ],
+          "credits": "3",
+          "course": "402",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 203"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "12255"
+        }
+      }
+    },
+    "677": {
       "title": "ENVIRONMENTAL FLUID MECH",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Scott Socolofsky (P)"
-      ],
-      "credits": "3",
-      "course": "677",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVLB 109"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "27105"
-    }
-  },
-  "403": {
-    "500": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ENVIRONMENTAL FLUID MECH",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Scott Socolofsky (P)"
+          ],
+          "credits": "3",
+          "course": "677",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVLB 109"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "27105"
+        }
+      }
+    },
+    "403": {
       "title": "DYNAM OF OFFSHORE STRUCT",
-      "remaining": "41",
-      "capacity": "41",
-      "instructor": [
-        "Heonyong Kang (P)"
-      ],
-      "credits": "3",
-      "course": "403",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 217"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "13004"
-    }
-  },
-  "678": {
-    "600": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DYNAM OF OFFSHORE STRUCT",
+          "remaining": "41",
+          "capacity": "41",
+          "instructor": [
+            "Heonyong Kang (P)"
+          ],
+          "credits": "3",
+          "course": "403",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 217"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "13004"
+        }
+      }
+    },
+    "678": {
       "title": "FLD DYN OCEN & ENVRN ENG",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Hamn Chen (P)"
-      ],
-      "credits": "3",
-      "course": "678",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 137"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12259"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "FLD DYN OCEN & ENVRN ENG",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Hamn Chen (P)"
+          ],
+          "credits": "3",
+          "course": "678",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 137"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12259"
+        }
+      }
+    },
+    "408": {
+      "title": "UNDERWTR & MOORED SYST",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "OCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "UNDERWTR & MOORED SYST",
+          "remaining": "37",
+          "capacity": "37",
+          "instructor": [
+            "Robert Randall (P)"
+          ],
+          "credits": "3",
+          "course": "408",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 217"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "12256"
+        }
+      }
     }
   },
-  "408": {
-    "500": {
-      "select": "SR",
-      "subject": "OCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "UNDERWTR & MOORED SYST",
-      "remaining": "37",
-      "capacity": "37",
-      "instructor": [
-        "Robert Randall (P)"
-      ],
-      "credits": "3",
-      "course": "408",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 217"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "12256"
-    }
-  }
+  "title": "OCEN - Ocean Engineering",
+  "updated": "Thu Apr 07 01:21:48 CDT 2016"
 }

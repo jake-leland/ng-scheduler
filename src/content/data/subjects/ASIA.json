@@ -1,64 +1,74 @@
 {
-  "463": {
-    "500": {
-      "select": "C",
-      "subject": "ASIA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "463": {
       "title": "GENDER IN ASIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCTS 215"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "28545"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ASIA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "GENDER IN ASIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Kazuko Suzuki (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCTS 215"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "28545"
+        }
+      }
+    },
+    "355": {
+      "title": "MODERN CHINA",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ASIA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MODERN CHINA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Di Wang (P)"
+          ],
+          "credits": "3",
+          "course": "355",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 110"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "19549"
+        }
+      }
     }
   },
-  "355": {
-    "500": {
-      "select": "SR",
-      "subject": "ASIA",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "MODERN CHINA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Di Wang (P)"
-      ],
-      "credits": "3",
-      "course": "355",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 110"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "19549"
-    }
-  }
+  "title": "ASIA - Asian Studies",
+  "updated": "Thu Apr 07 01:10:45 CDT 2016"
 }

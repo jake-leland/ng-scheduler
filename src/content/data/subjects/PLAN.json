@@ -1,1591 +1,1649 @@
 {
-  "691": {
-    "660": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "660",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Cecilia Giusti (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18473"
-    },
-    "640": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
+  "courses": {
+    "691": {
       "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Kenneth Joh (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15765"
+      "sections": {
+        "660": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "660",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Cecilia Giusti (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18473"
+        },
+        "640": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Kenneth Joh (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15765"
+        },
+        "651": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Walter Peacock (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25970"
+        },
+        "620": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "620",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kenneth Joh (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20786"
+        },
+        "653": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "653",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Shannon S. Van Zandt (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20515"
+        },
+        "621": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Walter Peacock (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16024"
+        },
+        "632": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Shannon S. Van Zandt (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15290"
+        },
+        "633": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "633",
+          "title": "RESEARCH",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "James Varni (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15484"
+        },
+        "623": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "623",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Carla S. Prater (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16254"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Sherry Bame (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18390"
+        },
+        "613": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Chanam Lee (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20550"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Elise Bright (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15291"
+        },
+        "615": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Michael Lindell (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15875"
+        },
+        "626": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "626",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "George Rogers (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15913"
+        },
+        "637": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "637",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Douglas F. Wunneburger (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26556"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Samuel Brody (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16091"
+        },
+        "627": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "627",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18933"
+        },
+        "638": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "638",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Yu Xiao (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20867"
+        },
+        "628": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "628",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Li Wei (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20503"
+        }
+      }
     },
-    "651": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Walter Peacock (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25970"
-    },
-    "620": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "620",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kenneth Joh (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20786"
-    },
-    "653": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "653",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Shannon S. Van Zandt (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20515"
-    },
-    "621": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Walter Peacock (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16024"
-    },
-    "632": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Shannon S. Van Zandt (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15290"
-    },
-    "633": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "633",
-      "title": "RESEARCH",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "James Varni (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15484"
-    },
-    "623": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "623",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Carla S. Prater (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16254"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Sherry Bame (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18390"
-    },
-    "613": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Chanam Lee (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20550"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Elise Bright (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15291"
-    },
-    "615": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Michael Lindell (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15875"
-    },
-    "626": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "626",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "George Rogers (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15913"
-    },
-    "637": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "637",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Douglas F. Wunneburger (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26556"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Samuel Brody (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16091"
-    },
-    "627": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "627",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18933"
-    },
-    "638": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "638",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Yu Xiao (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20867"
-    },
-    "628": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "628",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Li Wei (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20503"
-    }
-  },
-  "693": {
-    "640": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
+    "693": {
       "title": "PROFESSIONAL STUDY CR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kenneth Joh (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26557"
+      "sections": {
+        "640": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "PROFESSIONAL STUDY CR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kenneth Joh (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26557"
+        },
+        "675": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "675",
+          "title": "PROFESSIONAL STUDY CR:IN-AB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "George Rogers (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26378"
+        },
+        "632": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "PROFESSIONAL STUDY CR",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Shannon S. Van Zandt (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20596"
+        },
+        "643": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "PROFESSIONAL STUDY CR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Li Wei (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23555"
+        },
+        "613": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "PROFESSIONAL STUDY CR",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Chanam Lee (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20458"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "PROFESSIONAL STUDY CR",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Elise Bright (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20813"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "PROFESSIONAL STUDY CR",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Samuel Brody (P)"
+          ],
+          "credits": "1-6",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20974"
+        }
+      }
     },
-    "675": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "675",
-      "title": "PROFESSIONAL STUDY CR:IN-AB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "George Rogers (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26378"
-    },
-    "632": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
-      "title": "PROFESSIONAL STUDY CR",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Shannon S. Van Zandt (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20596"
-    },
-    "643": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
-      "title": "PROFESSIONAL STUDY CR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Li Wei (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23555"
-    },
-    "613": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "PROFESSIONAL STUDY CR",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Chanam Lee (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20458"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "PROFESSIONAL STUDY CR",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Elise Bright (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20813"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "PROFESSIONAL STUDY CR",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Samuel Brody (P)"
-      ],
-      "credits": "1-6",
-      "course": "693",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20974"
-    }
-  },
-  "662": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 4,
-      "active": "0",
-      "section": "600",
+    "662": {
       "title": "APPLIED PLANNING I",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "John T. Cooper (P)",
-        "John T. Cooper",
-        "John T. Cooper",
-        "John T. Cooper"
-      ],
-      "credits": "3",
-      "course": "662",
-      "days": [
-        "M",
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 348",
-        "ARCA 348",
-        "ARCA 348",
-        "ARCA 348"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "10:00 am-11:05 am",
-        "09:10 am-11:05 am",
-        "09:10 am-11:10 am"
-      ],
-      "crn": "12475"
-    }
-  },
-  "684": {
-    "640": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 4,
+          "active": "0",
+          "section": "600",
+          "title": "APPLIED PLANNING I",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "John T. Cooper (P)",
+            "John T. Cooper",
+            "John T. Cooper",
+            "John T. Cooper"
+          ],
+          "credits": "3",
+          "course": "662",
+          "days": [
+            "M",
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 348",
+            "ARCA 348",
+            "ARCA 348",
+            "ARCA 348"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "10:00 am-11:05 am",
+            "09:10 am-11:05 am",
+            "09:10 am-11:10 am"
+          ],
+          "crn": "12475"
+        }
+      }
+    },
+    "684": {
       "title": "PROFESS INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kenneth Joh (P)"
-      ],
-      "credits": "1-8",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26643"
+      "sections": {
+        "640": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "PROFESS INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kenneth Joh (P)"
+          ],
+          "credits": "1-8",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26643"
+        },
+        "641": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "641",
+          "title": "PROFESS INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jun Hyun Kim (P)"
+          ],
+          "credits": "1-8",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23544"
+        },
+        "632": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "PROFESS INTERNSHIP",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Shannon S. Van Zandt (P)"
+          ],
+          "credits": "1-8",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15292"
+        },
+        "613": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "PROFESS INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Timothy J. Lomax (P)"
+          ],
+          "credits": "1-8",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26539"
+        },
+        "627": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "627",
+          "title": "PROFESS INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Li Wei (P)"
+          ],
+          "credits": "1-8",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23456"
+        },
+        "681": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "681",
+          "title": "PROF INTERNSHIP: IN-ABSENTIA",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Shannon S. Van Zandt (P)"
+          ],
+          "credits": "1-8",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18687"
+        }
+      }
     },
     "641": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "641",
-      "title": "PROFESS INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jun Hyun Kim (P)"
-      ],
-      "credits": "1-8",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23544"
+      "title": "ENVRNMTL PLAN ADMNSTRN",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ENVRNMTL PLAN ADMNSTRN",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Samuel Brody (P)"
+          ],
+          "credits": "3",
+          "course": "641",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 302"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "12473"
+        }
+      }
     },
-    "632": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
-      "title": "PROFESS INTERNSHIP",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Shannon S. Van Zandt (P)"
-      ],
-      "credits": "1-8",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15292"
+    "674": {
+      "title": "TRANSPT SYSTM ANALYSIS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "TRANSPT SYSTM ANALYSIS",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Tongbin Qu (P)"
+          ],
+          "credits": "3",
+          "course": "674",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 302"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "18285"
+        }
+      }
     },
-    "613": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "PROFESS INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Timothy J. Lomax (P)"
-      ],
-      "credits": "1-8",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26539"
+    "685": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "641": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "641",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Jun Hyun Kim (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23212"
+        },
+        "631": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "631",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Cecilia Giusti (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20099"
+        },
+        "632": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Shannon S. Van Zandt (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20093"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Samuel Brody (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18784"
+        }
+      }
+    },
+    "664": {
+      "title": "PLAN THEORY & HISTORY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PLAN THEORY & HISTORY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Shannon S. Van Zandt (P)"
+          ],
+          "credits": "3",
+          "course": "664",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 207"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "19881"
+        }
+      }
+    },
+    "610": {
+      "title": "STRUC FUNC URB SETLMN",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "STRUC FUNC URB SETLMN",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Ayoung Woo (P)"
+          ],
+          "credits": "3",
+          "course": "610",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 348"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "12471"
+        }
+      }
+    },
+    "654": {
+      "title": "PLANNING ADMIN & MGMT",
+      "sections": {
+        "700": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "PLANNING ADMIN & MGMT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Robert S. Cowell (P)"
+          ],
+          "credits": "1",
+          "course": "654",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23089"
+        }
+      }
+    },
+    "665": {
+      "title": "PLAN MAKING",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PLAN MAKING",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Philip Berke (P)"
+          ],
+          "credits": "3",
+          "course": "665",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 205"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "19884"
+        }
+      }
+    },
+    "612": {
+      "title": "TRAN IN CITY PLAN",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "TRAN IN CITY PLAN",
+          "remaining": "17",
+          "capacity": "17",
+          "instructor": [
+            "Li Wei (P)",
+            "Li Wei"
+          ],
+          "credits": "3",
+          "course": "612",
+          "days": [
+            "MW",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 348",
+            "ARCC 305"
+          ],
+          "time": [
+            "05:45 pm-06:35 pm",
+            "06:36 pm-07:50 pm"
+          ],
+          "crn": "12472"
+        }
+      }
+    },
+    "624": {
+      "title": "DIGITAL COMMUNICATION IN LAUP",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "600",
+          "title": "DIGITAL COMMUNICATION IN LAUP",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Yang Mi Kim (P)",
+            "Yang Mi Kim",
+            "Yang Mi Kim"
+          ],
+          "credits": "3",
+          "course": "624",
+          "days": [
+            "MWF",
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 104",
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "TBA",
+            "TBA"
+          ],
+          "crn": "24607"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "700",
+          "title": "DIGITAL COMMUNICATION IN LAUP",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Yang Mi Kim (P)",
+            "Yang Mi Kim"
+          ],
+          "credits": "3",
+          "course": "624",
+          "days": [
+            "WEB",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB",
+            "WEB"
+          ],
+          "time": [
+            "WEB",
+            "WEB"
+          ],
+          "crn": "25442"
+        }
+      }
+    },
+    "625": {
+      "title": "GIS IN LANDSCP&URBN PLAN",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "GIS IN LANDSCP&URBN PLAN",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Douglas F. Wunneburger (P)",
+            "Douglas F. Wunneburger"
+          ],
+          "credits": "3",
+          "course": "625",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 348",
+            "ARCA 348"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "02:00 pm-03:15 pm"
+          ],
+          "crn": "24606"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "700",
+          "title": "GIS IN LANDSCP&URBN PLAN",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Douglas F. Wunneburger",
+            "Douglas F. Wunneburger (P)"
+          ],
+          "credits": "3",
+          "course": "625",
+          "days": [
+            "WEB",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB",
+            "WEB"
+          ],
+          "time": [
+            "WEB",
+            "WEB"
+          ],
+          "crn": "18370"
+        }
+      }
+    },
+    "647": {
+      "title": "DISTER RECOVY HAZ MITIGN",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DISTER RECOVY HAZ MITIGN",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Walter Peacock (P)"
+          ],
+          "credits": "3",
+          "course": "647",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 302"
+          ],
+          "time": [
+            "03:55 pm-06:25 pm"
+          ],
+          "crn": "12474"
+        }
+      }
+    },
+    "604": {
+      "title": "PLANNING METHODS I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PLANNING METHODS I",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "604",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 348"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "12470"
+        }
+      }
     },
     "627": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "627",
-      "title": "PROFESS INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Li Wei (P)"
-      ],
-      "credits": "1-8",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23456"
-    },
-    "681": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "681",
-      "title": "PROF INTERNSHIP: IN-ABSENTIA",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Shannon S. Van Zandt (P)"
-      ],
-      "credits": "1-8",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18687"
-    }
-  },
-  "641": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ENVRNMTL PLAN ADMNSTRN",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Samuel Brody (P)"
-      ],
-      "credits": "3",
-      "course": "641",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 302"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "12473"
-    }
-  },
-  "674": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "TRANSPT SYSTM ANALYSIS",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Tongbin Qu (P)"
-      ],
-      "credits": "3",
-      "course": "674",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 302"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "18285"
-    }
-  },
-  "685": {
-    "641": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "641",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Jun Hyun Kim (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23212"
-    },
-    "631": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "631",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Cecilia Giusti (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20099"
-    },
-    "632": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Shannon S. Van Zandt (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20093"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Samuel Brody (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18784"
-    }
-  },
-  "664": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PLAN THEORY & HISTORY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Shannon S. Van Zandt (P)"
-      ],
-      "credits": "3",
-      "course": "664",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 207"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "19881"
-    }
-  },
-  "610": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "STRUC FUNC URB SETLMN",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Ayoung Woo (P)"
-      ],
-      "credits": "3",
-      "course": "610",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 348"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "12471"
-    }
-  },
-  "654": {
-    "700": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "PLANNING ADMIN & MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Robert S. Cowell (P)"
-      ],
-      "credits": "1",
-      "course": "654",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23089"
-    }
-  },
-  "665": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PLAN MAKING",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Philip Berke (P)"
-      ],
-      "credits": "3",
-      "course": "665",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 205"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "19884"
-    }
-  },
-  "612": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "TRAN IN CITY PLAN",
-      "remaining": "17",
-      "capacity": "17",
-      "instructor": [
-        "Li Wei (P)",
-        "Li Wei"
-      ],
-      "credits": "3",
-      "course": "612",
-      "days": [
-        "MW",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 348",
-        "ARCC 305"
-      ],
-      "time": [
-        "05:45 pm-06:35 pm",
-        "06:36 pm-07:50 pm"
-      ],
-      "crn": "12472"
-    }
-  },
-  "624": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "600",
-      "title": "DIGITAL COMMUNICATION IN LAUP",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Yang Mi Kim (P)",
-        "Yang Mi Kim",
-        "Yang Mi Kim"
-      ],
-      "credits": "3",
-      "course": "624",
-      "days": [
-        "MWF",
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 104",
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "TBA",
-        "TBA"
-      ],
-      "crn": "24607"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "700",
-      "title": "DIGITAL COMMUNICATION IN LAUP",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Yang Mi Kim (P)",
-        "Yang Mi Kim"
-      ],
-      "credits": "3",
-      "course": "624",
-      "days": [
-        "WEB",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB",
-        "WEB"
-      ],
-      "time": [
-        "WEB",
-        "WEB"
-      ],
-      "crn": "25442"
-    }
-  },
-  "625": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "GIS IN LANDSCP&URBN PLAN",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Douglas F. Wunneburger (P)",
-        "Douglas F. Wunneburger"
-      ],
-      "credits": "3",
-      "course": "625",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 348",
-        "ARCA 348"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "02:00 pm-03:15 pm"
-      ],
-      "crn": "24606"
-    },
-    "700": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "700",
-      "title": "GIS IN LANDSCP&URBN PLAN",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Douglas F. Wunneburger",
-        "Douglas F. Wunneburger (P)"
-      ],
-      "credits": "3",
-      "course": "625",
-      "days": [
-        "WEB",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB",
-        "WEB"
-      ],
-      "time": [
-        "WEB",
-        "WEB"
-      ],
-      "crn": "18370"
-    }
-  },
-  "647": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "DISTER RECOVY HAZ MITIGN",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Walter Peacock (P)"
-      ],
-      "credits": "3",
-      "course": "647",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 302"
-      ],
-      "time": [
-        "03:55 pm-06:25 pm"
-      ],
-      "crn": "12474"
-    }
-  },
-  "604": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "PLANNING METHODS I",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "604",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 348"
-      ],
-      "time": [
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "12470"
-    }
-  },
-  "627": {
-    "600": {
-      "select": "SR",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
       "title": "ECONOMIC DEVELOPMENT",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Cecilia Giusti (P)"
-      ],
-      "credits": "3",
-      "course": "627",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 205"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "25993"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ECONOMIC DEVELOPMENT",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Cecilia Giusti (P)"
+          ],
+          "credits": "3",
+          "course": "627",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 205"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "25993"
+        }
+      }
+    },
+    "649": {
+      "title": "ORG DISASTER RESPONSE",
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "PLAN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ORG DISASTER RESPONSE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "649",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 323"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "18993"
+        }
+      }
     }
   },
-  "649": {
-    "600": {
-      "select": "C",
-      "subject": "PLAN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ORG DISASTER RESPONSE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "649",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 323"
-      ],
-      "time": [
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "18993"
-    }
-  }
+  "title": "PLAN - Urban Planning",
+  "updated": "Thu Apr 07 01:23:43 CDT 2016"
 }

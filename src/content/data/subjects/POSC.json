@@ -1,2031 +1,2104 @@
 {
-  "291": {
-    "500": {
-      "select": "C",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "291": {
       "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-2",
-      "course": "291",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16866"
-    }
-  },
-  "381": {
-    "900": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-2",
+          "course": "291",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16866"
+        }
+      }
+    },
+    "381": {
       "title": "PROFES DEVLOP IN POUL SC",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Audrey P. McElroy (P)"
-      ],
-      "credits": "2",
-      "course": "381",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 121"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12513"
-    }
-  },
-  "491": {
-    "530": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "530",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Giridhar N. Athrey (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26693"
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "PROFES DEVLOP IN POUL SC",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Audrey P. McElroy (P)"
+          ],
+          "credits": "2",
+          "course": "381",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12513"
+        }
+      }
     },
-    "531": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "531",
+    "491": {
       "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Jason T. Lee (P)"
-      ],
-      "credits": "3",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18314"
+      "sections": {
+        "530": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "530",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Giridhar N. Athrey (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26693"
+        },
+        "531": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "531",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Jason T. Lee (P)"
+          ],
+          "credits": "3",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18314"
+        },
+        "521": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "521",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "David J. Caldwell (P)"
+          ],
+          "credits": "3",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18429"
+        },
+        "532": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "532",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Christine Z. Alvarado (P)"
+          ],
+          "credits": "3",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18313"
+        },
+        "500": {
+          "select": "C",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16869"
+        },
+        "523": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "523",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Luc Berghman (P)"
+          ],
+          "credits": "3",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18328"
+        },
+        "524": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "524",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Rosemary Walzem (P)"
+          ],
+          "credits": "3",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18329"
+        },
+        "535": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "535",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Craig D. Coufal (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20452"
+        },
+        "525": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "525",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Suresh Pillai (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20749"
+        },
+        "516": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "516",
+          "title": "RESEARCH",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Gregory S. Archer (P)"
+          ],
+          "credits": "3",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18305"
+        },
+        "517": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "517",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Tri Duong (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18309"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "John Carey (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20711"
+        }
+      }
     },
-    "521": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "521",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "David J. Caldwell (P)"
-      ],
-      "credits": "3",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18429"
-    },
-    "532": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "532",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Christine Z. Alvarado (P)"
-      ],
-      "credits": "3",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18313"
-    },
-    "500": {
-      "select": "C",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16869"
-    },
-    "523": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "523",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Luc Berghman (P)"
-      ],
-      "credits": "3",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18328"
-    },
-    "524": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "524",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Rosemary Walzem (P)"
-      ],
-      "credits": "3",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18329"
-    },
-    "535": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "535",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Craig D. Coufal (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20452"
-    },
-    "525": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "525",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Suresh Pillai (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20749"
-    },
-    "516": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "516",
-      "title": "RESEARCH",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Gregory S. Archer (P)"
-      ],
-      "credits": "3",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18305"
-    },
-    "517": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "517",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Tri Duong (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18309"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "John Carey (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20711"
-    }
-  },
-  "481": {
-    "500": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+    "481": {
       "title": "POULTRY SCIENCE SYSTEMS",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Christine Z. Alvarado (P)",
-        "Christine Z. Alvarado"
-      ],
-      "credits": "2",
-      "course": "481",
-      "days": [
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HFSB 104",
-        "HFSB 104"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "12516"
-    }
-  },
-  "691": {
-    "671": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "671",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "David J. Caldwell (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26139"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "POULTRY SCIENCE SYSTEMS",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Christine Z. Alvarado (P)",
+            "Christine Z. Alvarado"
+          ],
+          "credits": "2",
+          "course": "481",
+          "days": [
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HFSB 104",
+            "HFSB 104"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "12516"
+        }
+      }
+    },
+    "691": {
+      "title": "RESEARCH",
+      "sections": {
+        "671": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "671",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "David J. Caldwell (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26139"
+        },
+        "630": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "630",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Giridhar N. Athrey (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26140"
+        },
+        "631": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "631",
+          "title": "RESEARCH",
+          "remaining": "7",
+          "capacity": "7",
+          "instructor": [
+            "Jason T. Lee (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13863"
+        },
+        "621": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "David J. Caldwell (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13860"
+        },
+        "632": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Christine Z. Alvarado (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13864"
+        },
+        "623": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "623",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Luc Berghman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13861"
+        },
+        "624": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Rosemary Walzem (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13862"
+        },
+        "635": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "635",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Craig D. Coufal (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13865"
+        },
+        "625": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "625",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Suresh Pillai (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13866"
+        },
+        "616": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "616",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gregory S. Archer (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19204"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "RESEARCH",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Christopher Bailey (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13856"
+        },
+        "617": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "617",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Tri Duong (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13858"
+        },
+        "607": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "John Carey (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16877"
+        },
+        "629": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "629",
+          "title": "RESEARCH",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sanjay Reddy (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16878"
+        }
+      }
+    },
+    "285": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "285",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16863"
+        }
+      }
+    },
+    "681": {
+      "title": "SEMINAR",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "14",
+          "capacity": "14",
+          "instructor": [
+            "Tri Duong (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 123"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12518"
+        }
+      }
+    },
+    "484": {
+      "title": "INTERNSHIP",
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "INTERNSHIP: IN-ABSENTIA",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "David J. Caldwell (P)"
+          ],
+          "credits": "1-5",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14026"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTERNSHIP",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "David J. Caldwell (P)"
+          ],
+          "credits": "1-5",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13851"
+        }
+      }
+    },
+    "660": {
+      "title": "EXPERIMENTAL IMMUNOLOGY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "EXPERIMENTAL IMMUNOLOGY",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Luc Berghman (P)",
+            "Luc Berghman"
+          ],
+          "credits": "4",
+          "course": "660",
+          "days": [
+            "TR",
+            "WR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 123",
+            "KLCT 415"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "02:00 pm-04:00 pm"
+          ],
+          "crn": "12517"
+        }
+      }
+    },
+    "485": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "531": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "531",
+          "title": "DIRECTED STUDIES",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Jason T. Lee (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            "MWR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FARM 108"
+          ],
+          "time": [
+            "03:00 pm-05:00 pm"
+          ],
+          "crn": "13852"
+        },
+        "532": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "532",
+          "title": "DIRECTED STUDIES",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Christine Z. Alvarado (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26444"
+        },
+        "500": {
+          "select": "C",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16868"
+        }
+      }
+    },
+    "201": {
+      "title": "GENERAL AVIAN SCIENCE",
+      "sections": {
+        "201": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-GENERAL AVIAN SCIENCE",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Dale T. Hyatt (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 115"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "18472"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "GENERAL AVIAN SCIENCE",
+          "remaining": "250",
+          "capacity": "250",
+          "instructor": [
+            "Dale T. Hyatt (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 115"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "12506"
+        },
+        "599": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "GENERAL AVIAN SCIENCE",
+          "remaining": "73",
+          "capacity": "73",
+          "instructor": [
+            "Dale T. Hyatt (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14127"
+        }
+      }
+    },
+    "333": {
+      "title": "INSTINCTS AND BEHAVIOR",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INSTINCTS AND BEHAVIOR",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Gregory S. Archer (P)"
+          ],
+          "credits": "3",
+          "course": "333",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "21022"
+        },
+        "599": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "INSTINCTS AND BEHAVIOR",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Gregory S. Archer (P)"
+          ],
+          "credits": "3",
+          "course": "333",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "21023"
+        },
+        "700": {
+          "select": "C",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "INSTINCTS AND BEHAVIOR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gregory S. Archer (P)"
+          ],
+          "credits": "3",
+          "course": "333",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "21024"
+        }
+      }
     },
     "630": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "630",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Giridhar N. Athrey (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26140"
-    },
-    "631": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "631",
-      "title": "RESEARCH",
-      "remaining": "7",
-      "capacity": "7",
-      "instructor": [
-        "Jason T. Lee (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13863"
-    },
-    "621": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "David J. Caldwell (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13860"
-    },
-    "632": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Christine Z. Alvarado (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13864"
-    },
-    "623": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "623",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Luc Berghman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13861"
-    },
-    "624": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Rosemary Walzem (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13862"
-    },
-    "635": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "635",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Craig D. Coufal (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13865"
-    },
-    "625": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "625",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Suresh Pillai (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13866"
-    },
-    "616": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "616",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Gregory S. Archer (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19204"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "RESEARCH",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Christopher Bailey (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13856"
-    },
-    "617": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "617",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Tri Duong (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13858"
-    },
-    "607": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "John Carey (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16877"
-    },
-    "629": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "629",
-      "title": "RESEARCH",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sanjay Reddy (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16878"
-    }
-  },
-  "285": {
-    "500": {
-      "select": "C",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "285",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16863"
-    }
-  },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SEMINAR",
-      "remaining": "14",
-      "capacity": "14",
-      "instructor": [
-        "Tri Duong (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 123"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12518"
-    }
-  },
-  "484": {
-    "550": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "INTERNSHIP: IN-ABSENTIA",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "David J. Caldwell (P)"
-      ],
-      "credits": "1-5",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14026"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "INTERNSHIP",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "David J. Caldwell (P)"
-      ],
-      "credits": "1-5",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13851"
-    }
-  },
-  "660": {
-    "600": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "EXPERIMENTAL IMMUNOLOGY",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Luc Berghman (P)",
-        "Luc Berghman"
-      ],
-      "credits": "4",
-      "course": "660",
-      "days": [
-        "TR",
-        "WR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 123",
-        "KLCT 415"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "02:00 pm-04:00 pm"
-      ],
-      "crn": "12517"
-    }
-  },
-  "485": {
-    "531": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "531",
-      "title": "DIRECTED STUDIES",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Jason T. Lee (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        "MWR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FARM 108"
-      ],
-      "time": [
-        "03:00 pm-05:00 pm"
-      ],
-      "crn": "13852"
-    },
-    "532": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "532",
-      "title": "DIRECTED STUDIES",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Christine Z. Alvarado (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26444"
-    },
-    "500": {
-      "select": "C",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16868"
-    }
-  },
-  "201": {
-    "201": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-GENERAL AVIAN SCIENCE",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Dale T. Hyatt (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 115"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "18472"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "GENERAL AVIAN SCIENCE",
-      "remaining": "250",
-      "capacity": "250",
-      "instructor": [
-        "Dale T. Hyatt (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 115"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "12506"
-    },
-    "599": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "GENERAL AVIAN SCIENCE",
-      "remaining": "73",
-      "capacity": "73",
-      "instructor": [
-        "Dale T. Hyatt (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14127"
-    }
-  },
-  "333": {
-    "500": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "INSTINCTS AND BEHAVIOR",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Gregory S. Archer (P)"
-      ],
-      "credits": "3",
-      "course": "333",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 121"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "21022"
-    },
-    "599": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "INSTINCTS AND BEHAVIOR",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Gregory S. Archer (P)"
-      ],
-      "credits": "3",
-      "course": "333",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "21023"
-    },
-    "700": {
-      "select": "C",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "INSTINCTS AND BEHAVIOR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gregory S. Archer (P)"
-      ],
-      "credits": "3",
-      "course": "333",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "21024"
-    }
-  },
-  "630": {
-    "600": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
       "title": "APPLIED ANIMAL GENOMICS",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Clare Gill (P)"
-      ],
-      "credits": "3",
-      "course": "630",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "16693"
-    }
-  },
-  "685": {
-    "600": {
-      "select": "C",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "APPLIED ANIMAL GENOMICS",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Clare Gill (P)"
+          ],
+          "credits": "3",
+          "course": "630",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "16693"
+        }
+      }
+    },
+    "685": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16873"
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16873"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "DIRECTED STUDIES",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Christine Z. Alvarado (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "23368"
+        },
+        "624": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "DIRECTED STUDIES",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Rosemary Walzem (P)"
+          ],
+          "credits": "3",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26542"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "DIRECTED STUDIES",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Christine Z. Alvarado (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "23368"
-    },
-    "624": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "DIRECTED STUDIES",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Rosemary Walzem (P)"
-      ],
-      "credits": "3",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26542"
-    }
-  },
-  "411": {
-    "200": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
-      "title": "HNR-POULTRY NUTRITION",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Christopher Bailey (P)"
-      ],
-      "credits": "3",
-      "course": "411",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 121"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "19653"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "411": {
       "title": "POULTRY NUTRITION",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Christopher Bailey (P)"
-      ],
-      "credits": "3",
-      "course": "411",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 121"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "12515"
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-POULTRY NUTRITION",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Christopher Bailey (P)"
+          ],
+          "credits": "3",
+          "course": "411",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "19653"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "POULTRY NUTRITION",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Christopher Bailey (P)"
+          ],
+          "credits": "3",
+          "course": "411",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "12515"
+        },
+        "599": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "POULTRY NUTRITION",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Christopher Bailey (P)"
+          ],
+          "credits": "3",
+          "course": "411",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14129"
+        },
+        "700": {
+          "select": "C",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "POULTRY NUTRITION",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Christopher Bailey (P)"
+          ],
+          "credits": "3",
+          "course": "411",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14025"
+        }
+      }
     },
-    "599": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
-      "title": "POULTRY NUTRITION",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Christopher Bailey (P)"
-      ],
-      "credits": "3",
-      "course": "411",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14129"
-    },
-    "700": {
-      "select": "C",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "POULTRY NUTRITION",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Christopher Bailey (P)"
-      ],
-      "credits": "3",
-      "course": "411",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14025"
-    }
-  },
-  "302": {
-    "501": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "302": {
       "title": "AVIAN SCIENCE LABORATORY",
-      "remaining": "26",
-      "capacity": "26",
-      "instructor": [
-        "Jason T. Lee (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FARM 107"
-      ],
-      "time": [
-        "01:00 pm-03:00 pm"
-      ],
-      "crn": "12507"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "AVIAN SCIENCE LABORATORY",
+          "remaining": "26",
+          "capacity": "26",
+          "instructor": [
+            "Jason T. Lee (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FARM 107"
+          ],
+          "time": [
+            "01:00 pm-03:00 pm"
+          ],
+          "crn": "12507"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "AVIAN SCIENCE LABORATORY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Jason T. Lee (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FARM 107"
+          ],
+          "time": [
+            "03:00 pm-05:00 pm"
+          ],
+          "crn": "12508"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "AVIAN SCIENCE LABORATORY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Jason T. Lee (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FARM 107"
-      ],
-      "time": [
-        "03:00 pm-05:00 pm"
-      ],
-      "crn": "12508"
-    }
-  },
-  "611": {
-    "699": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
+    "611": {
       "title": "POULTRY FURTHER PROCESSING",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Christine Z. Alvarado (P)"
-      ],
-      "credits": "3",
-      "course": "611",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 127"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "24742"
+      "sections": {
+        "699": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "POULTRY FURTHER PROCESSING",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Christine Z. Alvarado (P)"
+          ],
+          "credits": "3",
+          "course": "611",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 127"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "24742"
+        },
+        "700": {
+          "select": "C",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "POULTRY FURTHER PROCESSING",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "611",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "27115"
+        }
+      }
     },
-    "700": {
-      "select": "C",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "POULTRY FURTHER PROCESSING",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "611",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "27115"
-    }
-  },
-  "304": {
-    "500": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "304": {
       "title": "JUDGING",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Jason T. Lee (P)"
-      ],
-      "credits": "3",
-      "course": "304",
-      "days": [
-        "MWR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "FARM 108"
-      ],
-      "time": [
-        "03:00 pm-05:00 pm"
-      ],
-      "crn": "12509"
-    }
-  },
-  "326": {
-    "500": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "COMMERCIAL EGG INDUS",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Craig D. Coufal (P)"
-      ],
-      "credits": "3",
-      "course": "326",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 117"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12512"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "JUDGING",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Jason T. Lee (P)"
+          ],
+          "credits": "3",
+          "course": "304",
+          "days": [
+            "MWR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "FARM 108"
+          ],
+          "time": [
+            "03:00 pm-05:00 pm"
+          ],
+          "crn": "12509"
+        }
+      }
     },
-    "599": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "599",
+    "326": {
       "title": "COMMERCIAL EGG INDUS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Craig D. Coufal (P)"
-      ],
-      "credits": "3",
-      "course": "326",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "14128"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "COMMERCIAL EGG INDUS",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Craig D. Coufal (P)"
+          ],
+          "credits": "3",
+          "course": "326",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 117"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12512"
+        },
+        "599": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "599",
+          "title": "COMMERCIAL EGG INDUS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Craig D. Coufal (P)"
+          ],
+          "credits": "3",
+          "course": "326",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "14128"
+        },
+        "700": {
+          "select": "C",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "COMMERCIAL EGG INDUS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Craig D. Coufal (P)"
+          ],
+          "credits": "3",
+          "course": "326",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "16871"
+        }
+      }
     },
-    "700": {
-      "select": "C",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "COMMERCIAL EGG INDUS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Craig D. Coufal (P)"
-      ],
-      "credits": "3",
-      "course": "326",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "16871"
-    }
-  },
-  "405": {
-    "500": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "405": {
       "title": "EGG-POULTRY MEAT PROCESSING",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Christine Z. Alvarado (P)"
-      ],
-      "credits": "3",
-      "course": "405",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 127"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "24867"
-    }
-  },
-  "614": {
-    "600": {
-      "select": "C",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "EGG-POULTRY MEAT PROCESSING",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Christine Z. Alvarado (P)"
+          ],
+          "credits": "3",
+          "course": "405",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 127"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "24867"
+        }
+      }
+    },
+    "614": {
       "title": "FERMENT AND GASTRO MICRO",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "614",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 123"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "27118"
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "FERMENT AND GASTRO MICRO",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "614",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 123"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "27118"
+        }
+      }
+    },
+    "308": {
+      "title": "AVIAN ANATOMY & PHYSIO",
+      "sections": {
+        "201": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-AVIAN ANATOMY & PHYSIO",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "David J. Caldwell (P)",
+            "David J. Caldwell"
+          ],
+          "credits": "3",
+          "course": "308",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121",
+            "FARM 107"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "08:45 am-10:35 am"
+          ],
+          "crn": "19651"
+        },
+        "202": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "202",
+          "title": "HNR-AVIAN ANATOMY & PHYSIO",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "David J. Caldwell (P)",
+            "David J. Caldwell"
+          ],
+          "credits": "3",
+          "course": "308",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121",
+            "TBA"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "19652"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "AVIAN ANATOMY & PHYSIO",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "David J. Caldwell (P)",
+            "David J. Caldwell"
+          ],
+          "credits": "3",
+          "course": "308",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121",
+            "FARM 107"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "08:45 am-10:35 am"
+          ],
+          "crn": "12510"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "AVIAN ANATOMY & PHYSIO",
+          "remaining": "21",
+          "capacity": "21",
+          "instructor": [
+            "David J. Caldwell (P)",
+            "David J. Caldwell"
+          ],
+          "credits": "3",
+          "course": "308",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121",
+            "FARM 107"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "12511"
+        }
+      }
+    },
+    "309": {
+      "title": "POULTRY MEAT PRODUCTION",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "POULTRY MEAT PRODUCTION",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "John Carey (P)",
+            "John Carey"
+          ],
+          "credits": "4",
+          "course": "309",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121",
+            "FARM 108"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "01:00 pm-02:50 pm"
+          ],
+          "crn": "13254"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "POSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "POULTRY MEAT PRODUCTION",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "John Carey (P)",
+            "John Carey"
+          ],
+          "credits": "4",
+          "course": "309",
+          "days": [
+            "MWF",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 121",
+            "FARM 108"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "03:10 pm-05:00 pm"
+          ],
+          "crn": "13255"
+        }
+      }
     }
   },
-  "308": {
-    "201": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-AVIAN ANATOMY & PHYSIO",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "David J. Caldwell (P)",
-        "David J. Caldwell"
-      ],
-      "credits": "3",
-      "course": "308",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 121",
-        "FARM 107"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "08:45 am-10:35 am"
-      ],
-      "crn": "19651"
-    },
-    "202": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "202",
-      "title": "HNR-AVIAN ANATOMY & PHYSIO",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "David J. Caldwell (P)",
-        "David J. Caldwell"
-      ],
-      "credits": "3",
-      "course": "308",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 121",
-        "TBA"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "19652"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "AVIAN ANATOMY & PHYSIO",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "David J. Caldwell (P)",
-        "David J. Caldwell"
-      ],
-      "credits": "3",
-      "course": "308",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 121",
-        "FARM 107"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "08:45 am-10:35 am"
-      ],
-      "crn": "12510"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "AVIAN ANATOMY & PHYSIO",
-      "remaining": "21",
-      "capacity": "21",
-      "instructor": [
-        "David J. Caldwell (P)",
-        "David J. Caldwell"
-      ],
-      "credits": "3",
-      "course": "308",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 121",
-        "FARM 107"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "12511"
-    }
-  },
-  "309": {
-    "501": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "POULTRY MEAT PRODUCTION",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "John Carey (P)",
-        "John Carey"
-      ],
-      "credits": "4",
-      "course": "309",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 121",
-        "FARM 108"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "01:00 pm-02:50 pm"
-      ],
-      "crn": "13254"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "POSC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "POULTRY MEAT PRODUCTION",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "John Carey (P)",
-        "John Carey"
-      ],
-      "credits": "4",
-      "course": "309",
-      "days": [
-        "MWF",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 121",
-        "FARM 108"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "03:10 pm-05:00 pm"
-      ],
-      "crn": "13255"
-    }
-  }
+  "title": "POSC - Poultry Science",
+  "updated": "Thu Apr 07 01:24:05 CDT 2016"
 }

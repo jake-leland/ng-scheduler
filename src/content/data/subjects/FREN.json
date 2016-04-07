@@ -1,608 +1,642 @@
 {
-  "101": {
-    "200": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "200",
-      "title": "HNR-BEGINNING FRENCH I",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Sylvie B. Ragucci (P)",
-        "Sylvie B. Ragucci"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MWF",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ENPH 216",
-        "ACAD 124"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "11338"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "101": {
       "title": "BEGINNING FRENCH I",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Sylvie B. Ragucci (P)",
-        "Sylvie B. Ragucci"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MWF",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ENPH 216",
-        "ACAD 124"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "11339"
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-BEGINNING FRENCH I",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Sylvie B. Ragucci (P)",
+            "Sylvie B. Ragucci"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MWF",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ENPH 216",
+            "ACAD 124"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "11338"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "BEGINNING FRENCH I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Sylvie B. Ragucci (P)",
+            "Sylvie B. Ragucci"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MWF",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ENPH 216",
+            "ACAD 124"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "11339"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "BEGINNING FRENCH I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Sylvie B. Ragucci (P)",
+            "Sylvie B. Ragucci"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MWF",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 213",
+            "TBA"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "11340"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "BEGINNING FRENCH I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Adam R. Rosenthal (P)",
+            "Adam R. Rosenthal"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MWF",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "PETR 106",
+            "ACAD 124"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "11341"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "BEGINNING FRENCH I",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Adam R. Rosenthal (P)",
+            "Adam R. Rosenthal"
+          ],
+          "credits": "4",
+          "course": "101",
+          "days": [
+            "MWF",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "PETR 106",
+            "ACAD 124"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "21963"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "BEGINNING FRENCH I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sylvie B. Ragucci (P)",
-        "Sylvie B. Ragucci"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MWF",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 213",
-        "TBA"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "11340"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "BEGINNING FRENCH I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Adam R. Rosenthal (P)",
-        "Adam R. Rosenthal"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MWF",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "PETR 106",
-        "ACAD 124"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "11341"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "BEGINNING FRENCH I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Adam R. Rosenthal (P)",
-        "Adam R. Rosenthal"
-      ],
-      "credits": "4",
-      "course": "101",
-      "days": [
-        "MWF",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "PETR 106",
-        "ACAD 124"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "21963"
-    }
-  },
-  "321": {
-    "500": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "321": {
       "title": "FRENCH LITERATURE I",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Ruth Larson (P)"
-      ],
-      "credits": "3",
-      "course": "321",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HRBB 104"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "11350"
-    }
-  },
-  "102": {
-    "501": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "FRENCH LITERATURE I",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Ruth Larson (P)"
+          ],
+          "credits": "3",
+          "course": "321",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 104"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "11350"
+        }
+      }
+    },
+    "102": {
       "title": "BEGINNING FRENCH II",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sylvie B. Ragucci (P)",
-        "Sylvie B. Ragucci"
-      ],
-      "credits": "4",
-      "course": "102",
-      "days": [
-        "MWF",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "PETR 106",
-        "ACAD 124"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "09:10 am-10:00 am"
-      ],
-      "crn": "11342"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "BEGINNING FRENCH II",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sylvie B. Ragucci (P)",
+            "Sylvie B. Ragucci"
+          ],
+          "credits": "4",
+          "course": "102",
+          "days": [
+            "MWF",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "PETR 106",
+            "ACAD 124"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "09:10 am-10:00 am"
+          ],
+          "crn": "11342"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "BEGINNING FRENCH II",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Sylvie B. Ragucci (P)",
+            "Sylvie B. Ragucci"
+          ],
+          "credits": "4",
+          "course": "102",
+          "days": [
+            "MWF",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "PETR 106",
+            "ACAD 124"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "10:20 am-11:10 am"
+          ],
+          "crn": "11343"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "BEGINNING FRENCH II",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Sylvie B. Ragucci (P)",
-        "Sylvie B. Ragucci"
-      ],
-      "credits": "4",
-      "course": "102",
-      "days": [
-        "MWF",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "PETR 106",
-        "ACAD 124"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "10:20 am-11:10 am"
-      ],
-      "crn": "11343"
-    }
-  },
-  "201": {
-    "200": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
-      "title": "HNR-INTERMEDIATE FRENCH I",
-      "remaining": "6",
-      "capacity": "6",
-      "instructor": [
-        "Francoise Vionnet-Bracher (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 226"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "11344"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "201": {
       "title": "INTERMEDIATE FRENCH I",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Francoise Vionnet-Bracher (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 226"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "11345"
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-INTERMEDIATE FRENCH I",
+          "remaining": "6",
+          "capacity": "6",
+          "instructor": [
+            "Francoise Vionnet-Bracher (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 226"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "11344"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERMEDIATE FRENCH I",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Francoise Vionnet-Bracher (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 226"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "11345"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTERMEDIATE FRENCH I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jean Baptiste M. Charlot (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 226"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "11346"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "INTERMEDIATE FRENCH I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Jean Baptiste M. Charlot (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 305"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "21964"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "INTERMEDIATE FRENCH I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Jean Baptiste M. Charlot (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 226"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "11346"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "INTERMEDIATE FRENCH I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Jean Baptiste M. Charlot (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 305"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "21964"
-    }
-  },
-  "300": {
-    "900": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
+    "300": {
       "title": "WRITTEN COMM IN FREN SP WORLD",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Ruth Larson (P)"
-      ],
-      "credits": "3",
-      "course": "300",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HRBB 104"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "11347"
-    }
-  },
-  "311": {
-    "500": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "ORAL COMM IN FRENCH SP WORLD",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Francoise Vionnet-Bracher (P)"
-      ],
-      "credits": "3",
-      "course": "311",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 226"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "11349"
-    }
-  },
-  "202": {
-    "501": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "INTERMEDIATE FRENCH II",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Jean Baptiste M. Charlot (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 264"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "19223"
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "WRITTEN COMM IN FREN SP WORLD",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Ruth Larson (P)"
+          ],
+          "credits": "3",
+          "course": "300",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 104"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "11347"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "311": {
+      "title": "ORAL COMM IN FRENCH SP WORLD",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ORAL COMM IN FRENCH SP WORLD",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Francoise Vionnet-Bracher (P)"
+          ],
+          "credits": "3",
+          "course": "311",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 226"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "11349"
+        }
+      }
+    },
+    "202": {
       "title": "INTERMEDIATE FRENCH II",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Jean Baptiste M. Charlot (P)"
-      ],
-      "credits": "3",
-      "course": "202",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "LAAH 264"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "19224"
-    }
-  },
-  "301": {
-    "500": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERMEDIATE FRENCH II",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Jean Baptiste M. Charlot (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 264"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "19223"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTERMEDIATE FRENCH II",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Jean Baptiste M. Charlot (P)"
+          ],
+          "credits": "3",
+          "course": "202",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "LAAH 264"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "19224"
+        }
+      }
+    },
+    "301": {
       "title": "FREN SOCIETY AND CULTURE",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Nathan Bracher (P)"
-      ],
-      "credits": "3",
-      "course": "301",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 123"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "11348"
-    }
-  },
-  "422": {
-    "500": {
-      "select": "SR",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "FREN SOCIETY AND CULTURE",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Nathan Bracher (P)"
+          ],
+          "credits": "3",
+          "course": "301",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 123"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "11348"
+        }
+      }
+    },
+    "422": {
       "title": "STUD GENDER FRENCH LIT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Melanie Hawthorne (P)"
-      ],
-      "credits": "3",
-      "course": "422",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 226"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "27325"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "STUD GENDER FRENCH LIT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Melanie Hawthorne (P)"
+          ],
+          "credits": "3",
+          "course": "422",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 226"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "27325"
+        }
+      }
+    },
+    "481": {
+      "title": "SEMINAR FRENCH FRANCOPHONE",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "FREN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SEMINAR FRENCH FRANCOPHONE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "481",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 226"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "28497"
+        }
+      }
     }
   },
-  "481": {
-    "500": {
-      "select": "C",
-      "subject": "FREN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "SEMINAR FRENCH FRANCOPHONE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "481",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 226"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "28497"
-    }
-  }
+  "title": "FREN - French",
+  "updated": "Thu Apr 07 01:16:28 CDT 2016"
 }

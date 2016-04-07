@@ -1,0 +1,53 @@
+<md-content data-ng-controller="Manage" layout="column" class="manage md-whiteframe-1dp">
+    <md-content class="md-padding">
+        <md-tabs md-selected="selectedIndex" md-border-bottom md-autoselect style="min-height: 358px">
+            <md-tab ng-repeat="tab in tabs"
+                    ng-disabled="tab.disabled"
+                    label="{{tab.title}}">
+                <div class="demo-tab tab{{$index%4}}" style="padding-bottom: 25px; text-align: center;">
+                    <md-list style="text-align: left;">
+                        <md-subheader class="md-no-sticky">{{subjects[tab.subject].courses[tab.course].title}}
+                        </md-subheader>
+                        <md-subheader class="md-no-sticky">Updated: {{subjects[tab.subject].updated}}</md-subheader>
+                        <md-list-item class="md-3-line"
+                                      ng-repeat="section in subjects[tab.subject].courses[tab.course].sections">
+                            <md-checkbox ng-click="toggleSection(section)"></md-checkbox>
+                            <div class="md-list-item-text" layout="column">
+                                <h3>{{section.section}}</h3>
+                                <h4>{{section.instructor[0]}}</h4>
+                                <p>{{section.credits}} hr(s)</p>
+                            </div>
+                        </md-list-item>
+                    </md-list>
+                    <br/>
+                    <md-button class="md-primary md-raised" ng-click="removeCourse( tab )">Remove Course
+                    </md-button>
+                </div>
+            </md-tab>
+        </md-tabs>
+    </md-content>
+    <form ng-submit="addCourse(selectedCourse)" name="searchForm" layout="column" class="md-padding"
+          style="padding-top: 0;">
+        <div layout="row" layout-sm="column">
+            <md-autocomplete required
+                             md-input-name="autocompleteField"
+                             md-selected-item="selectedCourse"
+                             md-search-text="searchText"
+                             md-items="course in querySearch(searchText)"
+                             md-item-text="course.display"
+                             md-floating-label="Add Course"
+                             md-no-asterisk
+                             style="min-width: 300px;">
+                <md-item-template>
+                    <span md-highlight-text="searchText">{{course.display}}</span>
+                </md-item-template>
+                <md-not-found>
+                    No matches found.
+                </md-not-found>
+            </md-autocomplete>
+            <md-button class="add-tab md-primary md-raised" ng-disabled="!selectedCourse" type="submit"
+                       style="margin-right: 0;">Add Course
+            </md-button>
+        </div>
+    </form>
+</md-content>

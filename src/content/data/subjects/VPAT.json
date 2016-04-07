@@ -1,954 +1,979 @@
 {
-  "640": {
-    "600": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "640": {
       "title": "ADVANCED MECHANISMS OF DISEASE",
-      "remaining": "7",
-      "capacity": "7",
-      "instructor": [
-        "Raquel R. Rech (P)",
-        "Raquel R. Rech (P)"
-      ],
-      "credits": "2",
-      "course": "640",
-      "days": [
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "10:00 am-11:50 am",
-        "10:00 am-10:50 am"
-      ],
-      "crn": "22533"
-    }
-  },
-  "641": {
-    "600": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "ADVANCED MECHANISMS OF DISEASE",
+          "remaining": "7",
+          "capacity": "7",
+          "instructor": [
+            "Raquel R. Rech (P)",
+            "Raquel R. Rech (P)"
+          ],
+          "credits": "2",
+          "course": "640",
+          "days": [
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "10:00 am-11:50 am",
+            "10:00 am-10:50 am"
+          ],
+          "crn": "22533"
+        }
+      }
+    },
+    "641": {
       "title": "SYSTEMIC PATHOLOGY I",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Karen Mansell",
-        "Karen Mansell (P), John Edwards , Roy Pool , Brian F. Porter , Gheorghe Stoica"
-      ],
-      "credits": "4",
-      "course": "641",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "12834"
-    }
-  },
-  "685": {
-    "654": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Mary B. Nabity (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16013"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "SYSTEMIC PATHOLOGY I",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Karen Mansell",
+            "Karen Mansell (P), John Edwards , Roy Pool , Brian F. Porter , Gheorghe Stoica"
+          ],
+          "credits": "4",
+          "course": "641",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "12834"
+        }
+      }
     },
-    "600": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "685": {
       "title": "DIRECTED STUDIES",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Brian F. Porter (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23206"
+      "sections": {
+        "654": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mary B. Nabity (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16013"
+        },
+        "600": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "DIRECTED STUDIES",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Brian F. Porter (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23206"
+        },
+        "601": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ann Kier (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23237"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DIRECTED STUDIES",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Aline Rodrigues (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23578"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Gwendolyn Carroll (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25737"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "DIRECTED STUDIES",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "John Edwards (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25738"
+        },
+        "605": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25739"
+        },
+        "638": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "638",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Aline Rodrigues (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18637"
+        },
+        "606": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Fred Clubb (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16228"
+        },
+        "607": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25740"
+        },
+        "608": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25741"
+        },
+        "609": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "DIRECTED STUDIES",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Brian F. Porter (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13931"
+        }
+      }
     },
-    "601": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ann Kier (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23237"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "DIRECTED STUDIES",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Aline Rodrigues (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23578"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Gwendolyn Carroll (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25737"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "DIRECTED STUDIES",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "John Edwards (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25738"
-    },
-    "605": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25739"
-    },
-    "638": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "638",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Aline Rodrigues (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18637"
-    },
-    "606": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Fred Clubb (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16228"
-    },
-    "607": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25740"
-    },
-    "608": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25741"
-    },
-    "609": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "DIRECTED STUDIES",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Brian F. Porter (P)"
-      ],
-      "credits": "1-4",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13931"
-    }
-  },
-  "642": {
-    "600": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "642": {
       "title": "MECHANISMS METABOLIC DISEASE",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Gwendolyn J. Levine (P)"
-      ],
-      "credits": "2",
-      "course": "642",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "24517"
-    }
-  },
-  "643": {
-    "601": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "MECHANISMS METABOLIC DISEASE",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Gwendolyn J. Levine (P)"
+          ],
+          "credits": "2",
+          "course": "642",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "24517"
+        }
+      }
+    },
+    "643": {
       "title": "APPLIED PATHOLOGY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "John Edwards (P)"
-      ],
-      "credits": "1-6",
-      "course": "643",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13069"
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "APPLIED PATHOLOGY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "John Edwards (P)"
+          ],
+          "credits": "1-6",
+          "course": "643",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13069"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "APPLIED PATHOLOGY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Karen Russell (P)"
+          ],
+          "credits": "1-6",
+          "course": "643",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "12835"
+        }
+      }
     },
-    "602": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "APPLIED PATHOLOGY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Karen Russell (P)"
-      ],
-      "credits": "1-6",
-      "course": "643",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "12835"
-    }
-  },
-  "691": {
-    "654": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Mary B. Nabity (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18573"
+      "sections": {
+        "654": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Mary B. Nabity (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18573"
+        },
+        "600": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Ann Kier (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23220"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Joe N. Kornegay (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23228"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Raquel R. Rech (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23258"
+        },
+        "635": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "635",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Karen Russell (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18617"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Angela M. Arenas Gamboa (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23259"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Sanjay Reddy (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25742"
+        },
+        "648": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "648",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gwendolyn Carroll (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15764"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Nancy D. Turner (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25743"
+        },
+        "616": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "616",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Weston W. Porter (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13933"
+        },
+        "638": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "638",
+          "title": "RESEARCH",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Aline Rodrigues (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20494"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "David W. Threadgill (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25744"
+        },
+        "607": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25745"
+        },
+        "608": {
+          "select": "C",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25746"
+        }
+      }
     },
-    "600": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Ann Kier (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23220"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Joe N. Kornegay (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23228"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Raquel R. Rech (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23258"
-    },
-    "635": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "635",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Karen Russell (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18617"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Angela M. Arenas Gamboa (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23259"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Sanjay Reddy (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25742"
-    },
-    "648": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "648",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gwendolyn Carroll (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15764"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Nancy D. Turner (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25743"
-    },
-    "616": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "616",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Weston W. Porter (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13933"
-    },
-    "638": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "638",
-      "title": "RESEARCH",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Aline Rodrigues (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20494"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "David W. Threadgill (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25744"
-    },
-    "607": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25745"
-    },
-    "608": {
-      "select": "C",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25746"
-    }
-  },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "VPAT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "681": {
       "title": "SEMINAR",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Raquel R. Rech (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "12836"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "VPAT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Raquel R. Rech (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "12836"
+        }
+      }
     }
-  }
+  },
+  "title": "VPAT - Veterinary Pathology",
+  "updated": "Thu Apr 07 01:26:42 CDT 2016"
 }

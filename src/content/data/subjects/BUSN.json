@@ -1,3037 +1,3079 @@
 {
-  "484": {
-    "551": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "551",
-      "title": "INTERNSHIP: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kristine E. Morley (P)"
-      ],
-      "credits": "1-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19410"
-    },
-    "500": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "484": {
       "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kristine E. Morley (P)"
-      ],
-      "credits": "1-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14357"
-    }
-  },
-  "485": {
-    "202": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "202",
-      "title": "HNR-DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18206"
+      "sections": {
+        "551": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "551",
+          "title": "INTERNSHIP: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kristine E. Morley (P)"
+          ],
+          "credits": "1-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19410"
+        },
+        "500": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kristine E. Morley (P)"
+          ],
+          "credits": "1-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14357"
+        }
+      }
     },
-    "203": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "203",
-      "title": "HNR-DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18207"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Kristopher D. Muir (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23281"
+      "sections": {
+        "202": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "202",
+          "title": "HNR-DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18206"
+        },
+        "203": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "203",
+          "title": "HNR-DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18207"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "4",
+          "capacity": "4",
+          "instructor": [
+            "Kristopher D. Muir (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23281"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Henry K. Musoma (P), Richard G. Johnson"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15122"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Peter K. Drysdale (P)"
+          ],
+          "credits": "4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23574"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "DIRECTED STUDIES",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Martha Loudder (P)"
+          ],
+          "credits": "4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23575"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Henry K. Musoma (P), Richard G. Johnson"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15122"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Peter K. Drysdale (P)"
-      ],
-      "credits": "4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23574"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "DIRECTED STUDIES",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Martha Loudder (P)"
-      ],
-      "credits": "4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23575"
-    }
-  },
-  "101": {
-    "530": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "530",
+    "101": {
       "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "TBA"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10507"
+      "sections": {
+        "530": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "530",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "TBA"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10507"
+        },
+        "531": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "531",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "TBA"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10508"
+        },
+        "510": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "510",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10489"
+        },
+        "532": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "532",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10509"
+        },
+        "511": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "511",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10490"
+        },
+        "533": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "533",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10510"
+        },
+        "512": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "512",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10491"
+        },
+        "534": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "534",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10511"
+        },
+        "513": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "513",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10492"
+        },
+        "535": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "535",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10512"
+        },
+        "514": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "514",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10493"
+        },
+        "536": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "536",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10513"
+        },
+        "515": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "515",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10494"
+        },
+        "537": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "537",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "19400"
+        },
+        "516": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "516",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10495"
+        },
+        "538": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "538",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10514"
+        },
+        "517": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "517",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10496"
+        },
+        "539": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "539",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10515"
+        },
+        "518": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "518",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10497"
+        },
+        "519": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "519",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "19398"
+        },
+        "540": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "540",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "19401"
+        },
+        "541": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "541",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "19402"
+        },
+        "520": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "520",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10498"
+        },
+        "542": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "542",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "19403"
+        },
+        "521": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "521",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10499"
+        },
+        "543": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "543",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "19404"
+        },
+        "522": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "522",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10500"
+        },
+        "544": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "544",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "19405"
+        },
+        "501": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10480"
+        },
+        "523": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "523",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10501"
+        },
+        "545": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "545",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "23162"
+        },
+        "502": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10481"
+        },
+        "524": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "524",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "19399"
+        },
+        "546": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "546",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "10516"
+        },
+        "503": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "503",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10482"
+        },
+        "525": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "525",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10502"
+        },
+        "547": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "547",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "26118"
+        },
+        "504": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "504",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10483"
+        },
+        "526": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "526",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10503"
+        },
+        "548": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "548",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm",
+            "04:35 pm-05:50 pm"
+          ],
+          "crn": "26119"
+        },
+        "505": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "505",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10484"
+        },
+        "527": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "527",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10504"
+        },
+        "506": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "506",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10485"
+        },
+        "528": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "528",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10505"
+        },
+        "507": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "507",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10486"
+        },
+        "529": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "529",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)",
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "TBA",
+            "WCBA 113",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10506"
+        },
+        "508": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "508",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10487"
+        },
+        "509": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "509",
+          "title": "FRESHMAN BUSN INITIATIVE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)",
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "101",
+          "days": [
+            "M",
+            "W",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "09/09-09/09"
+          ],
+          "location": [
+            "WCBA 113",
+            "TBA",
+            "WCBA 113"
+          ],
+          "time": [
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "10488"
+        }
+      }
     },
-    "531": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "531",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "TBA"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10508"
+    "289": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPTP:ENHANCING PROF SKILLS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "John A. Van Alstyne (P)"
+          ],
+          "credits": "1",
+          "course": "289",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 490"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "27828"
+        }
+      }
     },
-    "510": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "510",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10489"
+    "125": {
+      "title": "BUSINESS LEARN COMM I",
+      "sections": {
+        "201": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-BUSINESS LEARN COMM I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Martha Loudder (P)",
+            "Martha Loudder (P)"
+          ],
+          "credits": "3",
+          "course": "125",
+          "days": [
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 106",
+            "TBA"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm",
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "10517"
+        },
+        "202": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "202",
+          "title": "HNR-BUSINESS LEARN COMM I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kristine E. Morley (P)",
+            "Kristine E. Morley (P)"
+          ],
+          "credits": "3",
+          "course": "125",
+          "days": [
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 106",
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm",
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "10518"
+        },
+        "203": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "203",
+          "title": "HNR-BUSINESS LEARN COMM I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kristine E. Morley (P)",
+            "Kristine E. Morley (P)"
+          ],
+          "credits": "3",
+          "course": "125",
+          "days": [
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 106",
+            "TBA"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm",
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "13290"
+        }
+      }
     },
-    "532": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "532",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10509"
+    "302": {
+      "title": "APPLD BUSN COMPETENCIES",
+      "sections": {
+        "510": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "APPLD BUSN COMP: DECIS MAKING",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Martha Loudder (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 106"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "23864"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "511",
+          "title": "APPLD BUSN COMP: WORKING PURPO",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Nancy J. Simpson (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 408"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "23873"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "APPLD BUSN COMP: NONPFRT BUSI",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Kyle S. Gammenthaler (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 106"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "15325"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "APPLD BUSN COMP: CAMP LEADERS",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Kristopher D. Muir (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 462"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "23876"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "APPLD BUSN COMP:COFFHSE CONVST",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Kristopher D. Muir (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 408"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "15354"
+        },
+        "513": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "513",
+          "title": "APPLD BUSN COMP: FACULTY RESEA",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Stephen H. Courtright (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 408"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "28534"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "APPLD BUSN COMP: ADV EXCEL",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Tara N. Blasor (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 442"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "15355"
+        },
+        "514": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "514",
+          "title": "APPLD BUSN COMP: WAYS OF MAYS",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Kristopher D. Muir (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 462"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "28535"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "APPLD BUSN COMP:COURSE DEV",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Kristopher D. Muir (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 408"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "19407"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "APPL BUSN COMP:BUSN SOL SOC PB",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Nancy J. Simpson (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 106"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "15361"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "APLD BSN COMP:PLN PROF CAREER",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Lisa M. Burton (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 181"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "17712"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "APPLD BUSN COMP:ENERGY INDSTRY",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Courtney E. Foster (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 241"
+          ],
+          "time": [
+            "04:00 pm-06:00 pm"
+          ],
+          "crn": "19408"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "APLD BUSN COMP:BUSN SPORTS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Kristopher D. Muir (P)"
+          ],
+          "credits": "1",
+          "course": "302",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 408"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "19409"
+        }
+      }
     },
-    "511": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "511",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10490"
+    "205": {
+      "title": "INTGRATED WORKLIFE COMPS",
+      "sections": {
+        "971": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "971",
+          "title": "HNR-INTGRATED WORKLIFE COMPS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John A. Van Alstyne (P)"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 490"
+          ],
+          "time": [
+            "11:20 am-12:35 pm"
+          ],
+          "crn": "14084"
+        },
+        "972": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "972",
+          "title": "HNR-INTGRATED WORKLIFE COMPS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John A. Van Alstyne (P)"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 490"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "10519"
+        }
+      }
     },
-    "533": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "533",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10510"
-    },
-    "512": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "512",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10491"
-    },
-    "534": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "534",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10511"
-    },
-    "513": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "513",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10492"
-    },
-    "535": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "535",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10512"
-    },
-    "514": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "514",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10493"
-    },
-    "536": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "536",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10513"
-    },
-    "515": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "515",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10494"
-    },
-    "537": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "537",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "19400"
-    },
-    "516": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "516",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10495"
-    },
-    "538": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "538",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10514"
-    },
-    "517": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "517",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10496"
-    },
-    "539": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "539",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10515"
-    },
-    "518": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "518",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10497"
-    },
-    "519": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "519",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "19398"
-    },
-    "540": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "540",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "19401"
-    },
-    "541": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "541",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "19402"
-    },
-    "520": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "520",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10498"
-    },
-    "542": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "542",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "19403"
-    },
-    "521": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "521",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10499"
-    },
-    "543": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "543",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "19404"
-    },
-    "522": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "522",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10500"
-    },
-    "544": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "544",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "19405"
-    },
-    "501": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "501",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10480"
-    },
-    "523": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "523",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10501"
-    },
-    "545": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "545",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "23162"
-    },
-    "502": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "502",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10481"
-    },
-    "524": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "524",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "19399"
-    },
-    "546": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "546",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "10516"
-    },
-    "503": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "503",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10482"
-    },
-    "525": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "525",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10502"
-    },
-    "547": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "547",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "26118"
-    },
-    "504": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "504",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10483"
-    },
-    "526": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "526",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10503"
-    },
-    "548": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "548",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm",
-        "04:35 pm-05:50 pm"
-      ],
-      "crn": "26119"
-    },
-    "505": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "505",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10484"
-    },
-    "527": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "527",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10504"
-    },
-    "506": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "506",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10485"
-    },
-    "528": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "528",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10505"
-    },
-    "507": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "507",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10486"
-    },
-    "529": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "529",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)",
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "TBA",
-        "WCBA 113",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10506"
-    },
-    "508": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "508",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10487"
-    },
-    "509": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "509",
-      "title": "FRESHMAN BUSN INITIATIVE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)",
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "101",
-      "days": [
-        "M",
-        "W",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "09/09-09/09"
-      ],
-      "location": [
-        "WCBA 113",
-        "TBA",
-        "WCBA 113"
-      ],
-      "time": [
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm",
-        "03:00 pm-04:15 pm"
-      ],
-      "crn": "10488"
-    }
-  },
-  "289": {
-    "500": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "SPTP:ENHANCING PROF SKILLS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "John A. Van Alstyne (P)"
-      ],
-      "credits": "1",
-      "course": "289",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 490"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "27828"
-    }
-  },
-  "125": {
-    "201": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-BUSINESS LEARN COMM I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Martha Loudder (P)",
-        "Martha Loudder (P)"
-      ],
-      "credits": "3",
-      "course": "125",
-      "days": [
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 106",
-        "TBA"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm",
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "10517"
-    },
-    "202": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "202",
-      "title": "HNR-BUSINESS LEARN COMM I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kristine E. Morley (P)",
-        "Kristine E. Morley (P)"
-      ],
-      "credits": "3",
-      "course": "125",
-      "days": [
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 106",
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm",
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "10518"
-    },
-    "203": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "203",
-      "title": "HNR-BUSINESS LEARN COMM I",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kristine E. Morley (P)",
-        "Kristine E. Morley (P)"
-      ],
-      "credits": "3",
-      "course": "125",
-      "days": [
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 106",
-        "TBA"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm",
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "13290"
-    }
-  },
-  "302": {
-    "510": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
-      "title": "APPLD BUSN COMP: DECIS MAKING",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Martha Loudder (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 106"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "23864"
-    },
-    "511": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "511",
-      "title": "APPLD BUSN COMP: WORKING PURPO",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Nancy J. Simpson (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 408"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "23873"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "APPLD BUSN COMP: NONPFRT BUSI",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Kyle S. Gammenthaler (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 106"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "15325"
-    },
-    "512": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "APPLD BUSN COMP: CAMP LEADERS",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Kristopher D. Muir (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 462"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "23876"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "APPLD BUSN COMP:COFFHSE CONVST",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Kristopher D. Muir (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 408"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "15354"
-    },
-    "513": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "513",
-      "title": "APPLD BUSN COMP: FACULTY RESEA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Stephen H. Courtright (P)"
-      ],
-      "credits": "1-3",
-      "course": "302",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 408"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "28534"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "APPLD BUSN COMP: ADV EXCEL",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Tara N. Blasor (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 442"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "15355"
-    },
-    "514": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "514",
-      "title": "APPLD BUSN COMP: MAJOR CHOICE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kristopher D. Muir (P)"
-      ],
-      "credits": "1-3",
-      "course": "302",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 408"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "28535"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "APPLD BUSN COMP:COURSE DEV",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Kristopher D. Muir (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 408"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "19407"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "APPL BUSN COMP:BUSN SOL SOC PB",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Nancy J. Simpson (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 106"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "15361"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "APLD BSN COMP:PLN PROF CAREER",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Lisa M. Burton (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 181"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "17712"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "APPLD BUSN COMP:ENERGY INDSTRY",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Courtney E. Foster (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 241"
-      ],
-      "time": [
-        "04:00 pm-06:00 pm"
-      ],
-      "crn": "19408"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "APLD BUSN COMP:BUSN SPORTS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Kristopher D. Muir (P)"
-      ],
-      "credits": "1",
-      "course": "302",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 408"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "19409"
-    }
-  },
-  "205": {
-    "971": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "971",
-      "title": "HNR-INTGRATED WORKLIFE COMPS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John A. Van Alstyne (P)"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 490"
-      ],
-      "time": [
-        "11:20 am-12:35 pm"
-      ],
-      "crn": "14084"
-    },
-    "972": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "972",
-      "title": "HNR-INTGRATED WORKLIFE COMPS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John A. Van Alstyne (P)"
-      ],
-      "credits": "3",
-      "course": "205",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 490"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "10519"
-    }
-  },
-  "403": {
-    "901": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "901",
+    "403": {
       "title": "PERS COMPETENCY ASSESSMT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Patrick L. Williams (P)"
-      ],
-      "credits": "3",
-      "course": "403",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 462"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "15116"
+      "sections": {
+        "901": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "901",
+          "title": "PERS COMPETENCY ASSESSMT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Patrick L. Williams (P)"
+          ],
+          "credits": "3",
+          "course": "403",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 462"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "15116"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "902",
+          "title": "PERS COMPETENCY ASSESSMT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Kristopher D. Muir (P)"
+          ],
+          "credits": "3",
+          "course": "403",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 408"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "23102"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "903",
+          "title": "PERS COMPETENCY ASSESSMT",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Kristopher D. Muir (P)"
+          ],
+          "credits": "3",
+          "course": "403",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 205"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "27827"
+        }
+      }
     },
-    "902": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "902",
-      "title": "PERS COMPETENCY ASSESSMT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Kristopher D. Muir (P)"
-      ],
-      "credits": "3",
-      "course": "403",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 408"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "23102"
-    },
-    "903": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "903",
-      "title": "PERS COMPETENCY ASSESSMT",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Kristopher D. Muir (P)"
-      ],
-      "credits": "3",
-      "course": "403",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 205"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "27827"
-    }
-  },
-  "392": {
-    "550": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "CO-OP ED IN BUSINESS: IN-AB",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "392",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20603"
-    },
-    "551": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "551",
+    "392": {
       "title": "CO-OP ED IN BUSINESS",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "392",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18226"
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "CO-OP ED IN BUSINESS: IN-AB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "392",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20603"
+        },
+        "551": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "551",
+          "title": "CO-OP ED IN BUSINESS",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "392",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18226"
+        },
+        "552": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "552",
+          "title": "CO-OP ED IN BUSINESS",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "392",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22695"
+        },
+        "553": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "553",
+          "title": "CO-OP ED IN BUSINESS: IN-AB",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Aaron C. Becker (P)"
+          ],
+          "credits": "2",
+          "course": "392",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20633"
+        },
+        "554": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "554",
+          "title": "CO-OP ED IN BUSINESS: IN-AB",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Peter K. Drysdale (P)"
+          ],
+          "credits": "2",
+          "course": "392",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22694"
+        }
+      }
     },
-    "552": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "552",
-      "title": "CO-OP ED IN BUSINESS",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "2",
-      "course": "392",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22695"
-    },
-    "553": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "553",
-      "title": "CO-OP ED IN BUSINESS: IN-AB",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Aaron C. Becker (P)"
-      ],
-      "credits": "2",
-      "course": "392",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20633"
-    },
-    "554": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "554",
-      "title": "CO-OP ED IN BUSINESS: IN-AB",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Peter K. Drysdale (P)"
-      ],
-      "credits": "2",
-      "course": "392",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22694"
-    }
-  },
-  "491": {
-    "500": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "491": {
       "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Nancy J. Simpson (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27227"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Nancy J. Simpson (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27227"
+        }
+      }
+    },
+    "285": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "90",
+          "capacity": "90",
+          "instructor": [
+            "Henry K. Musoma (P)"
+          ],
+          "credits": "3",
+          "course": "285",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15120"
+        },
+        "502": {
+          "select": "C",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kristine E. Morley (P)"
+          ],
+          "credits": "1-4",
+          "course": "285",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15531"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "BUSN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "DIRECTED STUDIES",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Richard G. Johnson (P)"
+          ],
+          "credits": "3",
+          "course": "285",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20656"
+        }
+      }
     }
   },
-  "285": {
-    "501": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "90",
-      "capacity": "90",
-      "instructor": [
-        "Henry K. Musoma (P)"
-      ],
-      "credits": "3",
-      "course": "285",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15120"
-    },
-    "502": {
-      "select": "C",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kristine E. Morley (P)"
-      ],
-      "credits": "1-4",
-      "course": "285",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15531"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "BUSN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "DIRECTED STUDIES",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Richard G. Johnson (P)"
-      ],
-      "credits": "3",
-      "course": "285",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20656"
-    }
-  }
+  "title": "BUSN - Mays Business School",
+  "updated": "Thu Apr 07 01:11:59 CDT 2016"
 }

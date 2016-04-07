@@ -1,126 +1,142 @@
 {
-  "484": {
-    "550": {
-      "select": "C",
-      "subject": "EURO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "INTERNSHIP: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Robert Shandley (P)"
-      ],
-      "credits": "1",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20070"
-    }
-  },
-  "453": {
-    "500": {
-      "select": "SR",
-      "subject": "EURO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "484": {
+      "title": "INTERNSHIP",
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "EURO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "INTERNSHIP: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Robert Shandley (P)"
+          ],
+          "credits": "1",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20070"
+        }
+      }
+    },
+    "453": {
       "title": "ITALIAN LITERATURE",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Manuela Marchesini (P)"
-      ],
-      "credits": "3",
-      "course": "453",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HRBB 104"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "27323"
-    }
-  },
-  "443": {
-    "500": {
-      "select": "SR",
-      "subject": "EURO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "EURO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ITALIAN LITERATURE",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Manuela Marchesini (P)"
+          ],
+          "credits": "3",
+          "course": "453",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 104"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "27323"
+        }
+      }
+    },
+    "443": {
       "title": "CONTEMP RUSSIAN PROSE",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Elisabeth Rich (P)"
-      ],
-      "credits": "3",
-      "course": "443",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 226"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "27320"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "EURO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CONTEMP RUSSIAN PROSE",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Elisabeth Rich (P)"
+          ],
+          "credits": "3",
+          "course": "443",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 226"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "27320"
+        }
+      }
+    },
+    "447": {
+      "title": "RUSSIAN ART CULTURE II",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "EURO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RUSSIAN ART CULTURE II",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Olga Cooke (P)"
+          ],
+          "credits": "3",
+          "course": "447",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 104"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "27322"
+        }
+      }
     }
   },
-  "447": {
-    "500": {
-      "select": "SR",
-      "subject": "EURO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "RUSSIAN ART CULTURE II",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Olga Cooke (P)"
-      ],
-      "credits": "3",
-      "course": "447",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HRBB 104"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "27322"
-    }
-  }
+  "title": "EURO - European Studies",
+  "updated": "Thu Apr 07 01:16:12 CDT 2016"
 }

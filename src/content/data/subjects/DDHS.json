@@ -1,560 +1,618 @@
 {
-  "4140": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "4140": {
       "title": "CLINICAL DENTAL HYGIENE III",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Mary T. Vu (P)"
-      ],
-      "credits": "4",
-      "course": "4140",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22876"
-    }
-  },
-  "4110": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CLINICAL DENTAL HYGIENE III",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Mary T. Vu (P)"
+          ],
+          "credits": "4",
+          "course": "4140",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22876"
+        }
+      }
+    },
+    "4110": {
       "title": "MEDICAL EMERGENCIES",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "David M. Grogan (P)"
-      ],
-      "credits": "0",
-      "course": "4110",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22875"
-    }
-  },
-  "4220": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "MEDICAL EMERGENCIES",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "David M. Grogan (P)"
+          ],
+          "credits": "0",
+          "course": "4110",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22875"
+        }
+      }
+    },
+    "4220": {
       "title": "COMPREHENSIVE CARE SEMINAR",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Mary T. Vu (P)"
-      ],
-      "credits": "0",
-      "course": "4220",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22878"
-    }
-  },
-  "4210": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "COMPREHENSIVE CARE SEMINAR",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Mary T. Vu (P)"
+          ],
+          "credits": "0",
+          "course": "4220",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22878"
+        }
+      }
+    },
+    "4210": {
       "title": "PROFESSIONAL ETHICS",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Stanton W. Cobb (P)"
-      ],
-      "credits": "1",
-      "course": "4210",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22877"
-    }
-  },
-  "4310": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PROFESSIONAL ETHICS",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Stanton W. Cobb (P)"
+          ],
+          "credits": "1",
+          "course": "4210",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22877"
+        }
+      }
+    },
+    "4310": {
       "title": "ORAL RADIOGRAPHY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Hui Liang (P)"
-      ],
-      "credits": "0",
-      "course": "4310",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25001"
-    }
-  },
-  "4530": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ORAL RADIOGRAPHY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Hui Liang (P)"
+          ],
+          "credits": "0",
+          "course": "4310",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25001"
+        }
+      }
+    },
+    "4530": {
       "title": "PUBLIC  COMMUNITY HEALTH",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Lisa F. Mallonee (P)"
-      ],
-      "credits": "3",
-      "course": "4530",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25002"
-    }
-  },
-  "4025": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PUBLIC  COMMUNITY HEALTH",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Lisa F. Mallonee (P)"
+          ],
+          "credits": "3",
+          "course": "4530",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25002"
+        }
+      }
+    },
+    "4025": {
       "title": "ORAL PATHOLOGY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "John M. Wright (P)"
-      ],
-      "credits": "2.5",
-      "course": "4025",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22874"
-    }
-  },
-  "4410": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ORAL PATHOLOGY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "John M. Wright (P)"
+          ],
+          "credits": "2.5",
+          "course": "4025",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22874"
+        }
+      }
+    },
+    "4410": {
       "title": "GERONTOLOGY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Patricia A. Campbell (P)"
-      ],
-      "credits": "1",
-      "course": "4410",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22879"
-    }
-  },
-  "3110": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "GERONTOLOGY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Patricia A. Campbell (P)"
+          ],
+          "credits": "1",
+          "course": "4410",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22879"
+        }
+      }
+    },
+    "3110": {
       "title": "INTRODUCTION TO DENTISTRY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Janice P. Dewald (P)"
-      ],
-      "credits": "1",
-      "course": "3110",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22854"
-    }
-  },
-  "3220": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTRODUCTION TO DENTISTRY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Janice P. Dewald (P)"
+          ],
+          "credits": "1",
+          "course": "3110",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22854"
+        }
+      }
+    },
+    "3220": {
       "title": "ORAL RADIOLOGY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Hui Liang (P)"
-      ],
-      "credits": "0-2",
-      "course": "3220",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22857"
-    }
-  },
-  "3120": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ORAL RADIOLOGY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Hui Liang (P)"
+          ],
+          "credits": "0-2",
+          "course": "3220",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22857"
+        }
+      }
+    },
+    "3120": {
       "title": "DENTAL ANATOMY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Janice P. Dewald (P)"
-      ],
-      "credits": "2",
-      "course": "3120",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22855"
-    }
-  },
-  "3250": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DENTAL ANATOMY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Janice P. Dewald (P)"
+          ],
+          "credits": "2",
+          "course": "3120",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22855"
+        }
+      }
+    },
+    "3250": {
       "title": "BIOMEDICAL SCIENCES I",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Allen L. Honeyman (P)"
-      ],
-      "credits": "5",
-      "course": "3250",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22862"
-    }
-  },
-  "3160": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BIOMEDICAL SCIENCES I",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Allen L. Honeyman (P)"
+          ],
+          "credits": "5",
+          "course": "3250",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22862"
+        }
+      }
+    },
+    "3160": {
       "title": "PRECLINICAL DENTAL HYGIENE",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Leigh A. Wyatt (P)"
-      ],
-      "credits": "6",
-      "course": "3160",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22856"
-    }
-  },
-  "3425": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PRECLINICAL DENTAL HYGIENE",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Leigh A. Wyatt (P)"
+          ],
+          "credits": "6",
+          "course": "3160",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22856"
+        }
+      }
+    },
+    "3425": {
       "title": "HEALTH PROMT  DISEASE PREVT",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Cherri L. Kading (P)"
-      ],
-      "credits": "2.5",
-      "course": "3425",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22858"
-    }
-  },
-  "4015": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "HEALTH PROMT  DISEASE PREVT",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Cherri L. Kading (P)"
+          ],
+          "credits": "2.5",
+          "course": "3425",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22858"
+        }
+      }
+    },
+    "4015": {
       "title": "PHARMACOLOGY",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Celeste M. Abraham (P)"
-      ],
-      "credits": "1.5",
-      "course": "4015",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22873"
-    }
-  },
-  "4620": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PHARMACOLOGY",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Celeste M. Abraham (P)"
+          ],
+          "credits": "1.5",
+          "course": "4015",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22873"
+        }
+      }
+    },
+    "4620": {
       "title": "THEORY OF DENT HYG PRAC II",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Kathleen B. Muzzin (P)"
-      ],
-      "credits": "2",
-      "course": "4620",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22881"
-    }
-  },
-  "4610": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "THEORY OF DENT HYG PRAC II",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Kathleen B. Muzzin (P)"
+          ],
+          "credits": "2",
+          "course": "4620",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22881"
+        }
+      }
+    },
+    "4610": {
       "title": "PERIODONTICS",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Celeste M. Abraham (P)"
-      ],
-      "credits": "1",
-      "course": "4610",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22880"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PERIODONTICS",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Celeste M. Abraham (P)"
+          ],
+          "credits": "1",
+          "course": "4610",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22880"
+        }
+      }
+    },
+    "4715": {
+      "title": "RESEARCH METHODS",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "DDHS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH METHODS",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Janice P. Dewald (P)"
+          ],
+          "credits": "1.5",
+          "course": "4715",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/15-12/16"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22882"
+        }
+      }
     }
   },
-  "4715": {
-    "500": {
-      "select": "SR",
-      "subject": "DDHS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "RESEARCH METHODS",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Janice P. Dewald (P)"
-      ],
-      "credits": "1.5",
-      "course": "4715",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/15-12/16"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22882"
-    }
-  }
+  "title": "DDHS - Dental Hygiene",
+  "updated": "Thu Apr 07 01:13:51 CDT 2016"
 }

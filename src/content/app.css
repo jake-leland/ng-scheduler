@@ -16,6 +16,7 @@ table.schedule {
     border-spacing: 0;
     border: 2px solid dimgray;
     height: 500px;
+    width: 100%;
 }
 
 tr.sched-head {

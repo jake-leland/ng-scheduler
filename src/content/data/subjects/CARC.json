@@ -1,1150 +1,1178 @@
 {
-  "331": {
-    "550": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "FLD STUDY DESIGN PHIL: GERMANY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Thomas Knuvener (P)"
-      ],
-      "credits": "3",
-      "course": "331",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/27-12/13"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28087"
+  "courses": {
+    "331": {
+      "title": "FLD STUDY DESIGN PHIL",
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "FLD STUDY DESIGN PHIL: GERMANY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Thomas Knuvener (P)"
+          ],
+          "credits": "3",
+          "course": "331",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/27-12/13"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28087"
+        },
+        "551": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "551",
+          "title": "FLD STUDY DESIGN PHIL: ITALY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Giovanni Di Pasquale (P)"
+          ],
+          "credits": "3",
+          "course": "331",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-11/27"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28095"
+        },
+        "552": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "552",
+          "title": "FLD STUDY DESIGN PHIL:SPAIN",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Miguel Roldan (P)"
+          ],
+          "credits": "3",
+          "course": "331",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/19"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28101"
+        },
+        "555": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "555",
+          "title": "FLD STUDY DESIGN PHIL: IN-AB",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Phillip Tabb (P)"
+          ],
+          "credits": "3",
+          "course": "331",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25789"
+        }
+      }
     },
-    "551": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "551",
-      "title": "FLD STUDY DESIGN PHIL: ITALY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Giovanni Di Pasquale (P)"
-      ],
-      "credits": "3",
-      "course": "331",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-11/27"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28095"
-    },
-    "552": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "552",
-      "title": "FLD STUDY DESIGN PHIL:SPAIN",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Miguel Roldan (P)"
-      ],
-      "credits": "3",
-      "course": "331",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/19"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28101"
-    },
-    "555": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "555",
-      "title": "FLD STUDY DESIGN PHIL: IN-AB",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Phillip Tabb (P)"
-      ],
-      "credits": "3",
-      "course": "331",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25789"
-    }
-  },
-  "485": {
-    "550": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "DIRECTED STUDIES: GERMANY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "June Martin (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/27-12/13"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28088"
-    },
-    "551": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "551",
-      "title": "DIRECTED STUDIES: ITALY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Elton Abbott (P), Ward Wells"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-11/27"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28096"
-    },
-    "200": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
-      "title": "HNR-DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16363"
-    },
-    "552": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "552",
-      "title": "DIRECTED STUDIES: SPAIN",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Miguel Roldan (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/19"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28102"
-    },
-    "500": {
-      "select": "C",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Leslie H. Feigenbaum (P)"
-      ],
-      "credits": "6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26073"
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "DIRECTED STUDIES: GERMANY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "June Martin (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/27-12/13"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28088"
+        },
+        "551": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "551",
+          "title": "DIRECTED STUDIES: ITALY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Elton Abbott (P), Ward Wells"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-11/27"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28096"
+        },
+        "200": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16363"
+        },
+        "552": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "552",
+          "title": "DIRECTED STUDIES: SPAIN",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Miguel Roldan (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/19"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28102"
+        },
+        "500": {
+          "select": "C",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Leslie H. Feigenbaum (P)"
+          ],
+          "credits": "6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26073"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Leslie H. Feigenbaum (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 205"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "18354"
+        },
+        "502": {
+          "select": "C",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Leslie H. Feigenbaum (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 205"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "18355"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "DIRECTED STUDIES",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Leslie H. Feigenbaum (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18356"
+        },
+        "515": {
+          "select": "C",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "515",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jorge Vanegas (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22899"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "DIRECTED STUDIES",
+          "remaining": "36",
+          "capacity": "36",
+          "instructor": [
+            "Leslie H. Feigenbaum (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 105"
+          ],
+          "time": [
+            "04:10 pm-05:00 pm"
+          ],
+          "crn": "18385"
+        },
+        "506": {
+          "select": "C\n                              MM ",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Leslie H. Feigenbaum (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/15"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "05:30 pm-07:10 pm"
+          ],
+          "crn": "18386"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "DIRECTED STUDIES",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Leslie H. Feigenbaum (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/15"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "05:30 pm-07:10 pm"
+          ],
+          "crn": "18387"
+        },
+        "508": {
+          "select": "C\n                              MM ",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Leslie H. Feigenbaum (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/15"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "05:30 pm-07:10 pm"
+          ],
+          "crn": "13705"
+        },
+        "509": {
+          "select": "C\n                              MM ",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Leslie H. Feigenbaum (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-10/15"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "05:30 pm-07:10 pm"
+          ],
+          "crn": "20558"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Leslie H. Feigenbaum (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 205"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "18354"
-    },
-    "502": {
-      "select": "C",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Leslie H. Feigenbaum (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 205"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "18355"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "DIRECTED STUDIES",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Leslie H. Feigenbaum (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18356"
-    },
-    "515": {
-      "select": "C",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "515",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jorge Vanegas (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22899"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "DIRECTED STUDIES",
-      "remaining": "36",
-      "capacity": "36",
-      "instructor": [
-        "Leslie H. Feigenbaum (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 105"
-      ],
-      "time": [
-        "04:10 pm-05:00 pm"
-      ],
-      "crn": "18385"
-    },
-    "506": {
-      "select": "C\n                              MM ",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Leslie H. Feigenbaum (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/15"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "05:30 pm-07:10 pm"
-      ],
-      "crn": "18386"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "DIRECTED STUDIES",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Leslie H. Feigenbaum (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/15"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "05:30 pm-07:10 pm"
-      ],
-      "crn": "18387"
-    },
-    "508": {
-      "select": "C\n                              MM ",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Leslie H. Feigenbaum (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/15"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "05:30 pm-07:10 pm"
-      ],
-      "crn": "13705"
-    },
-    "509": {
-      "select": "C\n                              MM ",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Leslie H. Feigenbaum (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-10/15"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "05:30 pm-07:10 pm"
-      ],
-      "crn": "20558"
-    }
-  },
-  "300": {
-    "550": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
+    "300": {
       "title": "CARC STUDY ABROAD",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-18",
-      "course": "300",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28421"
-    }
-  },
-  "311": {
-    "550": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "550",
-      "title": "FLD STUDY DESIGN COMM: GERMANY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA",
-        "June Martin (P)"
-      ],
-      "credits": "3",
-      "course": "311",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/27-12/13",
-        "08/27-12/13"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "28085"
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "CARC STUDY ABROAD",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-18",
+          "course": "300",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28421"
+        }
+      }
     },
-    "551": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "551",
-      "title": "FLD STUDY DESIGN COMM: GERMANY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA",
-        "June Martin (P)"
-      ],
-      "credits": "3",
-      "course": "311",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/27-12/13",
-        "08/27-12/13"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "28086"
+    "311": {
+      "title": "FLD STUDY DESIGN COMM",
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "550",
+          "title": "FLD STUDY DESIGN COMM: GERMANY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA",
+            "June Martin (P)"
+          ],
+          "credits": "3",
+          "course": "311",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/27-12/13",
+            "08/27-12/13"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "28085"
+        },
+        "551": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "551",
+          "title": "FLD STUDY DESIGN COMM: GERMANY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA",
+            "June Martin (P)"
+          ],
+          "credits": "3",
+          "course": "311",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/27-12/13",
+            "08/27-12/13"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "28086"
+        },
+        "552": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "552",
+          "title": "FLD STUDY DESIGN COMM: ITALY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA",
+            "Elton Abbott (P), Ward Wells"
+          ],
+          "credits": "3",
+          "course": "311",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-11/27",
+            "08/29-11/27"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "28093"
+        },
+        "553": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "553",
+          "title": "FLD STUDY DESIGN COMM: ITALY",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "TBA",
+            "Elton Abbott (P), Ward Wells"
+          ],
+          "credits": "3",
+          "course": "311",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-11/27",
+            "08/29-11/27"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "28094"
+        },
+        "554": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "554",
+          "title": "FLD STUDY DESIGN COMM: SPAIN",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA",
+            "Miguel Roldan (P)"
+          ],
+          "credits": "3",
+          "course": "311",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/19",
+            "08/29-12/19"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "28100"
+        },
+        "555": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "555",
+          "title": "FLD STUDY DESIGN COMM: IN-AB",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Phillip Tabb (P)",
+            "Phillip Tabb (P)"
+          ],
+          "credits": "3",
+          "course": "311",
+          "days": [
+            " ",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "TBA",
+            "TBA"
+          ],
+          "crn": "25788"
+        }
+      }
     },
-    "552": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "552",
-      "title": "FLD STUDY DESIGN COMM: ITALY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA",
-        "Elton Abbott (P), Ward Wells"
-      ],
-      "credits": "3",
-      "course": "311",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-11/27",
-        "08/29-11/27"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "28093"
+    "685": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "650": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "DIRECTED STUDIES: GERMANY",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "June Martin (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/27-12/13"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28090"
+        },
+        "651": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "DIRECTED STUDIES: ITALY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Elton Abbott (P), Ward Wells"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-11/27"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28098"
+        },
+        "652": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "652",
+          "title": "DIRECTED STUDIES: SPAIN",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Miguel Roldan (P)"
+          ],
+          "credits": "1-6",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/19"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28104"
+        }
+      }
     },
-    "553": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "553",
-      "title": "FLD STUDY DESIGN COMM: ITALY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA",
-        "Elton Abbott (P), Ward Wells"
-      ],
-      "credits": "3",
-      "course": "311",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-11/27",
-        "08/29-11/27"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "28094"
+    "301": {
+      "title": "FLD STUDY DESIGN INNOV",
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "FLD STUDY DESIGN INNOV: GERMAN",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "June Martin (P)"
+          ],
+          "credits": "6",
+          "course": "301",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/27-12/13"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28084"
+        },
+        "551": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "551",
+          "title": "FLD STUDY DESIGN INNOV: ITALY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Elton Abbott (P), Ward Wells"
+          ],
+          "credits": "6",
+          "course": "301",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-11/27"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28091"
+        },
+        "552": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "552",
+          "title": "FLD STUDY DESIGN INNOV: ITALY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Elton Abbott (P), Ward Wells"
+          ],
+          "credits": "6",
+          "course": "301",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-11/27"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28092"
+        },
+        "553": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "553",
+          "title": "FLD STUDY DESIGN INNOV: SPAIN",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Miguel Roldan (P)"
+          ],
+          "credits": "6",
+          "course": "301",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/19"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28099"
+        },
+        "555": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "555",
+          "title": "FLD STUDY DESIGN INNOV: IN-AB",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Phillip Tabb (P)"
+          ],
+          "credits": "1-18",
+          "course": "301",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25787"
+        }
+      }
     },
-    "554": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "554",
-      "title": "FLD STUDY DESIGN COMM: SPAIN",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA",
-        "Miguel Roldan (P)"
-      ],
-      "credits": "3",
-      "course": "311",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/19",
-        "08/29-12/19"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "28100"
-    },
-    "555": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "555",
-      "title": "FLD STUDY DESIGN COMM: IN-AB",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Phillip Tabb (P)",
-        "Phillip Tabb (P)"
-      ],
-      "credits": "3",
-      "course": "311",
-      "days": [
-        " ",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "TBA",
-        "TBA"
-      ],
-      "crn": "25788"
-    }
-  },
-  "685": {
-    "650": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "DIRECTED STUDIES: GERMANY",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "June Martin (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/27-12/13"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28090"
-    },
-    "651": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "DIRECTED STUDIES: ITALY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Elton Abbott (P), Ward Wells"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-11/27"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28098"
-    },
-    "652": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "652",
-      "title": "DIRECTED STUDIES: SPAIN",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Miguel Roldan (P)"
-      ],
-      "credits": "1-6",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/19"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28104"
-    }
-  },
-  "301": {
-    "550": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "FLD STUDY DESIGN INNOV: GERMAN",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "June Martin (P)"
-      ],
-      "credits": "6",
-      "course": "301",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/27-12/13"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28084"
-    },
-    "551": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "551",
-      "title": "FLD STUDY DESIGN INNOV: ITALY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Elton Abbott (P), Ward Wells"
-      ],
-      "credits": "6",
-      "course": "301",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-11/27"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28091"
-    },
-    "552": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "552",
-      "title": "FLD STUDY DESIGN INNOV: ITALY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Elton Abbott (P), Ward Wells"
-      ],
-      "credits": "6",
-      "course": "301",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-11/27"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28092"
-    },
-    "553": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "553",
-      "title": "FLD STUDY DESIGN INNOV: SPAIN",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Miguel Roldan (P)"
-      ],
-      "credits": "6",
-      "course": "301",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/19"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28099"
-    },
-    "555": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "555",
-      "title": "FLD STUDY DESIGN INNOV: IN-AB",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Phillip Tabb (P)"
-      ],
-      "credits": "1-18",
-      "course": "301",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25787"
-    }
-  },
-  "601": {
-    "600": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "601": {
       "title": "RESEARCH FOUNDATIONS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Shannon S. Van Zandt (P)"
-      ],
-      "credits": "3",
-      "course": "601",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 323"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "10520"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "RESEARCH FOUNDATIONS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Shannon S. Van Zandt (P)"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 323"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "10520"
+        }
+      }
+    },
+    "604": {
+      "title": "ADV FLD STU DESIGN INNOV",
+      "sections": {
+        "650": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "ADV FLD STU DESIGN INNOV: GERM",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "June Martin (P)"
+          ],
+          "credits": "1-18",
+          "course": "604",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/27-12/13"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28089"
+        },
+        "651": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "ADV FLD STU DESIGN INNOV: ITAL",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Elton Abbott (P), Ward Wells"
+          ],
+          "credits": "1-18",
+          "course": "604",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-11/27"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28097"
+        },
+        "652": {
+          "select": "SR",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "652",
+          "title": "ADV FLD STU DESIGN INNOV: SPAI",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Miguel Roldan (P)"
+          ],
+          "credits": "1-18",
+          "course": "604",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/19"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28103"
+        },
+        "655": {
+          "select": "C",
+          "subject": "CARC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "655",
+          "title": "ADV FLD STU DESIGN INNOV:IN-AB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Phillip Tabb (P)"
+          ],
+          "credits": "1-18",
+          "course": "604",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25790"
+        }
+      }
     }
   },
-  "604": {
-    "650": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
-      "title": "ADV FLD STU DESIGN INNOV: GERM",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "June Martin (P)"
-      ],
-      "credits": "1-18",
-      "course": "604",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/27-12/13"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28089"
-    },
-    "651": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "ADV FLD STU DESIGN INNOV: ITAL",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Elton Abbott (P), Ward Wells"
-      ],
-      "credits": "1-18",
-      "course": "604",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-11/27"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28097"
-    },
-    "652": {
-      "select": "SR",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "652",
-      "title": "ADV FLD STU DESIGN INNOV: SPAI",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Miguel Roldan (P)"
-      ],
-      "credits": "1-18",
-      "course": "604",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/19"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28103"
-    },
-    "655": {
-      "select": "C",
-      "subject": "CARC",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "655",
-      "title": "ADV FLD STU DESIGN INNOV:IN-AB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Phillip Tabb (P)"
-      ],
-      "credits": "1-18",
-      "course": "604",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25790"
-    }
-  }
+  "title": "CARC - College of Architecture",
+  "updated": "Thu Apr 07 01:12:01 CDT 2016"
 }

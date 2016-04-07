@@ -1,2544 +1,2611 @@
 {
-  "291": {
-    "501": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "291": {
       "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Timothy S. Logan (P)"
-      ],
-      "credits": "0-4",
-      "course": "291",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26617"
-    }
-  },
-  "491": {
-    "521": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "521",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Renyi Zhang (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23466"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Timothy S. Logan (P)"
+          ],
+          "credits": "0-4",
+          "course": "291",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26617"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "491": {
       "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Don T. Conlee (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16226"
+      "sections": {
+        "521": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "521",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Renyi Zhang (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23466"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Don T. Conlee (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16226"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "John Nielsen-Gammon (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23469"
+        },
+        "513": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "513",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Richard Panetta (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23465"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Craig Epifanio (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23549"
+        },
+        "646": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "646",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19944"
+        },
+        "515": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "515",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Gunnar Schade (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22650"
+        },
+        "516": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "516",
+          "title": "RESEARCH",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Courtney Schumacher (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22651"
+        },
+        "507": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sarah Brooks (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18101"
+        },
+        "508": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Ramalingam Saravanan (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20756"
+        }
+      }
     },
-    "512": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "John Nielsen-Gammon (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23469"
-    },
-    "513": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "513",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Richard Panetta (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23465"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Craig Epifanio (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23549"
-    },
-    "646": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "646",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19944"
-    },
-    "515": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "515",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Gunnar Schade (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22650"
-    },
-    "516": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "516",
-      "title": "RESEARCH",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Courtney Schumacher (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22651"
-    },
-    "507": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sarah Brooks (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18101"
-    },
-    "508": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Ramalingam Saravanan (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20756"
-    }
-  },
-  "251": {
-    "501": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "251": {
       "title": "WEATHER OBSERV ANALYSIS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Don T. Conlee (P)",
-        "Adam R. Brainard"
-      ],
-      "credits": "3",
-      "course": "251",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 110",
-        "OM 1107"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "12:40 pm-02:40 pm"
-      ],
-      "crn": "10297"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "WEATHER OBSERV ANALYSIS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Don T. Conlee (P)",
+            "Adam R. Brainard"
+          ],
+          "credits": "3",
+          "course": "251",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 110",
+            "OM 1107"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "12:40 pm-02:40 pm"
+          ],
+          "crn": "10297"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "WEATHER OBSERV ANALYSIS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Don T. Conlee (P)",
+            "Adam R. Brainard"
+          ],
+          "credits": "3",
+          "course": "251",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 110",
+            "OM 1107"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "10:20 am-12:20 pm"
+          ],
+          "crn": "10298"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "WEATHER OBSERV ANALYSIS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Don T. Conlee (P)",
-        "Adam R. Brainard"
-      ],
-      "credits": "3",
-      "course": "251",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 110",
-        "OM 1107"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "10:20 am-12:20 pm"
-      ],
-      "crn": "10298"
-    }
-  },
-  "691": {
-    "672": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "672",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Nielsen-Gammon (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16160"
-    },
-    "675": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "675",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23120"
-    },
-    "610": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Christopher J. Nowotarski (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21853"
+      "sections": {
+        "672": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "672",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Nielsen-Gammon (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16160"
+        },
+        "675": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "675",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23120"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Christopher J. Nowotarski (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21853"
+        },
+        "654": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mark Lemmon (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17890"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Jerry North (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20469"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "John Nielsen-Gammon (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14890"
+        },
+        "613": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Richard Panetta (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14892"
+        },
+        "657": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "657",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Sarah Brooks (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16012"
+        },
+        "658": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "658",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Ramalingam Saravanan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23143"
+        },
+        "615": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Gunnar Schade (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14894"
+        },
+        "616": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "616",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Courtney Schumacher (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14895"
+        },
+        "617": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "617",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Donald Collins (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14886"
+        },
+        "618": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "618",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Kenneth Bowman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14884"
+        },
+        "619": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "619",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Ping Chang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21854"
+        },
+        "621": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Renyi Zhang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14898"
+        },
+        "665": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "665",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Gunnar Schade (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23203"
+        },
+        "622": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "622",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Andrew Dessler (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14887"
+        },
+        "666": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "666",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Courtney Schumacher (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15832"
+        },
+        "623": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "623",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Istvan Szunyogh (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14897"
+        },
+        "667": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "667",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "3",
+          "capacity": "3",
+          "instructor": [
+            "Donald Collins (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20701"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Robert Korty (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14888"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Craig Epifanio (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21855"
+        },
+        "625": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "625",
+          "title": "RESEARCH",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Anita D. Rapp (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20543"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Mark Lemmon (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20497"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Ping Yang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14896"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Richard Orville (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14891"
+        },
+        "607": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Sarah Brooks (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14885"
+        },
+        "608": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Ramalingam Saravanan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14893"
+        },
+        "609": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Shaima Nasiri (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14889"
+        }
+      }
     },
-    "654": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Mark Lemmon (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17890"
+    "681": {
+      "title": "SEMINAR",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "80",
+          "capacity": "80",
+          "instructor": [
+            "Donald Collins (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 112"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "10307"
+        }
+      }
     },
-    "611": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Jerry North (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20469"
+    "363": {
+      "title": "ATMOS CHEM & POLLUTION",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ATMOS CHEM & POLLUTION",
+          "remaining": "55",
+          "capacity": "55",
+          "instructor": [
+            "Donald Collins (P)"
+          ],
+          "credits": "3",
+          "course": "363",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CSA 303"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "10300"
+        }
+      }
     },
-    "612": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "John Nielsen-Gammon (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14890"
+    "484": {
+      "title": "INTERNSHIP",
+      "sections": {
+        "353": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "353",
+          "title": "INTERNSHIP: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19979"
+        },
+        "501": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Don T. Conlee (P)"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18844"
+        },
+        "512": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Nielsen-Gammon (P)"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18102"
+        },
+        "503": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Craig Epifanio (P)"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20959"
+        },
+        "504": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Mark Lemmon (P)"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20076"
+        },
+        "516": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "516",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Courtney Schumacher (P)"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18683"
+        },
+        "517": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "517",
+          "title": "INTERNSHIP",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Donald Collins (P)"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23226"
+        },
+        "507": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sarah Brooks (P)"
+          ],
+          "credits": "0-3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16331"
+        }
+      }
     },
-    "613": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Richard Panetta (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14892"
+    "485": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "501": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Don T. Conlee (P)"
+          ],
+          "credits": "1-23",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26447"
+        },
+        "525": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "525",
+          "title": "DIRECTED STUDIES",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Don T. Conlee (P)"
+          ],
+          "credits": "1-23",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26448"
+        }
+      }
     },
-    "657": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "657",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Sarah Brooks (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16012"
+    "321": {
+      "title": "COMP APP ATMOS SCIENCE",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "COMP APP ATMOS SCIENCE",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Ramalingam Saravanan (P)",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "321",
+          "days": [
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1107",
+            "OM 1107"
+          ],
+          "time": [
+            "09:00 am-10:50 am",
+            "09:00 am-10:50 am"
+          ],
+          "crn": "10299"
+        }
+      }
     },
-    "658": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "658",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Ramalingam Saravanan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23143"
+    "201": {
+      "title": "WEATHER & CLIMATE",
+      "sections": {
+        "510": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "WEATHER & CLIMATE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 110"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "26020"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "WEATHER & CLIMATE",
+          "remaining": "172",
+          "capacity": "172",
+          "instructor": [
+            "Timothy S. Logan (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HALB 101"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "10284"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "WEATHER & CLIMATE",
+          "remaining": "69",
+          "capacity": "69",
+          "instructor": [
+            "Don T. Conlee (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 103"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "10285"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "WEATHER & CLIMATE",
+          "remaining": "98",
+          "capacity": "98",
+          "instructor": [
+            "Sarah Brooks (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 112"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "10286"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "WEATHER & CLIMATE",
+          "remaining": "69",
+          "capacity": "69",
+          "instructor": [
+            "Timothy S. Logan (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 103"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "10287"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "WEATHER & CLIMATE",
+          "remaining": "69",
+          "capacity": "69",
+          "instructor": [
+            "Gunnar Schade (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 103"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "21450"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "WEATHER & CLIMATE",
+          "remaining": "172",
+          "capacity": "172",
+          "instructor": [
+            "Timothy S. Logan (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HALB 101"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "21451"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "WEATHER & CLIMATE",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Robert Korty (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 110"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "21452"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "WEATHER & CLIMATE",
+          "remaining": "69",
+          "capacity": "69",
+          "instructor": [
+            "Kenneth Bowman (P)"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 103"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "21851"
+        },
+        "509": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "WEATHER & CLIMATE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 110"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "21852"
+        }
+      }
     },
-    "615": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Gunnar Schade (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14894"
+    "443": {
+      "title": "RADAR METEOROLOGY",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "RADAR METEOROLOGY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Christopher J. Nowotarski",
+            "Christopher J. Nowotarski (P), Corey S. Howard"
+          ],
+          "credits": "3",
+          "course": "443",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 203",
+            "OM 1201"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "12:10 pm-02:10 pm"
+          ],
+          "crn": "10301"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "RADAR METEOROLOGY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Christopher J. Nowotarski (P)",
+            "Christopher J. Nowotarski"
+          ],
+          "credits": "3",
+          "course": "443",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 203",
+            "OM 1201"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "10:20 am-12:20 pm"
+          ],
+          "crn": "22565"
+        }
+      }
     },
-    "616": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "616",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Courtney Schumacher (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14895"
+    "685": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "602": {
+          "select": "C",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Robert Korty (P)"
+          ],
+          "credits": "1-16",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "23279"
+        }
+      }
     },
-    "617": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "617",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Donald Collins (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14886"
+    "202": {
+      "title": "WEATHER & CLIMATE LABORATORY",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "WEATHER & CLIMATE LABORATORY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "202",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1107"
+          ],
+          "time": [
+            "02:50 pm-04:40 pm"
+          ],
+          "crn": "10288"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "WEATHER & CLIMATE LABORATORY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "202",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1107"
+          ],
+          "time": [
+            "12:40 pm-02:30 pm"
+          ],
+          "crn": "10289"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "WEATHER & CLIMATE LABORATORY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "202",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1201"
+          ],
+          "time": [
+            "08:00 am-09:50 am"
+          ],
+          "crn": "10290"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "WEATHER & CLIMATE LABORATORY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "202",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1107"
+          ],
+          "time": [
+            "12:10 pm-02:00 pm"
+          ],
+          "crn": "10291"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "WEATHER & CLIMATE LABORATORY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "202",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1107"
+          ],
+          "time": [
+            "08:00 am-09:50 am"
+          ],
+          "crn": "10292"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "WEATHER & CLIMATE LABORATORY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "202",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1107"
+          ],
+          "time": [
+            "12:40 pm-02:30 pm"
+          ],
+          "crn": "10293"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "WEATHER & CLIMATE LABORATORY",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "202",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1107"
+          ],
+          "time": [
+            "02:20 pm-04:10 pm"
+          ],
+          "crn": "10294"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "WEATHER & CLIMATE LABORATORY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "202",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1201"
+          ],
+          "time": [
+            "12:40 pm-02:30 pm"
+          ],
+          "crn": "10295"
+        }
+      }
     },
-    "618": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "618",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Kenneth Bowman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14884"
+    "203": {
+      "title": "WEATHER FORECASTING LAB",
+      "sections": {
+        "502": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "WEATHER FORECASTING LAB",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Don T. Conlee (P), Mark D. Benoit"
+          ],
+          "credits": "1",
+          "course": "203",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1107"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "10296"
+        }
+      }
     },
-    "619": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "619",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Ping Chang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21854"
+    "335": {
+      "title": "ATMOSPHER THERMODYNAMICS",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "ATMOSPHER THERMODYNAMICS",
+          "remaining": "42",
+          "capacity": "42",
+          "instructor": [
+            "Istvan Szunyogh (P), Michael A. Herrera"
+          ],
+          "credits": "3",
+          "course": "335",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 110"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "16542"
+        }
+      }
     },
-    "621": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Renyi Zhang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14898"
+    "336": {
+      "title": "ATMOSPHERIC DYNAMICS",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "ATMOSPHERIC DYNAMICS",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Richard Panetta (P), Michael A. Herrera",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "336",
+          "days": [
+            "MWF",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 203",
+            "OM 1201"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "16543"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "ATMOSPHERIC DYNAMICS",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Richard Panetta (P)",
+            "Michael A. Herrera"
+          ],
+          "credits": "4",
+          "course": "336",
+          "days": [
+            "MWF",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 203",
+            "OM 1201"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "11:10 am-12:00 pm"
+          ],
+          "crn": "17151"
+        }
+      }
     },
-    "665": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "665",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Gunnar Schade (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23203"
+    "446": {
+      "title": "PHYSICAL METEOROLOGY",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "PHYSICAL METEOROLOGY",
+          "remaining": "34",
+          "capacity": "34",
+          "instructor": [
+            "Anita D. Rapp (P), Corey S. Howard"
+          ],
+          "credits": "3",
+          "course": "446",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 203"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "10302"
+        }
+      }
     },
-    "622": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "622",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Andrew Dessler (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14887"
+    "601": {
+      "title": "FUND OF ATMOS DYNAMICS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "FUND OF ATMOS DYNAMICS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Robert Korty (P)"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1209"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "10304"
+        }
+      }
     },
-    "666": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "666",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Courtney Schumacher (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15832"
-    },
-    "623": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "623",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Istvan Szunyogh (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14897"
-    },
-    "667": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "667",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Donald Collins (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20701"
+    "459": {
+      "title": "TROPICAL METEOROLOGY",
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "TROPICAL METEOROLOGY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Courtney Schumacher (P)"
+          ],
+          "credits": "3",
+          "course": "459",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 206"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "10303"
+        }
+      }
     },
     "602": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Robert Korty (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14888"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Craig Epifanio (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21855"
-    },
-    "625": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "625",
-      "title": "RESEARCH",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Anita D. Rapp (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20543"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Mark Lemmon (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20497"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Ping Yang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14896"
+      "title": "ATMOS PHYSICS I",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ATMOS PHYSICS I",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Mark Lemmon (P)"
+          ],
+          "credits": "3",
+          "course": "602",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1209"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "10305"
+        }
+      }
     },
     "606": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Richard Orville (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14891"
-    },
-    "607": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Sarah Brooks (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14885"
-    },
-    "608": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Ramalingam Saravanan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14893"
-    },
-    "609": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Shaima Nasiri (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14889"
-    }
-  },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "SEMINAR",
-      "remaining": "80",
-      "capacity": "80",
-      "instructor": [
-        "Donald Collins (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 112"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "10307"
-    }
-  },
-  "363": {
-    "500": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "ATMOS CHEM & POLLUTION",
-      "remaining": "55",
-      "capacity": "55",
-      "instructor": [
-        "Donald Collins (P)"
-      ],
-      "credits": "3",
-      "course": "363",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CSA 303"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "10300"
-    }
-  },
-  "484": {
-    "353": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "353",
-      "title": "INTERNSHIP: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19979"
-    },
-    "501": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Don T. Conlee (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18844"
-    },
-    "512": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Nielsen-Gammon (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18102"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Craig Epifanio (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20959"
-    },
-    "504": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Mark Lemmon (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20076"
-    },
-    "516": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "516",
-      "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Courtney Schumacher (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18683"
-    },
-    "517": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "517",
-      "title": "INTERNSHIP",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Donald Collins (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23226"
-    },
-    "507": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sarah Brooks (P)"
-      ],
-      "credits": "0-3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16331"
-    }
-  },
-  "485": {
-    "501": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Don T. Conlee (P)"
-      ],
-      "credits": "1-23",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26447"
-    },
-    "525": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "525",
-      "title": "DIRECTED STUDIES",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Don T. Conlee (P)"
-      ],
-      "credits": "1-23",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26448"
-    }
-  },
-  "321": {
-    "500": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
-      "title": "COMP APP ATMOS SCIENCE",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Ramalingam Saravanan (P)",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "321",
-      "days": [
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1107",
-        "OM 1107"
-      ],
-      "time": [
-        "09:00 am-10:50 am",
-        "09:00 am-10:50 am"
-      ],
-      "crn": "10299"
-    }
-  },
-  "201": {
-    "510": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
-      "title": "WEATHER & CLIMATE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 110"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "26020"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "WEATHER & CLIMATE",
-      "remaining": "172",
-      "capacity": "172",
-      "instructor": [
-        "Timothy S. Logan (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HALB 101"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "10284"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "WEATHER & CLIMATE",
-      "remaining": "69",
-      "capacity": "69",
-      "instructor": [
-        "Don T. Conlee (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 103"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "10285"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "WEATHER & CLIMATE",
-      "remaining": "98",
-      "capacity": "98",
-      "instructor": [
-        "Sarah Brooks (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 112"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "10286"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "WEATHER & CLIMATE",
-      "remaining": "69",
-      "capacity": "69",
-      "instructor": [
-        "Timothy S. Logan (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 103"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "10287"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "WEATHER & CLIMATE",
-      "remaining": "69",
-      "capacity": "69",
-      "instructor": [
-        "Gunnar Schade (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 103"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "21450"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "WEATHER & CLIMATE",
-      "remaining": "172",
-      "capacity": "172",
-      "instructor": [
-        "Timothy S. Logan (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HALB 101"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "21451"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "WEATHER & CLIMATE",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Robert Korty (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 110"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "21452"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "WEATHER & CLIMATE",
-      "remaining": "69",
-      "capacity": "69",
-      "instructor": [
-        "Kenneth Bowman (P)"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 103"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "21851"
-    },
-    "509": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "WEATHER & CLIMATE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 110"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "21852"
-    }
-  },
-  "443": {
-    "500": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
-      "title": "RADAR METEOROLOGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Christopher J. Nowotarski",
-        "Christopher J. Nowotarski (P), Corey S. Howard"
-      ],
-      "credits": "3",
-      "course": "443",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 203",
-        "OM 1201"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "12:10 pm-02:10 pm"
-      ],
-      "crn": "10301"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "RADAR METEOROLOGY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Christopher J. Nowotarski (P)",
-        "Christopher J. Nowotarski"
-      ],
-      "credits": "3",
-      "course": "443",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 203",
-        "OM 1201"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "10:20 am-12:20 pm"
-      ],
-      "crn": "22565"
-    }
-  },
-  "685": {
-    "602": {
-      "select": "C",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Robert Korty (P)"
-      ],
-      "credits": "1-16",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "23279"
-    }
-  },
-  "202": {
-    "501": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "WEATHER & CLIMATE LABORATORY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "202",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1107"
-      ],
-      "time": [
-        "02:50 pm-04:40 pm"
-      ],
-      "crn": "10288"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "WEATHER & CLIMATE LABORATORY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "202",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1107"
-      ],
-      "time": [
-        "12:40 pm-02:30 pm"
-      ],
-      "crn": "10289"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "WEATHER & CLIMATE LABORATORY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "202",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1201"
-      ],
-      "time": [
-        "08:00 am-09:50 am"
-      ],
-      "crn": "10290"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "WEATHER & CLIMATE LABORATORY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "202",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1107"
-      ],
-      "time": [
-        "12:10 pm-02:00 pm"
-      ],
-      "crn": "10291"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "WEATHER & CLIMATE LABORATORY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "202",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1107"
-      ],
-      "time": [
-        "08:00 am-09:50 am"
-      ],
-      "crn": "10292"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "WEATHER & CLIMATE LABORATORY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "202",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1107"
-      ],
-      "time": [
-        "12:40 pm-02:30 pm"
-      ],
-      "crn": "10293"
-    },
-    "507": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "WEATHER & CLIMATE LABORATORY",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "202",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1107"
-      ],
-      "time": [
-        "02:20 pm-04:10 pm"
-      ],
-      "crn": "10294"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "WEATHER & CLIMATE LABORATORY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "202",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1201"
-      ],
-      "time": [
-        "12:40 pm-02:30 pm"
-      ],
-      "crn": "10295"
-    }
-  },
-  "203": {
-    "502": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "WEATHER FORECASTING LAB",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Don T. Conlee (P), Mark D. Benoit"
-      ],
-      "credits": "1",
-      "course": "203",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1107"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "10296"
-    }
-  },
-  "335": {
-    "501": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "ATMOSPHER THERMODYNAMICS",
-      "remaining": "42",
-      "capacity": "42",
-      "instructor": [
-        "Istvan Szunyogh (P), Michael A. Herrera"
-      ],
-      "credits": "3",
-      "course": "335",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 110"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "16542"
-    }
-  },
-  "336": {
-    "501": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "ATMOSPHERIC DYNAMICS",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Richard Panetta (P), Michael A. Herrera",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "336",
-      "days": [
-        "MWF",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 203",
-        "OM 1201"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "16543"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "ATMOSPHERIC DYNAMICS",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Richard Panetta (P)",
-        "Michael A. Herrera"
-      ],
-      "credits": "4",
-      "course": "336",
-      "days": [
-        "MWF",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 203",
-        "OM 1201"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "11:10 am-12:00 pm"
-      ],
-      "crn": "17151"
-    }
-  },
-  "446": {
-    "500": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "PHYSICAL METEOROLOGY",
-      "remaining": "34",
-      "capacity": "34",
-      "instructor": [
-        "Anita D. Rapp (P), Corey S. Howard"
-      ],
-      "credits": "3",
-      "course": "446",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 203"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "10302"
-    }
-  },
-  "601": {
-    "600": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "FUND OF ATMOS DYNAMICS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Robert Korty (P)"
-      ],
-      "credits": "3",
-      "course": "601",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1209"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "10304"
-    }
-  },
-  "459": {
-    "900": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
-      "title": "TROPICAL METEOROLOGY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Courtney Schumacher (P)"
-      ],
-      "credits": "3",
-      "course": "459",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 206"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "10303"
-    }
-  },
-  "602": {
-    "600": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ATMOS PHYSICS I",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Mark Lemmon (P)"
-      ],
-      "credits": "3",
-      "course": "602",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1209"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "10305"
-    }
-  },
-  "606": {
-    "600": {
-      "select": "SR",
-      "subject": "ATMO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
       "title": "ATMOS CHEMISTRY I",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Renyi Zhang (P)"
-      ],
-      "credits": "3",
-      "course": "606",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "OM 1209"
-      ],
-      "time": [
-        "10:00 am-11:15 am"
-      ],
-      "crn": "10306"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ATMO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ATMOS CHEMISTRY I",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Renyi Zhang (P)"
+          ],
+          "credits": "3",
+          "course": "606",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "OM 1209"
+          ],
+          "time": [
+            "10:00 am-11:15 am"
+          ],
+          "crn": "10306"
+        }
+      }
     }
-  }
+  },
+  "title": "ATMO - Atmospheric Sciences",
+  "updated": "Thu Apr 07 01:10:57 CDT 2016"
 }

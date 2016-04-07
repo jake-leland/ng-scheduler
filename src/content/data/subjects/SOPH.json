@@ -1,149 +1,156 @@
 {
-  "680": {
-    "600": {
-      "select": "SR",
-      "subject": "SOPH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "680": {
       "title": "PUBLIC HEALTH CAPSTONE",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Thomas Tai-Seale (P)"
-      ],
-      "credits": "3",
-      "course": "680",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 108"
-      ],
-      "time": [
-        "01:00 pm-04:00 pm"
-      ],
-      "crn": "23167"
-    },
-    "699": {
-      "select": "C",
-      "subject": "SOPH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "699",
-      "title": "PUBLIC HEALTH CAPSTONE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "680",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28057"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "SOPH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "PUBLIC HEALTH CAPSTONE",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "680",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "STC 152"
-      ],
-      "time": [
-        "05:30 pm-08:30 pm"
-      ],
-      "crn": "23168"
-    },
-    "700": {
-      "select": "C",
-      "subject": "SOPH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "PUBLIC HEALTH CAPSTONE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "680",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28056"
-    },
-    "602": {
-      "select": "C",
-      "subject": "SOPH",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "PUBLIC HEALTH CAPSTONE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "680",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SRPH3 109"
-      ],
-      "time": [
-        "09:00 am-12:00 pm"
-      ],
-      "crn": "28055"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "SOPH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "PUBLIC HEALTH CAPSTONE",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Thomas Tai-Seale (P)"
+          ],
+          "credits": "3",
+          "course": "680",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 108"
+          ],
+          "time": [
+            "01:00 pm-04:00 pm"
+          ],
+          "crn": "23167"
+        },
+        "699": {
+          "select": "SR",
+          "subject": "SOPH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "PUBLIC HEALTH CAPSTONE",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Jeffrey J. Hatala (P)"
+          ],
+          "credits": "3",
+          "course": "680",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28057"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "SOPH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "PUBLIC HEALTH CAPSTONE",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "680",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "STC 152"
+          ],
+          "time": [
+            "05:30 pm-08:30 pm"
+          ],
+          "crn": "23168"
+        },
+        "700": {
+          "select": "C",
+          "subject": "SOPH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "PUBLIC HEALTH CAPSTONE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "680",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28056"
+        },
+        "602": {
+          "select": "C",
+          "subject": "SOPH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "PUBLIC HEALTH CAPSTONE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "680",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SRPH3 109"
+          ],
+          "time": [
+            "09:00 am-12:00 pm"
+          ],
+          "crn": "28055"
+        }
+      }
     }
-  }
+  },
+  "title": "SOPH - School of Public Health",
+  "updated": "Thu Apr 07 01:25:28 CDT 2016"
 }

@@ -1,219 +1,244 @@
 {
-  "610": {
-    "601": {
-      "select": "SR",
-      "subject": "EEBL",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
+  "courses": {
+    "610": {
       "title": "FIRST YEAR GRADUATE SEMINAR",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Sarah A. Hamer (P)"
-      ],
-      "credits": "1",
-      "course": "610",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:00 am-09:50 am"
-      ],
-      "crn": "26311"
-    }
-  },
-  "601": {
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "EEBL",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "FIRST YEAR GRADUATE SEMINAR",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Sarah A. Hamer (P)"
+          ],
+          "credits": "1",
+          "course": "610",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:00 am-09:50 am"
+          ],
+          "crn": "26311"
+        }
+      }
+    },
     "601": {
-      "select": "SR",
-      "subject": "EEBL",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
       "title": "PHYSIOLOGICAL ECOLOGY",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Spencer Behmer (P)"
-      ],
-      "credits": "1",
-      "course": "601",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-09/19"
-      ],
-      "location": [
-        "ILSB 3145"
-      ],
-      "time": [
-        "02:00 pm-03:15 pm"
-      ],
-      "crn": "26307"
-    }
-  },
-  "612": {
-    "600": {
-      "select": "SR",
-      "subject": "EEBL",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "EEBL",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "PHYSIOLOGICAL ECOLOGY",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Spencer Behmer (P)"
+          ],
+          "credits": "1",
+          "course": "601",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-09/19"
+          ],
+          "location": [
+            "ILSB 3145"
+          ],
+          "time": [
+            "02:00 pm-03:15 pm"
+          ],
+          "crn": "26307"
+        }
+      }
+    },
+    "612": {
       "title": "OPEN SOURCE FOR OPEN SCIENCE",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Anna M. Lawing (P)"
-      ],
-      "credits": "1",
-      "course": "612",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/19-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26391"
-    }
-  },
-  "602": {
-    "601": {
-      "select": "SR",
-      "subject": "EEBL",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "EEBL",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "OPEN SOURCE FOR OPEN SCIENCE",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Anna M. Lawing (P)"
+          ],
+          "credits": "1",
+          "course": "612",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/19-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26391"
+        }
+      }
+    },
+    "602": {
       "title": "POPULATION ECOLOGY",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Masami Fujiwara (P)"
-      ],
-      "credits": "1",
-      "course": "602",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "09/21-10/12"
-      ],
-      "location": [
-        "ILSB 3145"
-      ],
-      "time": [
-        "02:00 pm-03:15 pm"
-      ],
-      "crn": "26308"
-    }
-  },
-  "603": {
-    "601": {
-      "select": "SR",
-      "subject": "EEBL",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "EEBL",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "POPULATION ECOLOGY",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Masami Fujiwara (P)"
+          ],
+          "credits": "1",
+          "course": "602",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "09/21-10/12"
+          ],
+          "location": [
+            "ILSB 3145"
+          ],
+          "time": [
+            "02:00 pm-03:15 pm"
+          ],
+          "crn": "26308"
+        }
+      }
+    },
+    "603": {
       "title": "COMMUNITY ECOLOGY",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Micky Eubanks (P), Kirk Winemiller"
-      ],
-      "credits": "1",
-      "course": "603",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "10/17-11/07"
-      ],
-      "location": [
-        "ILSB 3145"
-      ],
-      "time": [
-        "02:00 pm-03:15 pm"
-      ],
-      "crn": "26309"
-    }
-  },
-  "604": {
-    "601": {
-      "select": "SR",
-      "subject": "EEBL",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "EEBL",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "COMMUNITY ECOLOGY",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Micky Eubanks (P), Kirk Winemiller"
+          ],
+          "credits": "1",
+          "course": "603",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "10/17-11/07"
+          ],
+          "location": [
+            "ILSB 3145"
+          ],
+          "time": [
+            "02:00 pm-03:15 pm"
+          ],
+          "crn": "26309"
+        }
+      }
+    },
+    "604": {
       "title": "ECOSYSTEM ECOLOGY",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Russell A. Feagin (P)"
-      ],
-      "credits": "1",
-      "course": "604",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "11/09-11/30"
-      ],
-      "location": [
-        "ILSB 3145"
-      ],
-      "time": [
-        "02:00 pm-03:15 pm"
-      ],
-      "crn": "26310"
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "EEBL",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "ECOSYSTEM ECOLOGY",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Russell A. Feagin (P)"
+          ],
+          "credits": "1",
+          "course": "604",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "11/09-11/30"
+          ],
+          "location": [
+            "ILSB 3145"
+          ],
+          "time": [
+            "02:00 pm-03:15 pm"
+          ],
+          "crn": "26310"
+        }
+      }
+    },
+    "681": {
+      "title": "SEMINAR",
+      "sections": {
+        "601": {
+          "select": "SR",
+          "subject": "EEBL",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "SEMINAR",
+          "remaining": "8",
+          "capacity": "8",
+          "instructor": [
+            "Mariana Mateos (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "03:30 pm-04:20 pm"
+          ],
+          "crn": "26312"
+        }
+      }
     }
   },
-  "681": {
-    "601": {
-      "select": "SR",
-      "subject": "EEBL",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "SEMINAR",
-      "remaining": "8",
-      "capacity": "8",
-      "instructor": [
-        "Mariana Mateos (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "03:30 pm-04:20 pm"
-      ],
-      "crn": "26312"
-    }
-  }
+  "title": "EEBL - Ecology & Evol Biology",
+  "updated": "Thu Apr 07 01:14:49 CDT 2016"
 }

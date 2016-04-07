@@ -1,163 +1,176 @@
 {
-  "201": {
-    "501": {
-      "select": "SR",
-      "subject": "SCEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "201": {
       "title": "SELF DIR EXP ADOLES",
-      "remaining": "65",
-      "capacity": "65",
-      "instructor": [
-        "Jennifer G. Whitfield (P)",
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "W",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 169",
-        "TBA"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "TBA"
-      ],
-      "crn": "14593"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SCEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "SELF DIR EXP ADOLES",
+          "remaining": "65",
+          "capacity": "65",
+          "instructor": [
+            "Jennifer G. Whitfield (P)",
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "W",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 169",
+            "TBA"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "TBA"
+          ],
+          "crn": "14593"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SCEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "SELF DIR EXP ADOLES",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Jennifer G. Whitfield (P)",
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "R",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEM 255",
+            "TBA"
+          ],
+          "time": [
+            "02:45 pm-03:35 pm",
+            "TBA"
+          ],
+          "crn": "14594"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SCEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "SELF DIR EXP ADOLES",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Jennifer G. Whitfield (P)",
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "R",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEM 255",
-        "TBA"
-      ],
-      "time": [
-        "02:45 pm-03:35 pm",
-        "TBA"
-      ],
-      "crn": "14594"
-    }
-  },
-  "301": {
-    "550": {
-      "select": "SR",
-      "subject": "SCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
+    "301": {
       "title": "SCIENCE STUDY ABROAD",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0-18",
-      "course": "301",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28418"
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "SCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "SCIENCE STUDY ABROAD",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0-18",
+          "course": "301",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28418"
+        }
+      }
+    },
+    "492": {
+      "title": "CO-OP ED IN SCIENCE",
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "SCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "CO-OP ED IN SCIENCE: IN-AB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "0/2",
+          "course": "492",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25818"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SCEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "CO-OP ED IN SCIENCE:IN-ABSENT",
+          "remaining": "1",
+          "capacity": "1",
+          "instructor": [
+            "Holly Gaede (P)"
+          ],
+          "credits": "0/2",
+          "course": "492",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25884"
+        }
+      }
     }
   },
-  "492": {
-    "550": {
-      "select": "C",
-      "subject": "SCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "CO-OP ED IN SCIENCE: IN-AB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "0/2",
-      "course": "492",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25818"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "SCEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "CO-OP ED IN SCIENCE:IN-ABSENT",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Holly Gaede (P)"
-      ],
-      "credits": "0/2",
-      "course": "492",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25884"
-    }
-  }
+  "title": "SCEN - College of Science",
+  "updated": "Thu Apr 07 01:24:53 CDT 2016"
 }

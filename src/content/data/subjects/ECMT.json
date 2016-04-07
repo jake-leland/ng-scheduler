@@ -1,767 +1,798 @@
 {
-  "660": {
-    "600": {
-      "select": "C",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+  "courses": {
+    "660": {
       "title": "MATH ECONOMICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "660",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1006"
-      ],
-      "time": [
-        "12:00 pm-01:15 pm"
-      ],
-      "crn": "24633"
-    }
-  },
-  "463": {
-    "907": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "907",
-      "title": "INTRO TO ECONOMETRICS",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "Georges S. Naufal (P)",
-        "Georges S. Naufal (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "RICH 106",
-        "ALLN 1006"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm",
-        "11:00 am-11:50 am"
-      ],
-      "crn": "14093"
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "MATH ECONOMICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "660",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1006"
+          ],
+          "time": [
+            "12:00 pm-01:15 pm"
+          ],
+          "crn": "24633"
+        }
+      }
     },
-    "908": {
-      "select": "C",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "908",
+    "463": {
       "title": "INTRO TO ECONOMETRICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "RICH 106",
-        "ALLN 1006"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm",
-        "12:00 pm-12:50 pm"
-      ],
-      "crn": "19174"
+      "sections": {
+        "907": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "907",
+          "title": "INTRO TO ECONOMETRICS",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "Georges S. Naufal (P)",
+            "Georges S. Naufal (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "RICH 106",
+            "ALLN 1006"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "11:00 am-11:50 am"
+          ],
+          "crn": "14093"
+        },
+        "908": {
+          "select": "C",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "908",
+          "title": "INTRO TO ECONOMETRICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "RICH 106",
+            "ALLN 1006"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "12:00 pm-12:50 pm"
+          ],
+          "crn": "19174"
+        },
+        "909": {
+          "select": "C\n                              MM ",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "909",
+          "title": "INTRO TO ECONOMETRICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/07",
+            "08/29-12/07"
+          ],
+          "location": [
+            "RICH 106",
+            "ALLN 1006"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "01:00 pm-01:50 pm"
+          ],
+          "crn": "27500"
+        },
+        "910": {
+          "select": "C\n                              MM ",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "910",
+          "title": "INTRO TO ECONOMETRICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/07",
+            "08/29-12/07"
+          ],
+          "location": [
+            "RICH 106",
+            "ALLN 1006"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "02:00 pm-02:50 pm"
+          ],
+          "crn": "27501"
+        },
+        "901": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "901",
+          "title": "INTRO TO ECONOMETRICS",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "Georges S. Naufal (P)",
+            "Georges S. Naufal (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "RICH 106",
+            "ALLN 1002"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "08:00 am-08:50 am"
+          ],
+          "crn": "14088"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "902",
+          "title": "INTRO TO ECONOMETRICS",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Georges S. Naufal (P)",
+            "Georges S. Naufal (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "RICH 106",
+            "ALLN 1002"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "11:00 am-11:50 am"
+          ],
+          "crn": "14089"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "903",
+          "title": "INTRO TO ECONOMETRICS",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Georges S. Naufal (P)",
+            "Georges S. Naufal (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "RICH 106",
+            "ALLN 1002"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "12:00 pm-12:50 pm"
+          ],
+          "crn": "14090"
+        },
+        "904": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "904",
+          "title": "INTRO TO ECONOMETRICS",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "Georges S. Naufal (P)",
+            "Georges S. Naufal (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "RICH 106",
+            "ALLN 1002"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "01:00 pm-01:50 pm"
+          ],
+          "crn": "14091"
+        },
+        "905": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "905",
+          "title": "INTRO TO ECONOMETRICS",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Georges S. Naufal (P)",
+            "Georges S. Naufal (P)"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "RICH 106",
+            "ALLN 1002"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "02:00 pm-02:50 pm"
+          ],
+          "crn": "14092"
+        },
+        "906": {
+          "select": "C",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "906",
+          "title": "INTRO TO ECONOMETRICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "463",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "RICH 106",
+            "ALLN 1006"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "08:00 am-08:50 am"
+          ],
+          "crn": "16483"
+        }
+      }
     },
-    "909": {
-      "select": "C\n                              MM ",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "909",
-      "title": "INTRO TO ECONOMETRICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/07",
-        "08/29-12/07"
-      ],
-      "location": [
-        "RICH 106",
-        "ALLN 1006"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm",
-        "01:00 pm-01:50 pm"
-      ],
-      "crn": "27500"
-    },
-    "910": {
-      "select": "C\n                              MM ",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "910",
-      "title": "INTRO TO ECONOMETRICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/07",
-        "08/29-12/07"
-      ],
-      "location": [
-        "RICH 106",
-        "ALLN 1006"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm",
-        "02:00 pm-02:50 pm"
-      ],
-      "crn": "27501"
-    },
-    "901": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "901",
-      "title": "INTRO TO ECONOMETRICS",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "Georges S. Naufal (P)",
-        "Georges S. Naufal (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "RICH 106",
-        "ALLN 1002"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "08:00 am-08:50 am"
-      ],
-      "crn": "14088"
-    },
-    "902": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "902",
-      "title": "INTRO TO ECONOMETRICS",
-      "remaining": "23",
-      "capacity": "23",
-      "instructor": [
-        "Georges S. Naufal (P)",
-        "Georges S. Naufal (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "RICH 106",
-        "ALLN 1002"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "11:00 am-11:50 am"
-      ],
-      "crn": "14089"
-    },
-    "903": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "903",
-      "title": "INTRO TO ECONOMETRICS",
-      "remaining": "23",
-      "capacity": "23",
-      "instructor": [
-        "Georges S. Naufal (P)",
-        "Georges S. Naufal (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "RICH 106",
-        "ALLN 1002"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "12:00 pm-12:50 pm"
-      ],
-      "crn": "14090"
-    },
-    "904": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "904",
-      "title": "INTRO TO ECONOMETRICS",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "Georges S. Naufal (P)",
-        "Georges S. Naufal (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "RICH 106",
-        "ALLN 1002"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "01:00 pm-01:50 pm"
-      ],
-      "crn": "14091"
-    },
-    "905": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "905",
-      "title": "INTRO TO ECONOMETRICS",
-      "remaining": "23",
-      "capacity": "23",
-      "instructor": [
-        "Georges S. Naufal (P)",
-        "Georges S. Naufal (P)"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "RICH 106",
-        "ALLN 1002"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "02:00 pm-02:50 pm"
-      ],
-      "crn": "14092"
-    },
-    "906": {
-      "select": "C",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "906",
-      "title": "INTRO TO ECONOMETRICS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "463",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "RICH 106",
-        "ALLN 1006"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm",
-        "08:00 am-08:50 am"
-      ],
-      "crn": "16483"
-    }
-  },
-  "475": {
-    "500": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "475": {
       "title": "ECONOMIC FORECASTING",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Tatevik Sekhposyan (P)"
-      ],
-      "credits": "3",
-      "course": "475",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1004"
-      ],
-      "time": [
-        "09:45 am-11:00 am"
-      ],
-      "crn": "11094"
-    }
-  },
-  "674": {
-    "600": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ECONOMIC FORECASTING",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Tatevik Sekhposyan (P)"
+          ],
+          "credits": "3",
+          "course": "475",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1004"
+          ],
+          "time": [
+            "09:45 am-11:00 am"
+          ],
+          "crn": "11094"
+        }
+      }
+    },
+    "674": {
       "title": "ECONOMIC FORECASTING",
-      "remaining": "110",
-      "capacity": "110",
-      "instructor": [
-        "Tatevik Sekhposyan (P)"
-      ],
-      "credits": "3",
-      "course": "674",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "NCTM 122"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "21330"
-    }
-  },
-  "675": {
-    "600": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ECONOMIC FORECASTING",
+          "remaining": "110",
+          "capacity": "110",
+          "instructor": [
+            "Tatevik Sekhposyan (P)"
+          ],
+          "credits": "3",
+          "course": "674",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "NCTM 122"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "21330"
+        }
+      }
+    },
+    "675": {
       "title": "ECONOMETRICS I",
-      "remaining": "33",
-      "capacity": "33",
-      "instructor": [
-        "Keli M. Xu (P)"
-      ],
-      "credits": "3",
-      "course": "675",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1006"
-      ],
-      "time": [
-        "01:30 pm-02:45 pm"
-      ],
-      "crn": "11095"
-    }
-  },
-  "677": {
-    "600": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ECONOMETRICS I",
+          "remaining": "33",
+          "capacity": "33",
+          "instructor": [
+            "Keli M. Xu (P)"
+          ],
+          "credits": "3",
+          "course": "675",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1006"
+          ],
+          "time": [
+            "01:30 pm-02:45 pm"
+          ],
+          "crn": "11095"
+        }
+      }
+    },
+    "677": {
       "title": "APPLIED MICROECONOMETRIC",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Yonghong An (P)"
-      ],
-      "credits": "3",
-      "course": "677",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1004"
-      ],
-      "time": [
-        "10:20 pm-11:35 pm"
-      ],
-      "crn": "11096"
-    }
-  },
-  "679": {
-    "600": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "APPLIED MICROECONOMETRIC",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Yonghong An (P)"
+          ],
+          "credits": "3",
+          "course": "677",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1004"
+          ],
+          "time": [
+            "10:20 pm-11:35 pm"
+          ],
+          "crn": "11096"
+        }
+      }
+    },
+    "679": {
       "title": "TIME SERIES ECONOMETRICS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Tatevik Sekhposyan (P)"
-      ],
-      "credits": "3",
-      "course": "679",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1004"
-      ],
-      "time": [
-        "02:10 pm-03:25 pm"
-      ],
-      "crn": "14715"
-    }
-  },
-  "461": {
-    "901": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "901",
-      "title": "ECONOMIC DATA ANALYSIS",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Craig T. Schulman (P)",
-        "Craig T. Schulman (P)"
-      ],
-      "credits": "3",
-      "course": "461",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "NCTM 122",
-        "ALLN 1004"
-      ],
-      "time": [
-        "08:25 am-09:15 am",
-        "08:00 am-08:50 am"
-      ],
-      "crn": "21738"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "TIME SERIES ECONOMETRICS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Tatevik Sekhposyan (P)"
+          ],
+          "credits": "3",
+          "course": "679",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1004"
+          ],
+          "time": [
+            "02:10 pm-03:25 pm"
+          ],
+          "crn": "14715"
+        }
+      }
     },
-    "902": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "902",
+    "461": {
       "title": "ECONOMIC DATA ANALYSIS",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Craig T. Schulman (P)",
-        "Craig T. Schulman (P)"
-      ],
-      "credits": "3",
-      "course": "461",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "NCTM 122",
-        "ALLN 1004"
-      ],
-      "time": [
-        "08:25 am-09:15 am",
-        "09:00 am-09:50 am"
-      ],
-      "crn": "21739"
+      "sections": {
+        "901": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "901",
+          "title": "ECONOMIC DATA ANALYSIS",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Craig T. Schulman (P)",
+            "Craig T. Schulman (P)"
+          ],
+          "credits": "3",
+          "course": "461",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "NCTM 122",
+            "ALLN 1004"
+          ],
+          "time": [
+            "08:25 am-09:15 am",
+            "08:00 am-08:50 am"
+          ],
+          "crn": "21738"
+        },
+        "902": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "902",
+          "title": "ECONOMIC DATA ANALYSIS",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Craig T. Schulman (P)",
+            "Craig T. Schulman (P)"
+          ],
+          "credits": "3",
+          "course": "461",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "NCTM 122",
+            "ALLN 1004"
+          ],
+          "time": [
+            "08:25 am-09:15 am",
+            "09:00 am-09:50 am"
+          ],
+          "crn": "21739"
+        },
+        "903": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "903",
+          "title": "ECONOMIC DATA ANALYSIS",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "Craig T. Schulman (P)",
+            "Craig T. Schulman (P)"
+          ],
+          "credits": "3",
+          "course": "461",
+          "days": [
+            "TR",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "NCTM 122",
+            "ALLN 1004"
+          ],
+          "time": [
+            "08:25 am-09:15 am",
+            "10:00 am-10:50 am"
+          ],
+          "crn": "21740"
+        },
+        "904": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "904",
+          "title": "ECONOMIC DATA ANALYSIS",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Dennis Jansen (P)",
+            "Dennis Jansen (P)"
+          ],
+          "credits": "3",
+          "course": "461",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1002",
+            "ALLN 1004"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "11:00 am-11:50 am"
+          ],
+          "crn": "24656"
+        },
+        "905": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "905",
+          "title": "ECONOMIC DATA ANALYSIS",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Dennis Jansen (P)",
+            "Dennis Jansen (P)"
+          ],
+          "credits": "3",
+          "course": "461",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1002",
+            "ALLN 1004"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "12:00 pm-12:50 pm"
+          ],
+          "crn": "24657"
+        },
+        "906": {
+          "select": "SR",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "906",
+          "title": "ECONOMIC DATA ANALYSIS",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Dennis Jansen (P)",
+            "Dennis Jansen (P)"
+          ],
+          "credits": "3",
+          "course": "461",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1002",
+            "ALLN 1004"
+          ],
+          "time": [
+            "08:00 am-09:15 am",
+            "01:00 pm-01:50 pm"
+          ],
+          "crn": "24658"
+        }
+      }
     },
-    "903": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "903",
-      "title": "ECONOMIC DATA ANALYSIS",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "Craig T. Schulman (P)",
-        "Craig T. Schulman (P)"
-      ],
-      "credits": "3",
-      "course": "461",
-      "days": [
-        "TR",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "NCTM 122",
-        "ALLN 1004"
-      ],
-      "time": [
-        "08:25 am-09:15 am",
-        "10:00 am-10:50 am"
-      ],
-      "crn": "21740"
-    },
-    "904": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "904",
-      "title": "ECONOMIC DATA ANALYSIS",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Dennis Jansen (P)",
-        "Dennis Jansen (P)"
-      ],
-      "credits": "3",
-      "course": "461",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1002",
-        "ALLN 1004"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "11:00 am-11:50 am"
-      ],
-      "crn": "24656"
-    },
-    "905": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "905",
-      "title": "ECONOMIC DATA ANALYSIS",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Dennis Jansen (P)",
-        "Dennis Jansen (P)"
-      ],
-      "credits": "3",
-      "course": "461",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1002",
-        "ALLN 1004"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "12:00 pm-12:50 pm"
-      ],
-      "crn": "24657"
-    },
-    "906": {
-      "select": "SR",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "906",
-      "title": "ECONOMIC DATA ANALYSIS",
-      "remaining": "23",
-      "capacity": "23",
-      "instructor": [
-        "Dennis Jansen (P)",
-        "Dennis Jansen (P)"
-      ],
-      "credits": "3",
-      "course": "461",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1002",
-        "ALLN 1004"
-      ],
-      "time": [
-        "08:00 am-09:15 am",
-        "01:00 pm-01:50 pm"
-      ],
-      "crn": "24658"
-    }
-  },
-  "670": {
-    "600": {
-      "select": "C",
-      "subject": "ECMT",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "670": {
       "title": "ECMT ANALYSIS FIN DATA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "670",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ALLN 1004"
-      ],
-      "time": [
-        "03:40 pm-04:55 pm"
-      ],
-      "crn": "21706"
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "ECMT",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ECMT ANALYSIS FIN DATA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "670",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ALLN 1004"
+          ],
+          "time": [
+            "03:40 pm-04:55 pm"
+          ],
+          "crn": "21706"
+        }
+      }
     }
-  }
+  },
+  "title": "ECMT - Econometrics",
+  "updated": "Thu Apr 07 01:14:18 CDT 2016"
 }

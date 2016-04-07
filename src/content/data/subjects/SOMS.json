@@ -1,1781 +1,1800 @@
 {
-  "111": {
-    "520": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "520",
+  "courses": {
+    "111": {
       "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Rhonda Kogut (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "11:10 am-12:00 pm"
-      ],
-      "crn": "21834"
+      "sections": {
+        "520": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "520",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Rhonda Kogut (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "11:10 am-12:00 pm"
+          ],
+          "crn": "21834"
+        },
+        "510": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "13349"
+        },
+        "521": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "521",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Meredith M. Simpson (P), Sarah L. Dolan"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "21835"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "511",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "26",
+          "capacity": "26",
+          "instructor": [
+            "Meredith M. Simpson (P), Sarah L. Dolan"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "09:35 am-10:25 am"
+          ],
+          "crn": "13350"
+        },
+        "501": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "13341"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Cristina V. Vela (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "11:10 am-12:00 pm"
+          ],
+          "crn": "13351"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Cristina V. Vela (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "13342"
+        },
+        "513": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "513",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Meredith M. Simpson (P), Sarah L. Dolan"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "02:20 pm-03:10 pm"
+          ],
+          "crn": "13352"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Meredith M. Simpson (P), Sarah L. Dolan"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "13343"
+        },
+        "514": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "514",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Meredith M. Simpson (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "17212"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Cristina V. Vela (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "09:35 am-10:25 am"
+          ],
+          "crn": "13344"
+        },
+        "515": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "515",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Meredith M. Simpson (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "17214"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Meredith M. Simpson (P), Sarah L. Dolan"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "11:10 am-12:00 pm"
+          ],
+          "crn": "13345"
+        },
+        "516": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "516",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Meredith M. Simpson (P), Sarah L. Dolan"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "02:20 pm-03:10 pm"
+          ],
+          "crn": "17215"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Meredith M. Simpson (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm"
+          ],
+          "crn": "13346"
+        },
+        "517": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "517",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Meredith M. Simpson (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "17216"
+        },
+        "518": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "518",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "37",
+          "capacity": "37",
+          "instructor": [
+            "Cristina V. Vela (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "19530"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Cristina V. Vela (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "13347"
+        },
+        "519": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "519",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Cristina V. Vela (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "19531"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "PRIN ACAD & PERSONAL DEV",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Meredith M. Simpson (P)"
+          ],
+          "credits": "1",
+          "course": "111",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 138"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "13348"
+        }
+      }
     },
-    "510": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "13349"
-    },
-    "521": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "521",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Meredith M. Simpson (P), Sarah L. Dolan"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "21835"
-    },
-    "511": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "511",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "26",
-      "capacity": "26",
-      "instructor": [
-        "Meredith M. Simpson (P), Sarah L. Dolan"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "09:35 am-10:25 am"
-      ],
-      "crn": "13350"
-    },
-    "501": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "13341"
-    },
-    "512": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Cristina V. Vela (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "11:10 am-12:00 pm"
-      ],
-      "crn": "13351"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Cristina V. Vela (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "13342"
-    },
-    "513": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "513",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Meredith M. Simpson (P), Sarah L. Dolan"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "02:20 pm-03:10 pm"
-      ],
-      "crn": "13352"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Meredith M. Simpson (P), Sarah L. Dolan"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "13343"
-    },
-    "514": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "514",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Meredith M. Simpson (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "17212"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Cristina V. Vela (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "09:35 am-10:25 am"
-      ],
-      "crn": "13344"
-    },
-    "515": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "515",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Meredith M. Simpson (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "17214"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Meredith M. Simpson (P), Sarah L. Dolan"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "11:10 am-12:00 pm"
-      ],
-      "crn": "13345"
-    },
-    "516": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "516",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Meredith M. Simpson (P), Sarah L. Dolan"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "02:20 pm-03:10 pm"
-      ],
-      "crn": "17215"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Meredith M. Simpson (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "12:45 pm-01:35 pm"
-      ],
-      "crn": "13346"
-    },
-    "517": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "517",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Meredith M. Simpson (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "17216"
-    },
-    "518": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "518",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "37",
-      "capacity": "37",
-      "instructor": [
-        "Cristina V. Vela (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "19530"
-    },
-    "508": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Cristina V. Vela (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "13347"
-    },
-    "519": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "519",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "23",
-      "capacity": "23",
-      "instructor": [
-        "Cristina V. Vela (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "19531"
-    },
-    "509": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "PRIN ACAD & PERSONAL DEV",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Meredith M. Simpson (P)"
-      ],
-      "credits": "1",
-      "course": "111",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 138"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "13348"
-    }
-  },
-  "485": {
-    "500": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Meredith M. Simpson (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17217"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Meredith M. Simpson (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17217"
+        },
+        "501": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard L. Cummins (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15517"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Tony W. Brown (P)"
+          ],
+          "credits": "1-4",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15495"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard L. Cummins (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15517"
+    "180": {
+      "title": "SRVY PRFRMNCE TRNG MTHDS",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SRVY PRFRMNCE TRNG MTHDS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Blake H. Whitaker (P), Dale Norris"
+          ],
+          "credits": "1",
+          "course": "180",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 132"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "19532"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "SRVY PRFRMNCE TRNG MTHDS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Dale Norris (P)"
+          ],
+          "credits": "1",
+          "course": "180",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 132"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "19533"
+        },
+        "503": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "SRVY PRFRMNCE TRNG MTHDS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "180",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCCT 132"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "28331"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Tony W. Brown (P)"
-      ],
-      "credits": "1-4",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15495"
+    "380": {
+      "title": "WRKSHP IN LEADERSHIP ED",
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "21840"
+        },
+        "540": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "540",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Victor F. Frysinger (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "12694"
+        },
+        "541": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "541",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "29",
+          "capacity": "29",
+          "instructor": [
+            "Andrew A. Armstrong (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 217"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "12695"
+        },
+        "531": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "531",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Carl Ivey (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12687"
+        },
+        "542": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "542",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "Jared B. Scoggins (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ACAD 224"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12696"
+        },
+        "532": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "532",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "29",
+          "capacity": "29",
+          "instructor": [
+            "Megan M. McClure (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "12688"
+        },
+        "543": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "543",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "12697"
+        },
+        "533": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "533",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "29",
+          "capacity": "29",
+          "instructor": [
+            "Alex D. Sullins (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 316"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "12689"
+        },
+        "544": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "544",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "26",
+          "capacity": "26",
+          "instructor": [
+            "David J. Wentling (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 021A"
+          ],
+          "time": [
+            "11:10 am-12:00 pm"
+          ],
+          "crn": "12698"
+        },
+        "534": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "534",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Jared B. Scoggins (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 316"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12690"
+        },
+        "545": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "545",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "David J. Wentling (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 117"
+          ],
+          "time": [
+            "02:20 pm-03:10 pm"
+          ],
+          "crn": "12699"
+        },
+        "546": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "546",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "21836"
+        },
+        "536": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "536",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Melissa R. Shehane (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "11:10 am-12:00 pm"
+          ],
+          "crn": "12691"
+        },
+        "547": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "547",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:35 am-10:25 am"
+          ],
+          "crn": "21837"
+        },
+        "537": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "537",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "26",
+          "capacity": "26",
+          "instructor": [
+            "Michael E. Shehane (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317"
+          ],
+          "time": [
+            "02:20 pm-03:10 pm"
+          ],
+          "crn": "12692"
+        },
+        "548": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "548",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "22",
+          "capacity": "22",
+          "instructor": [
+            "Carl Ivey (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "AGLS 117"
+          ],
+          "time": [
+            "09:35 am-10:25 am"
+          ],
+          "crn": "21838"
+        },
+        "538": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "538",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "29",
+          "capacity": "29",
+          "instructor": [
+            "Tammie M. Preston (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "12693"
+        },
+        "549": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "549",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "21839"
+        },
+        "539": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "539",
+          "title": "WRKSHP IN LEADERSHIP ED",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Victor F. Frysinger (P)"
+          ],
+          "credits": "1",
+          "course": "380",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 007"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "16465"
+        }
+      }
+    },
+    "481": {
+      "title": "SEMINAR",
+      "sections": {
+        "560": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "560",
+          "title": "SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:35 am-10:25 am"
+          ],
+          "crn": "21841"
+        },
+        "550": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "SEMINAR",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Tony W. Brown (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 118"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12701"
+        },
+        "561": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "561",
+          "title": "SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "21842"
+        },
+        "551": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "551",
+          "title": "SEMINAR",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Karl Mooney (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12702"
+        },
+        "562": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "562",
+          "title": "SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "21843"
+        },
+        "552": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "552",
+          "title": "SEMINAR",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Karl Mooney (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "EDCT 616"
+          ],
+          "time": [
+            "09:35 am-10:25 am"
+          ],
+          "crn": "12703"
+        },
+        "563": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "563",
+          "title": "SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "21844"
+        },
+        "553": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "553",
+          "title": "SEMINAR",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Cory L. Arcak (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:10 pm"
+          ],
+          "crn": "12704"
+        },
+        "554": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "554",
+          "title": "SEMINAR",
+          "remaining": "26",
+          "capacity": "26",
+          "instructor": [
+            "Lane R. Humphreys (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ENPH 216"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "12705"
+        },
+        "500": {
+          "select": "C",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "12700"
+        },
+        "555": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "555",
+          "title": "SEMINAR",
+          "remaining": "33",
+          "capacity": "33",
+          "instructor": [
+            "Tony W. Brown (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CVE 136"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "12706"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "SEMINAR",
+          "remaining": "28",
+          "capacity": "28",
+          "instructor": [
+            "Lane R. Humphreys (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HELD 118"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "13380"
+        },
+        "556": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "556",
+          "title": "SEMINAR",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Rhonda S. Struminger (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "MILS 317"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "12707"
+        },
+        "557": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "557",
+          "title": "SEMINAR",
+          "remaining": "26",
+          "capacity": "26",
+          "instructor": [
+            "Tony W. Brown (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 205"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "12708"
+        },
+        "558": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "558",
+          "title": "SEMINAR",
+          "remaining": "26",
+          "capacity": "26",
+          "instructor": [
+            "Rhonda S. Struminger (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ENPH 201"
+          ],
+          "time": [
+            "09:35 am-10:25 am"
+          ],
+          "crn": "12709"
+        },
+        "559": {
+          "select": "SR",
+          "subject": "SOMS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "559",
+          "title": "SEMINAR",
+          "remaining": "27",
+          "capacity": "27",
+          "instructor": [
+            "Rhonda S. Struminger (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "BLOC 110"
+          ],
+          "time": [
+            "02:20 pm-03:10 pm"
+          ],
+          "crn": "12710"
+        }
+      }
     }
   },
-  "180": {
-    "501": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SRVY PRFRMNCE TRNG MTHDS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Blake H. Whitaker (P), Dale Norris"
-      ],
-      "credits": "1",
-      "course": "180",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 132"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "19532"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "SRVY PRFRMNCE TRNG MTHDS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Dale Norris (P)"
-      ],
-      "credits": "1",
-      "course": "180",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 132"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "19533"
-    },
-    "503": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "SRVY PRFRMNCE TRNG MTHDS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "180",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCCT 132"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "28331"
-    }
-  },
-  "380": {
-    "550": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "21840"
-    },
-    "540": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "540",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Victor F. Frysinger (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 110"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "12694"
-    },
-    "541": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "541",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "29",
-      "capacity": "29",
-      "instructor": [
-        "Andrew A. Armstrong (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 217"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "12695"
-    },
-    "531": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "531",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Carl Ivey (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12687"
-    },
-    "542": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "542",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "Jared B. Scoggins (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ACAD 224"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12696"
-    },
-    "532": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "532",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "29",
-      "capacity": "29",
-      "instructor": [
-        "Megan M. McClure (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "12688"
-    },
-    "543": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "543",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "12697"
-    },
-    "533": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "533",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "29",
-      "capacity": "29",
-      "instructor": [
-        "Alex D. Sullins (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 316"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "12689"
-    },
-    "544": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "544",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "26",
-      "capacity": "26",
-      "instructor": [
-        "David J. Wentling (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 021A"
-      ],
-      "time": [
-        "11:10 am-12:00 pm"
-      ],
-      "crn": "12698"
-    },
-    "534": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "534",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Jared B. Scoggins (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 316"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12690"
-    },
-    "545": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "545",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "David J. Wentling (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 117"
-      ],
-      "time": [
-        "02:20 pm-03:10 pm"
-      ],
-      "crn": "12699"
-    },
-    "546": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "546",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "21836"
-    },
-    "536": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "536",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Melissa R. Shehane (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "11:10 am-12:00 pm"
-      ],
-      "crn": "12691"
-    },
-    "547": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "547",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:35 am-10:25 am"
-      ],
-      "crn": "21837"
-    },
-    "537": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "537",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "26",
-      "capacity": "26",
-      "instructor": [
-        "Michael E. Shehane (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317"
-      ],
-      "time": [
-        "02:20 pm-03:10 pm"
-      ],
-      "crn": "12692"
-    },
-    "548": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "548",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "22",
-      "capacity": "22",
-      "instructor": [
-        "Carl Ivey (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "AGLS 117"
-      ],
-      "time": [
-        "09:35 am-10:25 am"
-      ],
-      "crn": "21838"
-    },
-    "538": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "538",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "29",
-      "capacity": "29",
-      "instructor": [
-        "Tammie M. Preston (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "12693"
-    },
-    "549": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "549",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "21839"
-    },
-    "539": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "539",
-      "title": "WRKSHP IN LEADERSHIP ED",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Victor F. Frysinger (P)"
-      ],
-      "credits": "1",
-      "course": "380",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 007"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "16465"
-    }
-  },
-  "481": {
-    "560": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "560",
-      "title": "SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:35 am-10:25 am"
-      ],
-      "crn": "21841"
-    },
-    "550": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "SEMINAR",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Tony W. Brown (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 118"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12701"
-    },
-    "561": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "561",
-      "title": "SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "21842"
-    },
-    "551": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "551",
-      "title": "SEMINAR",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Karl Mooney (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12702"
-    },
-    "562": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "562",
-      "title": "SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "21843"
-    },
-    "552": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "552",
-      "title": "SEMINAR",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Karl Mooney (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "EDCT 616"
-      ],
-      "time": [
-        "09:35 am-10:25 am"
-      ],
-      "crn": "12703"
-    },
-    "563": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "563",
-      "title": "SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "21844"
-    },
-    "553": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "553",
-      "title": "SEMINAR",
-      "remaining": "23",
-      "capacity": "23",
-      "instructor": [
-        "Cory L. Arcak (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:10 pm"
-      ],
-      "crn": "12704"
-    },
-    "554": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "554",
-      "title": "SEMINAR",
-      "remaining": "26",
-      "capacity": "26",
-      "instructor": [
-        "Lane R. Humphreys (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ENPH 216"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "12705"
-    },
-    "500": {
-      "select": "C",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "12700"
-    },
-    "555": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "555",
-      "title": "SEMINAR",
-      "remaining": "33",
-      "capacity": "33",
-      "instructor": [
-        "Tony W. Brown (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CVE 136"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "12706"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "SEMINAR",
-      "remaining": "28",
-      "capacity": "28",
-      "instructor": [
-        "Lane R. Humphreys (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HELD 118"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "13380"
-    },
-    "556": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "556",
-      "title": "SEMINAR",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Rhonda S. Struminger (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "MILS 317"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm"
-      ],
-      "crn": "12707"
-    },
-    "557": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "557",
-      "title": "SEMINAR",
-      "remaining": "26",
-      "capacity": "26",
-      "instructor": [
-        "Tony W. Brown (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 205"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "12708"
-    },
-    "558": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "558",
-      "title": "SEMINAR",
-      "remaining": "26",
-      "capacity": "26",
-      "instructor": [
-        "Rhonda S. Struminger (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ENPH 201"
-      ],
-      "time": [
-        "09:35 am-10:25 am"
-      ],
-      "crn": "12709"
-    },
-    "559": {
-      "select": "SR",
-      "subject": "SOMS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "559",
-      "title": "SEMINAR",
-      "remaining": "27",
-      "capacity": "27",
-      "instructor": [
-        "Rhonda S. Struminger (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "BLOC 110"
-      ],
-      "time": [
-        "02:20 pm-03:10 pm"
-      ],
-      "crn": "12710"
-    }
-  }
+  "title": "SOMS-Schl of Military Sciences",
+  "updated": "Thu Apr 07 01:25:28 CDT 2016"
 }

@@ -1,2761 +1,2807 @@
 {
-  "491": {
-    "501": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "491": {
       "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Patrick J. Shamberger (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25966"
-    }
-  },
-  "460": {
-    "500": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Patrick J. Shamberger (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25966"
+        }
+      }
+    },
+    "460": {
       "title": "ELEC OPT MAG MATERIALS",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "460",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ETB 1035"
-      ],
-      "time": [
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "27055"
-    }
-  },
-  "691": {
-    "630": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "630",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Xiaofeng Qian (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14489"
-    },
-    "631": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "631",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Miladin Radovic (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17813"
-    },
-    "632": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "632",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Svetlana Sukhishvili (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14490"
-    },
-    "633": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "633",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Joseph Ross (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14491"
-    },
-    "634": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "634",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Micah Green (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14492"
-    },
-    "635": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "635",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Alan Needleman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14493"
-    },
-    "636": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "636",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Lin Shao (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14494"
-    },
-    "637": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "637",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hung-Jue Su (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14495"
-    },
-    "638": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "638",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Winfried Teizer (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17252"
-    },
-    "639": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "639",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Sreeram Vaddiraju (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14496"
-    },
-    "640": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Haiyan Wang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14497"
-    },
-    "641": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "641",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "John Whitcomb (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14498"
-    },
-    "642": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "642",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Wenhao Wu (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15622"
-    },
-    "643": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Choongho Yu (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15916"
-    },
-    "644": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "644",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Luke Nyakiti (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15843"
-    },
-    "601": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "RESEARCH",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "LI Liu (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14465"
-    },
-    "645": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "645",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Xinghang Zhang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17253"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mustafa Akbulut (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14466"
-    },
-    "646": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "646",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hongcai Zhou (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17254"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Raymundo Arroyave (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14467"
-    },
-    "647": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "647",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jodie L. Lutkenhaus (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18786"
-    },
-    "604": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "604",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Perla Balbuena (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17802"
-    },
-    "648": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "648",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Ramesh Talreja (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20639"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "James Batteas (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14468"
-    },
-    "649": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "649",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27058"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Amine Benzerga (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14473"
-    },
-    "607": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mohammad Naraghi (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14474"
-    },
-    "608": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Terry Creasy (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17803"
-    },
-    "609": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Zheng Cheng (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14475"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "ELEC OPT MAG MATERIALS",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "460",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ETB 1035"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "27055"
+        }
+      }
     },
     "691": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "691",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27063"
-    },
-    "650": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "650",
       "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27059"
+      "sections": {
+        "630": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "630",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Xiaofeng Qian (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14489"
+        },
+        "631": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "631",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Miladin Radovic (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17813"
+        },
+        "632": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "632",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Svetlana Sukhishvili (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14490"
+        },
+        "633": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "633",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Joseph Ross (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14491"
+        },
+        "634": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "634",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Micah Green (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14492"
+        },
+        "635": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "635",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Alan Needleman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14493"
+        },
+        "636": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "636",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Lin Shao (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14494"
+        },
+        "637": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "637",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hung-Jue Su (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14495"
+        },
+        "638": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "638",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Winfried Teizer (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17252"
+        },
+        "639": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "639",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Sreeram Vaddiraju (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14496"
+        },
+        "640": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Haiyan Wang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14497"
+        },
+        "641": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "641",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "John Whitcomb (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14498"
+        },
+        "642": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "642",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Wenhao Wu (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15622"
+        },
+        "643": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Choongho Yu (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15916"
+        },
+        "644": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "644",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Luke Nyakiti (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15843"
+        },
+        "601": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "RESEARCH",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "LI Liu (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14465"
+        },
+        "645": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "645",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Xinghang Zhang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17253"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mustafa Akbulut (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14466"
+        },
+        "646": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "646",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hongcai Zhou (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17254"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Raymundo Arroyave (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14467"
+        },
+        "647": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "647",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jodie L. Lutkenhaus (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18786"
+        },
+        "604": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "604",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Perla Balbuena (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17802"
+        },
+        "648": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "648",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Ramesh Talreja (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20639"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "James Batteas (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14468"
+        },
+        "649": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "649",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27058"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Amine Benzerga (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14473"
+        },
+        "607": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mohammad Naraghi (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14474"
+        },
+        "608": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Terry Creasy (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17803"
+        },
+        "609": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Zheng Cheng (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14475"
+        },
+        "691": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "691",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27063"
+        },
+        "650": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "650",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27059"
+        },
+        "651": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Lin Shao (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20545"
+        },
+        "652": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "652",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Raymundo Arroyave (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20871"
+        },
+        "653": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "653",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27060"
+        },
+        "610": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jorge Seminario (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14476"
+        },
+        "654": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27061"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Tahir Cagin (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17804"
+        },
+        "655": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "655",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Homero Castaneda-Lopez (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25600"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Patrick J. Shamberger (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14478"
+        },
+        "656": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "656",
+          "title": "RESEARCH",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Christi Madsen (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25601"
+        },
+        "613": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Melissa Grunlan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17806"
+        },
+        "657": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "657",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Xiaofeng Qian (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25602"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jaime Grunlan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14479"
+        },
+        "658": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "658",
+          "title": "RESEARCH: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27062"
+        },
+        "615": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "615",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Lei Fang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17807"
+        },
+        "616": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "616",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Harlan Harris (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17808"
+        },
+        "617": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "617",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Karl Hartwig (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17809"
+        },
+        "618": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "618",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Wonmuk Hwang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14480"
+        },
+        "619": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "619",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hae-Kwon Jeong (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14481"
+        },
+        "620": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "620",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Jun Kameoka (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17810"
+        },
+        "621": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "621",
+          "title": "RESEARCH",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Ibrahim Karaman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14482"
+        },
+        "622": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "622",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Yue Kuo (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14483"
+        },
+        "623": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "623",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Dimitris Lagoudas (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14484"
+        },
+        "624": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hong Liang (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14485"
+        },
+        "625": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "625",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mahboobul Mannan (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17811"
+        },
+        "626": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "626",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Bilal Mansoor (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14486"
+        },
+        "627": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "627",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Sean McDeavitt (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14487"
+        },
+        "628": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "628",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Michael J. McShane (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "14488"
+        },
+        "629": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "629",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Helmut Katzgraber (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17812"
+        }
+      }
     },
-    "651": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Lin Shao (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20545"
-    },
-    "652": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "652",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Raymundo Arroyave (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20871"
-    },
-    "653": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "653",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27060"
-    },
-    "610": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jorge Seminario (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14476"
-    },
-    "654": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27061"
-    },
-    "611": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Tahir Cagin (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17804"
-    },
-    "655": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "655",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Homero Castaneda-Lopez (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25600"
-    },
-    "612": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Patrick J. Shamberger (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14478"
-    },
-    "656": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "656",
-      "title": "RESEARCH",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Christi Madsen (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25601"
-    },
-    "613": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Melissa Grunlan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17806"
-    },
-    "657": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "657",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Xiaofeng Qian (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25602"
-    },
-    "614": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jaime Grunlan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14479"
-    },
-    "658": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "658",
-      "title": "RESEARCH: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27062"
-    },
-    "615": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "615",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Lei Fang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17807"
-    },
-    "616": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "616",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Harlan Harris (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17808"
-    },
-    "617": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "617",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Karl Hartwig (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17809"
-    },
-    "618": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "618",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Wonmuk Hwang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14480"
-    },
-    "619": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "619",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hae-Kwon Jeong (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14481"
-    },
-    "620": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "620",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Jun Kameoka (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17810"
-    },
-    "621": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "621",
-      "title": "RESEARCH",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Ibrahim Karaman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14482"
-    },
-    "622": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "622",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Yue Kuo (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14483"
-    },
-    "623": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "623",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Dimitris Lagoudas (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14484"
-    },
-    "624": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hong Liang (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14485"
-    },
-    "625": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "625",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mahboobul Mannan (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17811"
-    },
-    "626": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "626",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Bilal Mansoor (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14486"
-    },
-    "627": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "627",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Sean McDeavitt (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14487"
-    },
-    "628": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "628",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Michael J. McShane (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "14488"
-    },
-    "629": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "629",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Helmut Katzgraber (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17812"
-    }
-  },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "681": {
       "title": "SEMINAR",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Patrick J. Shamberger (P)"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "RDMC 202"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "12902"
-    }
-  },
-  "222": {
-    "501": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "MATERIAL SCIENCE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "222",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ETB 1020"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "27708"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Patrick J. Shamberger (P)"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "RDMC 202"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "12902"
+        }
+      }
     },
-    "502": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "222": {
       "title": "MATERIAL SCIENCE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "222",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ETB 1020"
-      ],
-      "time": [
-        "05:45 pm-06:35 pm"
-      ],
-      "crn": "27709"
+      "sections": {
+        "501": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "MATERIAL SCIENCE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "222",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ETB 1020"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "27708"
+        },
+        "502": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "MATERIAL SCIENCE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "222",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ETB 1020"
+          ],
+          "time": [
+            "05:45 pm-06:35 pm"
+          ],
+          "crn": "27709"
+        },
+        "503": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "MATERIAL SCIENCE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "222",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-08:50 am"
+          ],
+          "crn": "27710"
+        },
+        "504": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "MATERIAL SCIENCE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "222",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "27711"
+        },
+        "505": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "MATERIAL SCIENCE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "222",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27712"
+        },
+        "506": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "MATERIAL SCIENCE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "222",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27713"
+        }
+      }
     },
-    "503": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "MATERIAL SCIENCE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "222",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-08:50 am"
-      ],
-      "crn": "27710"
-    },
-    "504": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "MATERIAL SCIENCE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "222",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "27711"
-    },
-    "505": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "MATERIAL SCIENCE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "222",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27712"
-    },
-    "506": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "MATERIAL SCIENCE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "222",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27713"
-    }
-  },
-  "310": {
-    "500": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "310": {
       "title": "STRUCTURE OF MATERIALS",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "310",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "25045"
-    }
-  },
-  "640": {
-    "600": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "STRUCTURE OF MATERIALS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "310",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "25045"
+        }
+      }
+    },
+    "640": {
       "title": "THERMODYNAMICS MTRLS SCI",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Raymundo Arroyave (P)"
-      ],
-      "credits": "3",
-      "course": "640",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "19631"
-    }
-  },
-  "684": {
-    "651": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "651",
-      "title": "PROFESSIONAL INTERNSHIP: IN-AB",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Ramesh Talreja (P)"
-      ],
-      "credits": "1-9",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19329"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THERMODYNAMICS MTRLS SCI",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Raymundo Arroyave (P)"
+          ],
+          "credits": "3",
+          "course": "640",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "19631"
+        }
+      }
     },
-    "653": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "653",
-      "title": "PROFESSIONAL INTERNSHIP: IN-AB",
-      "remaining": "12",
-      "capacity": "12",
-      "instructor": [
-        "Miladin Radovic (P)"
-      ],
-      "credits": "1-9",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21812"
-    },
-    "654": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Lin Shao (P)"
-      ],
-      "credits": "1-9",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21813"
-    },
-    "655": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "655",
-      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Haiyan Wang (P)"
-      ],
-      "credits": "1-9",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21814"
-    },
-    "645": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "645",
+    "684": {
       "title": "PROFESSIONAL INTERNSHIP",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Xinghang Zhang (P)"
-      ],
-      "credits": "1-9",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20583"
+      "sections": {
+        "651": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "651",
+          "title": "PROFESSIONAL INTERNSHIP: IN-AB",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Ramesh Talreja (P)"
+          ],
+          "credits": "1-9",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19329"
+        },
+        "653": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "653",
+          "title": "PROFESSIONAL INTERNSHIP: IN-AB",
+          "remaining": "12",
+          "capacity": "12",
+          "instructor": [
+            "Miladin Radovic (P)"
+          ],
+          "credits": "1-9",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21812"
+        },
+        "654": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Lin Shao (P)"
+          ],
+          "credits": "1-9",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21813"
+        },
+        "655": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "655",
+          "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Haiyan Wang (P)"
+          ],
+          "credits": "1-9",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21814"
+        },
+        "645": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "645",
+          "title": "PROFESSIONAL INTERNSHIP",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Xinghang Zhang (P)"
+          ],
+          "credits": "1-9",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20583"
+        },
+        "656": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "656",
+          "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-9",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21815"
+        },
+        "624": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "PROFESSIONAL INTERNSHIP: IN-AB",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Mohammad Naraghi (P)"
+          ],
+          "credits": "1-9",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20373"
+        },
+        "657": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "657",
+          "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-9",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21816"
+        },
+        "625": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "625",
+          "title": "PROFESSIONAL INTERNSHIP",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Micah Green (P)"
+          ],
+          "credits": "1-9",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26299"
+        },
+        "658": {
+          "select": "C",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "658",
+          "title": "PROFESSIONAL INTERNSHIP:IN-AB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-9",
+          "course": "684",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21817"
+        }
+      }
     },
-    "656": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "656",
-      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-9",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21815"
+    "685": {
+      "title": "DIRECTED STUDIES",
+      "sections": {
+        "630": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "630",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Lei Fang (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19332"
+        },
+        "620": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "620",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Donald Naugle (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19331"
+        },
+        "653": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "653",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Tahir Cagin (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21294"
+        },
+        "643": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Choongho Yu (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20835"
+        },
+        "654": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "654",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "LI Liu (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21295"
+        },
+        "625": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "625",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hong Liang (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19924"
+        },
+        "647": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "647",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Jodie L. Lutkenhaus (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "25603"
+        },
+        "637": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "637",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hung-Jue Su (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20292"
+        },
+        "616": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "616",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Patrick J. Shamberger (P)"
+          ],
+          "credits": "1-12",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19330"
+        }
+      }
     },
-    "624": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "PROFESSIONAL INTERNSHIP: IN-AB",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Mohammad Naraghi (P)"
-      ],
-      "credits": "1-9",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20373"
+    "601": {
+      "title": "FNDMTL MATLS SCIENCE ENG",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "FNDMTL MATLS SCIENCE ENG",
+          "remaining": "50",
+          "capacity": "50",
+          "instructor": [
+            "Xinghang Zhang (P)",
+            "Xinghang Zhang (P)"
+          ],
+          "credits": "3",
+          "course": "601",
+          "days": [
+            "MW",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A",
+            "SCTS 317"
+          ],
+          "time": [
+            "05:45 pm-07:00 pm",
+            "03:55 pm-06:45 pm"
+          ],
+          "crn": "12192"
+        }
+      }
     },
-    "657": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "657",
-      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-9",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21816"
-    },
-    "625": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "625",
-      "title": "PROFESSIONAL INTERNSHIP",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Micah Green (P)"
-      ],
-      "credits": "1-9",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26299"
+    "603": {
+      "title": "FNDMTL SOFT & BIOMATERLS",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "FNDMTL SOFT & BIOMATERLS",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Svetlana Sukhishvili (P)"
+          ],
+          "credits": "3",
+          "course": "603",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 104"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "23985"
+        }
+      }
     },
     "658": {
-      "select": "C",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "658",
-      "title": "PROFESSIONAL INTERNSHIP:IN-AB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-9",
-      "course": "684",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21817"
-    }
-  },
-  "685": {
-    "630": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "630",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Lei Fang (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19332"
-    },
-    "620": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "620",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Donald Naugle (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19331"
-    },
-    "653": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "653",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Tahir Cagin (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21294"
-    },
-    "643": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Choongho Yu (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20835"
-    },
-    "654": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "654",
-      "title": "DIRECTED STUDIES",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "LI Liu (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21295"
-    },
-    "625": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "625",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hong Liang (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19924"
-    },
-    "647": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "647",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Jodie L. Lutkenhaus (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "25603"
-    },
-    "637": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "637",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hung-Jue Su (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20292"
-    },
-    "616": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "616",
-      "title": "DIRECTED STUDIES",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Patrick J. Shamberger (P)"
-      ],
-      "credits": "1-12",
-      "course": "685",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19330"
-    }
-  },
-  "601": {
-    "600": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "FNDMTL MATLS SCIENCE ENG",
-      "remaining": "50",
-      "capacity": "50",
-      "instructor": [
-        "Xinghang Zhang (P)",
-        "Xinghang Zhang (P)"
-      ],
-      "credits": "3",
-      "course": "601",
-      "days": [
-        "MW",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A",
-        "SCTS 317"
-      ],
-      "time": [
-        "05:45 pm-07:00 pm",
-        "03:55 pm-06:45 pm"
-      ],
-      "crn": "12192"
-    }
-  },
-  "603": {
-    "600": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "FNDMTL SOFT & BIOMATERLS",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Svetlana Sukhishvili (P)"
-      ],
-      "credits": "3",
-      "course": "603",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "CHEN 104"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "23985"
-    }
-  },
-  "658": {
-    "600": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
       "title": "FUNDAMENTALS OF CERAMICS",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Miladin Radovic (P)"
-      ],
-      "credits": "3",
-      "course": "658",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "THOM 107A"
-      ],
-      "time": [
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "27057"
-    }
-  },
-  "604": {
-    "600": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "FUNDAMENTALS OF CERAMICS",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Miladin Radovic (P)"
+          ],
+          "credits": "3",
+          "course": "658",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "THOM 107A"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "27057"
+        }
+      }
+    },
+    "604": {
       "title": "QUANTUM MECH MTRLS SCI",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Xiaofeng Qian (P)"
-      ],
-      "credits": "3",
-      "course": "604",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ETB 1035"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "13892"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "QUANTUM MECH MTRLS SCI",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Xiaofeng Qian (P)"
+          ],
+          "credits": "3",
+          "course": "604",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ETB 1035"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "13892"
+        }
+      }
+    },
+    "605": {
+      "title": "FIELD THEORIES MATL SCIENCE",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "MSEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "FIELD THEORIES MATL SCIENCE",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Ramesh Talreja (P)"
+          ],
+          "credits": "3",
+          "course": "605",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27056"
+        }
+      }
     }
   },
-  "605": {
-    "600": {
-      "select": "SR",
-      "subject": "MSEN",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "FIELD THEORIES MATL SCIENCE",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Ramesh Talreja (P)"
-      ],
-      "credits": "3",
-      "course": "605",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27056"
-    }
-  }
+  "title": "MSEN -Materials Science & Engr",
+  "updated": "Thu Apr 07 01:21:08 CDT 2016"
 }

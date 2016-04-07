@@ -1,3865 +1,3944 @@
 {
-  "491": {
-    "540": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "540",
+  "courses": {
+    "491": {
       "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "James Woolley (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16645"
+      "sections": {
+        "540": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "540",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "James Woolley (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16645"
+        },
+        "520": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "520",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Hojun Song (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "24090"
+        },
+        "542": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "542",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Lloyd Wilson (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "24091"
+        },
+        "510": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Edward L. Vargo (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "24089"
+        },
+        "511": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "511",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Michel Slotman (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16641"
+        },
+        "512": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Patricia Pietrantonio (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16642"
+        },
+        "502": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Craig Coates (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16634"
+        },
+        "513": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "513",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Aaron M. Tarone (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16644"
+        },
+        "524": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "524",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Robert Coulson (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16648"
+        },
+        "546": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "546",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Kevin Heinz (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16651"
+        },
+        "503": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Spencer Behmer (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15635"
+        },
+        "514": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "514",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gabriel L. Hamer (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18725"
+        },
+        "547": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "547",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "John Oswald (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16652"
+        },
+        "537": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "537",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Pete Teel (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16649"
+        },
+        "505": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Julio Bernal (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16635"
+        },
+        "516": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "516",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Gregory Sword (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16653"
+        },
+        "506": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Raul Medina (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16637"
+        },
+        "517": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "517",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Juliana Rangel Posada (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20784"
+        },
+        "539": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "539",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "J Johnston (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16630"
+        },
+        "507": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Micky Eubanks (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16629"
+        },
+        "518": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "518",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Keyan Zhu Salzman (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16647"
+        },
+        "508": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jeffery Tomberlin (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16638"
+        },
+        "509": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Cecilia Tamborindeguy (P)"
+          ],
+          "credits": "0-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16640"
+        }
+      }
     },
-    "520": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "520",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Hojun Song (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "24090"
-    },
-    "542": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "542",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Lloyd Wilson (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "24091"
-    },
-    "510": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Edward L. Vargo (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "24089"
-    },
-    "511": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "511",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Michel Slotman (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16641"
-    },
-    "512": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Patricia Pietrantonio (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16642"
-    },
-    "502": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Craig Coates (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16634"
-    },
-    "513": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "513",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Aaron M. Tarone (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16644"
-    },
-    "524": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "524",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Robert Coulson (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16648"
-    },
-    "546": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "546",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Kevin Heinz (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16651"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Spencer Behmer (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15635"
-    },
-    "514": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "514",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gabriel L. Hamer (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18725"
-    },
-    "547": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "547",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Oswald (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16652"
-    },
-    "537": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "537",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Pete Teel (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16649"
-    },
-    "505": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Julio Bernal (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16635"
-    },
-    "516": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "516",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Gregory Sword (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16653"
-    },
-    "506": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Raul Medina (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16637"
-    },
-    "517": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "517",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Juliana Rangel Posada (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20784"
-    },
-    "539": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "539",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "J Johnston (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16630"
-    },
-    "507": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Micky Eubanks (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16629"
-    },
-    "518": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "518",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Keyan Zhu Salzman (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16647"
-    },
-    "508": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jeffery Tomberlin (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16638"
-    },
-    "509": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Cecilia Tamborindeguy (P)"
-      ],
-      "credits": "0-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16640"
-    }
-  },
-  "690": {
-    "600": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+    "690": {
       "title": "THEORY OF RESEARCH",
-      "remaining": "60",
-      "capacity": "60",
-      "instructor": [
-        "Gabriel L. Hamer (P)"
-      ],
-      "credits": "1",
-      "course": "690",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 103"
-      ],
-      "time": [
-        "03:55 pm-04:45 pm"
-      ],
-      "crn": "11314"
-    }
-  },
-  "691": {
-    "610": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "610",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Edward L. Vargo (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "24093"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "THEORY OF RESEARCH",
+          "remaining": "60",
+          "capacity": "60",
+          "instructor": [
+            "Gabriel L. Hamer (P)"
+          ],
+          "credits": "1",
+          "course": "690",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 103"
+          ],
+          "time": [
+            "03:55 pm-04:45 pm"
+          ],
+          "crn": "11314"
+        }
+      }
     },
-    "611": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "611",
+    "691": {
       "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Michel Slotman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13741"
+      "sections": {
+        "610": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "610",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Edward L. Vargo (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "24093"
+        },
+        "611": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "611",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Michel Slotman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13741"
+        },
+        "612": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "612",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Patricia Pietrantonio (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13742"
+        },
+        "613": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "613",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Aaron M. Tarone (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13743"
+        },
+        "614": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "614",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Gabriel L. Hamer (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19148"
+        },
+        "637": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "637",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Pete Teel (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16657"
+        },
+        "616": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "616",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Gregory Sword (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15509"
+        },
+        "617": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "617",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Juliana Rangel Posada (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "21017"
+        },
+        "639": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "639",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "J Johnston (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13746"
+        },
+        "618": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "618",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Keyan Zhu Salzman (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16656"
+        },
+        "640": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "640",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "James Woolley (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13747"
+        },
+        "641": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "641",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Michael J. Brewer (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26321"
+        },
+        "620": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "620",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Hojun Song (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "24094"
+        },
+        "642": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "642",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Lloyd Wilson (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "24096"
+        },
+        "643": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "643",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Roger Gold (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13748"
+        },
+        "602": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Craig Coates (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15047"
+        },
+        "624": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "624",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Robert Coulson (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13745"
+        },
+        "646": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "646",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Kevin Heinz (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "16658"
+        },
+        "603": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Spencer Behmer (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13734"
+        },
+        "647": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "647",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "John Oswald (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13749"
+        },
+        "605": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "605",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Julio Bernal (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13735"
+        },
+        "606": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "606",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Raul Medina (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13736"
+        },
+        "607": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "607",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Micky Eubanks (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13737"
+        },
+        "608": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "608",
+          "title": "RESEARCH",
+          "remaining": "11",
+          "capacity": "11",
+          "instructor": [
+            "Jeffery Tomberlin (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13738"
+        },
+        "609": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "RESEARCH",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Cecilia Tamborindeguy (P)"
+          ],
+          "credits": "1-23",
+          "course": "691",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "13739"
+        }
+      }
     },
-    "612": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "612",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Patricia Pietrantonio (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13742"
+    "210": {
+      "title": "GLOBAL PUBLIC HEALTH ENT",
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-GLOBAL PUBLIC HEALTH ENT",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Michel Slotman (P)"
+          ],
+          "credits": "3",
+          "course": "210",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 113"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "26453"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "GLOBAL PUBLIC HEALTH ENT",
+          "remaining": "148",
+          "capacity": "148",
+          "instructor": [
+            "Michel Slotman (P)"
+          ],
+          "credits": "3",
+          "course": "210",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 113"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "13181"
+        }
+      }
     },
-    "613": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "613",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Aaron M. Tarone (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13743"
+    "631": {
+      "title": "PRNCL OF INTGRT PST MGMT",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "PRNCL OF INTGRT PST MGMT",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Raul Medina",
+            "Raul Medina (P)"
+          ],
+          "credits": "3",
+          "course": "631",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 205",
+            "HPCT 205"
+          ],
+          "time": [
+            "01:50 pm-04:40 pm",
+            "11:10 am-12:00 pm"
+          ],
+          "crn": "27100"
+        }
+      }
     },
-    "614": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "614",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Gabriel L. Hamer (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19148"
-    },
-    "637": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "637",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Pete Teel (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16657"
-    },
-    "616": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "616",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Gregory Sword (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15509"
+    "615": {
+      "title": "INSECT PHYSIOLOGY",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "INSECT PHYSIOLOGY",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Patricia Pietrantonio (P)"
+          ],
+          "credits": "3",
+          "course": "615",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 207"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "16654"
+        }
+      }
     },
     "617": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "617",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Juliana Rangel Posada (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "21017"
-    },
-    "639": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "639",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "J Johnston (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13746"
-    },
-    "618": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "618",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Keyan Zhu Salzman (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16656"
-    },
-    "640": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "640",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "James Woolley (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13747"
-    },
-    "641": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "641",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Michael J. Brewer (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26321"
-    },
-    "620": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "620",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Hojun Song (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "24094"
-    },
-    "642": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "642",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Lloyd Wilson (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "24096"
-    },
-    "643": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "643",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Roger Gold (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13748"
-    },
-    "602": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Craig Coates (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15047"
-    },
-    "624": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "624",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Robert Coulson (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13745"
-    },
-    "646": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "646",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Kevin Heinz (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "16658"
-    },
-    "603": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Spencer Behmer (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13734"
-    },
-    "647": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "647",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "John Oswald (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13749"
-    },
-    "605": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "605",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Julio Bernal (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13735"
-    },
-    "606": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "606",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Raul Medina (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13736"
-    },
-    "607": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "607",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Micky Eubanks (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13737"
-    },
-    "608": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "608",
-      "title": "RESEARCH",
-      "remaining": "11",
-      "capacity": "11",
-      "instructor": [
-        "Jeffery Tomberlin (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13738"
-    },
-    "609": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "609",
-      "title": "RESEARCH",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Cecilia Tamborindeguy (P)"
-      ],
-      "credits": "1-23",
-      "course": "691",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "13739"
-    }
-  },
-  "210": {
-    "200": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
-      "title": "HNR-GLOBAL PUBLIC HEALTH ENT",
-      "remaining": "2",
-      "capacity": "2",
-      "instructor": [
-        "Michel Slotman (P)"
-      ],
-      "credits": "3",
-      "course": "210",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 113"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "26453"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "GLOBAL PUBLIC HEALTH ENT",
-      "remaining": "148",
-      "capacity": "148",
-      "instructor": [
-        "Michel Slotman (P)"
-      ],
-      "credits": "3",
-      "course": "210",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 113"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "13181"
-    }
-  },
-  "631": {
-    "600": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
-      "title": "PRNCL OF INTGRT PST MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "Raul Medina (P)"
-      ],
-      "credits": "3",
-      "course": "631",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 205",
-        "HPCT 205"
-      ],
-      "time": [
-        "01:50 pm-04:40 pm",
-        "11:10 am-12:00 pm"
-      ],
-      "crn": "27100"
-    }
-  },
-  "615": {
-    "600": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "INSECT PHYSIOLOGY",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Patricia Pietrantonio (P)"
-      ],
-      "credits": "3",
-      "course": "615",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 207"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "16654"
-    }
-  },
-  "617": {
-    "600": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
       "title": "ACAROLOGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Pete Teel (P)",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "617",
-      "days": [
-        "TR",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 205",
-        "HPCT 205"
-      ],
-      "time": [
-        "09:35 am-10:50 am",
-        "02:20 am-05:10 am"
-      ],
-      "crn": "27099"
-    }
-  },
-  "481": {
-    "900": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "ACAROLOGY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Pete Teel (P)",
+            "Pete Teel"
+          ],
+          "credits": "4",
+          "course": "617",
+          "days": [
+            "TR",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 205",
+            "HPCT 205"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "02:20 am-05:10 am"
+          ],
+          "crn": "27099"
+        }
+      }
+    },
+    "481": {
       "title": "SEMINAR",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Adrienne L. Brundage (P)"
-      ],
-      "credits": "1",
-      "course": "481",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 123"
-      ],
-      "time": [
-        "03:55 pm-04:45 pm"
-      ],
-      "crn": "11310"
-    }
-  },
-  "482": {
-    "500": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "900": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "SEMINAR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Adrienne L. Brundage (P)"
+          ],
+          "credits": "1",
+          "course": "481",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 123"
+          ],
+          "time": [
+            "03:55 pm-04:45 pm"
+          ],
+          "crn": "11310"
+        }
+      }
+    },
+    "482": {
       "title": "OCCUP & PROFESS DEVELOP",
-      "remaining": "51",
-      "capacity": "51",
-      "instructor": [
-        "Pete Teel (P)"
-      ],
-      "credits": "2",
-      "course": "482",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102"
-      ],
-      "time": [
-        "11:10 am-12:50 pm"
-      ],
-      "crn": "11311"
-    }
-  },
-  "681": {
-    "600": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "OCCUP & PROFESS DEVELOP",
+          "remaining": "51",
+          "capacity": "51",
+          "instructor": [
+            "Pete Teel (P)"
+          ],
+          "credits": "2",
+          "course": "482",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102"
+          ],
+          "time": [
+            "11:10 am-12:50 pm"
+          ],
+          "crn": "11311"
+        }
+      }
+    },
+    "681": {
       "title": "SEMINAR",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "681",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 205"
-      ],
-      "time": [
-        "12:45 pm-01:45 pm"
-      ],
-      "crn": "11313"
-    }
-  },
-  "484": {
-    "562": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "562",
-      "title": "PROFESSIONAL INTERNSHIP: IN-AB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Craig Coates (P)"
-      ],
-      "credits": "0-4",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27098"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "SEMINAR",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "681",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 205"
+          ],
+          "time": [
+            "12:45 pm-01:45 pm"
+          ],
+          "crn": "11313"
+        }
+      }
     },
-    "502": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "484": {
       "title": "PROFESSIONAL INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Craig Coates (P)"
-      ],
-      "credits": "0-4",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27097"
-    }
-  },
-  "320": {
-    "500": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "HONEY BEE BIOLOGY",
-      "remaining": "45",
-      "capacity": "45",
-      "instructor": [
-        "Lauren A. Ward (P), Juliana Rangel Posada"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102"
-      ],
-      "time": [
-        "05:30 pm-06:45 pm"
-      ],
-      "crn": "19888"
+      "sections": {
+        "562": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "562",
+          "title": "PROFESSIONAL INTERNSHIP: IN-AB",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Craig Coates (P)"
+          ],
+          "credits": "0-4",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27098"
+        },
+        "502": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "PROFESSIONAL INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Craig Coates (P)"
+          ],
+          "credits": "0-4",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27097"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
+    "320": {
       "title": "HONEY BEE BIOLOGY",
-      "remaining": "200",
-      "capacity": "200",
-      "instructor": [
-        "Lauren A. Ward (P), Juliana Rangel Posada"
-      ],
-      "credits": "3",
-      "course": "320",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "19641"
-    }
-  },
-  "201": {
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "HONEY BEE BIOLOGY",
+          "remaining": "45",
+          "capacity": "45",
+          "instructor": [
+            "Lauren A. Ward (P), Juliana Rangel Posada"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "19888"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "HONEY BEE BIOLOGY",
+          "remaining": "200",
+          "capacity": "200",
+          "instructor": [
+            "Lauren A. Ward (P), Juliana Rangel Posada"
+          ],
+          "credits": "3",
+          "course": "320",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "19641"
+        }
+      }
+    },
     "201": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-GENERAL ENTOMOLOGY",
-      "remaining": "3",
-      "capacity": "3",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "01:50 pm-03:40 pm"
-      ],
-      "crn": "19131"
-    },
-    "202": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "202",
-      "title": "HNR-GENERAL ENTOMOLOGY",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "12:45 pm-02:35 pm"
-      ],
-      "crn": "20126"
-    },
-    "203": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "203",
-      "title": "HNR-GENERAL ENTOMOLOGY",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "21003"
-    },
-    "204": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "204",
-      "title": "HNR-GENERAL ENTOMOLOGY",
-      "remaining": "1",
-      "capacity": "1",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "01:50 pm-03:40 pm"
-      ],
-      "crn": "21004"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
       "title": "GENERAL ENTOMOLOGY",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "01:50 pm-03:40 pm"
-      ],
-      "crn": "11288"
+      "sections": {
+        "201": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-GENERAL ENTOMOLOGY",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "01:50 pm-03:40 pm"
+          ],
+          "crn": "19131"
+        },
+        "202": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "202",
+          "title": "HNR-GENERAL ENTOMOLOGY",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "12:45 pm-02:35 pm"
+          ],
+          "crn": "20126"
+        },
+        "203": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "203",
+          "title": "HNR-GENERAL ENTOMOLOGY",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "21003"
+        },
+        "204": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "204",
+          "title": "HNR-GENERAL ENTOMOLOGY",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "01:50 pm-03:40 pm"
+          ],
+          "crn": "21004"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "GENERAL ENTOMOLOGY",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "01:50 pm-03:40 pm"
+          ],
+          "crn": "11288"
+        },
+        "205": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "205",
+          "title": "HNR-GENERAL ENTOMOLOGY",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "12:45 pm-02:35 pm"
+          ],
+          "crn": "21005"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "GENERAL ENTOMOLOGY",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "12:45 pm-02:35 pm"
+          ],
+          "crn": "11289"
+        },
+        "206": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "206",
+          "title": "HNR-GENERAL ENTOMOLOGY",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "21006"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "GENERAL ENTOMOLOGY",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "11290"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "GENERAL ENTOMOLOGY",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "01:50 pm-03:40 pm"
+          ],
+          "crn": "11291"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "505",
+          "title": "GENERAL ENTOMOLOGY",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "12:45 pm-02:35 pm"
+          ],
+          "crn": "11292"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "506",
+          "title": "GENERAL ENTOMOLOGY",
+          "remaining": "19",
+          "capacity": "19",
+          "instructor": [
+            "Raul Medina (P)",
+            "Raul Medina"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101",
+            "HPCT 208"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm",
+            "03:00 pm-04:50 pm"
+          ],
+          "crn": "11293"
+        }
+      }
     },
-    "205": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "205",
-      "title": "HNR-GENERAL ENTOMOLOGY",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "12:45 pm-02:35 pm"
-      ],
-      "crn": "21005"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "GENERAL ENTOMOLOGY",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "12:45 pm-02:35 pm"
-      ],
-      "crn": "11289"
-    },
-    "206": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "206",
-      "title": "HNR-GENERAL ENTOMOLOGY",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "21006"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "GENERAL ENTOMOLOGY",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "11290"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "GENERAL ENTOMOLOGY",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "01:50 pm-03:40 pm"
-      ],
-      "crn": "11291"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "505",
-      "title": "GENERAL ENTOMOLOGY",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "12:45 pm-02:35 pm"
-      ],
-      "crn": "11292"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "506",
-      "title": "GENERAL ENTOMOLOGY",
-      "remaining": "19",
-      "capacity": "19",
-      "instructor": [
-        "Raul Medina (P)",
-        "Raul Medina"
-      ],
-      "credits": "3",
-      "course": "201",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101",
-        "HPCT 208"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm",
-        "03:00 pm-04:50 pm"
-      ],
-      "crn": "11293"
-    }
-  },
-  "322": {
-    "200": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
-      "title": "HNR-INSECTS IN HUMAN SOCIETY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jeffery Tomberlin (P)"
-      ],
-      "credits": "3",
-      "course": "322",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "27096"
-    },
-    "500": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "322": {
       "title": "INSECTS IN HUMAN SOCIETY",
-      "remaining": "198",
-      "capacity": "198",
-      "instructor": [
-        "Jeffery Tomberlin (P)"
-      ],
-      "credits": "3",
-      "course": "322",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101"
-      ],
-      "time": [
-        "10:20 am-11:10 am"
-      ],
-      "crn": "11304"
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-INSECTS IN HUMAN SOCIETY",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Jeffery Tomberlin (P)"
+          ],
+          "credits": "3",
+          "course": "322",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "27096"
+        },
+        "500": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INSECTS IN HUMAN SOCIETY",
+          "remaining": "192",
+          "capacity": "192",
+          "instructor": [
+            "Jeffery Tomberlin (P)"
+          ],
+          "credits": "3",
+          "course": "322",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "11304"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "INSECTS IN HUMAN SOCIETY",
+          "remaining": "185",
+          "capacity": "185",
+          "instructor": [
+            "Jeffery Tomberlin (P)"
+          ],
+          "credits": "3",
+          "course": "322",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "19138"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "INSECTS IN HUMAN SOCIETY",
-      "remaining": "185",
-      "capacity": "185",
-      "instructor": [
-        "Jeffery Tomberlin (P)"
-      ],
-      "credits": "3",
-      "course": "322",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "19138"
-    }
-  },
-  "401": {
-    "500": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+    "401": {
       "title": "PRINCL OF INTGRT PEST MGMT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "401",
-      "days": [
-        "M",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 205",
-        "HPCT 205"
-      ],
-      "time": [
-        "01:50 pm-04:40 pm",
-        "11:10 am-12:00 pm"
-      ],
-      "crn": "27785"
-    }
-  },
-  "423": {
-    "501": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "MEDICAL ENTOMOLOGY",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Adrienne L. Brundage (P)",
-        "Adrienne L. Brundage"
-      ],
-      "credits": "3",
-      "course": "423",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 117",
-        "HPCT 108"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "04:00 pm-06:50 pm"
-      ],
-      "crn": "11306"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "PRINCL OF INTGRT PEST MGMT",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Raul Medina",
+            "Raul Medina (P)"
+          ],
+          "credits": "3",
+          "course": "401",
+          "days": [
+            "M",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 205",
+            "HPCT 205"
+          ],
+          "time": [
+            "01:50 pm-04:40 pm",
+            "11:10 am-12:00 pm"
+          ],
+          "crn": "27785"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
+    "423": {
       "title": "MEDICAL ENTOMOLOGY",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Adrienne L. Brundage (P)",
-        "Adrienne L. Brundage"
-      ],
-      "credits": "3",
-      "course": "423",
-      "days": [
-        "MW",
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 117",
-        "HPCT 108"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:55 pm-06:45 pm"
-      ],
-      "crn": "11307"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "MEDICAL ENTOMOLOGY",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Adrienne L. Brundage (P)",
+            "Adrienne L. Brundage"
+          ],
+          "credits": "3",
+          "course": "423",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 117",
+            "HPCT 108"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "04:00 pm-06:50 pm"
+          ],
+          "crn": "11306"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "MEDICAL ENTOMOLOGY",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Adrienne L. Brundage (P)",
+            "Adrienne L. Brundage"
+          ],
+          "credits": "3",
+          "course": "423",
+          "days": [
+            "MW",
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 117",
+            "HPCT 108"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:55 pm-06:45 pm"
+          ],
+          "crn": "11307"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "MEDICAL ENTOMOLOGY",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Adrienne L. Brundage (P)",
+            "Adrienne L. Brundage"
+          ],
+          "credits": "3",
+          "course": "423",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 117",
+            "HPCT 108"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "04:00 pm-06:50 pm"
+          ],
+          "crn": "21015"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "504",
+          "title": "MEDICAL ENTOMOLOGY",
+          "remaining": "24",
+          "capacity": "24",
+          "instructor": [
+            "Adrienne L. Brundage (P)",
+            "Adrienne L. Brundage"
+          ],
+          "credits": "3",
+          "course": "423",
+          "days": [
+            "MW",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "KLCT 117",
+            "HPCT 108"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:55 pm-06:45 pm"
+          ],
+          "crn": "21016"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "MEDICAL ENTOMOLOGY",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Adrienne L. Brundage (P)",
-        "Adrienne L. Brundage"
-      ],
-      "credits": "3",
-      "course": "423",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 117",
-        "HPCT 108"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "04:00 pm-06:50 pm"
-      ],
-      "crn": "21015"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "504",
-      "title": "MEDICAL ENTOMOLOGY",
-      "remaining": "24",
-      "capacity": "24",
-      "instructor": [
-        "Adrienne L. Brundage (P)",
-        "Adrienne L. Brundage"
-      ],
-      "credits": "3",
-      "course": "423",
-      "days": [
-        "MW",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "KLCT 117",
-        "HPCT 108"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:55 pm-06:45 pm"
-      ],
-      "crn": "21016"
-    }
-  },
-  "425": {
-    "500": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "425": {
       "title": "DISEASE ECOLOGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Micky Eubanks (P)"
-      ],
-      "credits": "3",
-      "course": "425",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "19144"
-    }
-  },
-  "305": {
-    "200": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "200",
-      "title": "HNR-EVOL INSECT STRUCTURE",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "John Oswald (P)",
-        "John Oswald (P)"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102",
-        "HPCT 210"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "01:50 pm-04:40 pm"
-      ],
-      "crn": "25570"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DISEASE ECOLOGY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Micky Eubanks (P)"
+          ],
+          "credits": "3",
+          "course": "425",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "19144"
+        }
+      }
     },
-    "501": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "305": {
       "title": "EVOL INSECT STRUCTURE",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "John Oswald (P)",
-        "John Oswald"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102",
-        "HPCT 210"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "01:50 pm-04:40 pm"
-      ],
-      "crn": "16625"
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-EVOL INSECT STRUCTURE",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "John Oswald (P)",
+            "John Oswald (P)"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102",
+            "HPCT 210"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "01:50 pm-04:40 pm"
+          ],
+          "crn": "25570"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "EVOL INSECT STRUCTURE",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "John Oswald (P)",
+            "John Oswald"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102",
+            "HPCT 210"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "01:50 pm-04:40 pm"
+          ],
+          "crn": "16625"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "EVOL INSECT STRUCTURE",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "John Oswald (P)",
+            "John Oswald"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "MW",
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102",
+            "HPCT 210"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "05:00 pm-07:50 pm"
+          ],
+          "crn": "16632"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "EVOL INSECT STRUCTURE",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "John Oswald (P)",
-        "John Oswald"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "MW",
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102",
-        "HPCT 210"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "05:00 pm-07:50 pm"
-      ],
-      "crn": "16632"
-    }
-  },
-  "306": {
-    "201": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-INSECT PHYSIOLOGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Spencer Behmer (P)",
-        "Spencer Behmer"
-      ],
-      "credits": "3",
-      "course": "306",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102",
-        "HPCT 207"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "01:50 pm-04:40 pm"
-      ],
-      "crn": "25885"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "306": {
       "title": "INSECT PHYSIOLOGY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Spencer Behmer (P)",
-        "Spencer Behmer"
-      ],
-      "credits": "3",
-      "course": "306",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102",
-        "HPCT 207"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "01:50 pm-04:40 pm"
-      ],
-      "crn": "15750"
+      "sections": {
+        "201": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-INSECT PHYSIOLOGY",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Spencer Behmer (P)",
+            "Spencer Behmer"
+          ],
+          "credits": "3",
+          "course": "306",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102",
+            "HPCT 207"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "01:50 pm-04:40 pm"
+          ],
+          "crn": "25885"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "INSECT PHYSIOLOGY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Spencer Behmer (P)",
+            "Spencer Behmer"
+          ],
+          "credits": "3",
+          "course": "306",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102",
+            "HPCT 207"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "01:50 pm-04:40 pm"
+          ],
+          "crn": "15750"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "INSECT PHYSIOLOGY",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Spencer Behmer (P)",
+            "Spencer Behmer"
+          ],
+          "credits": "3",
+          "course": "306",
+          "days": [
+            "MW",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102",
+            "HPCT 207"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "05:00 pm-07:50 pm"
+          ],
+          "crn": "17169"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "INSECT PHYSIOLOGY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Spencer Behmer (P)",
-        "Spencer Behmer"
-      ],
-      "credits": "3",
-      "course": "306",
-      "days": [
-        "MW",
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102",
-        "HPCT 207"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "05:00 pm-07:50 pm"
-      ],
-      "crn": "17169"
-    }
-  },
-  "625": {
-    "600": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "600",
+    "625": {
       "title": "LANDSCAPE ECOLOGY",
-      "remaining": "10",
-      "capacity": "10",
-      "instructor": [
-        "Robert Coulson (P)",
-        "Robert Coulson"
-      ],
-      "credits": "3",
-      "course": "625",
-      "days": [
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 205",
-        "HPCT 205"
-      ],
-      "time": [
-        "10:20 am-11:10 am",
-        "09:00 am-11:00 am"
-      ],
-      "crn": "11312"
-    }
-  },
-  "208": {
-    "201": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-VETERINARY ENTOMOLOGY",
-      "remaining": "4",
-      "capacity": "4",
-      "instructor": [
-        "Adrienne L. Brundage (P)"
-      ],
-      "credits": "2",
-      "course": "208",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "11294"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "VETERINARY ENTOMOLOGY",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Adrienne L. Brundage (P)"
-      ],
-      "credits": "2",
-      "course": "208",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 101"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "11295"
-    },
-    "700": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "VETERINARY ENTOMOLOGY",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Adrienne L. Brundage (P)"
-      ],
-      "credits": "2",
-      "course": "208",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "27095"
-    }
-  },
-  "428": {
-    "500": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
-      "title": "INSECT BIOTECHNOLOGY",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Keyan Zhu Salzman (P)"
-      ],
-      "credits": "3",
-      "course": "428",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 102"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "11308"
-    }
-  },
-  "209": {
-    "210": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "210",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "10:20 am-12:10 pm"
-      ],
-      "crn": "27756"
-    },
-    "211": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "211",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "12:40 pm-02:30 pm"
-      ],
-      "crn": "27757"
-    },
-    "212": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "212",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "27758"
-    },
-    "213": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "213",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "08:30 am-10:20 am"
-      ],
-      "crn": "27759"
-    },
-    "510": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "510",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "10:20 am-12:10 pm"
-      ],
-      "crn": "27772"
-    },
-    "214": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "214",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "11:10 am-01:00 pm"
-      ],
-      "crn": "27760"
-    },
-    "511": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "511",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "12:40 pm-02:30 pm"
-      ],
-      "crn": "27773"
-    },
-    "215": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "215",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "01:20 pm-03:10 pm"
-      ],
-      "crn": "27761"
-    },
-    "512": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "512",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "27774"
-    },
-    "216": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "216",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "27762"
-    },
-    "513": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "513",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "08:30 am-10:20 am"
-      ],
-      "crn": "27775"
-    },
-    "514": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "514",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "11:10 am-01:00 pm"
-      ],
-      "crn": "27776"
-    },
-    "515": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "515",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "01:20 pm-03:10 pm"
-      ],
-      "crn": "27777"
-    },
-    "516": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "516",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "27778"
-    },
-    "201": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "201",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "08:00 am-09:50 am"
-      ],
-      "crn": "27780"
-    },
-    "202": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "202",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "10:20 am-12:10 pm"
-      ],
-      "crn": "27781"
-    },
-    "203": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "203",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "12:40 pm-02:30 pm"
-      ],
-      "crn": "27782"
-    },
-    "204": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "204",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "27783"
-    },
-    "501": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "08:00 am-09:50 am"
-      ],
-      "crn": "27763"
-    },
-    "205": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "205",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "08:30 am-10:20 am"
-      ],
-      "crn": "27784"
-    },
-    "502": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "10:20 am-12:10 pm"
-      ],
-      "crn": "27764"
-    },
-    "206": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "206",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "11:10 am-01:00 pm"
-      ],
-      "crn": "27734"
-    },
-    "503": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "12:40 pm-02:30 pm"
-      ],
-      "crn": "27765"
-    },
-    "207": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "207",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "01:20 pm-03:10 pm"
-      ],
-      "crn": "27741"
-    },
-    "504": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "27766"
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "600",
+          "title": "LANDSCAPE ECOLOGY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Robert Coulson (P)",
+            "Robert Coulson"
+          ],
+          "credits": "3",
+          "course": "625",
+          "days": [
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 205",
+            "HPCT 205"
+          ],
+          "time": [
+            "10:20 am-11:10 am",
+            "09:00 am-11:00 am"
+          ],
+          "crn": "11312"
+        }
+      }
     },
     "208": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "208",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "27746"
+      "title": "VETERINARY ENTOMOLOGY",
+      "sections": {
+        "201": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-VETERINARY ENTOMOLOGY",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Adrienne L. Brundage (P)"
+          ],
+          "credits": "2",
+          "course": "208",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "11294"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "VETERINARY ENTOMOLOGY",
+          "remaining": "175",
+          "capacity": "175",
+          "instructor": [
+            "Adrienne L. Brundage (P)"
+          ],
+          "credits": "2",
+          "course": "208",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 101"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "11295"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "VETERINARY ENTOMOLOGY",
+          "remaining": "250",
+          "capacity": "250",
+          "instructor": [
+            "Adrienne L. Brundage (P)"
+          ],
+          "credits": "2",
+          "course": "208",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "27095"
+        }
+      }
     },
-    "505": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "08:30 am-10:20 am"
-      ],
-      "crn": "27767"
+    "428": {
+      "title": "INSECT BIOTECHNOLOGY",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INSECT BIOTECHNOLOGY",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Keyan Zhu Salzman (P)"
+          ],
+          "credits": "3",
+          "course": "428",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 102"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "11308"
+        }
+      }
     },
     "209": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "209",
-      "title": "HNR-VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "08:00 am-09:50 am"
-      ],
-      "crn": "27751"
-    },
-    "506": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
       "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "11:10 am-01:00 pm"
-      ],
-      "crn": "27768"
+      "sections": {
+        "210": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "210",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "10:20 am-12:10 pm"
+          ],
+          "crn": "27756"
+        },
+        "211": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "211",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "12:40 pm-02:30 pm"
+          ],
+          "crn": "27757"
+        },
+        "212": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "212",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "27758"
+        },
+        "213": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "213",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "08:30 am-10:20 am"
+          ],
+          "crn": "27759"
+        },
+        "510": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "510",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "10:20 am-12:10 pm"
+          ],
+          "crn": "27772"
+        },
+        "214": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "214",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "11:10 am-01:00 pm"
+          ],
+          "crn": "27760"
+        },
+        "511": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "511",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "12:40 pm-02:30 pm"
+          ],
+          "crn": "27773"
+        },
+        "215": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "215",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "01:20 pm-03:10 pm"
+          ],
+          "crn": "27761"
+        },
+        "512": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "512",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "27774"
+        },
+        "216": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "216",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "27762"
+        },
+        "513": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "513",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "08:30 am-10:20 am"
+          ],
+          "crn": "27775"
+        },
+        "514": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "514",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "11:10 am-01:00 pm"
+          ],
+          "crn": "27776"
+        },
+        "515": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "515",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "01:20 pm-03:10 pm"
+          ],
+          "crn": "27777"
+        },
+        "516": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "516",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "27778"
+        },
+        "201": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "201",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "08:00 am-09:50 am"
+          ],
+          "crn": "27780"
+        },
+        "202": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "202",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "10:20 am-12:10 pm"
+          ],
+          "crn": "27781"
+        },
+        "203": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "203",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "12:40 pm-02:30 pm"
+          ],
+          "crn": "27782"
+        },
+        "204": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "204",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "27783"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "08:00 am-09:50 am"
+          ],
+          "crn": "27763"
+        },
+        "205": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "205",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "08:30 am-10:20 am"
+          ],
+          "crn": "27784"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "10:20 am-12:10 pm"
+          ],
+          "crn": "27764"
+        },
+        "206": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "206",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "11:10 am-01:00 pm"
+          ],
+          "crn": "27734"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "12:40 pm-02:30 pm"
+          ],
+          "crn": "27765"
+        },
+        "207": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "207",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "01:20 pm-03:10 pm"
+          ],
+          "crn": "27741"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "27766"
+        },
+        "208": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "208",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "27746"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "08:30 am-10:20 am"
+          ],
+          "crn": "27767"
+        },
+        "209": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "209",
+          "title": "HNR-VETERINARY ENTOMOLOGY LAB",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "08:00 am-09:50 am"
+          ],
+          "crn": "27751"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "11:10 am-01:00 pm"
+          ],
+          "crn": "27768"
+        },
+        "507": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "01:20 pm-03:10 pm"
+          ],
+          "crn": "27769"
+        },
+        "508": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "07:00 pm-08:50 pm"
+          ],
+          "crn": "27770"
+        },
+        "509": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "VETERINARY ENTOMOLOGY LAB",
+          "remaining": "23",
+          "capacity": "23",
+          "instructor": [
+            "Gabriel L. Hamer (P), Adrienne L. Brundage"
+          ],
+          "credits": "1",
+          "course": "209",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 108"
+          ],
+          "time": [
+            "08:00 am-09:50 am"
+          ],
+          "crn": "27771"
+        }
+      }
     },
-    "507": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "01:20 pm-03:10 pm"
-      ],
-      "crn": "27769"
-    },
-    "508": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "07:00 pm-08:50 pm"
-      ],
-      "crn": "27770"
-    },
-    "509": {
-      "select": "C",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "509",
-      "title": "VETERINARY ENTOMOLOGY LAB",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "209",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 108"
-      ],
-      "time": [
-        "08:00 am-09:50 am"
-      ],
-      "crn": "27771"
-    }
-  },
-  "429": {
-    "500": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "429": {
       "title": "INSECT BIOTECHNOLOGY LAB",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Keyan Zhu Salzman (P)"
-      ],
-      "credits": "1",
-      "course": "429",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 207"
-      ],
-      "time": [
-        "12:45 pm-03:35 pm"
-      ],
-      "crn": "11309"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INSECT BIOTECHNOLOGY LAB",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Keyan Zhu Salzman (P)"
+          ],
+          "credits": "1",
+          "course": "429",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 207"
+          ],
+          "time": [
+            "12:45 pm-03:35 pm"
+          ],
+          "crn": "11309"
+        }
+      }
+    },
+    "628": {
+      "title": "ARTH GENOMES & GENE EXPR",
+      "sections": {
+        "600": {
+          "select": "SR",
+          "subject": "ENTO",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "ARTH GENOMES & GENE EXPR",
+          "remaining": "15",
+          "capacity": "15",
+          "instructor": [
+            "Craig Coates (P)"
+          ],
+          "credits": "3",
+          "course": "628",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HPCT 207"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "26009"
+        }
+      }
     }
   },
-  "628": {
-    "600": {
-      "select": "SR",
-      "subject": "ENTO",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "600",
-      "title": "ARTH GENOMES & GENE EXPR",
-      "remaining": "15",
-      "capacity": "15",
-      "instructor": [
-        "Craig Coates (P)"
-      ],
-      "credits": "3",
-      "course": "628",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "HPCT 207"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "26009"
-    }
-  }
+  "title": "ENTO - Entomology",
+  "updated": "Thu Apr 07 01:15:46 CDT 2016"
 }

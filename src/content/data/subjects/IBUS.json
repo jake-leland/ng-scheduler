@@ -1,606 +1,646 @@
 {
-  "484": {
-    "500": {
-      "select": "C",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+  "courses": {
+    "484": {
       "title": "INTERNTL BUSN INTERNSHIP",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Julian Gaspar (P)"
-      ],
-      "credits": "3",
-      "course": "484",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18745"
-    }
-  },
-  "452": {
-    "931": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "931",
-      "title": "INTERNATIONAL MGMT",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Daria Panina (P)"
-      ],
-      "credits": "3",
-      "course": "452",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 490"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "17012"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTERNTL BUSN INTERNSHIP",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Julian Gaspar (P)"
+          ],
+          "credits": "3",
+          "course": "484",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18745"
+        }
+      }
     },
-    "932": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "932",
+    "452": {
       "title": "INTERNATIONAL MGMT",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Daria Panina (P)"
-      ],
-      "credits": "3",
-      "course": "452",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 490"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "21702"
-    }
-  },
-  "485": {
-    "550": {
-      "select": "C",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27256"
+      "sections": {
+        "931": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "931",
+          "title": "INTERNATIONAL MGMT",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Daria Panina (P)"
+          ],
+          "credits": "3",
+          "course": "452",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 490"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "17012"
+        },
+        "932": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "932",
+          "title": "INTERNATIONAL MGMT",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Daria Panina (P)"
+          ],
+          "credits": "3",
+          "course": "452",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 490"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "21702"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Julian Gaspar (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18794"
-    }
-  },
-  "453": {
-    "500": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27256"
+        },
+        "501": {
+          "select": "C",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Julian Gaspar (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18794"
+        }
+      }
+    },
+    "453": {
       "title": "EMERGING ECONOMIES: BRIC",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Daria Panina (P)"
-      ],
-      "credits": "3",
-      "course": "453",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 107"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "23914"
-    }
-  },
-  "301": {
-    "550": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "EMERGING ECONOMIES: BRIC",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Daria Panina (P)"
+          ],
+          "credits": "3",
+          "course": "453",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 107"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "23914"
+        }
+      }
+    },
+    "301": {
       "title": "BUSINESS STUDY ABROAD",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-18",
-      "course": "301",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "28413"
-    }
-  },
-  "401": {
-    "501": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "GLOBAL MARKETING",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Larry Gresham (P)"
-      ],
-      "credits": "3",
-      "course": "401",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 154"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "11564"
+      "sections": {
+        "550": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "BUSINESS STUDY ABROAD",
+          "remaining": "21",
+          "capacity": "21",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-18",
+          "course": "301",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28413"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "401": {
       "title": "GLOBAL MARKETING",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Larry Gresham (P)"
-      ],
-      "credits": "3",
-      "course": "401",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 154"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "11565"
-    }
-  },
-  "445": {
-    "501": {
-      "select": "C",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "GLOBAL MARKETING",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Larry Gresham (P)"
+          ],
+          "credits": "3",
+          "course": "401",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 154"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "11564"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "GLOBAL MARKETING",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Larry Gresham (P)"
+          ],
+          "credits": "3",
+          "course": "401",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 154"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "11565"
+        }
+      }
+    },
+    "445": {
       "title": "INTERNATIONAL ACCT",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "445",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27851"
-    }
-  },
-  "446": {
-    "501": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "INTERNATIONAL FINANCE",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Shradha Bindal (P)"
-      ],
-      "credits": "3",
-      "course": "446",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "11566"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERNATIONAL ACCT",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "445",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27851"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "446": {
       "title": "INTERNATIONAL FINANCE",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Le Kang (P)"
-      ],
-      "credits": "3",
-      "course": "446",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "11567"
-    }
-  },
-  "645": {
-    "601": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
-      "title": "INTERNATIONAL FINANCE",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-3",
-      "course": "645",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "25151"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERNATIONAL FINANCE",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Shradha Bindal (P)"
+          ],
+          "credits": "3",
+          "course": "446",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "11566"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTERNATIONAL FINANCE",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Le Kang (P)"
+          ],
+          "credits": "3",
+          "course": "446",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "11567"
+        }
+      }
     },
-    "602": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "602",
+    "645": {
       "title": "INTERNATIONAL FINANCE",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-3",
-      "course": "645",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "25152"
-    }
-  },
-  "646": {
-    "601": {
-      "select": "C",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "601",
+      "sections": {
+        "601": {
+          "select": "C",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "INTERNATIONAL FINANCE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-3",
+          "course": "645",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "25151"
+        },
+        "602": {
+          "select": "C",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "INTERNATIONAL FINANCE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-3",
+          "course": "645",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "25152"
+        }
+      }
+    },
+    "646": {
       "title": "INTERNATIONAL ACCOUNTING",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "646",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "27258"
-    }
-  },
-  "679": {
-    "603": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "603",
+      "sections": {
+        "601": {
+          "select": "C",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "INTERNATIONAL ACCOUNTING",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "646",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "27258"
+        }
+      }
+    },
+    "679": {
       "title": "INTERNTNL BUS POLICY",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Michael W. Pustay (P)"
-      ],
-      "credits": "3",
-      "course": "679",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 156"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "22236"
+      "sections": {
+        "603": {
+          "select": "C",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "603",
+          "title": "INTERNTNL BUS POLICY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Michael W. Pustay (P)"
+          ],
+          "credits": "3",
+          "course": "679",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 156"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "22236"
+        }
+      }
+    },
+    "450": {
+      "title": "INTERNATL ENVIR OF BUS",
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-INTERNATL ENVIR OF BUS",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Michael W. Pustay (P)"
+          ],
+          "credits": "3",
+          "course": "450",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 156"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "23909"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTERNATL ENVIR OF BUS",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Vanita Mahajan (P)"
+          ],
+          "credits": "3",
+          "course": "450",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 181"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "11568"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTERNATL ENVIR OF BUS",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Vanita Mahajan (P)"
+          ],
+          "credits": "3",
+          "course": "450",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 181"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "11569"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "INTERNATL ENVIR OF BUS",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Vanita Mahajan (P)"
+          ],
+          "credits": "3",
+          "course": "450",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 107"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "11570"
+        }
+      }
     }
   },
-  "450": {
-    "200": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "200",
-      "title": "HNR-INTERNATL ENVIR OF BUS",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Michael W. Pustay (P)"
-      ],
-      "credits": "3",
-      "course": "450",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 156"
-      ],
-      "time": [
-        "02:20 pm-03:35 pm"
-      ],
-      "crn": "23909"
-    },
-    "501": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "INTERNATL ENVIR OF BUS",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Vanita Mahajan (P)"
-      ],
-      "credits": "3",
-      "course": "450",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 181"
-      ],
-      "time": [
-        "08:00 am-09:15 am"
-      ],
-      "crn": "11568"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "INTERNATL ENVIR OF BUS",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Vanita Mahajan (P)"
-      ],
-      "credits": "3",
-      "course": "450",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 181"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "11569"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "IBUS",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "INTERNATL ENVIR OF BUS",
-      "remaining": "5",
-      "capacity": "5",
-      "instructor": [
-        "Vanita Mahajan (P)"
-      ],
-      "credits": "3",
-      "course": "450",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WCBA 107"
-      ],
-      "time": [
-        "12:45 pm-02:00 pm"
-      ],
-      "crn": "11570"
-    }
-  }
+  "title": "IBUS - International Business",
+  "updated": "Thu Apr 07 01:18:06 CDT 2016"
 }

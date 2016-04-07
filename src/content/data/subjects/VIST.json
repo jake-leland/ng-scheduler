@@ -1,1629 +1,1687 @@
 {
-  "270": {
-    "501": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+  "courses": {
+    "270": {
       "title": "COMPUTING FOR VISUAL I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Michael L. Ringham (P)"
-      ],
-      "credits": "3",
-      "course": "270",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307"
-      ],
-      "time": [
-        "11:10 am-12:25 pm"
-      ],
-      "crn": "13353"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "COMPUTING FOR VISUAL I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Michael L. Ringham (P)"
+          ],
+          "credits": "3",
+          "course": "270",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307"
+          ],
+          "time": [
+            "11:10 am-12:25 pm"
+          ],
+          "crn": "13353"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "COMPUTING FOR VISUAL I",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Michael L. Ringham (P)"
+          ],
+          "credits": "3",
+          "course": "270",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307"
+          ],
+          "time": [
+            "11:30 am-12:20 pm"
+          ],
+          "crn": "13922"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "COMPUTING FOR VISUAL I",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Michael L. Ringham (P)"
-      ],
-      "credits": "3",
-      "course": "270",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307"
-      ],
-      "time": [
-        "11:30 am-12:20 pm"
-      ],
-      "crn": "13922"
-    }
-  },
-  "271": {
-    "501": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+    "271": {
       "title": "COMPUTING FOR VISUAL II",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Ann McNamara (P)"
-      ],
-      "credits": "3",
-      "course": "271",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm"
-      ],
-      "crn": "22394"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "COMPUTING FOR VISUAL II",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Ann McNamara (P)"
+          ],
+          "credits": "3",
+          "course": "271",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm"
+          ],
+          "crn": "22394"
+        },
+        "502": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "COMPUTING FOR VISUAL II",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "271",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "26894"
+        }
+      }
     },
-    "502": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "COMPUTING FOR VISUAL II",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "271",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307"
-      ],
-      "time": [
-        "03:55 pm-05:10 pm"
-      ],
-      "crn": "26894"
-    }
-  },
-  "370": {
-    "500": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "370": {
       "title": "INTERACT VIRTUAL ENVIRON",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "370",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 107B"
-      ],
-      "time": [
-        "12:40 pm-01:30 pm"
-      ],
-      "crn": "27922"
-    }
-  },
-  "491": {
-    "500": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "INTERACT VIRTUAL ENVIRON",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "370",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 107B"
+          ],
+          "time": [
+            "12:40 pm-01:30 pm"
+          ],
+          "crn": "27922"
+        }
+      }
+    },
+    "491": {
       "title": "RESEARCH",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jinsil Seo (P)"
-      ],
-      "credits": "1-4",
-      "course": "491",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26347"
-    }
-  },
-  "284": {
-    "501": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "VISUALIZATION TECHNIQUES",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "284",
-      "days": [
-        "M"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307"
-      ],
-      "time": [
-        "04:10 pm-05:50 pm"
-      ],
-      "crn": "12829"
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jinsil Seo (P)"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26347"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
+    "284": {
       "title": "VISUALIZATION TECHNIQUES",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "284",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307"
-      ],
-      "time": [
-        "05:30 pm-07:10 pm"
-      ],
-      "crn": "12830"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "VISUALIZATION TECHNIQUES",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "284",
+          "days": [
+            "M"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307"
+          ],
+          "time": [
+            "04:10 pm-05:50 pm"
+          ],
+          "crn": "12829"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "VISUALIZATION TECHNIQUES",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "284",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307"
+          ],
+          "time": [
+            "05:30 pm-07:10 pm"
+          ],
+          "crn": "12830"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "VISUALIZATION TECHNIQUES",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "284",
+          "days": [
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307"
+          ],
+          "time": [
+            "04:10 pm-05:50 pm"
+          ],
+          "crn": "13377"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "VISUALIZATION TECHNIQUES",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "284",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307"
+          ],
+          "time": [
+            "05:30 pm-07:10 pm"
+          ],
+          "crn": "21060"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "VISUALIZATION TECHNIQUES",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "284",
+          "days": [
+            "T"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 205"
+          ],
+          "time": [
+            "12:45 pm-02:25 pm"
+          ],
+          "crn": "21788"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "VISUALIZATION TECHNIQUES",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Morgan M. Jenks (P)"
+          ],
+          "credits": "1",
+          "course": "284",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 205"
+          ],
+          "time": [
+            "12:45 pm-02:25 pm"
+          ],
+          "crn": "21789"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "VISUALIZATION TECHNIQUES",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "284",
-      "days": [
-        "W"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307"
-      ],
-      "time": [
-        "04:10 pm-05:50 pm"
-      ],
-      "crn": "13377"
+    "494": {
+      "title": "INTERNSHIP",
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "INTERNSHIP: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Sherman S. Finch (P)"
+          ],
+          "credits": "6",
+          "course": "494",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "17837"
+        }
+      }
     },
-    "504": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "VISUALIZATION TECHNIQUES",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "284",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307"
-      ],
-      "time": [
-        "05:30 pm-07:10 pm"
-      ],
-      "crn": "21060"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "VISUALIZATION TECHNIQUES",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1",
-      "course": "284",
-      "days": [
-        "T"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 205"
-      ],
-      "time": [
-        "12:45 pm-02:25 pm"
-      ],
-      "crn": "21788"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "VISUALIZATION TECHNIQUES",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Morgan M. Jenks (P)"
-      ],
-      "credits": "1",
-      "course": "284",
-      "days": [
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 205"
-      ],
-      "time": [
-        "12:45 pm-02:25 pm"
-      ],
-      "crn": "21789"
-    }
-  },
-  "494": {
-    "550": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "INTERNSHIP: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Sherman S. Finch (P)"
-      ],
-      "credits": "6",
-      "course": "494",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "17837"
-    }
-  },
-  "375": {
-    "901": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "901",
+    "375": {
       "title": "FOUNDTN OF VISUALIZATION",
-      "remaining": "35",
-      "capacity": "35",
-      "instructor": [
-        "Frederic Parke (P)"
-      ],
-      "credits": "3",
-      "course": "375",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 207"
-      ],
-      "time": [
-        "04:10 pm-05:25 pm"
-      ],
-      "crn": "13056"
-    }
-  },
-  "441": {
-    "500": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "901": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "901",
+          "title": "FOUNDTN OF VISUALIZATION",
+          "remaining": "35",
+          "capacity": "35",
+          "instructor": [
+            "Frederic Parke (P)"
+          ],
+          "credits": "3",
+          "course": "375",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 207"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "13056"
+        }
+      }
+    },
+    "441": {
       "title": "SCI & TECH DEV VIS ARTS",
-      "remaining": "40",
-      "capacity": "40",
-      "instructor": [
-        "Dawna L. Schuld (P)"
-      ],
-      "credits": "3",
-      "course": "441",
-      "days": [
-        "MWF"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 207"
-      ],
-      "time": [
-        "09:10 am-10:00 am"
-      ],
-      "crn": "28523"
-    }
-  },
-  "474": {
-    "500": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "500",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SCI & TECH DEV VIS ARTS",
+          "remaining": "40",
+          "capacity": "40",
+          "instructor": [
+            "Dawna L. Schuld (P)"
+          ],
+          "credits": "3",
+          "course": "441",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 207"
+          ],
+          "time": [
+            "09:10 am-10:00 am"
+          ],
+          "crn": "28523"
+        }
+      }
+    },
+    "474": {
       "title": "DESIGNING FOR THE WEB",
-      "remaining": "25",
-      "capacity": "25",
-      "instructor": [
-        "Howard Eilers (P)",
-        "Howard Eilers"
-      ],
-      "credits": "3",
-      "course": "474",
-      "days": [
-        "MW",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "SCC 4.102B",
-        "SCC 4.102B"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:51 pm-05:30 pm"
-      ],
-      "crn": "14048"
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "500",
+          "title": "DESIGNING FOR THE WEB",
+          "remaining": "25",
+          "capacity": "25",
+          "instructor": [
+            "Howard Eilers (P)",
+            "Howard Eilers"
+          ],
+          "credits": "3",
+          "course": "474",
+          "days": [
+            "MW",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "SCC 4.102B",
+            "SCC 4.102B"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:51 pm-05:30 pm"
+          ],
+          "crn": "14048"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "DESIGNING FOR THE WEB",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Michael L. Ringham (P)"
+          ],
+          "credits": "3",
+          "course": "474",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28524"
+        }
+      }
     },
-    "700": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "700",
-      "title": "DESIGNING FOR THE WEB",
-      "remaining": "30",
-      "capacity": "30",
-      "instructor": [
-        "Michael L. Ringham (P)"
-      ],
-      "credits": "3",
-      "course": "474",
-      "days": [
-        "WEB"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "WEB"
-      ],
-      "time": [
-        "WEB"
-      ],
-      "crn": "28524"
-    }
-  },
-  "485": {
-    "550": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "550",
-      "title": "DIRECTED STUDIES: IN-ABSENTIA",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "TBA"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22895"
-    },
-    "500": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "500",
+    "485": {
       "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Anatol Bologan (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22486"
+      "sections": {
+        "550": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "550",
+          "title": "DIRECTED STUDIES: IN-ABSENTIA",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22895"
+        },
+        "500": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Anatol Bologan (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22486"
+        },
+        "501": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Andre Thomas (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18967"
+        },
+        "502": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Richard Davison (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "15338"
+        },
+        "503": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "503",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Jinsil Seo (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "18273"
+        },
+        "504": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "504",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Timothy D. McLaughlin (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "19017"
+        },
+        "505": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Philip Galanter (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "20794"
+        },
+        "506": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "506",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Samuel H. Woodfin (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22671"
+        },
+        "507": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "507",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Glen W. Vigus (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "22725"
+        },
+        "508": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "508",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Dmitri V. Koustov (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "26522"
+        }
+      }
     },
-    "501": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Andre Thomas (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18967"
-    },
-    "502": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "502",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Richard Davison (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "15338"
-    },
-    "503": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "503",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Jinsil Seo (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "18273"
-    },
-    "504": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "504",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Timothy D. McLaughlin (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "19017"
-    },
-    "505": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "505",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Philip Galanter (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "20794"
-    },
-    "506": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "506",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Samuel H. Woodfin (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22671"
-    },
-    "507": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "507",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Glen W. Vigus (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "22725"
-    },
-    "508": {
-      "select": "C",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "508",
-      "title": "DIRECTED STUDIES",
-      "remaining": "0",
-      "capacity": "0",
-      "instructor": [
-        "Dmitri V. Koustov (P)"
-      ],
-      "credits": "1-6",
-      "course": "485",
-      "days": [
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "TBA"
-      ],
-      "time": [
-        "TBA"
-      ],
-      "crn": "26522"
-    }
-  },
-  "310": {
-    "501": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "310": {
       "title": "PHOTOGRAPHY FOR VISUALIZATION",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Terry Larsen (P)",
-        "Terry Larsen"
-      ],
-      "credits": "3",
-      "course": "310",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 111",
-        "ARCC 111"
-      ],
-      "time": [
-        "11:10 am-12:00 pm",
-        "12:01 pm-01:15 pm"
-      ],
-      "crn": "25208"
-    }
-  },
-  "486": {
-    "501": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "501",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "PHOTOGRAPHY FOR VISUALIZATION",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Terry Larsen (P)",
+            "Terry Larsen"
+          ],
+          "credits": "3",
+          "course": "310",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 111",
+            "ARCC 111"
+          ],
+          "time": [
+            "11:10 am-12:00 pm",
+            "12:01 pm-01:15 pm"
+          ],
+          "crn": "25208"
+        }
+      }
+    },
+    "486": {
       "title": "INTRO TO GAME DESIGN",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Andre Thomas (P)"
-      ],
-      "credits": "3",
-      "course": "486",
-      "days": [
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCA 107B"
-      ],
-      "time": [
-        "10:20 am-11:35 am"
-      ],
-      "crn": "13015"
-    }
-  },
-  "201": {
-    "900": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 1,
-      "active": "0",
-      "section": "900",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "501",
+          "title": "INTRO TO GAME DESIGN",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Andre Thomas (P)"
+          ],
+          "credits": "3",
+          "course": "486",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCA 107B"
+          ],
+          "time": [
+            "10:20 am-11:35 am"
+          ],
+          "crn": "13015"
+        }
+      }
+    },
+    "201": {
       "title": "WRITING FOR DESIGN",
-      "remaining": "20",
-      "capacity": "20",
-      "instructor": [
-        "Terry Larsen (P)"
-      ],
-      "credits": "1",
-      "course": "201",
-      "days": [
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 305"
-      ],
-      "time": [
-        "09:35 am-10:50 am"
-      ],
-      "crn": "22466"
-    }
-  },
-  "105": {
-    "501": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "501",
-      "title": "PRINCIPLES OF DESIGN I",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Philip Galanter (P)",
-        "Philip Galanter",
-        "Philip Galanter"
-      ],
-      "credits": "4",
-      "course": "105",
-      "days": [
-        "MW",
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "ARCC 304AA",
-        "ARCC 304AA"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "10:01 am-11:25 am",
-        "09:10 am-11:25 am"
-      ],
-      "crn": "12827"
+      "sections": {
+        "900": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "900",
+          "title": "WRITING FOR DESIGN",
+          "remaining": "20",
+          "capacity": "20",
+          "instructor": [
+            "Terry Larsen (P)"
+          ],
+          "credits": "1",
+          "course": "201",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 305"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "22466"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "502",
+    "105": {
       "title": "PRINCIPLES OF DESIGN I",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "105",
-      "days": [
-        "MW",
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "ARCC 304AB",
-        "ARCC 304AB"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "10:01 am-11:25 am",
-        "09:10 am-11:25 am"
-      ],
-      "crn": "13058"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "PRINCIPLES OF DESIGN I",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Philip Galanter (P)",
+            "Philip Galanter",
+            "Philip Galanter"
+          ],
+          "credits": "4",
+          "course": "105",
+          "days": [
+            "MW",
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "ARCC 304AA",
+            "ARCC 304AA"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "10:01 am-11:25 am",
+            "09:10 am-11:25 am"
+          ],
+          "crn": "12827"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "PRINCIPLES OF DESIGN I",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "105",
+          "days": [
+            "MW",
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "ARCC 304AB",
+            "ARCC 304AB"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "10:01 am-11:25 am",
+            "09:10 am-11:25 am"
+          ],
+          "crn": "13058"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "503",
+          "title": "PRINCIPLES OF DESIGN I",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Krista S. Finch (P)",
+            "Krista S. Finch",
+            "Krista S. Finch"
+          ],
+          "credits": "4",
+          "course": "105",
+          "days": [
+            "MW",
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "ARCC 304BA",
+            "ARCC 304BA"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "02:41 pm-04:05 pm",
+            "01:50 pm-04:05 pm"
+          ],
+          "crn": "13472"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "504",
+          "title": "PRINCIPLES OF DESIGN I",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "105",
+          "days": [
+            "MW",
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "ARCC 304BB",
+            "ARCC 304BB"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "02:41 pm-04:05 pm",
+            "01:50 pm-04:05 pm"
+          ],
+          "crn": "19015"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "505",
+          "title": "PRINCIPLES OF DESIGN I",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Krista S. Finch (P)",
+            "Krista S. Finch",
+            "Krista S. Finch"
+          ],
+          "credits": "4",
+          "course": "105",
+          "days": [
+            "MW",
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 111",
+            "ARCC 304CA",
+            "ARCC 304CA"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "12:21 pm-01:45 pm",
+            "11:30 am-01:45 pm"
+          ],
+          "crn": "21786"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "506",
+          "title": "PRINCIPLES OF DESIGN I",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "105",
+          "days": [
+            "MW",
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 111",
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "11:30 am-12:20 pm",
+            "12:21 pm-01:45 pm",
+            "11:30 am-01:45 pm"
+          ],
+          "crn": "21787"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "503",
-      "title": "PRINCIPLES OF DESIGN I",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Krista S. Finch (P)",
-        "Krista S. Finch",
-        "Krista S. Finch"
-      ],
-      "credits": "4",
-      "course": "105",
-      "days": [
-        "MW",
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "ARCC 304BA",
-        "ARCC 304BA"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "02:41 pm-04:05 pm",
-        "01:50 pm-04:05 pm"
-      ],
-      "crn": "13472"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "504",
-      "title": "PRINCIPLES OF DESIGN I",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "105",
-      "days": [
-        "MW",
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "ARCC 304BB",
-        "ARCC 304BB"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "02:41 pm-04:05 pm",
-        "01:50 pm-04:05 pm"
-      ],
-      "crn": "19015"
-    },
-    "505": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "505",
-      "title": "PRINCIPLES OF DESIGN I",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Krista S. Finch (P)",
-        "Krista S. Finch",
-        "Krista S. Finch"
-      ],
-      "credits": "4",
-      "course": "105",
-      "days": [
-        "MW",
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 111",
-        "ARCC 304CA",
-        "ARCC 304CA"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "12:21 pm-01:45 pm",
-        "11:30 am-01:45 pm"
-      ],
-      "crn": "21786"
-    },
-    "506": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "506",
-      "title": "PRINCIPLES OF DESIGN I",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "105",
-      "days": [
-        "MW",
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 111",
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "11:30 am-12:20 pm",
-        "12:21 pm-01:45 pm",
-        "11:30 am-01:45 pm"
-      ],
-      "crn": "21787"
-    }
-  },
-  "205": {
-    "501": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "501",
+    "205": {
       "title": "PRINCIPLES OF DESIGN III",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Terry Larsen (P)",
-        "Terry Larsen",
-        "Terry Larsen"
-      ],
-      "credits": "4",
-      "course": "205",
-      "days": [
-        "MW",
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 111",
-        "ARCC 206AA",
-        "ARCC 206AA"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "10:01 am-11:25 am",
-        "09:10 am-11:20 am"
-      ],
-      "crn": "12828"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "PRINCIPLES OF DESIGN III",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Terry Larsen (P)",
+            "Terry Larsen",
+            "Terry Larsen"
+          ],
+          "credits": "4",
+          "course": "205",
+          "days": [
+            "MW",
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 111",
+            "ARCC 206AA",
+            "ARCC 206AA"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "10:01 am-11:25 am",
+            "09:10 am-11:20 am"
+          ],
+          "crn": "12828"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "PRINCIPLES OF DESIGN III",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "205",
+          "days": [
+            "MW",
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 111",
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "10:01 am-11:25 am",
+            "09:10 am-11:20 am"
+          ],
+          "crn": "13059"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "503",
+          "title": "PRINCIPLES OF DESIGN III",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Sherman S. Finch (P)",
+            "Sherman S. Finch",
+            "Sherman S. Finch"
+          ],
+          "credits": "4",
+          "course": "205",
+          "days": [
+            "MW",
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 206CA",
+            "ARCC 206CA",
+            "ARCC 206CA"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "02:41 pm-04:05 pm",
+            "01:50 pm-04:05 pm"
+          ],
+          "crn": "19698"
+        },
+        "504": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "504",
+          "title": "PRINCIPLES OF DESIGN III",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "205",
+          "days": [
+            "MW",
+            "MW",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 206CB",
+            "ARCC 206CB",
+            "ARCC 206CB"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm",
+            "02:41 pm-04:05 pm",
+            "01:50 pm-04:05 pm"
+          ],
+          "crn": "21928"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "502",
-      "title": "PRINCIPLES OF DESIGN III",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "205",
-      "days": [
-        "MW",
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 111",
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "09:10 am-10:00 am",
-        "10:01 am-11:25 am",
-        "09:10 am-11:20 am"
-      ],
-      "crn": "13059"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "503",
-      "title": "PRINCIPLES OF DESIGN III",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Sherman S. Finch (P)",
-        "Sherman S. Finch",
-        "Sherman S. Finch"
-      ],
-      "credits": "4",
-      "course": "205",
-      "days": [
-        "MW",
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 206CA",
-        "ARCC 206CA",
-        "ARCC 206CA"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "02:41 pm-04:05 pm",
-        "01:50 pm-04:05 pm"
-      ],
-      "crn": "19698"
-    },
-    "504": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "504",
-      "title": "PRINCIPLES OF DESIGN III",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "205",
-      "days": [
-        "MW",
-        "MW",
-        "F"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 206CB",
-        "ARCC 206CB",
-        "ARCC 206CB"
-      ],
-      "time": [
-        "01:50 pm-02:40 pm",
-        "02:41 pm-04:05 pm",
-        "01:50 pm-04:05 pm"
-      ],
-      "crn": "21928"
-    }
-  },
-  "206": {
-    "501": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
+    "206": {
       "title": "VIS STUDIES STUDIO I",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "206",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "ARCC 306B"
-      ],
-      "time": [
-        "02:20 pm-03:10 pm",
-        "03:11 pm-05:40 pm"
-      ],
-      "crn": "19926"
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "VIS STUDIES STUDIO I",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "206",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "ARCC 306B"
+          ],
+          "time": [
+            "02:20 pm-03:10 pm",
+            "03:11 pm-05:40 pm"
+          ],
+          "crn": "19926"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "VIS STUDIES STUDIO I",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "206",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "TBA"
+          ],
+          "time": [
+            "09:35 am-10:25 am",
+            "10:26 am-12:55 pm"
+          ],
+          "crn": "25795"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "VIS STUDIES STUDIO I",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "206",
+          "days": [
+            "MW",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 305",
+            "TBA"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:51 pm-06:20 pm"
+          ],
+          "crn": "26893"
+        }
+      }
     },
-    "502": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "VIS STUDIES STUDIO I",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "206",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "TBA"
-      ],
-      "time": [
-        "09:35 am-10:25 am",
-        "10:26 am-12:55 pm"
-      ],
-      "crn": "25795"
+    "305": {
+      "title": "VIS STUDIES STUDIO II",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "501",
+          "title": "VIS STUDIES STUDIO II",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "ARCC 306C"
+          ],
+          "time": [
+            "02:20 pm-03:10 pm",
+            "03:11 pm-04:50 pm"
+          ],
+          "crn": "12831"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "VIS STUDIES STUDIO II",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "ARCC 306B"
+          ],
+          "time": [
+            "09:35 am-10:25 am",
+            "10:26 am-12:05 pm"
+          ],
+          "crn": "13052"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "503",
+          "title": "VIS STUDIES STUDIO II",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Eric D. Ragan (P)",
+            "Eric D. Ragan"
+          ],
+          "credits": "3",
+          "course": "305",
+          "days": [
+            "MW",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 305",
+            "TBA"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:51 pm-05:30 pm"
+          ],
+          "crn": "26895"
+        }
+      }
     },
-    "503": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "VIS STUDIES STUDIO I",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "4",
-      "course": "206",
-      "days": [
-        "MW",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 305",
-        "TBA"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:51 pm-06:20 pm"
-      ],
-      "crn": "26893"
+    "405": {
+      "title": "VIS STUDIES STUDIO III",
+      "sections": {
+        "501": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "501",
+          "title": "VIS STUDIES STUDIO III",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "405",
+          "days": [
+            "T",
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "ARCC 306C",
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:10 pm",
+            "03:11 pm-04:50 pm",
+            "02:20 pm-04:50 pm"
+          ],
+          "crn": "13082"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "502",
+          "title": "VIS STUDIES STUDIO III",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "TBA",
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "405",
+          "days": [
+            "T",
+            "T",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 307",
+            "ARCC 306B",
+            "ARCC 306B"
+          ],
+          "time": [
+            "09:35 am-10:25 am",
+            "10:26 am-12:05 pm",
+            "09:35 am-12:05 pm"
+          ],
+          "crn": "13083"
+        },
+        "503": {
+          "select": "SR",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 3,
+          "active": "0",
+          "section": "503",
+          "title": "VIS STUDIES STUDIO III",
+          "remaining": "18",
+          "capacity": "18",
+          "instructor": [
+            "Andre Thomas (P)",
+            "Andre Thomas",
+            "Andre Thomas"
+          ],
+          "credits": "3",
+          "course": "405",
+          "days": [
+            "MW",
+            "MW",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ARCC 305",
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "03:00 pm-03:50 pm",
+            "03:51 pm-05:30 pm",
+            "TBA"
+          ],
+          "crn": "21061"
+        }
+      }
     }
   },
-  "305": {
-    "501": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "501",
-      "title": "VIS STUDIES STUDIO II",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "ARCC 306C"
-      ],
-      "time": [
-        "02:20 pm-03:10 pm",
-        "03:11 pm-04:50 pm"
-      ],
-      "crn": "12831"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "502",
-      "title": "VIS STUDIES STUDIO II",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "TR",
-        "TR"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "ARCC 306B"
-      ],
-      "time": [
-        "09:35 am-10:25 am",
-        "10:26 am-12:05 pm"
-      ],
-      "crn": "13052"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 2,
-      "active": "0",
-      "section": "503",
-      "title": "VIS STUDIES STUDIO II",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Eric D. Ragan (P)",
-        "Eric D. Ragan"
-      ],
-      "credits": "3",
-      "course": "305",
-      "days": [
-        "MW",
-        "MW"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 305",
-        "TBA"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:51 pm-05:30 pm"
-      ],
-      "crn": "26895"
-    }
-  },
-  "405": {
-    "501": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "501",
-      "title": "VIS STUDIES STUDIO III",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "405",
-      "days": [
-        "T",
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "ARCC 306C",
-        "TBA"
-      ],
-      "time": [
-        "02:20 pm-03:10 pm",
-        "03:11 pm-04:50 pm",
-        "02:20 pm-04:50 pm"
-      ],
-      "crn": "13082"
-    },
-    "502": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "502",
-      "title": "VIS STUDIES STUDIO III",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "TBA",
-        "TBA",
-        "TBA"
-      ],
-      "credits": "3",
-      "course": "405",
-      "days": [
-        "T",
-        "T",
-        "R"
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 307",
-        "ARCC 306B",
-        "ARCC 306B"
-      ],
-      "time": [
-        "09:35 am-10:25 am",
-        "10:26 am-12:05 pm",
-        "09:35 am-12:05 pm"
-      ],
-      "crn": "13083"
-    },
-    "503": {
-      "select": "SR",
-      "subject": "VIST",
-      "campus": "CS",
-      "classes": 3,
-      "active": "0",
-      "section": "503",
-      "title": "VIS STUDIES STUDIO III",
-      "remaining": "18",
-      "capacity": "18",
-      "instructor": [
-        "Andre Thomas (P)",
-        "Andre Thomas",
-        "Andre Thomas"
-      ],
-      "credits": "3",
-      "course": "405",
-      "days": [
-        "MW",
-        "MW",
-        " "
-      ],
-      "date (mm/dd)": [
-        "08/29-12/14",
-        "08/29-12/14",
-        "08/29-12/14"
-      ],
-      "location": [
-        "ARCC 305",
-        "TBA",
-        "TBA"
-      ],
-      "time": [
-        "03:00 pm-03:50 pm",
-        "03:51 pm-05:30 pm",
-        "TBA"
-      ],
-      "crn": "21061"
-    }
-  }
+  "title": "VIST - Visual Studies",
+  "updated": "Thu Apr 07 01:26:32 CDT 2016"
 }

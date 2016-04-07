@@ -15,7 +15,8 @@
             timeToPct: timeToPct,
             timeToHrs: timeToHrs,
             hrsToPct: hrsToPct,
-            hrsToTime: hrsToTime
+            hrsToTime: hrsToTime,
+            indexOfObject: indexOfObject
         };
 
         return service;
@@ -68,6 +69,15 @@
             }
 
             return hours + ":" + mins + " " + ampm;
+        }
+
+        function indexOfObject(arr, obj) {
+            for (var i = 0; i < arr.length; i++) {
+                if (angular.equals(arr[i], obj)) {
+                    return i;
+                }
+            }
+            return -1;
         }
     }
 })();
