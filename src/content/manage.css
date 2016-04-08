@@ -54,3 +54,8 @@
 .manage .md-button.add-tab {
     transform: translateY(5px);
 }
+
+/* override */
+.manage .md-errors-spacer {
+    min-height: 0;
+}

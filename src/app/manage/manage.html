@@ -1,27 +1,50 @@
-<md-content data-ng-controller="Manage" layout="column" class="manage md-whiteframe-1dp">
-    <md-content class="md-padding">
-        <md-tabs md-selected="selectedIndex" md-border-bottom md-autoselect style="min-height: 358px">
+<md-content data-ng-controller="Manage" layout="column" layout-fill class="manage md-whiteframe-1dp">
+    <md-content flex layout="column" class="md-padding">
+        <md-tabs flex md-selected="selectedIndex" md-border-bottom md-autoselect>
             <md-tab ng-repeat="tab in tabs"
                     ng-disabled="tab.disabled"
                     label="{{tab.title}}">
-                <div class="demo-tab tab{{$index%4}}" style="padding-bottom: 25px; text-align: center;">
-                    <md-list style="text-align: left;">
-                        <md-subheader class="md-no-sticky">{{subjects[tab.subject].courses[tab.course].title}}
-                        </md-subheader>
-                        <md-subheader class="md-no-sticky">Updated: {{subjects[tab.subject].updated}}</md-subheader>
-                        <md-list-item class="md-3-line"
-                                      ng-repeat="section in subjects[tab.subject].courses[tab.course].sections">
-                            <md-checkbox ng-click="toggleSection(section)"></md-checkbox>
-                            <div class="md-list-item-text" layout="column">
-                                <h3>{{section.section}}</h3>
-                                <h4>{{section.instructor[0]}}</h4>
-                                <p>{{section.credits}} hr(s)</p>
-                            </div>
-                        </md-list-item>
+                <div class="demo-tab tab{{$index%4}}">
+                    <md-toolbar md-scroll-shrink>
+                        <div class="md-toolbar-tools" style="font-size: 16px;">
+
+                            <p>{{subjects[tab.subject].courses[tab.course].title}}<br>
+                                <small>Updated: {{subjects[tab.subject].updated}}</small>
+                            </p>
+                            <span flex></span>
+                            <md-button class="md-raised" aria-label="Remove" ng-click="removeCourse( tab )">
+                                Remove
+                            </md-button>
+                        </div>
+                    </md-toolbar>
+                    <md-list>
+                        <section ng-repeat="(instructor, sections) in tab.sectionListing">
+                            <md-subheader>
+                                {{instructor}}
+                            </md-subheader>
+                            <md-list-item class="md-3-line"
+                                          ng-repeat="section in sections">
+                                <md-checkbox ng-click="toggleSection(section)"></md-checkbox>
+                                <div class="md-list-item-text" layout="row" style="width:100%">
+                                    <div flex="40" layout="column">
+                                        <h3>{{section.section}} ({{section.select}})</h3>
+                                        <h4>Remaining: {{section.remaining}}/{{section.capacity}}</h4>
+                                        <p>{{section.credits}} hr(s)</p>
+                                    </div>
+                                    <div flex="60" layout="column">
+                                        <p ng-repeat="time in section.time track by $index">
+                                            <small>
+                                                <small>
+                                                    {{time}}, {{section.days[$index]}}
+                                                    ({{section['date (mm/dd)'][$index]}})
+                                                </small>
+                                            </small>
+                                        </p>
+                                    </div>
+                                </div>
+                            </md-list-item>
+                        </section>
                     </md-list>
-                    <br/>
-                    <md-button class="md-primary md-raised" ng-click="removeCourse( tab )">Remove Course
-                    </md-button>
                 </div>
             </md-tab>
         </md-tabs>
@@ -29,15 +52,14 @@
     <form ng-submit="addCourse(selectedCourse)" name="searchForm" layout="column" class="md-padding"
           style="padding-top: 0;">
         <div layout="row" layout-sm="column">
-            <md-autocomplete required
+            <md-autocomplete flex
                              md-input-name="autocompleteField"
                              md-selected-item="selectedCourse"
                              md-search-text="searchText"
                              md-items="course in querySearch(searchText)"
                              md-item-text="course.display"
-                             md-floating-label="Add Course"
-                             md-no-asterisk
-                             style="min-width: 300px;">
+                             md-floating-label="Course"
+                             md->
                 <md-item-template>
                     <span md-highlight-text="searchText">{{course.display}}</span>
                 </md-item-template>
@@ -45,8 +67,8 @@
                     No matches found.
                 </md-not-found>
             </md-autocomplete>
-            <md-button class="add-tab md-primary md-raised" ng-disabled="!selectedCourse" type="submit"
-                       style="margin-right: 0;">Add Course
+            <md-button class="add-tab md-primary md-raised" aria-label="Add" ng-disabled="!selectedCourse" type="submit"
+                       style="margin-right: 0;">Add
             </md-button>
         </div>
     </form>

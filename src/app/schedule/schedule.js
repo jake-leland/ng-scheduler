@@ -5,11 +5,11 @@
         .module('app.schedule')
         .controller('Schedule', Schedule);
 
-    Schedule.$inject = ['$rootScope', '$scope', '$http', 'common', 'config'];
+    Schedule.$inject = ['$rootScope', '$scope', '$http', '$timeout', 'common', 'config'];
 
     /* @ngInject */
-    function Schedule($rootScope, $scope, $http, common, config) {
-        var h = parseInt($('#sched-times').css('height'));
+    function Schedule($rootScope, $scope, $http, $timeout, common, config) {
+        var h = 0;
 
         initTable();
 
@@ -42,40 +42,57 @@
                 }
 
                 function createClass(id, day, time) {
-                    time = time.split('-');
-                    var startTime = time[0];
-                    var endTime = time[1];
+                    var startTime = time.split('-')[0];
+                    var endTime = time.split('-')[1];
                     $scope.classes[day][id] = {
                         style: {
                             'top': h * common.timeToPct(startTime) + 'px',
-                            'height': h * (common.timeToPct(endTime) - common.timeToPct(startTime)) + 'px',
-                            'margin-bottom': -h * (common.timeToPct(endTime) - common.timeToPct(startTime)) + 'px'
+                            'height': h * (common.timeToPct(endTime) - common.timeToPct(startTime)) + 5 + 'px',
+                            'margin-bottom': -h * (common.timeToPct(endTime) - common.timeToPct(startTime)) - 5 + 'px'
                         },
                         title: common.toTitleCase(section.title),
                         subject: section.subject,
                         course: section.course,
-                        section: section.section
+                        section: section.section,
+                        time: time
                     };
                 }
             }
         }
 
         function initTable() {
-            $rootScope.times = [];
-            $rootScope.lines = [];
-            for (var i = Math.ceil(common.timeToHrs(config.schedule.minTime)); i <= Math.floor(common.timeToHrs(config.schedule.maxTime)); i++) {
-                $rootScope.times.push({
-                    style: {
-                        // -6px assumes font size 10px
-                        'top': h * common.hrsToPct(i) - 6 + 'px'
-                    },
-                    text: common.hrsToTime(i)
-                });
-                $rootScope.lines.push({
-                    style: {
-                        'top': h * common.hrsToPct(i) + 'px'
-                    }
-                });
+            $scope.dayNames = {
+                M: "Monday",
+                T: "Tuesday",
+                W: "Wednesday",
+                R: "Thursday",
+                F: "Friday"
+            };
+
+            // timeout to wait until ng-repeat finishes
+            $timeout(afterNg, 0);
+
+
+            function afterNg() {
+                $('.sched-day').before('<md-divider></md-divider>');
+
+                h = parseInt($('#sched-times').css('height'));
+                $rootScope.times = [];
+                $rootScope.lines = [];
+                for (var i = Math.ceil(common.timeToHrs(config.schedule.minTime)); i <= Math.floor(common.timeToHrs(config.schedule.maxTime)); i++) {
+                    $rootScope.times.push({
+                        style: {
+                            // -6px assumes font size 10px
+                            'top': h * common.hrsToPct(i) - 6 + 'px'
+                        },
+                        text: common.hrsToTime(i)
+                    });
+                    $rootScope.lines.push({
+                        style: {
+                            'top': h * common.hrsToPct(i) + 'px'
+                        }
+                    });
+                }
             }
         }
     }

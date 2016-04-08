@@ -46,17 +46,11 @@
                         initAutocomplete();
 
                         function initAutocomplete() {
-                            // list of `state` value/display objects
                             $scope.selectedCourse = null;
                             $scope.searchText = null;
                             $scope.querySearch = querySearch;
-                            // ******************************
-                            // Internal methods
-                            // ******************************
-                            /**
-                             * Search for states... use $timeout to simulate
-                             * remote dataservice call.
-                             */
+
+
                             function querySearch(query) {
                                 var results = query ? $scope.searchNames.filter(createFilterFor(query)) : $scope.searchNames;
                                 var deferred = $q.defer();
@@ -64,9 +58,6 @@
                                 return deferred.promise;
                             }
 
-                            /**
-                             * Create filter function for a query string
-                             */
                             function createFilterFor(query) {
                                 var lowercaseQuery = angular.lowercase(query);
                                 return function filterFn(course) {
@@ -83,11 +74,24 @@
             var tabs = [];
             $scope.tabs = tabs;
             $scope.selectedIndex = null;
+
+            function getSectionListing(subject, course) {
+                var list = {};
+                $.each($scope.subjects[subject].courses[course].sections, function (key, value) {
+                    if (!list[value.instructor[0]]) {
+                        list[value.instructor[0]] = {};
+                    }
+                    list[value.instructor[0]][value.section] = value;
+                });
+                return list;
+            }
+
             $scope.addCourse = function (course) {
                 var tab = {
                     title: course.subject + " " + course.course,
                     subject: course.subject,
                     course: course.course,
+                    sectionListing: getSectionListing(course.subject, course.course),
                     disabled: false
                 };
                 if (common.indexOfObject(tabs, tab) == -1) {
@@ -106,9 +110,7 @@
                 else {
                     $rootScope.mySections.push(section);
                 }
-            }
-
-
+            };
         }
     }
 })();
