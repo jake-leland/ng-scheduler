@@ -23,20 +23,23 @@
                                 {{instructor}}
                             </md-subheader>
                             <md-list-item class="md-3-line"
-                                          ng-repeat="section in sections">
-                                <md-checkbox ng-click="toggleSection(section)"></md-checkbox>
+                                          ng-repeat="section in sections"
+                                          ng-click="toggleSection(section)">
+                                <md-checkbox ng-click="toggleSection(section)"
+                                             ng-checked="mySections.indexOf(section) > -1"></md-checkbox>
                                 <div class="md-list-item-text" layout="row" style="width:100%">
-                                    <div flex="40" layout="column">
+                                    <div flex="40" layout="column" layout-align="center">
                                         <h3>{{section.section}} ({{section.select}})</h3>
-                                        <h4>Remaining: {{section.remaining}}/{{section.capacity}}</h4>
+                                        <h4>{{section.remaining}}/{{section.capacity}}
+                                            <small>remaining</small>
+                                        </h4>
                                         <p>{{section.credits}} hr(s)</p>
                                     </div>
-                                    <div flex="60" layout="column">
+                                    <div flex="60" layout="column" layout-align="center">
                                         <p ng-repeat="time in section.time track by $index">
                                             <small>
                                                 <small>
                                                     {{time}}, {{section.days[$index]}}
-                                                    ({{section['date (mm/dd)'][$index]}})
                                                 </small>
                                             </small>
                                         </p>

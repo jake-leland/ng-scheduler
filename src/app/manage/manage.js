@@ -101,6 +101,13 @@
             $scope.removeCourse = function (tab) {
                 var index = tabs.indexOf(tab);
                 tabs.splice(index, 1);
+                var matchingSections = $.grep($rootScope.mySections, function (section) {
+                    return (section.subject == tab.subject && section.course == tab.course);
+                });
+                $.each(matchingSections, function (index, value) {
+                    var i = $rootScope.mySections.indexOf(value);
+                    $rootScope.mySections.splice(i, 1);
+                });
             };
             $scope.toggleSection = function (section) {
                 var i = $rootScope.mySections.indexOf(section);
