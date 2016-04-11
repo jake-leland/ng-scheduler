@@ -8,10 +8,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "PROFESSIONAL INTERNSHIP",
-          "remaining": "45",
+          "remaining": "43",
           "capacity": "45",
           "instructor": [
             "Karen S. Smith (P)"
@@ -42,11 +42,11 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "MANAGING TECH NETWORKS",
-          "remaining": "35",
-          "capacity": "35",
+          "remaining": "30",
+          "capacity": "32",
           "instructor": [
             "Robert T. Jones (P)",
             "Robert T. Jones"
@@ -115,14 +115,14 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "UNIX SYS ADMIN PRACT",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
-            "Robert T. Jones (P)",
-            "Robert T. Jones (P)"
+            "TBA",
+            "TBA"
           ],
           "credits": "4",
           "course": "303",
@@ -154,10 +154,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "598",
           "title": "INSTRUCT TECH & DESIGN",
-          "remaining": "45",
+          "remaining": "38",
           "capacity": "45",
           "instructor": [
             "Christine L. Mark (P)"
@@ -217,10 +217,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "700",
           "title": "CYBERSECURITY DIGITAL ETHICS",
-          "remaining": "35",
+          "remaining": "34",
           "capacity": "35",
           "instructor": [
             "TBA"
@@ -280,10 +280,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "TECH & END USER SUPPORT",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Benjamin L. Smith (P)"
@@ -342,5 +342,5 @@
     }
   },
   "title": "TCMG - Technology Management",
-  "updated": "Thu Apr 07 01:26:03 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:53 AM"
 }

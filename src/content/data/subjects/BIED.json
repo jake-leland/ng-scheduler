@@ -492,10 +492,10 @@
           "subject": "BIED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "699",
           "title": "DUAL LANGUAGE PROG METHD",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "Yolanda Padron (P)"
@@ -555,10 +555,10 @@
           "subject": "BIED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "699",
           "title": "SPAN/ENG BILITERACY",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "Sandra T. Acosta (P)"
@@ -584,10 +584,10 @@
           "subject": "BIED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "SPAN/ENG BILITERACY",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Sandra T. Acosta (P)"
@@ -647,10 +647,10 @@
           "subject": "BIED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "700",
           "title": "BESL CURRICULUM DEV LANG",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Rafael Lara-Alecio (P)"
@@ -796,5 +796,5 @@
     }
   },
   "title": "BIED - Bilingual Education",
-  "updated": "Thu Apr 07 01:11:21 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:38 AM"
 }

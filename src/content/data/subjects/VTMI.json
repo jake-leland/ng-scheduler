@@ -8,10 +8,10 @@
           "subject": "VTMI",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "EXPERIMENTAL IMMUNOLOGY",
-          "remaining": "8",
+          "remaining": "4",
           "capacity": "8",
           "instructor": [
             "Luc Berghman (P)",
@@ -43,7 +43,7 @@
       "title": "ADV IMMUNOLOGIC CONCEPTS",
       "sections": {
         "600": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "VTMI",
           "campus": "CS",
           "classes": 1,
@@ -72,7 +72,7 @@
           "crn": "24519"
         },
         "601": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "VTMI",
           "campus": "CS",
           "classes": 1,
@@ -101,7 +101,7 @@
           "crn": "24521"
         },
         "605": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "VTMI",
           "campus": "CS",
           "classes": 1,
@@ -130,7 +130,7 @@
           "crn": "24522"
         },
         "608": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "VTMI",
           "campus": "CS",
           "classes": 1,
@@ -280,14 +280,14 @@
           "crn": "18582"
         },
         "602": {
-          "select": "SR",
+          "select": "C",
           "subject": "VTMI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "602",
           "title": "DIRECTED STUDIES",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Suryakant Waghela (P)"
@@ -618,10 +618,10 @@
           "subject": "VTMI",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "VIROLOGY",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Judith Ball (P)",
@@ -1306,14 +1306,14 @@
           "crn": "23191"
         },
         "647": {
-          "select": "SR",
+          "select": "C",
           "subject": "VTMI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "647",
           "title": "RESEARCH",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Luc Berghman (P)"
@@ -1633,5 +1633,5 @@
     }
   },
   "title": "VTMI - Veterinary Microbiology",
-  "updated": "Thu Apr 07 01:26:47 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
 }

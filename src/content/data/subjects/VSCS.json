@@ -362,7 +362,7 @@
       "title": "SMALL ANIMAL CLIN SKILLS",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -396,7 +396,7 @@
       "title": "SMALL ANIMAL MEDICINE I",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 2,
@@ -435,7 +435,7 @@
       "title": "SA MED & SURG ELECTIVE",
       "sections": {
         "354": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -464,7 +464,7 @@
           "crn": "13464"
         },
         "311": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -493,7 +493,7 @@
           "crn": "18567"
         },
         "333": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -522,7 +522,7 @@
           "crn": "26100"
         },
         "334": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -551,7 +551,7 @@
           "crn": "13411"
         },
         "356": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -580,7 +580,7 @@
           "crn": "22811"
         },
         "324": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -609,7 +609,7 @@
           "crn": "13408"
         },
         "325": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -638,7 +638,7 @@
           "crn": "13410"
         },
         "336": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -667,7 +667,7 @@
           "crn": "13413"
         },
         "305": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -696,7 +696,7 @@
           "crn": "13406"
         },
         "318": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -725,7 +725,7 @@
           "crn": "26099"
         },
         "329": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -754,7 +754,7 @@
           "crn": "15630"
         },
         "340": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VSCS",
           "campus": "CS",
           "classes": 1,
@@ -936,5 +936,5 @@
     }
   },
   "title": "VSCS-Vet Small Animal Clin Sc",
-  "updated": "Thu Apr 07 01:26:44 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
 }

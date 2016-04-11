@@ -4,17 +4,17 @@
       "title": "DIRECTED STUDIES",
       "sections": {
         "601": {
-          "select": "C",
+          "select": "SR",
           "subject": "EDHP",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "601",
           "title": "DIRECTED STUDIES",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "35",
+          "capacity": "35",
           "instructor": [
-            "TBA"
+            "Terri B. Kurz (P)"
           ],
           "credits": "1-3",
           "course": "685",
@@ -33,17 +33,17 @@
           "crn": "28077"
         },
         "602": {
-          "select": "C",
+          "select": "SR",
           "subject": "EDHP",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "602",
           "title": "DIRECTED STUDIES",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "35",
+          "capacity": "35",
           "instructor": [
-            "TBA"
+            "Lavern P. Holyfield (P)"
           ],
           "credits": "1-3",
           "course": "685",
@@ -105,10 +105,10 @@
           "subject": "EDHP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "599",
           "title": "TEACHING STRATEGIES: IN-AB",
-          "remaining": "35",
+          "remaining": "34",
           "capacity": "35",
           "instructor": [
             "Lavern P. Holyfield (P), Ernestine S. Lacy , Kathleen B. Muzzin"
@@ -145,7 +145,7 @@
           "remaining": "35",
           "capacity": "35",
           "instructor": [
-            "Patricia A. Campbell (P), Regina Bentley , Lori L. Graham , Lavern P. Holyfield , Karen A. Landry , Courtney A. West"
+            "Patricia A. Campbell (P)"
           ],
           "credits": "1-2",
           "course": "504",
@@ -166,7 +166,7 @@
       }
     },
     "505": {
-      "title": "PROJECT/THESIS",
+      "title": "THESIS",
       "sections": {
         "599": {
           "select": "SR",
@@ -179,7 +179,7 @@
           "remaining": "35",
           "capacity": "35",
           "instructor": [
-            "Courtney A. West (P)"
+            "Terri B. Kurz (P), Courtney A. West"
           ],
           "credits": "3",
           "course": "505",
@@ -200,20 +200,20 @@
       }
     },
     "506": {
-      "title": "PROJECT/THESIS",
+      "title": "PROJECT",
       "sections": {
         "501": {
-          "select": "C",
+          "select": "SR",
           "subject": "EDHP",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "501",
-          "title": "PROJECT/THESIS",
-          "remaining": "0",
-          "capacity": "0",
+          "title": "PROJECT",
+          "remaining": "35",
+          "capacity": "35",
           "instructor": [
-            "TBA"
+            "Courtney A. West (P)"
           ],
           "credits": "3",
           "course": "506",
@@ -244,10 +244,10 @@
           "active": "0",
           "section": "600",
           "title": "RESEARCH",
-          "remaining": "3",
-          "capacity": "3",
+          "remaining": "35",
+          "capacity": "35",
           "instructor": [
-            "TBA"
+            "Patricia A. Campbell (P)"
           ],
           "credits": "1-3",
           "course": "691",
@@ -269,5 +269,5 @@
     }
   },
   "title": "EDHP - Ed Healthcare Prof",
-  "updated": "Thu Apr 07 01:14:46 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

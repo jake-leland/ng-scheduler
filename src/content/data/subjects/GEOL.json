@@ -1173,10 +1173,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "612",
           "title": "RESEARCH",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "John Giardino (P)"
@@ -2227,10 +2227,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "GNSS IN THE GEOSCIENCES",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Phillipe A. Wernette (P)",
@@ -2368,10 +2368,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "PLANETARY GEOLOGY",
-          "remaining": "60",
+          "remaining": "56",
           "capacity": "60",
           "instructor": [
             "David Sparks (P)"
@@ -2402,10 +2402,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "PRINCIPLES GEOL WRITING",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -2431,10 +2431,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "901",
           "title": "PRINCIPLES GEOL WRITING",
-          "remaining": "20",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -2552,10 +2552,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "HYDROGEOLOGY",
-          "remaining": "15",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "TBA",
@@ -2659,10 +2659,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "STRUCTURE & TECTONICS",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "TBA",
@@ -2766,10 +2766,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "ADVANCED HYDROGEOLOGY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -2873,10 +2873,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "172",
+          "remaining": "171",
           "capacity": "172",
           "instructor": [
             "Thomas Yancey (P)"
@@ -3144,10 +3144,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "200",
           "title": "HNR-PRINCIPLES OF GEOLOGY",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "17",
           "instructor": [
             "Julie Newman (P)",
@@ -3178,10 +3178,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "PRINCIPLES OF GEOLOGY",
-          "remaining": "172",
+          "remaining": "166",
           "capacity": "172",
           "instructor": [
             "Thomas Yancey (P)",
@@ -3212,10 +3212,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "PRINCIPLES OF GEOLOGY",
-          "remaining": "172",
+          "remaining": "171",
           "capacity": "172",
           "instructor": [
             "TBA",
@@ -3246,10 +3246,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "503",
           "title": "PRINCIPLES OF GEOLOGY",
-          "remaining": "172",
+          "remaining": "167",
           "capacity": "172",
           "instructor": [
             "TBA",
@@ -3280,10 +3280,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "PRINCIPLES OF GEOLOGY",
-          "remaining": "172",
+          "remaining": "171",
           "capacity": "172",
           "instructor": [
             "TBA",
@@ -3313,33 +3313,28 @@
           "select": "SR",
           "subject": "GEOL",
           "campus": "CS",
-          "classes": 2,
-          "active": "0",
+          "classes": 1,
+          "active": "1",
           "section": "505",
           "title": "PRINCIPLES OF GEOLOGY",
-          "remaining": "172",
+          "remaining": "171",
           "capacity": "172",
           "instructor": [
-            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "101",
           "days": [
-            "TR",
-            "W"
+            "TR"
           ],
           "date (mm/dd)": [
-            "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
-            "HALB 101",
-            "HALB 2"
+            "HALB 101"
           ],
           "time": [
-            "03:55 pm-05:10 pm",
-            "11:30 am-02:20 pm"
+            "03:55 pm-05:10 pm"
           ],
           "crn": "11409"
         }
@@ -3353,10 +3348,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "901",
           "title": "ENVIRONMENTAL GEOLOGY",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "TBA",
@@ -3387,10 +3382,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "902",
           "title": "ENVIRONMENTAL GEOLOGY",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "TBA",
@@ -3494,10 +3489,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "GEOCHEMISTRY NAT WATERS",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -3702,10 +3697,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "512",
           "title": "PRINCIPLES OF GEOLOGY LAB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -3818,10 +3813,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "514",
           "title": "PRINCIPLES OF GEOLOGY LAB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -4427,10 +4422,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "PRINCIPLES OF GEOLOGY LAB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -4543,10 +4538,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "PRINCIPLES OF GEOLOGY LAB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -4601,10 +4596,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "PRINCIPLES OF GEOLOGY LAB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -5830,10 +5825,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "503",
           "title": "PHYSICAL GEOLOGY",
-          "remaining": "18",
+          "remaining": "8",
           "capacity": "18",
           "instructor": [
             "Mark Everett (P)",
@@ -5864,10 +5859,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "514",
           "title": "PHYSICAL GEOLOGY",
-          "remaining": "19",
+          "remaining": "16",
           "capacity": "19",
           "instructor": [
             "Frederick M. Chester (P)",
@@ -5932,10 +5927,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "515",
           "title": "PHYSICAL GEOLOGY",
-          "remaining": "20",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Frederick M. Chester (P)",
@@ -5957,7 +5952,7 @@
           ],
           "time": [
             "02:20 pm-03:35 pm",
-            "02:20 pm-05:10 pm"
+            "11:10 am-02:00 pm"
           ],
           "crn": "19301"
         },
@@ -5966,10 +5961,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "505",
           "title": "PHYSICAL GEOLOGY",
-          "remaining": "18",
+          "remaining": "12",
           "capacity": "18",
           "instructor": [
             "Mark Everett (P)",
@@ -6000,10 +5995,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "516",
           "title": "PHYSICAL GEOLOGY",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "19",
           "instructor": [
             "Frederick M. Chester (P)",
@@ -6013,7 +6008,7 @@
           "course": "104",
           "days": [
             "TR",
-            "F"
+            "W"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -6311,10 +6306,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "MINERALOGY",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -6345,10 +6340,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "504",
           "title": "MINERALOGY",
-          "remaining": "21",
+          "remaining": "18",
           "capacity": "21",
           "instructor": [
             "TBA",
@@ -6554,10 +6549,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "INTRO TO PETROLOGY",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "14",
           "instructor": [
             "TBA",
@@ -6588,10 +6583,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "INTRO TO PETROLOGY",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "14",
           "instructor": [
             "TBA",
@@ -6622,10 +6617,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "INTRO TO PETROLOGY",
-          "remaining": "14",
+          "remaining": "10",
           "capacity": "14",
           "instructor": [
             "TBA",
@@ -6656,10 +6651,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "503",
           "title": "INTRO TO PETROLOGY",
-          "remaining": "14",
+          "remaining": "12",
           "capacity": "14",
           "instructor": [
             "TBA",
@@ -6734,10 +6729,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "HISTORICAL GEOLOGY",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Thomas Yancey (P)",
@@ -6768,10 +6763,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "HISTORICAL GEOLOGY",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "19",
           "instructor": [
             "Thomas Yancey (P)",
@@ -6870,10 +6865,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "505",
           "title": "HISTORICAL GEOLOGY",
-          "remaining": "18",
+          "remaining": "14",
           "capacity": "18",
           "instructor": [
             "Thomas Yancey (P)",
@@ -6938,10 +6933,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "507",
           "title": "HISTORICAL GEOLOGY",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "19",
           "instructor": [
             "Thomas Yancey (P)",
@@ -6972,10 +6967,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "508",
           "title": "HISTORICAL GEOLOGY",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Thomas Yancey (P)",
@@ -7045,10 +7040,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "IGN & META PETROLOGY",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "William Lamb (P)",
@@ -7079,10 +7074,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "IGN & META PETROLOGY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "William Lamb (P)",
@@ -7147,10 +7142,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "IGN & META PETROLOGY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "William Lamb (P)",
@@ -7215,10 +7210,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "506",
           "title": "IGN & META PETROLOGY",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "William Lamb (P)",
@@ -7249,10 +7244,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "507",
           "title": "IGN & META PETROLOGY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "William Lamb (P)",
@@ -7356,10 +7351,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "PALEOBIOLOGY",
-          "remaining": "10",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -7390,10 +7385,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "PALEOBIOLOGY",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -7429,10 +7424,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "GEOLOGY OF PETROLEUM",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -7463,10 +7458,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "GEOLOGY OF PETROLEUM",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -7497,10 +7492,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "503",
           "title": "GEOLOGY OF PETROLEUM",
-          "remaining": "21",
+          "remaining": "17",
           "capacity": "21",
           "instructor": [
             "TBA",
@@ -7527,14 +7522,14 @@
           "crn": "11458"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "504",
           "title": "GEOLOGY OF PETROLEUM",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -7565,10 +7560,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "505",
           "title": "GEOLOGY OF PETROLEUM",
-          "remaining": "10",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -7633,10 +7628,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "507",
           "title": "GEOLOGY OF PETROLEUM",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -7667,10 +7662,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "508",
           "title": "GEOLOGY OF PETROLEUM",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -7706,10 +7701,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "CARBONATE RESERVOIRS",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Juan Carlos Laya Pereira (P)"
@@ -7740,10 +7735,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "CLASTIC SED & SED PETR",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Mike Pope (P)",
@@ -7813,10 +7808,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "SED & STRATIGRAPHY",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Julia S. Reece (P)",
@@ -7881,10 +7876,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "SED & STRATIGRAPHY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -7893,7 +7888,7 @@
           "credits": "4",
           "course": "306",
           "days": [
-            "MWF",
+            "TR",
             "W"
           ],
           "date (mm/dd)": [
@@ -7901,11 +7896,11 @@
             "08/29-12/14"
           ],
           "location": [
-            "HALB 104",
+            "HALB 327",
             "HALB 66"
           ],
           "time": [
-            "11:30 am-12:20 pm",
+            "08:00 am-09:15 am",
             "11:30 am-02:20 pm"
           ],
           "crn": "19307"
@@ -7927,20 +7922,20 @@
           "credits": "4",
           "course": "306",
           "days": [
-            "MW",
-            "R"
+            "M",
+            "TR"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
-            "HALB 104",
-            "HALB 66"
+            "HALB 66",
+            "HALB 327"
           ],
           "time": [
-            "04:10 pm-05:25 pm",
-            "08:00 am-10:50 am"
+            "11:30 am-02:20 pm",
+            "08:00 am-09:15 am"
           ],
           "crn": "27238"
         },
@@ -7961,7 +7956,7 @@
           "credits": "4",
           "course": "306",
           "days": [
-            "MW",
+            "TR",
             "R"
           ],
           "date (mm/dd)": [
@@ -7969,11 +7964,11 @@
             "08/29-12/14"
           ],
           "location": [
-            "HALB 104",
+            "HALB 327",
             "HALB 66"
           ],
           "time": [
-            "04:10 pm-05:25 pm",
+            "08:00 am-09:15 am",
             "05:30 pm-08:20 pm"
           ],
           "crn": "27239"
@@ -8124,10 +8119,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "503",
           "title": "GEOLOGIC FIELD METHODS",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Michael J. Heaney (P)",
@@ -8158,10 +8153,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "504",
           "title": "GEOLOGIC FIELD METHODS",
-          "remaining": "10",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "Michael J. Heaney (P)",
@@ -8192,10 +8187,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "GEOLOGIC FIELD METHODS",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Michael J. Heaney (P)",
@@ -8226,10 +8221,10 @@
           "subject": "GEOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "GEOLOGIC FIELD METHODS",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Michael J. Heaney (P)",
@@ -8259,5 +8254,5 @@
     }
   },
   "title": "GEOL - Geology",
-  "updated": "Thu Apr 07 01:17:04 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:44 AM"
 }

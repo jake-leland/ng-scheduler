@@ -2159,10 +2159,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "635",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Clare Gill (P)"
@@ -3184,10 +3184,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "201",
           "title": "HNR-BIOMEDICAL GENETICS",
-          "remaining": "8",
+          "remaining": "4",
           "capacity": "8",
           "instructor": [
             "Loren Skow (P)"
@@ -3213,10 +3213,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "BIOMEDICAL GENETICS",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "Paul Samollow (P)"
@@ -3242,10 +3242,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "BIOMEDICAL GENETICS",
-          "remaining": "5",
+          "remaining": "2",
           "capacity": "5",
           "instructor": [
             "Scott V. Dindot (P)"
@@ -3267,14 +3267,14 @@
           "crn": "11369"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "503",
           "title": "BIOMEDICAL GENETICS",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "5",
           "instructor": [
             "Terje Raudsepp (P)"
@@ -3547,10 +3547,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "18",
           "section": "500",
           "title": "PRINCIPLES OF HEREDITY",
-          "remaining": "90",
+          "remaining": "72",
           "capacity": "90",
           "instructor": [
             "Clint Magill (P)"
@@ -3615,10 +3615,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "202",
           "title": "HNR-MOLECULAR GENETICS",
-          "remaining": "4",
+          "remaining": "3",
           "capacity": "4",
           "instructor": [
             "Jorge Cruz-Reyes (P)",
@@ -3649,10 +3649,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "MOLECULAR GENETICS",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Craig D. Kaplan (P)"
@@ -3678,10 +3678,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "MOLECULAR GENETICS",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Jorge Cruz-Reyes (P)"
@@ -3708,14 +3708,14 @@
       "title": "ADVANCED HUMAN GENETICS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "500",
           "title": "ADVANCED HUMAN GENETICS",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Vijayanagaram Venkatraj (P)"
@@ -3746,10 +3746,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "900",
           "title": "MOLECULAR GENETICS LAB",
-          "remaining": "6",
+          "remaining": "3",
           "capacity": "6",
           "instructor": [
             "Michelle Henderson Pozzi (P)"
@@ -3872,11 +3872,11 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "201",
           "title": "HNR-COMPREHENSIVE GENETICS",
-          "remaining": "4",
-          "capacity": "4",
+          "remaining": "3",
+          "capacity": "5",
           "instructor": [
             "John Ellison (P)",
             "John Ellison (P)"
@@ -3902,15 +3902,15 @@
           "crn": "24051"
         },
         "202": {
-          "select": "SR",
+          "select": "C",
           "subject": "GENE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "202",
           "title": "HNR-COMPREHENSIVE GENETICS",
-          "remaining": "3",
-          "capacity": "3",
+          "remaining": "0",
+          "capacity": "5",
           "instructor": [
             "John Ellison (P)",
             "John Ellison (P)"
@@ -3940,10 +3940,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "501",
           "title": "COMPREHENSIVE GENETICS",
-          "remaining": "25",
+          "remaining": "14",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -3969,10 +3969,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "502",
           "title": "COMPREHENSIVE GENETICS",
-          "remaining": "25",
+          "remaining": "13",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -4003,10 +4003,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "510",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "3",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4032,10 +4032,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "511",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "3",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4057,14 +4057,14 @@
           "crn": "24826"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4090,10 +4090,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "512",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "1",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4119,10 +4119,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "502",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "1",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4148,10 +4148,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "513",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "4",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4177,10 +4177,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "503",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "3",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4202,14 +4202,14 @@
           "crn": "24818"
         },
         "514": {
-          "select": "SR",
+          "select": "C",
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "514",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4235,10 +4235,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "504",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "2",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4264,10 +4264,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "515",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "5",
           "capacity": "6",
           "instructor": [
             "TBA"
@@ -4293,10 +4293,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "5",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4322,10 +4322,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "506",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "1",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4351,10 +4351,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "507",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "4",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4380,10 +4380,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "508",
           "title": "COMPREHENSIVE GENETICS LAB",
-          "remaining": "6",
+          "remaining": "1",
           "capacity": "6",
           "instructor": [
             "Mollie M. Dibbley Reynolds (P)"
@@ -4506,10 +4506,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "201",
           "title": "HNR-PRINCIPLES OF GENETICS",
-          "remaining": "6",
+          "remaining": "1",
           "capacity": "6",
           "instructor": [
             "Xiuren Zhang (P)",
@@ -4540,11 +4540,11 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "202",
           "title": "HNR-PRINCIPLES OF GENETICS",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "4",
+          "capacity": "5",
           "instructor": [
             "Vladislav Panin (P)",
             "Vladislav Panin (P)"
@@ -4574,10 +4574,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "501",
           "title": "PRINCIPLES OF GENETICS",
-          "remaining": "10",
+          "remaining": "2",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -4603,10 +4603,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "502",
           "title": "PRINCIPLES OF GENETICS",
-          "remaining": "10",
+          "remaining": "2",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -4637,10 +4637,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "POPULATION & ECOL GEN",
-          "remaining": "75",
+          "remaining": "69",
           "capacity": "75",
           "instructor": [
             "J Johnston (P)"
@@ -4671,10 +4671,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "POPULATION GENETICS",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "Charles Criscione (P)"
@@ -4705,10 +4705,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "500",
           "title": "MAMMALIAN GENETICS",
-          "remaining": "30",
+          "remaining": "22",
           "capacity": "30",
           "instructor": [
             "James Womack (P)"
@@ -4739,10 +4739,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "GENETICS",
-          "remaining": "32",
+          "remaining": "30",
           "capacity": "32",
           "instructor": [
             "Clint Magill (P)"
@@ -4802,10 +4802,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "BACTERIAL GENETICS",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Michael Manson (P)"
@@ -4904,10 +4904,10 @@
           "subject": "GENE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "CRIT ANALYSIS GENE LIT",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Hubert O. Amrein (P)"
@@ -4932,5 +4932,5 @@
     }
   },
   "title": "GENE - Genetics",
-  "updated": "Thu Apr 07 01:16:42 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:44 AM"
 }

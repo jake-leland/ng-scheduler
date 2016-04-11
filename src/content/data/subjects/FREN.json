@@ -42,10 +42,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "BEGINNING FRENCH I",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Sylvie B. Ragucci (P)",
@@ -76,10 +76,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "BEGINNING FRENCH I",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Sylvie B. Ragucci (P)",
@@ -110,10 +110,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "BEGINNING FRENCH I",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Adam R. Rosenthal (P)",
@@ -144,10 +144,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "BEGINNING FRENCH I",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Adam R. Rosenthal (P)",
@@ -183,10 +183,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "FRENCH LITERATURE I",
-          "remaining": "25",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "Ruth Larson (P)"
@@ -217,10 +217,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "BEGINNING FRENCH II",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Sylvie B. Ragucci (P)",
@@ -251,10 +251,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "BEGINNING FRENCH II",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Sylvie B. Ragucci (P)",
@@ -319,10 +319,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "INTERMEDIATE FRENCH I",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Francoise Vionnet-Bracher (P)"
@@ -348,10 +348,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "INTERMEDIATE FRENCH I",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "Jean Baptiste M. Charlot (P)"
@@ -377,10 +377,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "INTERMEDIATE FRENCH I",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Jean Baptiste M. Charlot (P)"
@@ -411,10 +411,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "900",
           "title": "WRITTEN COMM IN FREN SP WORLD",
-          "remaining": "25",
+          "remaining": "18",
           "capacity": "25",
           "instructor": [
             "Ruth Larson (P)"
@@ -445,10 +445,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "ORAL COMM IN FRENCH SP WORLD",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Francoise Vionnet-Bracher (P)"
@@ -479,10 +479,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "INTERMEDIATE FRENCH II",
-          "remaining": "25",
+          "remaining": "18",
           "capacity": "25",
           "instructor": [
             "Jean Baptiste M. Charlot (P)"
@@ -508,10 +508,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "INTERMEDIATE FRENCH II",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Jean Baptiste M. Charlot (P)"
@@ -542,10 +542,10 @@
           "subject": "FREN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "FREN SOCIETY AND CULTURE",
-          "remaining": "25",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Nathan Bracher (P)"
@@ -582,7 +582,7 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Melanie Hawthorne (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "422",
@@ -606,17 +606,17 @@
       "title": "SEMINAR FRENCH FRANCOPHONE",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "FREN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "SEMINAR FRENCH FRANCOPHONE",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "27",
+          "capacity": "30",
           "instructor": [
-            "TBA"
+            "Melanie Hawthorne (P)"
           ],
           "credits": "3",
           "course": "481",
@@ -638,5 +638,5 @@
     }
   },
   "title": "FREN - French",
-  "updated": "Thu Apr 07 01:16:28 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:43 AM"
 }

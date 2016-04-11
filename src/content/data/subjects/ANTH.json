@@ -738,10 +738,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "OLD WORLD ARCHAEOLOGY",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Anna E. Linderholm (P)"
@@ -1062,10 +1062,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "605",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Deborah N. Carlson (P)"
@@ -1671,10 +1671,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "617",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "Cemalettin M. Pulak (P)"
@@ -2261,10 +2261,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "SOC AND CULT ANTH",
-          "remaining": "50",
+          "remaining": "44",
           "capacity": "50",
           "instructor": [
             "Allison L. Hopkins (P)"
@@ -2290,10 +2290,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "502",
           "title": "SOC AND CULT ANTH",
-          "remaining": "125",
+          "remaining": "117",
           "capacity": "125",
           "instructor": [
             "Jeffrey Winking (P)"
@@ -2324,10 +2324,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "FOSSIL EVID HUMAN EVO",
-          "remaining": "30",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
             "Darryl De Ruiter (P)"
@@ -2392,10 +2392,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "900",
           "title": "ARCHAEOLOGICAL THEORY",
-          "remaining": "12",
+          "remaining": "9",
           "capacity": "12",
           "instructor": [
             "Frank Goebel (P)"
@@ -2426,10 +2426,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "OUTFIT & SAIL WOOD SHIP",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Kevin Crisman (P)"
@@ -2460,13 +2460,13 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "MEDICAL ANTHROPOLOGY",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
-            "TBA"
+            "Allison L. Hopkins (P)"
           ],
           "credits": "3",
           "course": "435",
@@ -2494,10 +2494,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "NAUTICAL ARCHAEOLOGY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Cemalettin M. Pulak (P)"
@@ -2528,10 +2528,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "NAUTICAL ARCHAEOLOGY",
-          "remaining": "100",
+          "remaining": "98",
           "capacity": "100",
           "instructor": [
             "TBA"
@@ -2562,10 +2562,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "CLASSICAL SEAFARING",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Deborah N. Carlson (P)"
@@ -2588,6 +2588,40 @@
         }
       }
     },
+    "614": {
+      "title": "BOOKS-TREATISES ON SHIPS",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "ANTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "BOOKS-TREATISES ON SHIPS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "614",
+          "days": [
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "ANTH 105"
+          ],
+          "time": [
+            "02:00 pm-05:00 pm"
+          ],
+          "crn": "28724"
+        }
+      }
+    },
     "615": {
       "title": "HIST OF SHIP BUILD TEC",
       "sections": {
@@ -2596,10 +2630,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "HIST OF SHIP BUILD TEC",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Cemalettin M. Pulak (P)"
@@ -2630,10 +2664,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "ANCIENT CIVILIZATIONS",
-          "remaining": "35",
+          "remaining": "28",
           "capacity": "35",
           "instructor": [
             "David Carlson (P)"
@@ -2664,10 +2698,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "FOLKLORE & SUPERNATURAL",
-          "remaining": "50",
+          "remaining": "47",
           "capacity": "50",
           "instructor": [
             "Thomas Green (P)"
@@ -3646,10 +3680,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "200",
           "title": "HNR-INTRO TO ANTHROPOLOGY",
-          "remaining": "30",
+          "remaining": "23",
           "capacity": "30",
           "instructor": [
             "David Carlson (P)"
@@ -3675,10 +3709,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "599",
-          "title": "INTRO TO ANTHROPOLOGY",
-          "remaining": "250",
+          "title": "INTRO TO ANTHROPOLOGY (Syllabus)",
+          "remaining": "245",
           "capacity": "250",
           "instructor": [
             "Vaughn Bryant (P)"
@@ -3759,6 +3793,40 @@
         }
       }
     },
+    "300": {
+      "title": "CULT CHANGE & DEVELOP",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ANTH",
+          "campus": "CS",
+          "classes": 1,
+          "active": "1",
+          "section": "500",
+          "title": "CULT CHANGE & DEVELOP",
+          "remaining": "19",
+          "capacity": "20",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "300",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "04:10 pm-05:25 pm"
+          ],
+          "crn": "28709"
+        }
+      }
+    },
     "421": {
       "title": "MUSEUMS & FUNCTIONS",
       "sections": {
@@ -3767,10 +3835,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "500",
           "title": "MUSEUMS & FUNCTIONS",
-          "remaining": "30",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -5256,10 +5324,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "INTRO TO ARCHAEOLOGY",
-          "remaining": "50",
+          "remaining": "49",
           "capacity": "50",
           "instructor": [
             "TBA"
@@ -5285,10 +5353,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "INTRO TO ARCHAEOLOGY",
-          "remaining": "200",
+          "remaining": "196",
           "capacity": "200",
           "instructor": [
             "Alston Thoms (P)"
@@ -5319,10 +5387,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "INTRO BIOLOGICAL ANTHRO",
-          "remaining": "140",
+          "remaining": "139",
           "capacity": "140",
           "instructor": [
             "Darryl De Ruiter (P)"
@@ -5353,10 +5421,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
-          "title": "ARCHAEOLOGY OF N AMER",
-          "remaining": "35",
+          "title": "ARCHAEOLOGY OF N AMER (Syllabus)",
+          "remaining": "33",
           "capacity": "35",
           "instructor": [
             "Kelly E. Graf (P)"
@@ -5387,10 +5455,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "MUS IN WORLD CULTURES",
-          "remaining": "124",
+          "remaining": "117",
           "capacity": "124",
           "instructor": [
             "Leonardo Cardoso De Cardoso (P)"
@@ -5416,10 +5484,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "MUS IN WORLD CULTURES",
-          "remaining": "124",
+          "remaining": "123",
           "capacity": "124",
           "instructor": [
             "Leonardo Cardoso De Cardoso (P)"
@@ -5445,10 +5513,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "503",
           "title": "MUS IN WORLD CULTURES",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Rumya Putcha (P)"
@@ -5516,8 +5584,8 @@
           "active": "0",
           "section": "502",
           "title": "SPTP: THE VIKING AGE",
-          "remaining": "10",
-          "capacity": "10",
+          "remaining": "8",
+          "capacity": "8",
           "instructor": [
             "Anna E. Linderholm (P)"
           ],
@@ -5542,10 +5610,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "SPTP:NEANDERTHALS",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Sheela Athreya (P)"
@@ -5576,10 +5644,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "PEOPLS & CULTS OF ANCNT WORLD",
-          "remaining": "140",
+          "remaining": "138",
           "capacity": "140",
           "instructor": [
             "Kelly E. Graf (P)"
@@ -5668,10 +5736,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "INTRO TO BIOLOGICAL ANTH LAB",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -5726,15 +5794,83 @@
     "205": {
       "title": "PEOPLES & CULT OF WRLD",
       "sections": {
+        "907": {
+          "select": "C",
+          "subject": "ANTH",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "907",
+          "title": "PEOPLES & CULT OF WRLD",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "R",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EABA 121",
+            "ANTH 237"
+          ],
+          "time": [
+            "02:15 pm-03:30 pm",
+            "10:20 am-11:35 am"
+          ],
+          "crn": "28718"
+        },
+        "908": {
+          "select": "C",
+          "subject": "ANTH",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "908",
+          "title": "PEOPLES & CULT OF WRLD",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "R",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EABA 121",
+            "ANTH 130"
+          ],
+          "time": [
+            "02:15 pm-03:30 pm",
+            "11:00 am-12:15 pm"
+          ],
+          "crn": "28719"
+        },
         "510": {
           "select": "SR",
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "510",
           "title": "PEOPLES & CULT OF WRLD",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -5789,10 +5925,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "599",
-          "title": "PEOPLES & CULT OF WRLD",
-          "remaining": "300",
+          "title": "PEOPLES & CULT OF WRLD (Syllabus)",
+          "remaining": "293",
           "capacity": "300",
           "instructor": [
             "Vaughn Bryant (P)"
@@ -5818,10 +5954,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "PEOPLES & CULT OF WRLD",
-          "remaining": "125",
+          "remaining": "122",
           "capacity": "125",
           "instructor": [
             "Michael Alvard (P)"
@@ -5876,10 +6012,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "PEOPLES & CULT OF WRLD",
-          "remaining": "125",
+          "remaining": "121",
           "capacity": "125",
           "instructor": [
             "Michael Alvard (P)"
@@ -5934,10 +6070,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "503",
           "title": "PEOPLES & CULT OF WRLD",
-          "remaining": "140",
+          "remaining": "136",
           "capacity": "140",
           "instructor": [
             "Luis F. Vieira De Castro (P)"
@@ -5992,10 +6128,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "PEOPLES & CULT OF WRLD",
-          "remaining": "90",
+          "remaining": "89",
           "capacity": "90",
           "instructor": [
             "TBA"
@@ -6021,10 +6157,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "PEOPLES & CULT OF WRLD",
-          "remaining": "90",
+          "remaining": "89",
           "capacity": "90",
           "instructor": [
             "TBA"
@@ -6044,6 +6180,40 @@
             "03:55 pm-05:10 pm"
           ],
           "crn": "10241"
+        },
+        "901": {
+          "select": "C",
+          "subject": "ANTH",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "901",
+          "title": "PEOPLES & CULT OF WRLD",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "T",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EABA 121",
+            "ANTH 237"
+          ],
+          "time": [
+            "02:15 pm-03:30 pm",
+            "09:10 am-10:25 am"
+          ],
+          "crn": "28712"
         },
         "506": {
           "select": "SR",
@@ -6074,6 +6244,40 @@
           ],
           "crn": "16475"
         },
+        "902": {
+          "select": "C",
+          "subject": "ANTH",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "902",
+          "title": "PEOPLES & CULT OF WRLD",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "T",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EABA 121",
+            "ANTH 237"
+          ],
+          "time": [
+            "02:15 pm-03:30 pm",
+            "11:00 am-12:15 pm"
+          ],
+          "crn": "28713"
+        },
         "507": {
           "select": "SR",
           "subject": "ANTH",
@@ -6103,15 +6307,49 @@
           ],
           "crn": "16476"
         },
+        "903": {
+          "select": "C",
+          "subject": "ANTH",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "903",
+          "title": "PEOPLES & CULT OF WRLD",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "T",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EABA 121",
+            "ANTH 237"
+          ],
+          "time": [
+            "02:15 pm-03:30 pm",
+            "01:00 pm-02:15 pm"
+          ],
+          "crn": "28714"
+        },
         "508": {
           "select": "SR",
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "508",
           "title": "PEOPLES & CULT OF WRLD",
-          "remaining": "90",
+          "remaining": "89",
           "capacity": "90",
           "instructor": [
             "TBA"
@@ -6132,15 +6370,49 @@
           ],
           "crn": "16478"
         },
+        "904": {
+          "select": "C",
+          "subject": "ANTH",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "904",
+          "title": "PEOPLES & CULT OF WRLD",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "T",
+            "W"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EABA 121",
+            "ANTH 237"
+          ],
+          "time": [
+            "02:15 pm-03:30 pm",
+            "03:00 pm-04:15 pm"
+          ],
+          "crn": "28715"
+        },
         "509": {
           "select": "SR",
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "509",
           "title": "PEOPLES & CULT OF WRLD",
-          "remaining": "50",
+          "remaining": "49",
           "capacity": "50",
           "instructor": [
             "TBA"
@@ -6160,6 +6432,74 @@
             "01:50 pm-02:40 pm"
           ],
           "crn": "27197"
+        },
+        "905": {
+          "select": "C",
+          "subject": "ANTH",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "905",
+          "title": "PEOPLES & CULT OF WRLD",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "R",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EABA 121",
+            "ANTH 237"
+          ],
+          "time": [
+            "02:15 pm-03:30 pm",
+            "08:00 am-09:15 am"
+          ],
+          "crn": "28716"
+        },
+        "906": {
+          "select": "C",
+          "subject": "ANTH",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "906",
+          "title": "PEOPLES & CULT OF WRLD",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "205",
+          "days": [
+            "R",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "EABA 121",
+            "ANTH 130"
+          ],
+          "time": [
+            "02:15 pm-03:30 pm",
+            "09:10 am-10:25 am"
+          ],
+          "crn": "28717"
         }
       }
     },
@@ -6171,10 +6511,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "BIOLOGICAL ANTHROPOLOGY",
-          "remaining": "12",
+          "remaining": "8",
           "capacity": "12",
           "instructor": [
             "Sheela Athreya (P)"
@@ -6205,10 +6545,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "SPTP:NEANDERTHALS",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Sheela Athreya (P)"
@@ -6268,10 +6608,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "900",
           "title": "FUND ANTH WRITING",
-          "remaining": "24",
+          "remaining": "21",
           "capacity": "24",
           "instructor": [
             "TBA"
@@ -6336,10 +6676,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "INTRO TO FOLKLORE",
-          "remaining": "40",
+          "remaining": "39",
           "capacity": "40",
           "instructor": [
             "Thomas Green (P)"
@@ -6370,10 +6710,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "CONS OF ARCHLGL RES I",
-          "remaining": "12",
+          "remaining": "9",
           "capacity": "12",
           "instructor": [
             "Donny Hamilton (P)"
@@ -6404,10 +6744,10 @@
           "subject": "ANTH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "HISTORICAL ARCHEOLOGY",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Donny Hamilton (P)"
@@ -6432,5 +6772,5 @@
     }
   },
   "title": "ANTH - Anthropology",
-  "updated": "Thu Apr 07 01:10:21 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:37 AM"
 }

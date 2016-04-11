@@ -274,10 +274,10 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "GREAT DISEASES OF WORLD",
-          "remaining": "100",
+          "remaining": "94",
           "capacity": "100",
           "instructor": [
             "Ian Tizard (P), Linda Logan , Mohamed T. Omran"
@@ -1038,10 +1038,10 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "GENETICS IN THE NEWS",
-          "remaining": "30",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "David W. Threadgill (P)"
@@ -1064,6 +1064,40 @@
         }
       }
     },
+    "410": {
+      "title": "CELL MECHANISM OF DISEAS",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "VTPB",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "CELL MECHANISM OF DISEAS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "410",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "28730"
+        }
+      }
+    },
     "421": {
       "title": "BACTERIAL DISEASES",
       "sections": {
@@ -1072,10 +1106,10 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "500",
           "title": "BACTERIAL DISEASES",
-          "remaining": "12",
+          "remaining": "1",
           "capacity": "12",
           "instructor": [
             "Thomas Ficht (P)"
@@ -1136,7 +1170,7 @@
       "title": "PARASITOLOGY",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPB",
           "campus": "CS",
           "classes": 2,
@@ -1175,7 +1209,7 @@
       "title": "VETERINARY IMMUNOLOGY",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
@@ -1242,14 +1276,14 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "9",
           "section": "501",
           "title": "BIOMEDICAL MICROBIOLOGY",
-          "remaining": "60",
+          "remaining": "51",
           "capacity": "60",
           "instructor": [
-            "Mohamed T. Omran (P)",
-            "Mohamed T. Omran"
+            "Maria Esteve-Gasent (P), Ian Tizard",
+            "Maria Esteve-Gasent , Ian Tizard , Kenneth E. Turner"
           ],
           "credits": "5",
           "course": "405",
@@ -1267,7 +1301,7 @@
           ],
           "time": [
             "01:50 pm-03:05 pm",
-            "08:00 am-10:00 am"
+            "09:00 am-10:50 am"
           ],
           "crn": "12840"
         },
@@ -1276,14 +1310,14 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "BIOMEDICAL MICROBIOLOGY",
-          "remaining": "60",
+          "remaining": "57",
           "capacity": "60",
           "instructor": [
-            "Mohamed T. Omran (P)",
-            "Mohamed T. Omran"
+            "Maria Esteve-Gasent (P), Ian Tizard",
+            "Maria Esteve-Gasent , Ian Tizard , Kenneth E. Turner"
           ],
           "credits": "5",
           "course": "405",
@@ -1301,7 +1335,7 @@
           ],
           "time": [
             "01:50 pm-03:05 pm",
-            "10:00 am-12:00 pm"
+            "12:00 pm-01:50 pm"
           ],
           "crn": "12841"
         },
@@ -1310,10 +1344,10 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "503",
           "title": "BIOMEDICAL MICROBIOLOGY",
-          "remaining": "60",
+          "remaining": "52",
           "capacity": "60",
           "instructor": [
             "Maria Esteve-Gasent (P), Ian Tizard",
@@ -1322,7 +1356,7 @@
           "credits": "5",
           "course": "405",
           "days": [
-            "TR",
+            "MW",
             "TR"
           ],
           "date (mm/dd)": [
@@ -1334,42 +1368,37 @@
             "VMS 210"
           ],
           "time": [
-            "11:10 am-12:25 pm",
-            "01:00 pm-03:00 pm"
+            "01:50 pm-03:05 pm",
+            "03:00 pm-04:50 pm"
           ],
           "crn": "12842"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "VTPB",
           "campus": "CS",
-          "classes": 2,
-          "active": "0",
+          "classes": 1,
+          "active": "-1",
           "section": "504",
           "title": "BIOMEDICAL MICROBIOLOGY",
-          "remaining": "60",
-          "capacity": "60",
+          "remaining": "TBA",
+          "capacity": "1",
           "instructor": [
-            "Maria Esteve-Gasent (P), Ian Tizard",
-            "Maria Esteve-Gasent , Ian Tizard , Kenneth E. Turner"
+            "08/29-12/14"
           ],
           "credits": "5",
           "course": "405",
           "days": [
-            "TR",
-            "TR"
+            "TBA"
           ],
           "date (mm/dd)": [
-            "08/29-12/14",
-            "08/29-12/14"
+            "TBA"
           ],
           "location": [
-            "VMS 201",
-            "VMS 210"
+            "Lab Safety Acknowledgment"
           ],
           "time": [
-            "11:10 am-12:25 pm",
-            "03:00 pm-05:00 pm"
+            "0"
           ],
           "crn": "12843"
         }
@@ -1379,7 +1408,7 @@
       "title": "PATHOLOGY I",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPB",
           "campus": "CS",
           "classes": 3,
@@ -1461,10 +1490,10 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "500",
           "title": "INTRO TO IMMUNOLOGY",
-          "remaining": "100",
+          "remaining": "75",
           "capacity": "100",
           "instructor": [
             "Mohamed T. Omran (P)"
@@ -1491,7 +1520,7 @@
       "title": "DIDACTIC ELECTIVES",
       "sections": {
         "321": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
@@ -1520,7 +1549,7 @@
           "crn": "18566"
         },
         "322": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
@@ -1549,7 +1578,7 @@
           "crn": "15618"
         },
         "312": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
@@ -1578,7 +1607,7 @@
           "crn": "13412"
         },
         "323": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
@@ -1607,7 +1636,7 @@
           "crn": "26215"
         },
         "313": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
@@ -1668,5 +1697,5 @@
     }
   },
   "title": "VTPB - Veterinary Pathobiology",
-  "updated": "Thu Apr 07 01:26:51 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
 }

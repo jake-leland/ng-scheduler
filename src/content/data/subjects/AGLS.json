@@ -8,10 +8,10 @@
           "subject": "AGLS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "MOD AG SYS&RNW NAT RES",
-          "remaining": "336",
+          "remaining": "331",
           "capacity": "336",
           "instructor": [
             "Chris L. Skaggs (P)"
@@ -37,11 +37,11 @@
           "subject": "AGLS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "MOD AG SYS&RNW NAT RES",
-          "remaining": "336",
-          "capacity": "336",
+          "remaining": "48",
+          "capacity": "50",
           "instructor": [
             "Chris L. Skaggs (P)"
           ],
@@ -225,5 +225,5 @@
     }
   },
   "title": "AGLS - Ag & Life Sciences",
-  "updated": "Thu Apr 07 01:09:35 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:36 AM"
 }

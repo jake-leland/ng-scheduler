@@ -8,10 +8,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "602",
           "title": "THEORY EDAD RESEARCH",
-          "remaining": "15",
+          "remaining": "4",
           "capacity": "15",
           "instructor": [
             "Yvonna Lincoln (P)"
@@ -37,10 +37,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "603",
           "title": "THEORY EDAD RESEARCH",
-          "remaining": "15",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "Homer Tolson (P)"
@@ -270,14 +270,14 @@
           "crn": "15279"
         },
         "654": {
-          "select": "SR",
+          "select": "C",
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "654",
           "title": "RESEARCH: IN-ABSENTIA",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Christine A. Stanley (P)"
@@ -506,10 +506,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "603",
           "title": "RESEARCH",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Vicente Lechuga (P)"
@@ -1033,10 +1033,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "602",
           "title": "PROFESSIONAL STUDY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Mario Torres (P)"
@@ -1270,10 +1270,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "PRACTICUM IN SAAHE",
-          "remaining": "0",
+          "remaining": "-3",
           "capacity": "0",
           "instructor": [
             "TBA"
@@ -1425,10 +1425,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "700",
           "title": "INTERNSHIP",
-          "remaining": "0",
+          "remaining": "-8",
           "capacity": "0",
           "instructor": [
             "Robert W. Muller (P)"
@@ -1875,10 +1875,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "ORG THEORY & LRDSHP EDUC",
-          "remaining": "15",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
             "Glenda D. Musoba (P)"
@@ -1909,10 +1909,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "HIGHER EDUCATION LAW",
-          "remaining": "0",
+          "remaining": "-3",
           "capacity": "0",
           "instructor": [
             "TBA"
@@ -1943,10 +1943,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "ADMIN OF HIGHER EDUC",
-          "remaining": "10",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Vicente Lechuga (P)"
@@ -2011,10 +2011,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "COLLEGE TEACHING",
-          "remaining": "18",
+          "remaining": "12",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -2037,40 +2037,6 @@
         }
       }
     },
-    "624": {
-      "title": "ADM SPEC POPUL PROGRAMS",
-      "sections": {
-        "700": {
-          "select": "C",
-          "subject": "EDAD",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "700",
-          "title": "ADM SPEC POPUL PROGRAMS",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "624",
-          "days": [
-            "WEB"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "WEB"
-          ],
-          "time": [
-            "WEB"
-          ],
-          "crn": "26884"
-        }
-      }
-    },
     "603": {
       "title": "ADV STUD DEVELOP THEORY",
       "sections": {
@@ -2079,10 +2045,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "ADV STUD DEVELOP THEORY",
-          "remaining": "0",
+          "remaining": "-3",
           "capacity": "0",
           "instructor": [
             "Luis Ponjuan (P)"
@@ -2181,10 +2147,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "700",
           "title": "DEV SCHL COM PRTNRSHPS",
-          "remaining": "0",
+          "remaining": "-8",
           "capacity": "0",
           "instructor": [
             "Gwendolyn Webb-Johnson (P)"
@@ -2244,10 +2210,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "601",
           "title": "FOUND OF EDUC ADMIN",
-          "remaining": "15",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Vicente Lechuga (P)"
@@ -2365,10 +2331,10 @@
           "subject": "EDAD",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "700",
           "title": "PUBLIC SCHOOL LAWS",
-          "remaining": "0",
+          "remaining": "-8",
           "capacity": "0",
           "instructor": [
             "Mario Torres (P)"
@@ -2393,5 +2359,5 @@
     }
   },
   "title": "EDAD - Educational Administrtn",
-  "updated": "Thu Apr 07 01:14:33 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:41 AM"
 }

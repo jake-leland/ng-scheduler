@@ -8,10 +8,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "CURR & INSTR FOR MIDG GRADES",
-          "remaining": "20",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Candice R. Ashley (P)",
@@ -42,10 +42,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "CURR & INSTR FOR MIDG GRADES",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "James D. Laub",
@@ -72,14 +72,14 @@
           "crn": "25278"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "503",
           "title": "CURR & INSTR FOR MIDG GRADES",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Candice R. Ashley (P)",
@@ -110,10 +110,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "CURR & INSTR FOR MIDG GRADES",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -207,10 +207,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "SUPERVISED CLINICAL TEACHING",
-          "remaining": "75",
+          "remaining": "73",
           "capacity": "75",
           "instructor": [
             "Kimberly B. Parish (P)"
@@ -241,10 +241,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "SCIENCE METHODS IN MIDG",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Julie A. Singleton (P)",
@@ -271,14 +271,14 @@
           "crn": "12087"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "503",
           "title": "SCIENCE METHODS IN MIDG",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Julie A. Singleton (P)",
@@ -314,10 +314,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "MATH METHODS IN MIDG",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Dawn R. Parker (P)",
@@ -348,10 +348,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "503",
           "title": "MATH METHODS IN MIDG",
-          "remaining": "10",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Dawn R. Parker (P)",
@@ -387,10 +387,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "SOCIAL STUDIES MTHD MIDG",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Janet Hammer (P)",
@@ -421,10 +421,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "SOCIAL STUDIES MTHD MIDG",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -454,5 +454,5 @@
     }
   },
   "title": "MEFB - Mid Grds Ed Field Based",
-  "updated": "Thu Apr 07 01:20:26 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:48 AM"
 }

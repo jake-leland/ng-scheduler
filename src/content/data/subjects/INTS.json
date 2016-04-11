@@ -303,10 +303,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "901",
           "title": "SEMINAR",
-          "remaining": "20",
+          "remaining": "10",
           "capacity": "20",
           "instructor": [
             "Natalie M. Khazaal (P)"
@@ -332,10 +332,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "902",
           "title": "SEMINAR",
-          "remaining": "20",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "Sena Karasipahi (P)"
@@ -361,10 +361,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "903",
           "title": "SEMINAR",
-          "remaining": "20",
+          "remaining": "12",
           "capacity": "20",
           "instructor": [
             "Adam R. Rosenthal (P)"
@@ -407,10 +407,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "LAAH 264"
+            "ACAD 123"
           ],
           "time": [
-            "09:35 am-10:50 am"
+            "11:10 am-12:25 pm"
           ],
           "crn": "19229"
         },
@@ -436,10 +436,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "ACAD 123"
+            "ACAD 226"
           ],
           "time": [
-            "12:45 pm-02:00 pm"
+            "09:35 am-10:50 am"
           ],
           "crn": "22803"
         }
@@ -739,44 +739,15 @@
     "201": {
       "title": "INTRO TO INTS",
       "sections": {
-        "200": {
-          "select": "C",
-          "subject": "INTS",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "200",
-          "title": "HNR-INTRO TO INTS",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "201",
-          "days": [
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "ACAD 226"
-          ],
-          "time": [
-            "11:10 am-12:25 pm"
-          ],
-          "crn": "21358"
-        },
         "501": {
           "select": "SR",
           "subject": "INTS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "INTRO TO INTS",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Dinah Hannaford (P)",
@@ -875,10 +846,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "504",
           "title": "INTRO TO INTS",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Dinah Hannaford (P)",
@@ -914,10 +885,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "GENDER AND THE GLOBAL MODERN",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Melanie Hawthorne (P)"
@@ -948,16 +919,50 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "THEORIES OF GLOBALIZATION",
-          "remaining": "30",
-          "capacity": "30",
+          "remaining": "48",
+          "capacity": "50",
+          "instructor": [
+            "Sena Karasipahi (P)"
+          ],
+          "credits": "3",
+          "course": "301",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 102"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "25175"
+        }
+      }
+    },
+    "401": {
+      "title": "URBANISM & MODERNISM",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "INTS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "URBANISM & MODERNISM",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "TBA"
           ],
           "credits": "3",
-          "course": "301",
+          "course": "401",
           "days": [
             "TR"
           ],
@@ -965,12 +970,12 @@
             "08/29-12/14"
           ],
           "location": [
-            "ACAD 123"
+            "ACAD 226"
           ],
           "time": [
             "11:10 am-12:25 pm"
           ],
-          "crn": "25175"
+          "crn": "28688"
         }
       }
     },
@@ -1011,13 +1016,13 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "31",
           "section": "500",
           "title": "CURRENT ISSUES INTL STUD",
-          "remaining": "248",
+          "remaining": "217",
           "capacity": "248",
           "instructor": [
-            "TBA"
+            "Robert Shandley (P)"
           ],
           "credits": "1",
           "course": "205",
@@ -1041,31 +1046,31 @@
       "title": "NATIONS & NATIONALISMS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "NATIONS & NATIONALISMS",
-          "remaining": "50",
-          "capacity": "50",
+          "remaining": "-2",
+          "capacity": "0",
           "instructor": [
-            "Sena Karasipahi (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "403",
           "days": [
-            "MWF"
+            "TR"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "CHEN 102"
+            "PETR 113"
           ],
           "time": [
-            "01:50 pm-02:40 pm"
+            "02:20 pm-03:35 pm"
           ],
           "crn": "19228"
         },
@@ -1074,10 +1079,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "900",
           "title": "NATIONS & NATIONALISMS",
-          "remaining": "20",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -1085,52 +1090,18 @@
           "credits": "3",
           "course": "403",
           "days": [
-            "MW"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "ACAD 227"
-          ],
-          "time": [
-            "04:10 pm-05:25 pm"
-          ],
-          "crn": "27329"
-        }
-      }
-    },
-    "405": {
-      "title": "WAR AND MEMORY",
-      "sections": {
-        "900": {
-          "select": "C",
-          "subject": "INTS",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "900",
-          "title": "WAR AND MEMORY",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "Robert Shandley (P)"
-          ],
-          "credits": "3",
-          "course": "405",
-          "days": [
             "TR"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "ACAD 226"
+            "LAAH 264"
           ],
           "time": [
             "09:35 am-10:50 am"
           ],
-          "crn": "27330"
+          "crn": "27329"
         }
       }
     },
@@ -1142,10 +1113,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "500",
           "title": "DIVERSITY GLOBALIZ WORLD",
-          "remaining": "50",
+          "remaining": "40",
           "capacity": "50",
           "instructor": [
             "Dinah Hannaford (P)"
@@ -1171,10 +1142,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "900",
           "title": "DIVERSITY GLOBALIZ WORLD",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Nathan Bracher (P)"
@@ -1201,15 +1172,15 @@
       "title": "CULTURE NEOLIB GLOBALISM",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "CULTURE NEOLIB GLOBALISM",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "33",
+          "capacity": "40",
           "instructor": [
             "TBA"
           ],
@@ -1222,10 +1193,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "HRBB 115"
+            "PETR 106"
           ],
           "time": [
-            "03:55 pm-05:10 pm"
+            "11:10 am-12:25 pm"
           ],
           "crn": "24341"
         }
@@ -1233,5 +1204,5 @@
     }
   },
   "title": "INTS - International Studies",
-  "updated": "Thu Apr 07 01:18:28 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:46 AM"
 }

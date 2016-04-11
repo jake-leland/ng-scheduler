@@ -633,16 +633,16 @@
           "credits": "3",
           "course": "670",
           "days": [
-            " "
+            "TR"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "MILS 213"
           ],
           "time": [
-            "TBA"
+            "08:00 am-09:15 am"
           ],
           "crn": "23107"
         }
@@ -943,6 +943,40 @@
         }
       }
     },
+    "672": {
+      "title": "COMPUTER GRAPHICS",
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "VIZA",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "600",
+          "title": "COMPUTER GRAPHICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "672",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 126"
+          ],
+          "time": [
+            "01:50 pm-02:40 pm"
+          ],
+          "crn": "28686"
+        }
+      }
+    },
     "684": {
       "title": "PROFESSIONAL INTERNSHIP",
       "sections": {
@@ -1014,10 +1048,10 @@
           "subject": "VIZA",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "CONTEMP ART STUDIO/SEM I",
-          "remaining": "12",
+          "remaining": "10",
           "capacity": "12",
           "instructor": [
             "Carol Lafayette (P)",
@@ -1053,10 +1087,10 @@
           "subject": "VIZA",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "VISUAL STORYTELLING",
-          "remaining": "25",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Ergun Akleman (P)",
@@ -1466,40 +1500,6 @@
         }
       }
     },
-    "675": {
-      "title": "GEOMETRIC MODELING",
-      "sections": {
-        "600": {
-          "select": "SR",
-          "subject": "VIZA",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "GEOMETRIC MODELING",
-          "remaining": "10",
-          "capacity": "10",
-          "instructor": [
-            "Scott Schaefer (P)"
-          ],
-          "credits": "3",
-          "course": "675",
-          "days": [
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "CVE 007"
-          ],
-          "time": [
-            "11:10 am-12:25 pm"
-          ],
-          "crn": "25611"
-        }
-      }
-    },
     "643": {
       "title": "TIME BASED MEDIA I",
       "sections": {
@@ -1547,10 +1547,10 @@
           "subject": "VIZA",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "600",
           "title": "DIGITAL IMAGE",
-          "remaining": "30",
+          "remaining": "23",
           "capacity": "30",
           "instructor": [
             "Ergun Akleman (P)",
@@ -1625,10 +1625,10 @@
           "subject": "VIZA",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "3D MODELING & ANIMATN",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Ann McNamara (P)",
@@ -1664,10 +1664,10 @@
           "subject": "VIZA",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "FORM/INSTAL/ENVIRONMT",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Jinsil Seo (P)",
@@ -1703,10 +1703,10 @@
           "subject": "VIZA",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "EXPERIMENTAL TECHNIQUE",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Francis K. Quek (P)",
@@ -1737,10 +1737,10 @@
           "subject": "VIZA",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "601",
           "title": "EXPERIMENTAL TECHNIQUE (Syllabus)",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Sharon Lynn Chu Yew Yee (P)",
@@ -1815,10 +1815,10 @@
           "subject": "VIZA",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "GENERATIVE ART & DESIGN",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Philip Galanter (P)",
@@ -1859,10 +1859,10 @@
           "subject": "VIZA",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "PHYSIC BASED MODELING",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "John Keyser (P)",
@@ -1898,10 +1898,10 @@
           "subject": "VIZA",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "600",
           "title": "ADV ANIMATION",
-          "remaining": "15",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "Frederic Parke (P)",
@@ -1931,5 +1931,5 @@
     }
   },
   "title": "VIZA - Visualization",
-  "updated": "Thu Apr 07 01:26:36 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
 }

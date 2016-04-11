@@ -4,15 +4,15 @@
       "title": "GLOBAL GERMANY",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "GERM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "GLOBAL GERMANY",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "38",
+          "capacity": "40",
           "instructor": [
             "Ashley A. Passmore (P)"
           ],
@@ -42,10 +42,10 @@
           "subject": "GERM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "BEGINNING GERMAN I",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -76,10 +76,10 @@
           "subject": "GERM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "BEGINNING GERMAN I",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -115,10 +115,10 @@
           "subject": "GERM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "BEGINNING GERMAN II",
-          "remaining": "30",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
             "TBA",
@@ -154,10 +154,10 @@
           "subject": "GERM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "501",
           "title": "INTERMEDIATE GERMAN I",
-          "remaining": "30",
+          "remaining": "22",
           "capacity": "30",
           "instructor": [
             "Ashley A. Passmore (P)"
@@ -183,10 +183,10 @@
           "subject": "GERM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "INTERMEDIATE GERMAN I",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Ashley A. Passmore (P)"
@@ -217,10 +217,10 @@
           "subject": "GERM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "CONVERSATION",
-          "remaining": "18",
+          "remaining": "14",
           "capacity": "18",
           "instructor": [
             "Thomas Siefert (P)"
@@ -251,10 +251,10 @@
           "subject": "GERM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "INTERMEDIATE GERMAN II",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -319,10 +319,10 @@
           "subject": "GERM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "GERMAN SHORT FICTION",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Stefanie Harris (P)"
@@ -347,5 +347,5 @@
     }
   },
   "title": "GERM - German",
-  "updated": "Thu Apr 07 01:17:14 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:44 AM"
 }

@@ -4,7 +4,7 @@
       "title": "BASIC COMPOSITION",
       "sections": {
         "101": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -33,7 +33,7 @@
           "crn": "11130"
         },
         "102": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -67,7 +67,7 @@
       "title": "INTERMEDIATE COMPOSITION",
       "sections": {
         "201": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -96,7 +96,7 @@
           "crn": "11132"
         },
         "202": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -130,7 +130,7 @@
       "title": "ADVANCED COMPOSITION",
       "sections": {
         "300": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -159,7 +159,7 @@
           "crn": "20834"
         },
         "301": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -188,7 +188,7 @@
           "crn": "11133"
         },
         "302": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -217,7 +217,7 @@
           "crn": "11134"
         },
         "303": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -246,7 +246,7 @@
           "crn": "11135"
         },
         "304": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -275,7 +275,7 @@
           "crn": "11136"
         },
         "305": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -309,7 +309,7 @@
       "title": "INTERMEDIATE COMPOSITION II",
       "sections": {
         "500": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -338,7 +338,7 @@
           "crn": "20789"
         },
         "251": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIC",
           "campus": "EL",
           "classes": 1,
@@ -370,5 +370,5 @@
     }
   },
   "title": "ELIC - Composition",
-  "updated": "Thu Apr 07 01:14:59 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

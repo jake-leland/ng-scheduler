@@ -245,10 +245,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "660",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Thomas Taylor (P)"
@@ -303,10 +303,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "640",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Joseph M. Awika (P)"
@@ -535,10 +535,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "688",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Stephen T. Talcott (P)"
@@ -806,10 +806,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "PRNCPLS OF FOOD PRSCNG",
-          "remaining": "15",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
             "Stephen T. Talcott (P)",
@@ -853,7 +853,7 @@
           "course": "311",
           "days": [
             "MWF",
-            " "
+            "T"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -865,43 +865,9 @@
           ],
           "time": [
             "09:10 am-10:00 am",
-            "TBA"
+            "02:10 pm-05:10 pm"
           ],
           "crn": "11355"
-        },
-        "503": {
-          "select": "C",
-          "subject": "FSTC",
-          "campus": "CS",
-          "classes": 2,
-          "active": "0",
-          "section": "503",
-          "title": "PRNCPLS OF FOOD PRSCNG",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA",
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "311",
-          "days": [
-            "MWF",
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14",
-            "08/29-12/14"
-          ],
-          "location": [
-            "KLCT 127",
-            "TBA"
-          ],
-          "time": [
-            "09:10 am-10:00 am",
-            "TBA"
-          ],
-          "crn": "20357"
         }
       }
     },
@@ -947,10 +913,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "FOOD ANALYSIS",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Susanne Talcott (P)",
@@ -1088,10 +1054,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "FOOD PROCESS ENGR TECH",
-          "remaining": "9",
+          "remaining": "7",
           "capacity": "9",
           "instructor": [
             "Carmen L. Gomes (P)",
@@ -1195,10 +1161,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "MOL METH MICR CHARACTZN",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Suresh Pillai (P)",
@@ -1297,10 +1263,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Joseph M. Awika (P)"
@@ -1660,10 +1626,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "700",
           "title": "FOOD SCIENCE",
-          "remaining": "250",
+          "remaining": "240",
           "capacity": "250",
           "instructor": [
             "Peter Murano (P)"
@@ -1694,10 +1660,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "700",
           "title": "RELIGIOUS & ETHNIC FOODS",
-          "remaining": "250",
+          "remaining": "245",
           "capacity": "250",
           "instructor": [
             "Mian Riaz (P)"
@@ -2081,10 +2047,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "500",
           "title": "FOOD BACTERIOLOGY",
-          "remaining": "45",
+          "remaining": "33",
           "capacity": "45",
           "instructor": [
             "Thomas Taylor (P)"
@@ -2149,10 +2115,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "FUNDAMENTAL BAKING",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Joseph M. Awika (P)",
@@ -2188,10 +2154,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "FOOD BACTERIOLOGY",
-          "remaining": "8",
+          "remaining": "5",
           "capacity": "8",
           "instructor": [
             "Thomas Taylor (P)",
@@ -2329,10 +2295,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "TECH OF MEAT PROCESSNG",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Rhonda K. Miller (P)"
@@ -2427,14 +2393,14 @@
           "crn": "13932"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "MEATS",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Jeffrey Savell (P)",
@@ -2571,5 +2537,5 @@
     }
   },
   "title": "FSTC - Food Science & Tech",
-  "updated": "Thu Apr 07 01:16:35 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:44 AM"
 }

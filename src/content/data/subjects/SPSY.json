@@ -366,10 +366,10 @@
           "subject": "SPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "696",
           "title": "PROF INTERNSHIP: IN-ABSENTIA",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Krystal T. Cook (P)"
@@ -584,10 +584,10 @@
           "subject": "SPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "CHILD PSYCHOPATHOLOGY",
-          "remaining": "13",
+          "remaining": "9",
           "capacity": "13",
           "instructor": [
             "William Rae (P)"
@@ -618,10 +618,10 @@
           "subject": "SPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "ACAD ASSESS & INTRVNTN",
-          "remaining": "15",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "Nathan H. Clemens (P)"
@@ -652,10 +652,10 @@
           "subject": "SPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "LEGAL ETHIC CREDENT SPSY",
-          "remaining": "15",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "Cynthia Riccio (P)"
@@ -669,7 +669,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "EDCT 714"
+            "EDCT 715B"
           ],
           "time": [
             "02:20 pm-03:35 pm"
@@ -686,10 +686,10 @@
           "subject": "SPSY",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "IND ASSESM CHILD INTEL",
-          "remaining": "15",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
             "Krystal T. Cook (P)",
@@ -759,10 +759,10 @@
           "subject": "SPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "SYS CONSULT & PREV SCI",
-          "remaining": "25",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Nathan H. Clemens (P)"
@@ -776,7 +776,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "EDCT 717"
+            "EDCT 408"
           ],
           "time": [
             "09:35 am-12:15 pm"
@@ -793,10 +793,10 @@
           "subject": "SPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "600",
           "title": "ED IN CHILDREN",
-          "remaining": "15",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "Jamilia Blake (P)"
@@ -1059,13 +1059,13 @@
           "subject": "SPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "686",
           "title": "RESEARCH: IN-ABSENTIA",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
-            "Jorge A. Gonzalez (P)"
+            "Nathan H. Clemens (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -1233,10 +1233,10 @@
           "subject": "SPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "608",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Nathan H. Clemens (P)"
@@ -1261,5 +1261,5 @@
     }
   },
   "title": "SPSY - School Psychology",
-  "updated": "Thu Apr 07 01:25:52 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:53 AM"
 }

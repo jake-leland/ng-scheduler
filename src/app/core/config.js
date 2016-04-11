@@ -5,7 +5,7 @@
 
     var schedule = {
         minTime: '6:30 am',
-        maxTime: '9:40 pm'
+        maxTime: '9:32 pm'
     };
 
     var config = {

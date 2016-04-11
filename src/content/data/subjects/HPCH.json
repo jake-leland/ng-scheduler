@@ -990,10 +990,10 @@
           "subject": "HPCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "INTRODUCTION TO BORDER HEALTH",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Ann V. Millard (P)"
@@ -1019,10 +1019,10 @@
           "subject": "HPCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "601",
           "title": "INTRODUCTION TO BORDER HEALTH",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Ann V. Millard (P)"
@@ -1653,10 +1653,10 @@
           "subject": "HPCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "698",
           "title": "SOC BEHAV DETERMNTS OF HLTH",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Thomas Tai-Seale (P)"
@@ -1682,10 +1682,10 @@
           "subject": "HPCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "18",
           "section": "699",
           "title": "SOC BEHAV DETERMNTS OF HLTH",
-          "remaining": "100",
+          "remaining": "82",
           "capacity": "100",
           "instructor": [
             "Thomas Tai-Seale (P)"
@@ -1745,10 +1745,10 @@
           "subject": "HPCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "SOCIAL ECOLOGY HLTH BEHAVIOR",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "Gregory Colwell (P)"
@@ -1768,35 +1768,6 @@
             "09:00 am-12:00 pm"
           ],
           "crn": "22285"
-        },
-        "699": {
-          "select": "C",
-          "subject": "HPCH",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "699",
-          "title": "SOCIAL ECOLOGY HLTH BEHAVIOR",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "Gregory Colwell (P)"
-          ],
-          "credits": "3",
-          "course": "604",
-          "days": [
-            "WEB"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "WEB"
-          ],
-          "time": [
-            "WEB"
-          ],
-          "crn": "28342"
         }
       }
     },
@@ -1900,10 +1871,10 @@
           "subject": "HPCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "699",
           "title": "BIO BASIS OF HLTH & COM DIS",
-          "remaining": "100",
+          "remaining": "96",
           "capacity": "100",
           "instructor": [
             "Thomas Tai-Seale (P)"
@@ -1957,5 +1928,5 @@
     }
   },
   "title": "HPCH - Health Promo Comm Hlth",
-  "updated": "Thu Apr 07 01:18:01 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:45 AM"
 }

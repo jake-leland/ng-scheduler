@@ -4,14 +4,14 @@
       "title": "BASIC MATH SKILLS-NCB",
       "sections": {
         "500": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "BASIC MATH SKILLS-NCB",
-          "remaining": "30",
+          "remaining": "23",
           "capacity": "30",
           "instructor": [
             "Sharon Haigler (P)"
@@ -33,7 +33,7 @@
           "crn": "19836"
         },
         "511": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -62,7 +62,7 @@
           "crn": "12658"
         },
         "501": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -91,14 +91,14 @@
           "crn": "13016"
         },
         "502": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "BASIC MATH SKILLS-NCB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Sharon Haigler (P)"
@@ -120,7 +120,7 @@
           "crn": "12652"
         },
         "503": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -149,7 +149,7 @@
           "crn": "12653"
         },
         "505": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -178,7 +178,7 @@
           "crn": "12654"
         },
         "506": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -207,7 +207,7 @@
           "crn": "12655"
         },
         "507": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -236,7 +236,7 @@
           "crn": "12656"
         },
         "509": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -270,14 +270,14 @@
       "title": "BASIC WRITING SKILLS-NCB",
       "sections": {
         "500": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "BASIC WRITING SKILLS-NCB",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Sharon Haigler (P)"
@@ -328,7 +328,7 @@
           "crn": "14586"
         },
         "502": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -357,7 +357,7 @@
           "crn": "12659"
         },
         "503": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -425,7 +425,7 @@
       "title": "BASIC READING SKILLS-NCB",
       "sections": {
         "500": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -454,7 +454,7 @@
           "crn": "19838"
         },
         "501": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -483,7 +483,7 @@
           "crn": "13017"
         },
         "502": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -512,7 +512,7 @@
           "crn": "14587"
         },
         "503": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -546,7 +546,7 @@
       "title": "READING/WRITING CONNECT-NCB",
       "sections": {
         "501": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
@@ -580,14 +580,14 @@
       "title": "FUNDAMENTAL ACADEMIC SKILLS",
       "sections": {
         "501": {
-          "select": "NR",
+          "select": "SR",
           "subject": "SLCX",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "FUNDAMENTAL ACADEMIC SKILLS",
-          "remaining": "55",
+          "remaining": "52",
           "capacity": "55",
           "instructor": [
             "Sharon Haigler (P)"
@@ -612,5 +612,5 @@
     }
   },
   "title": "SLCX - Student Learning Center",
-  "updated": "Thu Apr 07 01:25:13 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:53 AM"
 }

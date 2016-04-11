@@ -154,14 +154,14 @@
           "crn": "20090"
         },
         "603": {
-          "select": "SR",
+          "select": "C",
           "subject": "LDEV",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "603",
           "title": "PROFESSIONAL INTERN",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Geoffrey J. Booth (P)"
@@ -221,10 +221,10 @@
           "subject": "LDEV",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "600",
           "title": "INTRO PROJECT MGT",
-          "remaining": "30",
+          "remaining": "22",
           "capacity": "30",
           "instructor": [
             "Sammy K. Anderson (P)"
@@ -284,10 +284,10 @@
           "subject": "LDEV",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "603",
           "title": "DIRECTED STUDIES",
-          "remaining": "5",
+          "remaining": "2",
           "capacity": "5",
           "instructor": [
             "Geoffrey J. Booth (P)"
@@ -318,10 +318,10 @@
           "subject": "LDEV",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "23",
           "section": "601",
           "title": "MRKT ANALYSIS FOR DEV",
-          "remaining": "51",
+          "remaining": "28",
           "capacity": "51",
           "instructor": [
             "John R. Peterson (P)"
@@ -352,10 +352,10 @@
           "subject": "LDEV",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "DEV FEASIBILITY&DSN I",
-          "remaining": "30",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Sammy K. Anderson (P)",
@@ -387,18 +387,18 @@
       "title": "DEV FEASIBILITY&DSNII",
       "sections": {
         "600": {
-          "select": "C",
+          "select": "SR",
           "subject": "LDEV",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "DEV FEASIBILITY&DSNII",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "15",
+          "capacity": "20",
           "instructor": [
-            "TBA",
-            "TBA"
+            "Geoffrey J. Booth",
+            "Geoffrey J. Booth (P)"
           ],
           "credits": "3",
           "course": "688",
@@ -430,10 +430,10 @@
           "subject": "LDEV",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "601",
           "title": "DSN & DEV ECONOMY",
-          "remaining": "45",
+          "remaining": "42",
           "capacity": "45",
           "instructor": [
             "Geoffrey J. Booth (P)"
@@ -464,10 +464,10 @@
           "subject": "LDEV",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "INCOME PROP LAND DEVELOP",
-          "remaining": "30",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Sammy K. Anderson (P)"
@@ -526,5 +526,5 @@
     }
   },
   "title": "LDEV - Land Development",
-  "updated": "Thu Apr 07 01:19:37 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:47 AM"
 }

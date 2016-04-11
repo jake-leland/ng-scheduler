@@ -105,10 +105,10 @@
           "subject": "EDTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "699",
           "title": "INSTRUCT DESIGN TECH",
-          "remaining": "0",
+          "remaining": "-2",
           "capacity": "0",
           "instructor": [
             "Noelle W. Sweany (P)"
@@ -134,10 +134,10 @@
           "subject": "EDTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "700",
           "title": "INSTRUCT DESIGN TECH",
-          "remaining": "25",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Noelle W. Sweany (P)"
@@ -168,10 +168,10 @@
           "subject": "EDTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "699",
           "title": "EMERGING TECH FOR LEARNING I",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "Noelle W. Sweany (P)"
@@ -197,10 +197,10 @@
           "subject": "EDTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "19",
           "section": "700",
           "title": "EMERGING TECH FOR LEARNING I",
-          "remaining": "25",
+          "remaining": "6",
           "capacity": "25",
           "instructor": [
             "Noelle W. Sweany (P)"
@@ -231,10 +231,10 @@
           "subject": "EDTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "699",
           "title": "EDU TECH FIELD THEORY AND PROF",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "Susan Pedersen (P)"
@@ -260,10 +260,10 @@
           "subject": "EDTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "700",
           "title": "EDU TECH FIELD THEORY AND PROF",
-          "remaining": "35",
+          "remaining": "29",
           "capacity": "35",
           "instructor": [
             "Susan Pedersen (P)"
@@ -294,10 +294,10 @@
           "subject": "EDTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "699",
           "title": "FOUND OF DISTANCE LRNG",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "Noelle W. Sweany (P)"
@@ -323,10 +323,10 @@
           "subject": "EDTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "18",
           "section": "700",
           "title": "FOUND OF DISTANCE LRNG",
-          "remaining": "20",
+          "remaining": "2",
           "capacity": "20",
           "instructor": [
             "Noelle W. Sweany (P)"
@@ -443,5 +443,5 @@
     }
   },
   "title": "EDTC - Educational Technology",
-  "updated": "Thu Apr 07 01:14:47 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

@@ -97,69 +97,6 @@
         }
       }
     },
-    "685": {
-      "title": "DIRECTED STUDIES",
-      "sections": {
-        "601": {
-          "select": "SR",
-          "subject": "BUAD",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "601",
-          "title": "DIRECTED STUDIES",
-          "remaining": "35",
-          "capacity": "35",
-          "instructor": [
-            "Janet G. Marcantonio (P)"
-          ],
-          "credits": "2",
-          "course": "685",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "13697"
-        },
-        "602": {
-          "select": "SR",
-          "subject": "BUAD",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "602",
-          "title": "DIRECTED STUDIES",
-          "remaining": "35",
-          "capacity": "35",
-          "instructor": [
-            "Janet G. Marcantonio (P)"
-          ],
-          "credits": "2",
-          "course": "685",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "13701"
-        }
-      }
-    },
     "620": {
       "title": "BUSINESS COMMUNICATION",
       "sections": {
@@ -251,8 +188,71 @@
           "crn": "10477"
         }
       }
+    },
+    "679": {
+      "title": "LEADERSHIP DEVELOPMENT",
+      "sections": {
+        "601": {
+          "select": "C",
+          "subject": "BUAD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "601",
+          "title": "LEADERSHIP DEVELOPMENT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "679",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28733"
+        },
+        "602": {
+          "select": "C",
+          "subject": "BUAD",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "602",
+          "title": "LEADERSHIP DEVELOPMENT",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "2",
+          "course": "679",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28735"
+        }
+      }
     }
   },
   "title": "BUAD - Business Administration",
-  "updated": "Thu Apr 07 01:11:54 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
 }

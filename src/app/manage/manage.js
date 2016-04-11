@@ -4,12 +4,7 @@
     angular
         .module('app.manage')
         .controller('Manage', Manage)
-        .config(function ($mdIconProvider) {
-            $mdIconProvider
-                .icon('add', 'content/img/icons/ic_add_black_24px.svg', 24)
-                .icon('clear', 'content/img/icons/ic_clear_black_24px.svg', 24);
-        });
-
+    
     Manage.$inject = ['$rootScope', '$scope', '$http', '$q', 'common', 'config'];
 
     /* @ngInject */

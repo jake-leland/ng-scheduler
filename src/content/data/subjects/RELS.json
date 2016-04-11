@@ -71,10 +71,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "POLITICAL ISLAM & JIHAD",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Sena Karasipahi (P)"
@@ -228,40 +228,6 @@
         }
       }
     },
-    "418": {
-      "title": "EURO INT GREECE MID AGES",
-      "sections": {
-        "500": {
-          "select": "SR",
-          "subject": "RELS",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "500",
-          "title": "EURO INT GREECE MID AGES",
-          "remaining": "2",
-          "capacity": "2",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "418",
-          "days": [
-            "MWF"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "YMCA 113"
-          ],
-          "time": [
-            "12:40 pm-01:30 pm"
-          ],
-          "crn": "27391"
-        }
-      }
-    },
     "392": {
       "title": "LIT RELIGION AND CULTURE",
       "sections": {
@@ -270,10 +236,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "LIT RELIGION AND CULTURE",
-          "remaining": "5",
+          "remaining": "2",
           "capacity": "5",
           "instructor": [
             "Margare Ezell-Mainzer (P)"
@@ -338,10 +304,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "RELIGIOUS COMMUNICATION",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "Heidi Campbell (P)"
@@ -368,14 +334,14 @@
       "title": "BIBLE AS LITERATURE",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "BIBLE AS LITERATURE",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "5",
           "instructor": [
             "William Clark (P)"
@@ -406,10 +372,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "CLASSICAL MYTHOLOGY",
-          "remaining": "30",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -468,5 +434,5 @@
     }
   },
   "title": "RELS - Religious Studies",
-  "updated": "Thu Apr 07 01:24:38 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:52 AM"
 }

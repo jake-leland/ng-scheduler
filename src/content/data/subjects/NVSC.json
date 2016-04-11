@@ -8,10 +8,10 @@
           "subject": "NVSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "LDRSHIP & MANAGEMENT I",
-          "remaining": "50",
+          "remaining": "48",
           "capacity": "50",
           "instructor": [
             "Melissa Mueller (P)",
@@ -42,10 +42,10 @@
           "subject": "NVSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "502",
           "title": "LDRSHIP & MANAGEMENT I",
-          "remaining": "50",
+          "remaining": "45",
           "capacity": "50",
           "instructor": [
             "Christopher D. Marrs (P)",
@@ -76,10 +76,10 @@
           "subject": "NVSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "503",
           "title": "LDRSHIP & MANAGEMENT I",
-          "remaining": "51",
+          "remaining": "41",
           "capacity": "51",
           "instructor": [
             "Mary B. Pena (P)",
@@ -110,10 +110,10 @@
           "subject": "NVSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "11",
           "section": "504",
           "title": "LDRSHIP & MANAGEMENT I",
-          "remaining": "55",
+          "remaining": "44",
           "capacity": "55",
           "instructor": [
             "Mary B. Pena (P)",
@@ -149,10 +149,10 @@
           "subject": "NVSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "NAVAL SHIPS SYS I ENGR",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "David F. Steinberger (P)",
@@ -179,14 +179,14 @@
           "crn": "16442"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "NVSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "NAVAL SHIPS SYS I ENGR",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "2",
           "instructor": [
             "David F. Steinberger (P)",
@@ -484,10 +484,10 @@
           "subject": "NVSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "INTRO TO NAVAL SCIENCE",
-          "remaining": "54",
+          "remaining": "53",
           "capacity": "54",
           "instructor": [
             "Frank Roney (P)",
@@ -523,10 +523,10 @@
           "subject": "NVSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "AMPHIBIOUS WARFARE",
-          "remaining": "35",
+          "remaining": "32",
           "capacity": "35",
           "instructor": [
             "Jason D. Morgan (P)",
@@ -629,5 +629,5 @@
     }
   },
   "title": "NVSC - Naval Science",
-  "updated": "Thu Apr 07 01:21:45 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:49 AM"
 }

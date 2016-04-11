@@ -8,10 +8,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "COMPUTING FOR VISUAL I",
-          "remaining": "30",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Michael L. Ringham (P)"
@@ -37,10 +37,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "COMPUTING FOR VISUAL I",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Michael L. Ringham (P)"
@@ -134,10 +134,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "INTERACT VIRTUAL ENVIRON",
-          "remaining": "20",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -231,10 +231,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "502",
           "title": "VISUALIZATION TECHNIQUES",
-          "remaining": "25",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -260,10 +260,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "503",
           "title": "VISUALIZATION TECHNIQUES",
-          "remaining": "25",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -289,10 +289,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "VISUALIZATION TECHNIQUES",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -318,10 +318,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "505",
           "title": "VISUALIZATION TECHNIQUES",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -347,10 +347,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "506",
           "title": "VISUALIZATION TECHNIQUES",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Morgan M. Jenks (P)"
@@ -415,10 +415,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "901",
           "title": "FOUNDTN OF VISUALIZATION",
-          "remaining": "35",
+          "remaining": "31",
           "capacity": "35",
           "instructor": [
             "Frederic Parke (P)"
@@ -449,10 +449,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "SCI & TECH DEV VIS ARTS",
-          "remaining": "40",
+          "remaining": "39",
           "capacity": "40",
           "instructor": [
             "Dawna L. Schuld (P)"
@@ -483,10 +483,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "DESIGNING FOR THE WEB",
-          "remaining": "25",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Howard Eilers (P)",
@@ -517,10 +517,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "700",
           "title": "DESIGNING FOR THE WEB",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Michael L. Ringham (P)"
@@ -835,6 +835,35 @@
             "TBA"
           ],
           "crn": "26522"
+        },
+        "509": {
+          "select": "C",
+          "subject": "VIST",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "509",
+          "title": "DIRECTED STUDIES",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Michael L. Ringham (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28704"
         }
       }
     },
@@ -885,10 +914,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "INTRO TO GAME DESIGN",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Andre Thomas (P)"
@@ -919,10 +948,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "900",
           "title": "WRITING FOR DESIGN",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Terry Larsen (P)"
@@ -1192,10 +1221,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "PRINCIPLES OF DESIGN III",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Terry Larsen (P)",
@@ -1270,10 +1299,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "PRINCIPLES OF DESIGN III",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Sherman S. Finch (P)",
@@ -1309,10 +1338,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "PRINCIPLES OF DESIGN III",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -1393,8 +1422,8 @@
           "remaining": "18",
           "capacity": "18",
           "instructor": [
-            "TBA",
-            "TBA"
+            "Anatol Bologan (P)",
+            "Anatol Bologan"
           ],
           "credits": "4",
           "course": "206",
@@ -1460,10 +1489,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "VIS STUDIES STUDIO II",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -1500,8 +1529,8 @@
           "remaining": "18",
           "capacity": "18",
           "instructor": [
-            "TBA",
-            "TBA"
+            "Eric D. Ragan (P)",
+            "Eric D. Ragan"
           ],
           "credits": "3",
           "course": "305",
@@ -1534,8 +1563,8 @@
           "remaining": "18",
           "capacity": "18",
           "instructor": [
-            "Eric D. Ragan (P)",
-            "Eric D. Ragan"
+            "TBA",
+            "TBA"
           ],
           "credits": "3",
           "course": "305",
@@ -1567,10 +1596,10 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "VIS STUDIES STUDIO III",
-          "remaining": "18",
+          "remaining": "14",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -1606,15 +1635,15 @@
           "subject": "VIST",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "VIS STUDIES STUDIO III",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
-            "TBA",
-            "TBA",
-            "TBA"
+            "Anatol Bologan (P)",
+            "Anatol Bologan",
+            "Anatol Bologan"
           ],
           "credits": "3",
           "course": "405",
@@ -1683,5 +1712,5 @@
     }
   },
   "title": "VIST - Visual Studies",
-  "updated": "Thu Apr 07 01:26:32 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
 }

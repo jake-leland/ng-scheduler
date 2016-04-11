@@ -38,14 +38,14 @@
       "title": "DESIGN PROCESS",
       "sections": {
         "201": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENDS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "201",
           "title": "HNR-DESIGN PROCESS",
-          "remaining": "25",
+          "remaining": "0",
           "capacity": "25",
           "instructor": [
             "Rodney Hill (P)"
@@ -67,14 +67,14 @@
           "crn": "11160"
         },
         "202": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENDS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "202",
           "title": "HNR-DESIGN PROCESS",
-          "remaining": "25",
+          "remaining": "0",
           "capacity": "25",
           "instructor": [
             "Rodney Hill (P)"
@@ -100,10 +100,10 @@
           "subject": "ENDS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "203",
           "title": "HNR-DESIGN PROCESS",
-          "remaining": "25",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "Rodney Hill (P)"
@@ -129,10 +129,10 @@
           "subject": "ENDS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "204",
           "title": "HNR-DESIGN PROCESS",
-          "remaining": "25",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Rodney Hill (P)"
@@ -192,10 +192,10 @@
           "subject": "ENDS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "205",
           "title": "HNR-DESIGN PROCESS",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Rodney Hill (P)"
@@ -255,10 +255,10 @@
           "subject": "ENDS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "206",
           "title": "HNR-DESIGN PROCESS",
-          "remaining": "25",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "Rodney Hill (P)"
@@ -318,10 +318,10 @@
           "subject": "ENDS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "207",
           "title": "HNR-DESIGN PROCESS",
-          "remaining": "25",
+          "remaining": "18",
           "capacity": "25",
           "instructor": [
             "Rodney Hill (P)"
@@ -425,10 +425,10 @@
           "subject": "ENDS",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "DESIGN COMM FOUNDATION",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "Mehdi Azizkhani",
@@ -503,10 +503,10 @@
           "subject": "ENDS",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "DESIGN COMM FOUNDATION",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "Chengde Wu",
@@ -664,10 +664,10 @@
           "subject": "ENDS",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "DESIGN FOUNDATIONS I",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "16",
           "instructor": [
             "Julie S. Rogers (P)",
@@ -897,5 +897,5 @@
     }
   },
   "title": "ENDS - Environmental Design",
-  "updated": "Thu Apr 07 01:15:10 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

@@ -72,7 +72,7 @@
       "title": "SPEC TOPICS IN BIOMED SCIENCES",
       "sections": {
         "600": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
@@ -875,10 +875,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "ONE HEALTH IN ACTION",
-          "remaining": "120",
+          "remaining": "119",
           "capacity": "120",
           "instructor": [
             "Michael C. Golding (P)"
@@ -904,10 +904,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "ONE HEALTH IN ACTION",
-          "remaining": "120",
+          "remaining": "119",
           "capacity": "120",
           "instructor": [
             "Colin Young (P)"
@@ -1133,14 +1133,14 @@
       "title": "BIOMEDICAL GENETICS",
       "sections": {
         "201": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "201",
           "title": "HNR-BIOMEDICAL GENETICS",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Loren Skow (P)"
@@ -1166,10 +1166,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "BIOMEDICAL GENETICS",
-          "remaining": "47",
+          "remaining": "42",
           "capacity": "47",
           "instructor": [
             "Paul Samollow (P)"
@@ -1195,10 +1195,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "502",
           "title": "BIOMEDICAL GENETICS",
-          "remaining": "47",
+          "remaining": "38",
           "capacity": "47",
           "instructor": [
             "Scott V. Dindot (P)"
@@ -1224,10 +1224,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "503",
           "title": "BIOMEDICAL GENETICS",
-          "remaining": "47",
+          "remaining": "37",
           "capacity": "47",
           "instructor": [
             "Terje Raudsepp (P)"
@@ -1292,10 +1292,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "INTRO TO BIOMEDICAL SC",
-          "remaining": "122",
+          "remaining": "121",
           "capacity": "122",
           "instructor": [
             "Henry J. Huebner (P)"
@@ -1321,10 +1321,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "INTRO TO BIOMEDICAL SC",
-          "remaining": "122",
+          "remaining": "119",
           "capacity": "122",
           "instructor": [
             "Henry J. Huebner (P)"
@@ -1350,10 +1350,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "INTRO TO BIOMEDICAL SC",
-          "remaining": "122",
+          "remaining": "121",
           "capacity": "122",
           "instructor": [
             "Ivan Ivanov (P)"
@@ -1379,10 +1379,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "INTRO TO BIOMEDICAL SC",
-          "remaining": "122",
+          "remaining": "121",
           "capacity": "122",
           "instructor": [
             "Ivan Ivanov (P)"
@@ -1413,10 +1413,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "500",
           "title": "ADVANCED HUMAN GENETICS",
-          "remaining": "35",
+          "remaining": "27",
           "capacity": "35",
           "instructor": [
             "Vijayanagaram Venkatraj (P)"
@@ -1515,10 +1515,10 @@
           "subject": "BIMS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "MAMMALIAN GENETICS",
-          "remaining": "30",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "James Womack (P)"
@@ -1679,5 +1679,5 @@
     }
   },
   "title": "BIMS - Biomedical Science",
-  "updated": "Thu Apr 07 01:11:27 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:38 AM"
 }

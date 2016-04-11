@@ -38,14 +38,14 @@
       "title": "THEORY OF RES IN SPT MGT",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "600",
           "title": "THEORY OF RES IN SPT MGT",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Charles Shea (P)"
@@ -71,10 +71,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "700",
           "title": "THEORY OF RES IN SPT MGT",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Matthew B. Walker (P)"
@@ -371,10 +371,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "SPORT MANAGEMENT",
-          "remaining": "30",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
             "Theodore Hayduk (P)"
@@ -396,17 +396,17 @@
           "crn": "12742"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "SPORT MANAGEMENT",
-          "remaining": "39",
-          "capacity": "39",
+          "remaining": "-1",
+          "capacity": "0",
           "instructor": [
-            "John Singer (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "333",
@@ -429,10 +429,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "503",
           "title": "SPORT MANAGEMENT",
-          "remaining": "39",
+          "remaining": "35",
           "capacity": "39",
           "instructor": [
             "David S. Waltemyer (P)"
@@ -463,10 +463,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "699",
           "title": "ECONOMIC ISSUES IN SPORT",
-          "remaining": "20",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "Steven H. Salaga (P)"
@@ -488,15 +488,15 @@
           "crn": "27893"
         },
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "700",
           "title": "ECONOMIC ISSUES IN SPORT",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "10",
           "instructor": [
             "Steven H. Salaga (P)"
           ],
@@ -522,15 +522,15 @@
       "title": "SPORT COMMUNICATION",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "500",
           "title": "SPORT COMMUNICATION",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "30",
+          "capacity": "30",
           "instructor": [
             "Jonathan D. Wood (P)"
           ],
@@ -594,11 +594,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "DIVERSITY IN SPORT ORGS",
-          "remaining": "24",
-          "capacity": "24",
+          "remaining": "34",
+          "capacity": "35",
           "instructor": [
             "John Singer (P)"
           ],
@@ -623,10 +623,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "16",
           "section": "599",
           "title": "DIVERSITY IN SPORT ORGS",
-          "remaining": "275",
+          "remaining": "259",
           "capacity": "275",
           "instructor": [
             "Anthony J. Weems (P)"
@@ -657,10 +657,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "15",
           "section": "600",
           "title": "REVENUE GENERATION SPORT",
-          "remaining": "30",
+          "remaining": "15",
           "capacity": "30",
           "instructor": [
             "Steven H. Salaga (P)"
@@ -691,10 +691,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "700",
           "title": "SPORT LAW",
-          "remaining": "23",
+          "remaining": "12",
           "capacity": "23",
           "instructor": [
             "Paul Batista (P)"
@@ -725,10 +725,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "42",
           "section": "599",
           "title": "INTNL SPORT BUSINESS",
-          "remaining": "350",
+          "remaining": "308",
           "capacity": "350",
           "instructor": [
             "Matthew L. Goldsmith (P)"
@@ -759,10 +759,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "13",
           "section": "599",
           "title": "FOUNDATION OF SPORT MGMT",
-          "remaining": "200",
+          "remaining": "187",
           "capacity": "200",
           "instructor": [
             "Shane L. Hudson (P)"
@@ -817,11 +817,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "505",
           "title": "FOUNDATION OF SPORT MGMT",
-          "remaining": "100",
-          "capacity": "100",
+          "remaining": "46",
+          "capacity": "50",
           "instructor": [
             "Shane L. Hudson (P)"
           ],
@@ -880,10 +880,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "14",
           "section": "700",
           "title": "DIVERSITY IN SPORT ORG",
-          "remaining": "22",
+          "remaining": "8",
           "capacity": "22",
           "instructor": [
             "Elizabeth N. Melton (P)"
@@ -914,10 +914,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "15",
           "section": "600",
           "title": "SPORT MARKETING",
-          "remaining": "30",
+          "remaining": "15",
           "capacity": "30",
           "instructor": [
             "Gregg Bennett (P)"
@@ -943,10 +943,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "700",
           "title": "SPORT MARKETING",
-          "remaining": "22",
+          "remaining": "12",
           "capacity": "22",
           "instructor": [
             "Khalid W. Ballouli (P)"
@@ -1006,10 +1006,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "23",
           "section": "599",
           "title": "SOC OF SPORT",
-          "remaining": "200",
+          "remaining": "177",
           "capacity": "200",
           "instructor": [
             "TBA"
@@ -1040,10 +1040,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "18",
           "section": "595",
           "title": "SEMINAR IN SPORT AGENT",
-          "remaining": "100",
+          "remaining": "82",
           "capacity": "100",
           "instructor": [
             "Paul Batista (P)"
@@ -1069,10 +1069,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "596",
           "title": "SEMINAR IN SPORT HISTORY",
-          "remaining": "100",
+          "remaining": "92",
           "capacity": "100",
           "instructor": [
             "Paul E. Keiper (P)"
@@ -1098,10 +1098,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "597",
           "title": "SEMINAR IN SOCIAL PSYC",
-          "remaining": "100",
+          "remaining": "96",
           "capacity": "100",
           "instructor": [
             "David S. Waltemyer (P)"
@@ -1127,10 +1127,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "598",
           "title": "SEMINAR IN COLLEGE ATHLETICS",
-          "remaining": "100",
+          "remaining": "90",
           "capacity": "100",
           "instructor": [
             "Shane L. Hudson (P)"
@@ -1161,11 +1161,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "901",
           "title": "PROFESSIONAL WRITING SEMINAR",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "8",
+          "capacity": "15",
           "instructor": [
             "Kayla D. Jones (P)"
           ],
@@ -1190,11 +1190,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "902",
           "title": "PROFESSIONAL WRITING SEMINAR",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "13",
+          "capacity": "15",
           "instructor": [
             "Kayla D. Jones (P)"
           ],
@@ -1219,11 +1219,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "903",
           "title": "PROFESSIONAL WRITING SEMINAR",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "12",
+          "capacity": "15",
           "instructor": [
             "Kayla D. Jones (P)"
           ],
@@ -1248,11 +1248,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "904",
           "title": "PROFESSIONAL WRITING SEMINAR",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "13",
+          "capacity": "15",
           "instructor": [
             "Kayla D. Jones (P)"
           ],
@@ -1277,11 +1277,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "905",
           "title": "PROFESSIONAL WRITING SEMINAR",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "13",
+          "capacity": "15",
           "instructor": [
             "Kayla D. Jones (P)"
           ],
@@ -1345,10 +1345,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "599",
           "title": "SPORT GOVERNANCE",
-          "remaining": "100",
+          "remaining": "91",
           "capacity": "100",
           "instructor": [
             "Sloane H. Milstein (P)"
@@ -1471,10 +1471,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "17",
           "section": "501",
           "title": "OLYMPIC STUDIES",
-          "remaining": "40",
+          "remaining": "23",
           "capacity": "40",
           "instructor": [
             "Sloane H. Milstein (P)"
@@ -1597,10 +1597,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "696",
           "title": "SEMINAR IN SPORT HISTORY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Paul E. Keiper (P)"
@@ -1742,10 +1742,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "703",
           "title": "SEMINAR IN SPORT HISTORY",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Paul E. Keiper (P)"
@@ -1800,10 +1800,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "704",
           "title": "SEMINAR IN SOCIAL PSYC",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "David S. Waltemyer (P)"
@@ -1989,10 +1989,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "SPORTS FACILITY PLAN",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Andrew T. Pittman (P)"
@@ -2086,11 +2086,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "LEGAL ASPECTS OF SPORT",
-          "remaining": "35",
-          "capacity": "35",
+          "remaining": "23",
+          "capacity": "30",
           "instructor": [
             "Paul Batista (P)"
           ],
@@ -2115,11 +2115,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "502",
           "title": "LEGAL ASPECTS OF SPORT",
-          "remaining": "35",
-          "capacity": "35",
+          "remaining": "24",
+          "capacity": "30",
           "instructor": [
             "Paul Batista (P)"
           ],
@@ -2241,11 +2241,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "FINC SPORT OPERATIONS",
-          "remaining": "40",
-          "capacity": "40",
+          "remaining": "28",
+          "capacity": "30",
           "instructor": [
             "Sloane H. Milstein (P)"
           ],
@@ -2270,10 +2270,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "16",
           "section": "502",
           "title": "FINC SPORT OPERATIONS",
-          "remaining": "30",
+          "remaining": "14",
           "capacity": "30",
           "instructor": [
             "Marlene A. Dixon (P)"
@@ -2304,10 +2304,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "500",
           "title": "PRAC SKILLS SPORT PROF",
-          "remaining": "30",
+          "remaining": "21",
           "capacity": "30",
           "instructor": [
             "Sloane H. Milstein (P)"
@@ -2329,15 +2329,15 @@
           "crn": "21261"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "PRAC SKILLS SPORT PROF",
-          "remaining": "30",
-          "capacity": "30",
+          "remaining": "-2",
+          "capacity": "0",
           "instructor": [
             "Sloane H. Milstein (P)"
           ],
@@ -2362,45 +2362,16 @@
     "423": {
       "title": "MKTG ASPECTS OF SPORT",
       "sections": {
-        "901": {
-          "select": "C",
-          "subject": "SPMT",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "901",
-          "title": "MKTG ASPECTS OF SPORT",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "423",
-          "days": [
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "BLOC 202"
-          ],
-          "time": [
-            "08:00 am-09:15 am"
-          ],
-          "crn": "12747"
-        },
         "902": {
           "select": "SR",
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "902",
           "title": "MKTG ASPECTS OF SPORT",
-          "remaining": "18",
-          "capacity": "18",
+          "remaining": "11",
+          "capacity": "15",
           "instructor": [
             "Gregg Bennett (P)"
           ],
@@ -2425,11 +2396,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "903",
           "title": "MKTG ASPECTS OF SPORT",
-          "remaining": "18",
-          "capacity": "18",
+          "remaining": "13",
+          "capacity": "15",
           "instructor": [
             "David S. Waltemyer (P)"
           ],
@@ -2454,11 +2425,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "904",
           "title": "MKTG ASPECTS OF SPORT",
-          "remaining": "18",
-          "capacity": "18",
+          "remaining": "12",
+          "capacity": "15",
           "instructor": [
             "Gregg Bennett (P)"
           ],
@@ -2483,11 +2454,11 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "905",
           "title": "MKTG ASPECTS OF SPORT",
-          "remaining": "18",
-          "capacity": "18",
+          "remaining": "13",
+          "capacity": "15",
           "instructor": [
             "David S. Waltemyer (P)"
           ],
@@ -2546,10 +2517,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "SPTP: RISK MANAGEMENT",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Andrew T. Pittman (P)"
@@ -2576,15 +2547,15 @@
       "title": "PRE INTERN FIELD EXPER",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "500",
           "title": "PRE INTERN FIELD EXPER",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "20",
+          "capacity": "30",
           "instructor": [
             "Shane L. Hudson (P)"
           ],
@@ -2614,10 +2585,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "31",
           "section": "599",
           "title": "SPORT PSYC MGMT & PRACT",
-          "remaining": "350",
+          "remaining": "319",
           "capacity": "350",
           "instructor": [
             "Justin R. Garner (P)"
@@ -2648,10 +2619,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "15",
           "section": "600",
           "title": "RES METHODS FOR SPT ORG",
-          "remaining": "30",
+          "remaining": "15",
           "capacity": "30",
           "instructor": [
             "Paul E. Keiper (P)"
@@ -2711,10 +2682,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "700",
           "title": "ATHLETICS ADMINISTRATION",
-          "remaining": "23",
+          "remaining": "12",
           "capacity": "23",
           "instructor": [
             "Shane L. Hudson (P)"
@@ -2745,10 +2716,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "601",
           "title": "SPTP: SPORT SALES",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "Natasha T. Brison (P)"
@@ -2774,10 +2745,10 @@
           "subject": "SPMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "603",
           "title": "SPTP: RISK MANAGEMETN",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Andrew T. Pittman (P)"
@@ -2802,5 +2773,5 @@
     }
   },
   "title": "SPMT - Sport Management",
-  "updated": "Thu Apr 07 01:25:49 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:53 AM"
 }

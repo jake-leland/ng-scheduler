@@ -8,10 +8,10 @@
           "subject": "MEMA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "ENG FRACTURE MECHANICS",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Vikram Kinra (P)"
@@ -42,10 +42,10 @@
           "subject": "MEMA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "CONTINUUM MECHANICS",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Amine Benzerga (P)"
@@ -76,10 +76,10 @@
           "subject": "MEMA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "INTRO FINITE ELEMENTS",
-          "remaining": "35",
+          "remaining": "34",
           "capacity": "35",
           "instructor": [
             "Theofanis Strouboulis (P)"
@@ -110,10 +110,10 @@
           "subject": "MEMA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "MULTIFUNCTNAL MATERIALS",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Mohammad Naraghi (P)"
@@ -138,5 +138,5 @@
     }
   },
   "title": "MEMA - Mechanics and Materials",
-  "updated": "Thu Apr 07 01:20:26 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:48 AM"
 }

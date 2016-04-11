@@ -8,10 +8,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "PROF SEM SOCIAL PSYC",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Rebecca J. Schlegel (P)"
@@ -42,10 +42,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "ORGANIZATIONAL PSYC",
-          "remaining": "114",
+          "remaining": "110",
           "capacity": "114",
           "instructor": [
             "Charles Samuelson (P)"
@@ -110,10 +110,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "500",
           "title": "PSYCHOLOGY OF ANIMAL BEHAVIOR",
-          "remaining": "70",
+          "remaining": "61",
           "capacity": "70",
           "instructor": [
             "Naomi Nagaya (P)"
@@ -144,10 +144,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "501",
           "title": "SOCIAL PSYCHOLOGY",
-          "remaining": "114",
+          "remaining": "104",
           "capacity": "114",
           "instructor": [
             "Joshua Hicks (P)"
@@ -173,10 +173,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "502",
           "title": "SOCIAL PSYCHOLOGY",
-          "remaining": "114",
+          "remaining": "106",
           "capacity": "114",
           "instructor": [
             "Joshua Hicks (P)"
@@ -275,10 +275,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "HLTH PSYC & BEHAV MED",
-          "remaining": "70",
+          "remaining": "64",
           "capacity": "70",
           "instructor": [
             "Mary W. Meagher (P)"
@@ -309,10 +309,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "SEMINAR IN ORG PSYCH",
-          "remaining": "9",
+          "remaining": "5",
           "capacity": "9",
           "instructor": [
             "Kathi Miner-Rubino (P)"
@@ -556,10 +556,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "200",
           "title": "HNR-SENSATION-PERCEPTION",
-          "remaining": "13",
+          "remaining": "7",
           "capacity": "13",
           "instructor": [
             "Takashi Yamauchi (P)"
@@ -585,10 +585,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "500",
           "title": "SENSATION-PERCEPTION",
-          "remaining": "83",
+          "remaining": "74",
           "capacity": "83",
           "instructor": [
             "Takashi Yamauchi (P)"
@@ -2509,10 +2509,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "PSYCHOLOGY OF AGING",
-          "remaining": "30",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Jessica Bernard (P)"
@@ -3887,10 +3887,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "501",
           "title": "PSYC OF ADOLESCENCE",
-          "remaining": "38",
+          "remaining": "29",
           "capacity": "38",
           "instructor": [
             "TBA"
@@ -3917,15 +3917,15 @@
       "title": "ELMNTRY STAT PSY",
       "sections": {
         "907": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "907",
           "title": "ELMNTRY STAT PSY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Brandon Schmeichel (P)",
             "TBA"
@@ -3955,11 +3955,11 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "908",
           "title": "ELMNTRY STAT PSY",
           "remaining": "1",
-          "capacity": "1",
+          "capacity": "2",
           "instructor": [
             "Brandon Schmeichel (P)",
             "TBA"
@@ -3992,8 +3992,8 @@
           "active": "0",
           "section": "909",
           "title": "ELMNTRY STAT PSY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "2",
+          "capacity": "2",
           "instructor": [
             "Brandon Schmeichel (P)",
             "TBA"
@@ -4026,8 +4026,8 @@
           "active": "0",
           "section": "910",
           "title": "ELMNTRY STAT PSY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "2",
+          "capacity": "2",
           "instructor": [
             "Brandon Schmeichel (P)",
             "TBA"
@@ -4060,8 +4060,8 @@
           "active": "0",
           "section": "911",
           "title": "ELMNTRY STAT PSY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "2",
+          "capacity": "2",
           "instructor": [
             "Patrick S. Clifford (P)",
             "TBA"
@@ -4087,15 +4087,15 @@
           "crn": "26344"
         },
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "901",
           "title": "ELMNTRY STAT PSY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Rebecca J. Schlegel (P)",
             "TBA"
@@ -4128,8 +4128,8 @@
           "active": "0",
           "section": "912",
           "title": "ELMNTRY STAT PSY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "2",
+          "capacity": "2",
           "instructor": [
             "Patrick S. Clifford (P)",
             "TBA"
@@ -4155,15 +4155,15 @@
           "crn": "26345"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "902",
           "title": "ELMNTRY STAT PSY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Rebecca J. Schlegel (P)",
             "TBA"
@@ -4196,8 +4196,8 @@
           "active": "0",
           "section": "913",
           "title": "ELMNTRY STAT PSY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "2",
+          "capacity": "2",
           "instructor": [
             "Patrick S. Clifford (P)",
             "TBA"
@@ -4227,11 +4227,11 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "903",
           "title": "ELMNTRY STAT PSY",
           "remaining": "1",
-          "capacity": "1",
+          "capacity": "2",
           "instructor": [
             "Rebecca J. Schlegel (P)",
             "TBA"
@@ -4261,11 +4261,11 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "914",
           "title": "ELMNTRY STAT PSY",
           "remaining": "1",
-          "capacity": "1",
+          "capacity": "2",
           "instructor": [
             "Patrick S. Clifford (P)",
             "TBA"
@@ -4295,11 +4295,11 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "904",
           "title": "ELMNTRY STAT PSY",
           "remaining": "1",
-          "capacity": "1",
+          "capacity": "2",
           "instructor": [
             "Rebecca J. Schlegel (P)",
             "TBA"
@@ -4332,8 +4332,8 @@
           "active": "0",
           "section": "915",
           "title": "ELMNTRY STAT PSY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "2",
+          "capacity": "2",
           "instructor": [
             "Patrick S. Clifford (P)",
             "TBA"
@@ -4363,11 +4363,11 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "905",
           "title": "ELMNTRY STAT PSY",
           "remaining": "1",
-          "capacity": "1",
+          "capacity": "2",
           "instructor": [
             "Rebecca J. Schlegel (P)",
             "TBA"
@@ -4400,8 +4400,8 @@
           "active": "0",
           "section": "906",
           "title": "ELMNTRY STAT PSY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "2",
+          "capacity": "2",
           "instructor": [
             "Brandon Schmeichel (P)",
             "TBA"
@@ -4465,10 +4465,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "SPTP:COG NEURO MIND & BRAIN (Syllabus)",
-          "remaining": "56",
+          "remaining": "55",
           "capacity": "56",
           "instructor": [
             "Joseph M. Orr (P)"
@@ -4495,15 +4495,15 @@
       "title": "EXPERIMNTL PSYCHOLOGY",
       "sections": {
         "907": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "907",
           "title": "EXPERIMNTL PSYCHOLOGY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Winfred Arthur (P)",
             "TBA"
@@ -4529,15 +4529,15 @@
           "crn": "12553"
         },
         "908": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "908",
           "title": "EXPERIMNTL PSYCHOLOGY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Winfred Arthur (P)",
             "TBA"
@@ -4563,15 +4563,15 @@
           "crn": "12554"
         },
         "909": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "909",
           "title": "EXPERIMNTL PSYCHOLOGY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Winfred Arthur (P)",
             "TBA"
@@ -4597,15 +4597,15 @@
           "crn": "12555"
         },
         "910": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "910",
           "title": "EXPERIMNTL PSYCHOLOGY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Winfred Arthur (P)",
             "TBA"
@@ -4631,15 +4631,15 @@
           "crn": "12556"
         },
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "901",
           "title": "EXPERIMNTL PSYCHOLOGY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Charles Samuelson (P)",
             "TBA"
@@ -4665,15 +4665,15 @@
           "crn": "12549"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "902",
           "title": "EXPERIMNTL PSYCHOLOGY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Charles Samuelson (P)",
             "TBA"
@@ -4699,15 +4699,15 @@
           "crn": "12550"
         },
         "903": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "903",
           "title": "EXPERIMNTL PSYCHOLOGY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Charles Samuelson (P)",
             "TBA"
@@ -4733,15 +4733,15 @@
           "crn": "12551"
         },
         "904": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "904",
           "title": "EXPERIMNTL PSYCHOLOGY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Charles Samuelson (P)",
             "TBA"
@@ -4767,15 +4767,15 @@
           "crn": "12552"
         },
         "905": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "905",
           "title": "EXPERIMNTL PSYCHOLOGY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Charles Samuelson (P)",
             "TBA"
@@ -4801,15 +4801,15 @@
           "crn": "27277"
         },
         "906": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "906",
           "title": "EXPERIMNTL PSYCHOLOGY",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "2",
           "instructor": [
             "Winfred Arthur (P)",
             "TBA"
@@ -4907,11 +4907,11 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "BLACK PSYCHOLOGY",
           "remaining": "1",
-          "capacity": "1",
+          "capacity": "2",
           "instructor": [
             "Phia S. Salter (P)"
           ],
@@ -4941,10 +4941,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "600",
           "title": "MOTIVATION & COG PROC",
-          "remaining": "15",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "Steven Smith (P)"
@@ -4975,10 +4975,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "LEARNING",
-          "remaining": "8",
+          "remaining": "6",
           "capacity": "8",
           "instructor": [
             "James Grau (P)"
@@ -5009,10 +5009,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "EXPERIMENTAL PSYCH",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Darrell Worthy (P)"
@@ -6846,10 +6846,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "500",
           "title": "FORENSIC PSYCHOLOGY",
-          "remaining": "117",
+          "remaining": "108",
           "capacity": "117",
           "instructor": [
             "John F. Edens (P)"
@@ -8514,10 +8514,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "CLINICAL PSYCHOLOGY",
-          "remaining": "38",
+          "remaining": "34",
           "capacity": "38",
           "instructor": [
             "Sherecce Fields (P)"
@@ -8548,10 +8548,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "13",
           "section": "501",
           "title": "PERSONALITY",
-          "remaining": "117",
+          "remaining": "104",
           "capacity": "117",
           "instructor": [
             "Leslie Morey (P)"
@@ -8606,10 +8606,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "503",
           "title": "PERSONALITY",
-          "remaining": "114",
+          "remaining": "110",
           "capacity": "114",
           "instructor": [
             "TBA"
@@ -8640,11 +8640,11 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "PSYC HUMAN SEXUALITY",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "3",
+          "capacity": "10",
           "instructor": [
             "Adrienne Carter-Sowell (P)"
           ],
@@ -8665,15 +8665,15 @@
           "crn": "19747"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "PSYC HUMAN SEXUALITY",
-          "remaining": "2",
-          "capacity": "2",
+          "remaining": "0",
+          "capacity": "4",
           "instructor": [
             "Adrienne Carter-Sowell (P)"
           ],
@@ -8703,10 +8703,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "NEUROSCI LEARN MEMORY",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Stephen Maren (P)"
@@ -8737,10 +8737,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "BIO OF PSYCH DISORDERS",
-          "remaining": "40",
+          "remaining": "36",
           "capacity": "40",
           "instructor": [
             "Shoshana Eitan (P)"
@@ -8771,10 +8771,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "TEACHING PSYCHOLOGY PRINCIPLES",
-          "remaining": "10",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Rachel Smallman (P)"
@@ -8805,10 +8805,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "200",
           "title": "HNR-PHYSIOLOGICAL PSYCH",
-          "remaining": "13",
+          "remaining": "8",
           "capacity": "13",
           "instructor": [
             "Shoshana Eitan (P)"
@@ -8834,10 +8834,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "23",
           "section": "500",
           "title": "PHYSIOLOGICAL PSYCH",
-          "remaining": "74",
+          "remaining": "51",
           "capacity": "74",
           "instructor": [
             "Mark Packard (P)"
@@ -8868,10 +8868,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "DRUGS & BEHAVIOR",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Rachel Smith (P)"
@@ -8902,10 +8902,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "PERSONNEL PSYCHOLOGY",
-          "remaining": "9",
+          "remaining": "7",
           "capacity": "9",
           "instructor": [
             "Stephanie Payne (P)"
@@ -8936,10 +8936,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "601",
           "title": "PRACTICUM PSYC ASSESSMNT",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "Sherecce Fields (P)"
@@ -8999,10 +8999,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "601",
           "title": "PRACTICUM IN PSYCHOLGY",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "Douglas Snyder (P)"
@@ -9091,10 +9091,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "17",
           "section": "500",
           "title": "PSY OF LEARNING",
-          "remaining": "155",
+          "remaining": "138",
           "capacity": "155",
           "instructor": [
             "James Grau (P)"
@@ -9125,10 +9125,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "18",
           "section": "501",
           "title": "PSYCHOLOGY OF WOMEN",
-          "remaining": "120",
+          "remaining": "102",
           "capacity": "120",
           "instructor": [
             "Pamela S. Edens (P)"
@@ -9154,10 +9154,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "502",
           "title": "PSYCHOLOGY OF WOMEN",
-          "remaining": "57",
+          "remaining": "45",
           "capacity": "57",
           "instructor": [
             "Pamela S. Edens (P)"
@@ -9188,10 +9188,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "17",
           "section": "500",
           "title": "HUMAN COGNITIVE PROC",
-          "remaining": "117",
+          "remaining": "100",
           "capacity": "117",
           "instructor": [
             "Lisa Geraci (P)"
@@ -9256,10 +9256,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "PSYCHOLOGY OF LANGUAGE",
-          "remaining": "10",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Jyotsna Vaid (P)"
@@ -9290,10 +9290,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "500",
           "title": "PSYC OF SPORT",
-          "remaining": "100",
+          "remaining": "91",
           "capacity": "100",
           "instructor": [
             "Arnold Leunes (P)"
@@ -9358,10 +9358,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "201",
           "title": "HNR-INTRO TO PSYCHOLOGY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Terrence Barnhardt (P)"
@@ -9387,10 +9387,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "202",
           "title": "HNR-INTRO TO PSYCHOLOGY",
-          "remaining": "10",
+          "remaining": "1",
           "capacity": "10",
           "instructor": [
             "Mark Packard (P)"
@@ -9416,10 +9416,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "510",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "215",
+          "remaining": "213",
           "capacity": "215",
           "instructor": [
             "Jay S. Schumacher (P)"
@@ -9445,10 +9445,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "19",
           "section": "511",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "215",
+          "remaining": "196",
           "capacity": "215",
           "instructor": [
             "Jay S. Schumacher (P)"
@@ -9503,10 +9503,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "512",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "215",
+          "remaining": "208",
           "capacity": "215",
           "instructor": [
             "Jay S. Schumacher (P)"
@@ -9532,10 +9532,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "200",
+          "remaining": "197",
           "capacity": "200",
           "instructor": [
             "Pamela S. Edens (P)"
@@ -9561,10 +9561,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "513",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "200",
+          "remaining": "199",
           "capacity": "200",
           "instructor": [
             "Steven Smith (P)"
@@ -9590,10 +9590,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "114",
+          "remaining": "113",
           "capacity": "114",
           "instructor": [
             "Andrew G. Christy (P)"
@@ -9619,10 +9619,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "514",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "215",
+          "remaining": "213",
           "capacity": "215",
           "instructor": [
             "Patrick S. Clifford (P)"
@@ -9648,10 +9648,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "504",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "200",
+          "remaining": "196",
           "capacity": "200",
           "instructor": [
             "Jack Bodden (P)"
@@ -9706,10 +9706,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "200",
+          "remaining": "199",
           "capacity": "200",
           "instructor": [
             "Jack Bodden (P)"
@@ -9735,10 +9735,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "506",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "117",
+          "remaining": "114",
           "capacity": "117",
           "instructor": [
             "Brittney N. Becker (P)"
@@ -9760,7 +9760,7 @@
           "crn": "12532"
         },
         "517": {
-          "select": "NR",
+          "select": "SR",
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
@@ -9822,10 +9822,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "508",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "215",
+          "remaining": "212",
           "capacity": "215",
           "instructor": [
             "Stacey M. Rieck (P)"
@@ -9851,10 +9851,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "509",
           "title": "INTRO TO PSYCHOLOGY",
-          "remaining": "215",
+          "remaining": "208",
           "capacity": "215",
           "instructor": [
             "Jay S. Schumacher (P)"
@@ -9885,10 +9885,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "16",
           "section": "500",
           "title": "PSYCHOLOGY OF ADJUSTMENT",
-          "remaining": "100",
+          "remaining": "84",
           "capacity": "100",
           "instructor": [
             "Robert Heffer (P)"
@@ -9948,10 +9948,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "14",
           "section": "501",
           "title": "ABNORMAL PSYCHOLOGY",
-          "remaining": "117",
+          "remaining": "103",
           "capacity": "117",
           "instructor": [
             "Arnold Leunes (P)"
@@ -9977,10 +9977,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "23",
           "section": "502",
           "title": "ABNORMAL PSYCHOLOGY",
-          "remaining": "215",
+          "remaining": "192",
           "capacity": "215",
           "instructor": [
             "Brigit Van Widenfelt (P)"
@@ -10011,10 +10011,10 @@
           "subject": "PSYC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "36",
           "section": "501",
           "title": "DEVELOPMNTL PSYCHOLOGY",
-          "remaining": "215",
+          "remaining": "179",
           "capacity": "215",
           "instructor": [
             "Brigit Van Widenfelt (P)"
@@ -10073,5 +10073,5 @@
     }
   },
   "title": "PSYC - Psychology",
-  "updated": "Thu Apr 07 01:24:31 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:52 AM"
 }

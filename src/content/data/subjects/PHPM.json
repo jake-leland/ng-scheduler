@@ -540,10 +540,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "600",
           "title": "INTRO. TO HEALTH ECONOMICS",
-          "remaining": "58",
+          "remaining": "46",
           "capacity": "58",
           "instructor": [
             "Tiffany A. Radcliff (P)"
@@ -695,10 +695,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "HLTH PLCY ANALYPLCY FORMATION",
-          "remaining": "35",
+          "remaining": "34",
           "capacity": "35",
           "instructor": [
             "Darcy K. McMaughan Moudouni (P)"
@@ -1141,7 +1141,7 @@
           "crn": "22243"
         },
         "601": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
@@ -1479,10 +1479,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "600",
           "title": "HEALTH LAW  ETHICS",
-          "remaining": "58",
+          "remaining": "47",
           "capacity": "58",
           "instructor": [
             "Alva Ferdinand (P)"
@@ -1513,10 +1513,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "699",
           "title": "TX TRNG INITVE FOR EMERG RESP",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Barbara J. Quiram (P)"
@@ -1547,10 +1547,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "699",
           "title": "FOUNDATIONS OF PUBLIC HEALTH",
-          "remaining": "34",
+          "remaining": "28",
           "capacity": "34",
           "instructor": [
             "Jennifer M. Griffith (P)"
@@ -1581,10 +1581,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "600",
           "title": "HEALTH CARE FINANCIAL MGMT I",
-          "remaining": "58",
+          "remaining": "49",
           "capacity": "58",
           "instructor": [
             "James T. Fish (P)"
@@ -1615,10 +1615,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "MANAGERIAL STATISTICS",
-          "remaining": "58",
+          "remaining": "53",
           "capacity": "58",
           "instructor": [
             "Murray J. Cote (P)"
@@ -1645,7 +1645,7 @@
       "title": "POPULATION & PUBLIC HEALTH",
       "sections": {
         "600": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
@@ -1683,10 +1683,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "600",
           "title": "STRATEGIC PLNG  MKTNG. II",
-          "remaining": "58",
+          "remaining": "48",
           "capacity": "58",
           "instructor": [
             "Bita A. Kash (P)"
@@ -1717,10 +1717,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "600",
           "title": "INTO TO HLTH POLICY MGMT",
-          "remaining": "85",
+          "remaining": "78",
           "capacity": "85",
           "instructor": [
             "Alva Ferdinand (P)"
@@ -1751,10 +1751,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "600",
           "title": "MGMT OF HUMAN RESOURCES",
-          "remaining": "58",
+          "remaining": "50",
           "capacity": "58",
           "instructor": [
             "Jane Bolin (P)"
@@ -1814,10 +1814,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "INTRO TO HLTH POLICY AND MGMT",
-          "remaining": "34",
+          "remaining": "32",
           "capacity": "34",
           "instructor": [
             "James L. Alexander (P)"
@@ -1877,10 +1877,10 @@
           "subject": "PHPM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "GLOBAL HEALTH",
-          "remaining": "58",
+          "remaining": "57",
           "capacity": "58",
           "instructor": [
             "Barbara J. Quiram (P)"
@@ -1905,5 +1905,5 @@
     }
   },
   "title": "PHPM - Public Hlth Pol & Mgmt",
-  "updated": "Thu Apr 07 01:23:09 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:50 AM"
 }

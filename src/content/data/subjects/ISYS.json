@@ -8,10 +8,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "PROF DEV INFO SYSTEMS SEMINAR",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Aaron C. Becker (P)"
@@ -42,10 +42,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "501",
           "title": "PROGRAMMING LOGIC & DESIGN",
-          "remaining": "40",
+          "remaining": "28",
           "capacity": "40",
           "instructor": [
             "Aaron C. Becker (P)"
@@ -71,10 +71,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "PROGRAMMING LOGIC & DESIGN",
-          "remaining": "40",
+          "remaining": "37",
           "capacity": "40",
           "instructor": [
             "Edward F. Boone (P)"
@@ -168,10 +168,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 7,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "FUND OF INFO SYSTEMS",
-          "remaining": "80",
+          "remaining": "78",
           "capacity": "80",
           "instructor": [
             "Theresa M. Phinney (P)",
@@ -227,10 +227,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 7,
-          "active": "0",
+          "active": "7",
           "section": "502",
           "title": "FUND OF INFO SYSTEMS",
-          "remaining": "80",
+          "remaining": "73",
           "capacity": "80",
           "instructor": [
             "Theresa M. Phinney (P)",
@@ -286,10 +286,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 7,
-          "active": "0",
+          "active": "14",
           "section": "503",
           "title": "FUND OF INFO SYSTEMS",
-          "remaining": "350",
+          "remaining": "336",
           "capacity": "350",
           "instructor": [
             "Theresa M. Phinney (P)",
@@ -345,10 +345,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 7,
-          "active": "0",
+          "active": "17",
           "section": "504",
           "title": "FUND OF INFO SYSTEMS",
-          "remaining": "80",
+          "remaining": "63",
           "capacity": "80",
           "instructor": [
             "Wanda Curtsinger (P)",
@@ -409,10 +409,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "BUS SYSTEMS ANLY & DESN",
-          "remaining": "50",
+          "remaining": "43",
           "capacity": "50",
           "instructor": [
             "Jon L. Jasperson (P)"
@@ -564,11 +564,11 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "601",
           "title": "BUSINESS DATA MINING",
-          "remaining": "35",
-          "capacity": "35",
+          "remaining": "27",
+          "capacity": "33",
           "instructor": [
             "Arun Sen (P)"
           ],
@@ -598,10 +598,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "NETWORK COMM & INFRASTRUCTURE",
-          "remaining": "50",
+          "remaining": "46",
           "capacity": "50",
           "instructor": [
             "Edward F. Boone (P)"
@@ -632,10 +632,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "WEB-ENABLED APPLICATIONS",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Andre Araujo (P)"
@@ -662,14 +662,14 @@
       "title": "INFO SYSTEMS SOURCING",
       "sections": {
         "601": {
-          "select": "SR",
+          "select": "C",
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "37",
           "section": "601",
           "title": "INFO SYSTEMS SOURCING",
-          "remaining": "37",
+          "remaining": "0",
           "capacity": "37",
           "instructor": [
             "Gary Whitten (P)"
@@ -691,14 +691,14 @@
           "crn": "21584"
         },
         "602": {
-          "select": "SR",
+          "select": "C",
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "37",
           "section": "602",
           "title": "INFO SYSTEMS SOURCING",
-          "remaining": "37",
+          "remaining": "0",
           "capacity": "37",
           "instructor": [
             "Gary Whitten (P)"
@@ -724,10 +724,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "36",
           "section": "603",
           "title": "INFO SYSTEMS SOURCING",
-          "remaining": "37",
+          "remaining": "1",
           "capacity": "37",
           "instructor": [
             "Gary Whitten (P)"
@@ -758,10 +758,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "901",
           "title": "BUSINESS COMM I",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "11",
           "instructor": [
             "Matthew T. Manley (P)"
@@ -787,10 +787,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "902",
           "title": "BUSINESS COMM I",
-          "remaining": "11",
+          "remaining": "7",
           "capacity": "11",
           "instructor": [
             "Matthew T. Manley (P)"
@@ -821,10 +821,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "MGMT INFORMATION SYSTEMS",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Thomas V. Jamieson (P)"
@@ -850,10 +850,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "MGMT INFORMATION SYSTEMS",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Thomas V. Jamieson (P)"
@@ -884,10 +884,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "14",
           "section": "601",
           "title": "CUSTOMER RELAT MGMT TECH",
-          "remaining": "35",
+          "remaining": "21",
           "capacity": "35",
           "instructor": [
             "Arun Sen (P)"
@@ -952,10 +952,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "901",
           "title": "BUSINESS COMM II",
-          "remaining": "11",
+          "remaining": "8",
           "capacity": "11",
           "instructor": [
             "Della K. Whitcomb (P)"
@@ -981,10 +981,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "902",
           "title": "BUSINESS COMM II",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "11",
           "instructor": [
             "Della K. Whitcomb (P)"
@@ -1010,10 +1010,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "903",
           "title": "BUSINESS COMM II",
-          "remaining": "11",
+          "remaining": "8",
           "capacity": "11",
           "instructor": [
             "Della K. Whitcomb (P)"
@@ -1044,10 +1044,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "601",
           "title": "BUS DATA COMMUNICATION",
-          "remaining": "55",
+          "remaining": "44",
           "capacity": "55",
           "instructor": [
             "Edward F. Boone (P)"
@@ -1107,10 +1107,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "602",
           "title": "ADV DATA MANAGEMENT",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Matthew T. Manley (P)"
@@ -1170,10 +1170,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "DATABASE PROGRAMMING",
-          "remaining": "50",
+          "remaining": "45",
           "capacity": "50",
           "instructor": [
             "Aaron C. Becker (P)"
@@ -1204,10 +1204,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "601",
           "title": "FUNDAMENTALS OF BUS PROG",
-          "remaining": "45",
+          "remaining": "37",
           "capacity": "45",
           "instructor": [
             "Aaron C. Becker (P)"
@@ -1272,10 +1272,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "699",
           "title": "SPTP: FUND CORP CYBERSECURITY",
-          "remaining": "20",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "Gary Whitten (P)"
@@ -1306,10 +1306,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "INFO SYSTEMS CAPSTONE PROJECT",
-          "remaining": "30",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Andre Araujo (P)"
@@ -1340,10 +1340,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "ADV SYS ANLY & DESIGN",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Joobin Choobineh (P)"
@@ -1432,10 +1432,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "598",
           "title": "BUSN INFO SYSTEM CONCEPT",
-          "remaining": "50",
+          "remaining": "46",
           "capacity": "50",
           "instructor": [
             "Wanda Curtsinger (P)"
@@ -1461,10 +1461,10 @@
           "subject": "ISYS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "129",
           "section": "599",
           "title": "BUSN INFO SYSTEM CONCEPT",
-          "remaining": "850",
+          "remaining": "721",
           "capacity": "850",
           "instructor": [
             "Wanda Curtsinger (P)"
@@ -1489,5 +1489,5 @@
     }
   },
   "title": "ISYS - Mgmt Info Systems",
-  "updated": "Thu Apr 07 01:18:43 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:46 AM"
 }

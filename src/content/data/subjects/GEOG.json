@@ -37,40 +37,6 @@
     "390": {
       "title": "PRINCIPLES OF GIS",
       "sections": {
-        "500": {
-          "select": "SR",
-          "subject": "GEOG",
-          "campus": "CS",
-          "classes": 2,
-          "active": "0",
-          "section": "500",
-          "title": "PRINCIPLES OF GIS",
-          "remaining": "18",
-          "capacity": "18",
-          "instructor": [
-            "TBA",
-            "TBA"
-          ],
-          "credits": "4",
-          "course": "390",
-          "days": [
-            " ",
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14",
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA",
-            "TBA"
-          ],
-          "time": [
-            "TBA",
-            "TBA"
-          ],
-          "crn": "28296"
-        },
         "501": {
           "select": "SR",
           "subject": "GEOG",
@@ -110,10 +76,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "PRINCIPLES OF GIS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Andrew Klein (P)",
@@ -144,10 +110,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "503",
           "title": "PRINCIPLES OF GIS",
-          "remaining": "18",
+          "remaining": "14",
           "capacity": "18",
           "instructor": [
             "Iliyana D. Dobreva",
@@ -246,10 +212,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "506",
           "title": "PRINCIPLES OF GIS",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Andrew Klein (P)",
@@ -285,10 +251,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "GEODATABASES",
-          "remaining": "45",
+          "remaining": "40",
           "capacity": "45",
           "instructor": [
             "TBA",
@@ -324,10 +290,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "9",
           "section": "500",
           "title": "GIS PROGRAMMING",
-          "remaining": "40",
+          "remaining": "31",
           "capacity": "40",
           "instructor": [
             "Daniel W. Goldberg (P)",
@@ -1736,10 +1702,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "FIELD GEOGRAPHY",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Charles W. Lafon (P)",
@@ -1775,10 +1741,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "RESOURCES & THE ENV",
-          "remaining": "66",
+          "remaining": "59",
           "capacity": "66",
           "instructor": [
             "Wendy Jepson (P)"
@@ -1809,10 +1775,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "GNSS IN THE GEOSCIENCES",
-          "remaining": "20",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Phillipe A. Wernette (P)",
@@ -1882,10 +1848,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "CARTOGRAPHY AND VISUALIZATION",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Andrew Klein (P)",
@@ -1916,10 +1882,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "503",
           "title": "CARTOGRAPHY AND VISUALIZATION",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Andrew Klein (P)",
@@ -1989,10 +1955,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "900",
           "title": "ENVIRONMENTAL JUSTICE",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Wendy Jepson (P)"
@@ -2023,10 +1989,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "REMOTE SENSING GEOG ANL",
-          "remaining": "6",
+          "remaining": "5",
           "capacity": "6",
           "instructor": [
             "Anthony Filippi (P)"
@@ -2057,10 +2023,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "CULTURAL GEOGRAPHY",
-          "remaining": "98",
+          "remaining": "97",
           "capacity": "98",
           "instructor": [
             "Jonathan Smith (P)"
@@ -2125,10 +2091,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "QUANT METHODS IN GEOG",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "David Cairns (P)"
@@ -2159,10 +2125,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "510",
           "title": "PLANET EARTH LAB",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Inci Guneralp (P), Tianna M. Bruno"
@@ -2188,10 +2154,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "511",
           "title": "PLANET EARTH LAB",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Inci Guneralp (P), Andrew M. Evans"
@@ -2217,10 +2183,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "512",
           "title": "PLANET EARTH LAB",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Inci Guneralp (P), Ryan P. Dicce"
@@ -2246,10 +2212,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "513",
           "title": "PLANET EARTH LAB",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Inci Guneralp (P), Rosemary A. Dwight"
@@ -2344,16 +2310,16 @@
           "credits": "1",
           "course": "213",
           "days": [
-            " "
+            "M"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "CSA 311"
           ],
           "time": [
-            "TBA"
+            "01:50 pm-03:40 pm"
           ],
           "crn": "21468"
         },
@@ -2373,16 +2339,16 @@
           "credits": "1",
           "course": "213",
           "days": [
-            " "
+            "M"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "CSA 311"
           ],
           "time": [
-            "TBA"
+            "04:00 pm-05:50 pm"
           ],
           "crn": "21469"
         },
@@ -2449,10 +2415,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "520",
           "title": "PLANET EARTH LAB",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Inci Guneralp (P), Alison A. Hanson"
@@ -2507,10 +2473,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "522",
           "title": "PLANET EARTH LAB",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Inci Guneralp (P), Trey D. Murphy"
@@ -2536,10 +2502,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "PLANET EARTH LAB",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Inci Guneralp (P), Ryan P. Dicce"
@@ -2576,16 +2542,16 @@
           "credits": "1",
           "course": "213",
           "days": [
-            " "
+            "T"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "CSA 311"
           ],
           "time": [
-            "TBA"
+            "02:20 pm-04:10 pm"
           ],
           "crn": "21475"
         },
@@ -2594,10 +2560,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "PLANET EARTH LAB",
-          "remaining": "25",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "Inci Guneralp (P), Ryan P. Dicce"
@@ -2768,10 +2734,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "505",
           "title": "PLANET EARTH LAB",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Inci Guneralp (P), Daniel J. Vecellio"
@@ -2855,10 +2821,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "528",
           "title": "PLANET EARTH LAB",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Inci Guneralp (P), Alison A. Hanson"
@@ -2972,15 +2938,15 @@
       "title": "TERRAIN ANALYSIS MAPPING",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "TERRAIN ANALYSIS MAPPING",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "47",
+          "capacity": "50",
           "instructor": [
             "TBA",
             "TBA"
@@ -3015,10 +2981,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "PATTERN & PROC BIOGEOG",
-          "remaining": "98",
+          "remaining": "97",
           "capacity": "98",
           "instructor": [
             "TBA"
@@ -3122,10 +3088,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "GEOG METHODS AND THEORY",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Jonathan Smith (P)"
@@ -3156,10 +3122,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "600",
           "title": "GIS PROGRAMMING",
-          "remaining": "18",
+          "remaining": "11",
           "capacity": "18",
           "instructor": [
             "Daniel W. Goldberg (P)",
@@ -3194,33 +3160,28 @@
           "select": "SR",
           "subject": "GEOG",
           "campus": "CS",
-          "classes": 2,
-          "active": "0",
+          "classes": 1,
+          "active": "1",
           "section": "600",
           "title": "HYDROLOGY AND ENVIRONMENT",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
-            "Steven Quiring (P)",
-            "TBA"
+            "Steven Quiring (P)"
           ],
           "credits": "3",
           "course": "634",
           "days": [
-            "MWF",
-            "T"
+            "MWF"
           ],
           "date (mm/dd)": [
-            "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
-            "OM 103",
-            "TEAG B009C"
+            "OM 103"
           ],
           "time": [
-            "12:40 pm-01:30 pm",
-            "11:10 am-01:00 pm"
+            "12:40 pm-01:30 pm"
           ],
           "crn": "28662"
         }
@@ -3302,10 +3263,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "WRKSHP IN ENVIR STDIES",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Jayme Walenta (P)"
@@ -3336,10 +3297,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "REMOTE SENSING GEOS",
-          "remaining": "12",
+          "remaining": "8",
           "capacity": "12",
           "instructor": [
             "Anthony Filippi (P)",
@@ -3370,10 +3331,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "502",
           "title": "REMOTE SENSING GEOS",
-          "remaining": "18",
+          "remaining": "13",
           "capacity": "18",
           "instructor": [
             "Anthony Filippi (P)",
@@ -3477,10 +3438,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "APPLICATIONS IN GIS",
-          "remaining": "20",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Andrew Klein (P)"
@@ -3511,10 +3472,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "500",
           "title": "THE MIDDLE EAST",
-          "remaining": "57",
+          "remaining": "47",
           "capacity": "57",
           "instructor": [
             "Vatche Tchakerian (P)"
@@ -3695,10 +3656,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "INTRO TO HUMAN GEOG",
-          "remaining": "285",
+          "remaining": "280",
           "capacity": "285",
           "instructor": [
             "Jamie Shinn (P)"
@@ -3724,10 +3685,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "INTRO TO HUMAN GEOG",
-          "remaining": "230",
+          "remaining": "228",
           "capacity": "230",
           "instructor": [
             "Ellen Kohl (P)"
@@ -3753,10 +3714,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "503",
           "title": "INTRO TO HUMAN GEOG",
-          "remaining": "172",
+          "remaining": "170",
           "capacity": "172",
           "instructor": [
             "TBA"
@@ -4314,10 +4275,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "GEOG OF GLOBAL VILLAGE",
-          "remaining": "148",
+          "remaining": "146",
           "capacity": "148",
           "instructor": [
             "Wendy W. Patzewitsch (P)"
@@ -4343,10 +4304,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "GEOG OF GLOBAL VILLAGE",
-          "remaining": "285",
+          "remaining": "284",
           "capacity": "285",
           "instructor": [
             "Peter Hugill (P)"
@@ -4372,10 +4333,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "GEOG OF GLOBAL VILLAGE",
-          "remaining": "148",
+          "remaining": "147",
           "capacity": "148",
           "instructor": [
             "Peter Hugill (P)"
@@ -4401,10 +4362,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "GEOG OF GLOBAL VILLAGE",
-          "remaining": "210",
+          "remaining": "209",
           "capacity": "210",
           "instructor": [
             "Wendy W. Patzewitsch (P)"
@@ -4430,10 +4391,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "GEOG OF GLOBAL VILLAGE",
-          "remaining": "300",
+          "remaining": "299",
           "capacity": "300",
           "instructor": [
             "Erik Prout (P)"
@@ -4454,44 +4415,15 @@
           ],
           "crn": "13120"
         },
-        "507": {
-          "select": "C",
-          "subject": "GEOG",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "507",
-          "title": "GEOG OF GLOBAL VILLAGE",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "202",
-          "days": [
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "08:00 am-09:15 am"
-          ],
-          "crn": "28295"
-        },
         "508": {
           "select": "SR",
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "508",
           "title": "GEOG OF GLOBAL VILLAGE",
-          "remaining": "156",
+          "remaining": "150",
           "capacity": "156",
           "instructor": [
             "Erik Prout (P)"
@@ -4522,10 +4454,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "500",
           "title": "GEOGRAPHY OF THE U S",
-          "remaining": "285",
+          "remaining": "277",
           "capacity": "285",
           "instructor": [
             "Wendy W. Patzewitsch (P)"
@@ -4556,10 +4488,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "502",
           "title": "PLANET EARTH",
-          "remaining": "148",
+          "remaining": "141",
           "capacity": "148",
           "instructor": [
             "Julie Loisel (P)"
@@ -4614,10 +4546,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "504",
           "title": "PLANET EARTH",
-          "remaining": "147",
+          "remaining": "141",
           "capacity": "147",
           "instructor": [
             "Charles W. Lafon (P)"
@@ -4643,10 +4575,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "505",
           "title": "PLANET EARTH",
-          "remaining": "104",
+          "remaining": "99",
           "capacity": "104",
           "instructor": [
             "Oliver W. Frauenfeld (P)"
@@ -4740,10 +4672,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "POLITICAL GEOGRAPHY",
-          "remaining": "60",
+          "remaining": "58",
           "capacity": "60",
           "instructor": [
             "Kathleen O'Reilly (P)"
@@ -4774,10 +4706,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "GEOGRAPHY OF EUROPE",
-          "remaining": "69",
+          "remaining": "68",
           "capacity": "69",
           "instructor": [
             "Erik Prout (P)"
@@ -4808,10 +4740,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "599",
           "title": "ENVIRONMENTAL CHANGE",
-          "remaining": "300",
+          "remaining": "291",
           "capacity": "300",
           "instructor": [
             "Wendy W. Patzewitsch (P)"
@@ -4842,10 +4774,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "ECONOMIC GEOGRAPHY",
-          "remaining": "94",
+          "remaining": "91",
           "capacity": "94",
           "instructor": [
             "Jayme Walenta (P)"
@@ -4876,10 +4808,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "GEOGRAPHY OF TEXAS",
-          "remaining": "98",
+          "remaining": "96",
           "capacity": "98",
           "instructor": [
             "Erik Prout (P)"
@@ -4910,10 +4842,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "INTRO TO URBAN GEOG",
-          "remaining": "57",
+          "remaining": "54",
           "capacity": "57",
           "instructor": [
             "Ellen Kohl (P)"
@@ -4944,10 +4876,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "PHYSICAL GEOGRAPHY",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Steven Quiring (P)"
@@ -4978,10 +4910,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "GEOGRAPHY OF ENERGY",
-          "remaining": "29",
+          "remaining": "28",
           "capacity": "29",
           "instructor": [
             "Christian Brannstrom (P)"
@@ -5007,10 +4939,10 @@
           "subject": "GEOG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "GEOGRAPHY OF ENERGY",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Christian Brannstrom (P)"
@@ -5035,5 +4967,5 @@
     }
   },
   "title": "GEOG - Geography",
-  "updated": "Thu Apr 07 01:16:53 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:44 AM"
 }

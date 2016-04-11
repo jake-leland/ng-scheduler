@@ -8,10 +8,10 @@
           "subject": "CLAS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "BEGINNING LATIN I",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Ines D. Golsan (P)"
@@ -37,10 +37,10 @@
           "subject": "CLAS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "BEGINNING LATIN I",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "Ines D. Golsan (P)"
@@ -71,10 +71,10 @@
           "subject": "CLAS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "GREEK & ROMAN DRAMA",
-          "remaining": "40",
+          "remaining": "37",
           "capacity": "40",
           "instructor": [
             "Federica Ciccolella (P)"
@@ -105,10 +105,10 @@
           "subject": "CLAS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "BEGINNING LATIN II",
-          "remaining": "30",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Ines D. Golsan (P)"
@@ -173,10 +173,10 @@
           "subject": "CLAS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "BEGIN CLAS GREEK I",
-          "remaining": "40",
+          "remaining": "38",
           "capacity": "40",
           "instructor": [
             "TBA",
@@ -212,10 +212,10 @@
           "subject": "CLAS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "INTERMEDIATE GREEK",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Christoph Konrad (P)"
@@ -246,10 +246,10 @@
           "subject": "CLAS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "INTERMEDIATE LATIN II",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Ines D. Golsan (P)"
@@ -280,10 +280,10 @@
           "subject": "CLAS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "ADV LATIN PROSE",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Christoph Konrad (P)"
@@ -348,13 +348,13 @@
           "subject": "CLAS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "900",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
-            "TBA"
+            "Christoph Konrad (P)"
           ],
           "credits": "0-3",
           "course": "491",
@@ -382,10 +382,10 @@
           "subject": "CLAS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "500",
           "title": "CLASSICAL MYTHOLOGY",
-          "remaining": "104",
+          "remaining": "93",
           "capacity": "104",
           "instructor": [
             "TBA"
@@ -410,5 +410,5 @@
     }
   },
   "title": "CLAS - Classics",
-  "updated": "Thu Apr 07 01:12:42 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
 }

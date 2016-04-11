@@ -4,14 +4,14 @@
       "title": "DIRECTED PROF INTERNSHIP",
       "sections": {
         "550": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "550",
           "title": "DIRECTED PROF INTRN:IN-ABSENTI",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Jing Cai (P)"
@@ -589,14 +589,14 @@
           "crn": "23216"
         },
         "615": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "615",
           "title": "DIRECTED STUDIES",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Maria King (P)"
@@ -902,5 +902,5 @@
     }
   },
   "title": "BIOT - Biotechnology",
-  "updated": "Thu Apr 07 01:11:45 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
 }

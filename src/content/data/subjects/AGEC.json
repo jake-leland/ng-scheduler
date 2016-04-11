@@ -4,14 +4,14 @@
       "title": "ENV & NAT RESOURCE ECON",
       "sections": {
         "200": {
-          "select": "SR",
+          "select": "C",
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "200",
           "title": "HNR-ENV & NAT RESOURCE ECON",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "William B. Shaw (P)"
@@ -37,10 +37,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "ENV & NAT RESOURCE ECON",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "William B. Shaw (P)"
@@ -66,10 +66,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "502",
           "title": "ENV & NAT RESOURCE ECON",
-          "remaining": "45",
+          "remaining": "40",
           "capacity": "45",
           "instructor": [
             "William B. Shaw (P)"
@@ -100,10 +100,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "AGBU & MANAGERIAL ECON",
-          "remaining": "22",
+          "remaining": "21",
           "capacity": "22",
           "instructor": [
             "Oral Capps (P)"
@@ -134,10 +134,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "MACROECONOMICS OF AGRI",
-          "remaining": "50",
+          "remaining": "46",
           "capacity": "50",
           "instructor": [
             "John Penson (P)"
@@ -202,10 +202,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "CASES IN AGBUS FINANCE",
-          "remaining": "50",
+          "remaining": "44",
           "capacity": "50",
           "instructor": [
             "David Leatham (P)"
@@ -270,10 +270,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "15",
           "section": "600",
           "title": "FIN ANLY FOR AGBUS FIRMS",
-          "remaining": "29",
+          "remaining": "14",
           "capacity": "29",
           "instructor": [
             "Victoria Salin (P)"
@@ -304,10 +304,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "598",
           "title": "MKTG AG & FOOD PRODUCTS",
-          "remaining": "45",
+          "remaining": "43",
           "capacity": "45",
           "instructor": [
             "Kalu Arachchillage Senarath Dhananjaya Bandara Dharmasena (P)"
@@ -333,10 +333,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "599",
           "title": "MKTG AG & FOOD PRODUCTS",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Kalu Arachchillage Senarath Dhananjaya Bandara Dharmasena (P)"
@@ -512,10 +512,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "598",
           "title": "FINC PLAN FOR PROF",
-          "remaining": "40",
+          "remaining": "36",
           "capacity": "40",
           "instructor": [
             "Nathaniel J. Harness (P), A Nelson"
@@ -541,10 +541,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "FINC PLAN FOR PROF",
-          "remaining": "50",
+          "remaining": "49",
           "capacity": "50",
           "instructor": [
             "Nathaniel J. Harness (P), A Nelson"
@@ -570,10 +570,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "702",
           "title": "FINC PLAN FOR PROF",
-          "remaining": "50",
+          "remaining": "49",
           "capacity": "50",
           "instructor": [
             "Nathaniel J. Harness (P), A Nelson"
@@ -604,10 +604,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "FOOD & AGRI SALES",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Kerry K. Litzenberg (P)"
@@ -633,10 +633,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "FOOD & AGRI SALES",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Kerry K. Litzenberg (P)"
@@ -662,10 +662,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "503",
           "title": "FOOD & AGRI SALES",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Kerry K. Litzenberg (P)"
@@ -691,10 +691,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "FOOD & AGRI SALES",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Kerry K. Litzenberg (P)"
@@ -725,10 +725,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "201",
           "title": "HNR-ECON ANLYS FOR AGBU MGMT",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Alexander N. Hlavinka (P)"
@@ -783,10 +783,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "ECON ANLYS FOR AGBU MGMT",
-          "remaining": "30",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Alexander N. Hlavinka (P)"
@@ -812,10 +812,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "ECON ANLYS FOR AGBU MGMT",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Pan Liu (P)"
@@ -846,10 +846,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "598",
           "title": "INVESTMENT PLANNING",
-          "remaining": "35",
+          "remaining": "30",
           "capacity": "35",
           "instructor": [
             "Nathaniel J. Harness (P)"
@@ -909,10 +909,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "AGBU MKTS APPLY WELFARE",
-          "remaining": "13",
+          "remaining": "10",
           "capacity": "13",
           "instructor": [
             "Richard Woodward (P), Ximing Wu"
@@ -1040,10 +1040,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "200",
           "title": "HNR-ETHICS IN AGBU AND AGEC",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "John Siebert (P)"
@@ -1069,10 +1069,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "14",
           "section": "500",
           "title": "ETHICS IN AGBU AND AGEC",
-          "remaining": "150",
+          "remaining": "136",
           "capacity": "150",
           "instructor": [
             "John Siebert (P)"
@@ -1103,10 +1103,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "500",
           "title": "AGBU STRATEGIC ANALYSIS",
-          "remaining": "50",
+          "remaining": "40",
           "capacity": "50",
           "instructor": [
             "Desmond Ng (P)"
@@ -1345,10 +1345,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "DIRECTED STUDIES",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "Nathaniel J. Harness (P)"
@@ -1616,10 +1616,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "OPER RSCH METH IN AG",
-          "remaining": "24",
+          "remaining": "20",
           "capacity": "24",
           "instructor": [
             "Bruce McCarl (P)"
@@ -1912,15 +1912,15 @@
           "crn": "27813"
         },
         "502": {
-          "select": "C",
+          "select": "SR",
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "SPTP: ECON OF AG IN GHANA",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "9",
+          "capacity": "10",
           "instructor": [
             "Fred O. Boadu (P)"
           ],
@@ -2003,10 +2003,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "507",
           "title": "SPTP: FINANCIAL READINESS",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Nathaniel J. Harness (P)"
@@ -2028,15 +2028,15 @@
           "crn": "28069"
         },
         "508": {
-          "select": "C",
+          "select": "SR",
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "508",
           "title": "SPTP: MODERN AG OF MONGOLIA",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "5",
+          "capacity": "5",
           "instructor": [
             "Ariun Ishdorj (P)"
           ],
@@ -2066,10 +2066,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "APPL SIMUL IN AG ECO",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "James Richardson (P)",
@@ -2105,10 +2105,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "FOOD & AG PRICE ANALYSIS",
-          "remaining": "50",
+          "remaining": "49",
           "capacity": "50",
           "instructor": [
             "David Bessler (P)"
@@ -2173,10 +2173,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "ECON OF CONFLICT AND DVLMNT",
-          "remaining": "10",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Edwin Price (P)"
@@ -3440,10 +3440,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "598",
           "title": "FINANCIAL MGMT IN AGRI",
-          "remaining": "50",
+          "remaining": "47",
           "capacity": "50",
           "instructor": [
             "David Leatham (P)"
@@ -3469,10 +3469,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "FINANCIAL MGMT IN AGRI",
-          "remaining": "75",
+          "remaining": "72",
           "capacity": "75",
           "instructor": [
             "Danny Klinefelter (P)"
@@ -3498,10 +3498,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "502",
           "title": "FINANCIAL MGMT IN AGRI",
-          "remaining": "45",
+          "remaining": "38",
           "capacity": "45",
           "instructor": [
             "Danny Klinefelter (P)"
@@ -3527,10 +3527,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "701",
           "title": "FINANCIAL MGMT IN AGRI",
-          "remaining": "50",
+          "remaining": "45",
           "capacity": "50",
           "instructor": [
             "David Leatham (P)"
@@ -3827,10 +3827,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "INTERNATNL TRADE &AGRI",
-          "remaining": "40",
+          "remaining": "35",
           "capacity": "40",
           "instructor": [
             "Claude Rosson (P)"
@@ -3890,10 +3890,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "INTERNATIONAL AGBU MKTG",
-          "remaining": "40",
+          "remaining": "35",
           "capacity": "40",
           "instructor": [
             "Flynn J. Adcock (P)"
@@ -3987,10 +3987,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "INTL AGBU TRADE ANALYSIS",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Gary Williams (P)"
@@ -4084,10 +4084,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "AGBU & FOOD MARKET ANLYS",
-          "remaining": "35",
+          "remaining": "28",
           "capacity": "35",
           "instructor": [
             "Kalu Arachchillage Senarath Dhananjaya Bandara Dharmasena (P)",
@@ -4323,10 +4323,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "2",
           "section": "902",
           "title": "FUND OF AG ECON ANALYSIS",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Max D. Menzies III",
@@ -4440,10 +4440,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "905",
           "title": "FUND OF AG ECON ANALYSIS",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Max D. Menzies III",
@@ -4484,10 +4484,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "GLOBAL FOOD & AGBUS PLCY",
-          "remaining": "33",
+          "remaining": "30",
           "capacity": "33",
           "instructor": [
             "David P. Anderson (P)"
@@ -4518,10 +4518,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "ECOLOGICAL ECONOMICS",
-          "remaining": "7",
+          "remaining": "4",
           "capacity": "7",
           "instructor": [
             "Urs P. Kreuter (P), James R. Conner"
@@ -4552,10 +4552,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "MANAGERIAL ECON IN AGBU",
-          "remaining": "35",
+          "remaining": "29",
           "capacity": "35",
           "instructor": [
             "Victoria Salin (P)"
@@ -4586,10 +4586,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "AGRIBUSINESS MANAGEMENT",
-          "remaining": "50",
+          "remaining": "48",
           "capacity": "50",
           "instructor": [
             "John Siebert (P)"
@@ -4615,10 +4615,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "AGRIBUSINESS MANAGEMENT",
-          "remaining": "50",
+          "remaining": "47",
           "capacity": "50",
           "instructor": [
             "John Siebert (P)"
@@ -4644,10 +4644,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "AGRIBUSINESS MANAGEMENT",
-          "remaining": "50",
+          "remaining": "49",
           "capacity": "50",
           "instructor": [
             "John Siebert (P)"
@@ -4673,10 +4673,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "AGRIBUSINESS MANAGEMENT",
-          "remaining": "50",
+          "remaining": "48",
           "capacity": "50",
           "instructor": [
             "John Siebert (P)"
@@ -4741,10 +4741,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "FOOD & AGRICULTURAL LAW",
-          "remaining": "35",
+          "remaining": "33",
           "capacity": "35",
           "instructor": [
             "Fred O. Boadu (P)"
@@ -4804,10 +4804,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "LAND ECONOMICS",
-          "remaining": "40",
+          "remaining": "33",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -4901,10 +4901,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 4,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "ECONOMETRICS FOR AGBU",
-          "remaining": "62",
+          "remaining": "58",
           "capacity": "62",
           "instructor": [
             "David Bessler (P)",
@@ -5008,10 +5008,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "505",
           "title": "INTRO TO AG ECONOMICS",
-          "remaining": "25",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Oral Capps (P)"
@@ -5037,10 +5037,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "506",
           "title": "INTRO TO AG ECONOMICS",
-          "remaining": "40",
+          "remaining": "37",
           "capacity": "40",
           "instructor": [
             "Oral Capps (P)"
@@ -5124,10 +5124,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "509",
           "title": "INTRO TO AG ECONOMICS",
-          "remaining": "40",
+          "remaining": "38",
           "capacity": "40",
           "instructor": [
             "John Penson (P)"
@@ -5192,10 +5192,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "AGBU ENTRE ECON ANALYSIS",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "M. E. Rister (P)",
@@ -5294,10 +5294,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "504",
           "title": "AGBU ENTRE ECON ANALYSIS",
-          "remaining": "20",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "M. E. Rister (P)",
@@ -5362,10 +5362,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "AGBU ENTRE ECON ANALYSIS",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "M. E. Rister (P)",
@@ -5464,10 +5464,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "901",
           "title": "AGRICULTURAL POLICY",
-          "remaining": "100",
+          "remaining": "92",
           "capacity": "100",
           "instructor": [
             "Joe L. Outlaw (P)"
@@ -5493,10 +5493,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "902",
           "title": "AGRICULTURAL POLICY",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Joe L. Outlaw (P)"
@@ -5527,10 +5527,10 @@
           "subject": "AGEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "15",
           "section": "600",
           "title": "STRATEGIC AGBUS MANAGMNT",
-          "remaining": "29",
+          "remaining": "14",
           "capacity": "29",
           "instructor": [
             "John L. Park (P)"
@@ -5555,5 +5555,5 @@
     }
   },
   "title": "AGEC - Agricultural Economics",
-  "updated": "Thu Apr 07 01:09:34 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:36 AM"
 }

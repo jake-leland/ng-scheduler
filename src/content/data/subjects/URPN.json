@@ -8,10 +8,10 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "14",
           "section": "500",
           "title": "HEALTH SYSTEMS PLANNING",
-          "remaining": "150",
+          "remaining": "136",
           "capacity": "150",
           "instructor": [
             "TBA"
@@ -42,10 +42,10 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "URBAN ISSUES",
-          "remaining": "116",
+          "remaining": "115",
           "capacity": "116",
           "instructor": [
             "Gony-Mustafa A. Sharif (P)"
@@ -100,10 +100,10 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "700",
           "title": "URBAN ISSUES",
-          "remaining": "50",
+          "remaining": "46",
           "capacity": "50",
           "instructor": [
             "Tho N. Tran (P)"
@@ -134,10 +134,10 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "SUSTAINABLE COMMUNITIES",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "George Rogers (P)"
@@ -163,10 +163,10 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "SUSTAINABLE COMMUNITIES",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "George Rogers (P)"
@@ -234,8 +234,8 @@
           "active": "0",
           "section": "500",
           "title": "DIGITAL COMMUNICATION I",
-          "remaining": "45",
-          "capacity": "45",
+          "remaining": "30",
+          "capacity": "30",
           "instructor": [
             "Runzi Wang (P), Yang Mi Kim"
           ],
@@ -323,13 +323,13 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "900",
           "title": "LAND DEVELOPMENT I",
-          "remaining": "30",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
-            "Geoffrey J. Booth (P)"
+            "Cecilia Giusti (P)"
           ],
           "credits": "3",
           "course": "330",
@@ -357,10 +357,10 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "URB ANALYTICAL METHODS I",
-          "remaining": "26",
+          "remaining": "25",
           "capacity": "26",
           "instructor": [
             "Walter Peacock (P)"
@@ -720,13 +720,13 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "THE EVOLVING CITY",
-          "remaining": "150",
+          "remaining": "149",
           "capacity": "150",
           "instructor": [
-            "Yu Xiao (P)"
+            "Gony-Mustafa A. Sharif (P)"
           ],
           "credits": "3",
           "course": "201",
@@ -749,10 +749,10 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "THE EVOLVING CITY",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Ayoung Woo (P)"
@@ -784,7 +784,7 @@
           "remaining": "30",
           "capacity": "30",
           "instructor": [
-            "Youngre Noh (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "201",
@@ -807,11 +807,11 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "700",
           "title": "THE EVOLVING CITY",
-          "remaining": "40",
-          "capacity": "40",
+          "remaining": "149",
+          "capacity": "150",
           "instructor": [
             "Robert S. Cowell (P)"
           ],
@@ -895,15 +895,15 @@
           "crn": "21930"
         },
         "900": {
-          "select": "SR",
+          "select": "C",
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "900",
           "title": "BUILDING BETTER CITIES",
-          "remaining": "25",
-          "capacity": "25",
+          "remaining": "-1",
+          "capacity": "0",
           "instructor": [
             "TBA"
           ],
@@ -933,10 +933,10 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "INTRO GIS IN URBAN PLAN",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Douglas F. Wunneburger (P)",
@@ -1001,10 +1001,10 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "700",
           "title": "INTRO GIS IN URBAN PLAN",
-          "remaining": "40",
+          "remaining": "39",
           "capacity": "40",
           "instructor": [
             "Douglas F. Wunneburger",
@@ -1040,10 +1040,10 @@
           "subject": "URPN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "TRANSPORT & URBAN FORM",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Li Wei (P)"
@@ -1068,5 +1068,5 @@
     }
   },
   "title": "URPN - Urban & Reg Planning",
-  "updated": "Thu Apr 07 01:26:17 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
 }

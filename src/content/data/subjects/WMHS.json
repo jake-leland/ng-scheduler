@@ -99,33 +99,28 @@
           "select": "SR",
           "subject": "WMHS",
           "campus": "CS",
-          "classes": 2,
-          "active": "0",
+          "classes": 1,
+          "active": "6",
           "section": "600",
           "title": "HYDROLOGY AND ENVIRONMENT",
-          "remaining": "15",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
-            "Steven Quiring (P)",
-            "TBA"
+            "Steven Quiring (P)"
           ],
           "credits": "3",
           "course": "601",
           "days": [
-            "MWF",
-            "T"
+            "MWF"
           ],
           "date (mm/dd)": [
-            "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
-            "OM 103",
-            "TEAG B009C"
+            "OM 103"
           ],
           "time": [
-            "12:40 pm-01:30 pm",
-            "11:10 am-01:00 pm"
+            "12:40 pm-01:30 pm"
           ],
           "crn": "28663"
         }
@@ -400,10 +395,10 @@
           "subject": "WMHS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "656",
           "title": "RESEARCH",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Kung-Hui Chu (P)"
@@ -695,10 +690,10 @@
           "subject": "WMHS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "50",
+          "remaining": "47",
           "capacity": "50",
           "instructor": [
             "Ronald Kaiser (P)"
@@ -723,5 +718,5 @@
     }
   },
   "title": "WMHS-Water Mgmt & Hydrol Sci",
-  "updated": "Thu Apr 07 01:27:16 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:55 AM"
 }

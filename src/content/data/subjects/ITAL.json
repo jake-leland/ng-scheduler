@@ -8,10 +8,10 @@
           "subject": "ITAL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "BEGINNING ITALIAN I",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Manuela Marchesini (P)",
@@ -42,10 +42,10 @@
           "subject": "ITAL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "BEGINNING ITALIAN I",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Manuela Marchesini (P)",
@@ -115,10 +115,10 @@
           "subject": "ITAL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "INTERMED ITALIAN I",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Fabiana Cecchini (P)"
@@ -144,10 +144,10 @@
           "subject": "ITAL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "INTERMED ITALIAN I",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Fabiana Cecchini (P)"
@@ -206,5 +206,5 @@
     }
   },
   "title": "ITAL - Italian",
-  "updated": "Thu Apr 07 01:18:44 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:46 AM"
 }

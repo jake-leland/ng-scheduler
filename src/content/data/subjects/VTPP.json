@@ -951,10 +951,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "METABOLIC & DETOX MECH",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Stephen Safe (P)"
@@ -981,15 +981,15 @@
       "title": "DESIGN MODELS FOR PHYSIOLOGY",
       "sections": {
         "501": {
-          "select": "C",
+          "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "501",
           "title": "DESIGN MODELS FOR PHYSIOLOGY",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "25",
+          "capacity": "25",
           "instructor": [
             "Christopher Quick (P), Ranjeet M. Dongaonkar"
           ],
@@ -1047,7 +1047,7 @@
           "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
-          "classes": 2,
+          "classes": 5,
           "active": "0",
           "section": "501",
           "title": "PHYSIOL FOR BIOENGNRS I",
@@ -1055,25 +1055,40 @@
           "capacity": "64",
           "instructor": [
             "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
-            "Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Jayanth Ramadoss , Larry Suva"
+            "Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Jayanth Ramadoss , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva"
           ],
           "credits": "4",
           "course": "434",
           "days": [
             "MWF",
-            "T"
+            "T",
+            "W",
+            "W",
+            "M"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/21-09/21",
+            "10/26-10/26",
+            "11/21-11/21"
           ],
           "location": [
             "VMA 330",
-            "VMS 316"
+            "VMS 316",
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "time": [
             "09:10 am-10:00 am",
-            "03:00 pm-05:00 pm"
+            "03:00 pm-05:00 pm",
+            "06:00 pm-07:00 pm",
+            "06:00 pm-07:00 pm",
+            "06:00 pm-07:00 pm"
           ],
           "crn": "12852"
         },
@@ -1081,7 +1096,7 @@
           "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
-          "classes": 2,
+          "classes": 5,
           "active": "0",
           "section": "502",
           "title": "PHYSIOL FOR BIOENGNRS I",
@@ -1089,25 +1104,40 @@
           "capacity": "32",
           "instructor": [
             "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
-            "Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Jayanth Ramadoss , Larry Suva"
+            "Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Jayanth Ramadoss , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva"
           ],
           "credits": "4",
           "course": "434",
           "days": [
             "MWF",
-            "W"
+            "W",
+            "W",
+            "W",
+            "M"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/21-09/21",
+            "10/26-10/26",
+            "11/21-11/21"
           ],
           "location": [
             "VMA 330",
-            "VMS 316"
+            "VMS 316",
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "time": [
             "11:30 am-12:20 pm",
-            "03:00 pm-05:00 pm"
+            "03:00 pm-05:00 pm",
+            "06:00 pm-07:00 pm",
+            "06:00 pm-07:00 pm",
+            "06:00 pm-07:00 pm"
           ],
           "crn": "12853"
         },
@@ -1115,33 +1145,48 @@
           "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
-          "classes": 2,
-          "active": "0",
+          "classes": 5,
+          "active": "6",
           "section": "503",
           "title": "PHYSIOL FOR BIOENGNRS I",
-          "remaining": "32",
+          "remaining": "26",
           "capacity": "32",
           "instructor": [
             "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
-            "Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Jayanth Ramadoss , Larry Suva"
+            "Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Jayanth Ramadoss , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva"
           ],
           "credits": "4",
           "course": "434",
           "days": [
             "MWF",
-            "W"
+            "W",
+            "W",
+            "W",
+            "M"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/21-09/21",
+            "10/26-10/26",
+            "11/21-11/21"
           ],
           "location": [
             "VMA 330",
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "time": [
             "09:10 am-10:00 am",
-            "03:00 pm-05:00 pm"
+            "03:00 pm-05:00 pm",
+            "06:00 pm-07:00 pm",
+            "06:00 pm-07:00 pm",
+            "06:00 pm-07:00 pm"
           ],
           "crn": "28292"
         },
@@ -1149,33 +1194,48 @@
           "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
-          "classes": 2,
-          "active": "0",
+          "classes": 5,
+          "active": "3",
           "section": "504",
           "title": "PHYSIOL FOR BIOENGNRS I",
-          "remaining": "64",
+          "remaining": "61",
           "capacity": "64",
           "instructor": [
             "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
-            "Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Jayanth Ramadoss , Larry Suva"
+            "Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Jayanth Ramadoss , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
+            "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva"
           ],
           "credits": "4",
           "course": "434",
           "days": [
             "MWF",
-            "R"
+            "R",
+            "W",
+            "W",
+            "M"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/21-09/21",
+            "10/26-10/26",
+            "11/21-11/21"
           ],
           "location": [
             "VMA 330",
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "time": [
             "11:30 am-12:20 pm",
-            "03:00 pm-05:00 pm"
+            "03:00 pm-05:00 pm",
+            "06:00 pm-07:00 pm",
+            "06:00 pm-07:00 pm",
+            "06:00 pm-07:00 pm"
           ],
           "crn": "28293"
         }
@@ -1233,10 +1293,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "VASCULAR PHYSIOLOGY",
-          "remaining": "15",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "Cristine Heaps (P), Ranjeet M. Dongaonkar , Michael C. Golding , Guichun Han , Christopher Quick , John Stallone , Randolph H. Stewart , Shannon E. Washburn , Beiyan Zhou"
@@ -1263,14 +1323,14 @@
       "title": "CARDIOVASCULAR PHYSLGY",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "24",
           "section": "600",
           "title": "CARDIOVASCULAR PHYSLGY",
-          "remaining": "24",
+          "remaining": "0",
           "capacity": "24",
           "instructor": [
             "Christopher Quick (P)",
@@ -1302,7 +1362,7 @@
       "title": "PHYSIOLOGY I",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 2,
@@ -2193,15 +2253,15 @@
           "crn": "25641"
         },
         "502": {
-          "select": "C",
+          "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 2,
           "active": "0",
           "section": "502",
           "title": "DESIGN EXPERIMENTS FOR PHYSIOL",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "25",
+          "capacity": "25",
           "instructor": [
             "Ranjeet M. Dongaonkar , Christopher Quick",
             "Ranjeet M. Dongaonkar (P), Christopher Quick"
@@ -2232,14 +2292,14 @@
       "title": "DIRECTED STUDIES",
       "sections": {
         "620": {
-          "select": "SR",
+          "select": "C",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "620",
           "title": "DIRECTED STUDIES",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Cristine Heaps (P)"
@@ -2526,10 +2586,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "608",
           "title": "DIRECTED STUDIES",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Alice R. Blue Mclendon (P)"
@@ -2589,10 +2649,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "19",
           "section": "500",
           "title": "PHYSIOL OF DOMESTIC AN",
-          "remaining": "72",
+          "remaining": "53",
           "capacity": "72",
           "instructor": [
             "Alice R. Blue Mclendon (P)"
@@ -2622,33 +2682,58 @@
           "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
-          "classes": 2,
-          "active": "0",
+          "classes": 7,
+          "active": "14",
           "section": "501",
           "title": "BIOMEDICAL PHYSIOLOGY I",
-          "remaining": "60",
+          "remaining": "46",
           "capacity": "60",
           "instructor": [
             "James D. Herman (P)",
-            "James D. Herman"
+            "James D. Herman",
+            "James D. Herman (P)",
+            "James D. Herman (P)",
+            "James D. Herman (P)",
+            "James D. Herman (P)",
+            "James D. Herman (P)"
           ],
           "credits": "4",
           "course": "423",
           "days": [
             "MWF",
-            "T"
+            "T",
+            "W",
+            "F",
+            "W",
+            "W",
+            "M"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/21-09/21",
+            "10/07-10/07",
+            "10/19-10/19",
+            "11/09-11/09",
+            "12/05-12/05"
           ],
           "location": [
             "VMS 306",
-            "VMS 316"
+            "VMS 316",
+            "TBA",
+            "TBA",
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "time": [
             "09:10 am-10:00 am",
-            "12:40 pm-02:30 pm"
+            "12:40 pm-02:30 pm",
+            "06:00 pm-07:10 pm",
+            "06:00 pm-08:00 pm",
+            "06:00 pm-07:10 pm",
+            "06:00 pm-07:10 pm",
+            "06:00 pm-07:10 pm"
           ],
           "crn": "12847"
         },
@@ -2656,33 +2741,58 @@
           "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
-          "classes": 2,
-          "active": "0",
+          "classes": 7,
+          "active": "4",
           "section": "502",
           "title": "BIOMEDICAL PHYSIOLOGY I",
-          "remaining": "65",
+          "remaining": "61",
           "capacity": "65",
           "instructor": [
             "Anne E. Newell-Fugate (P)",
-            "Anne E. Newell-Fugate"
+            "Anne E. Newell-Fugate",
+            "Anne E. Newell-Fugate (P)",
+            "Anne E. Newell-Fugate (P)",
+            "Anne E. Newell-Fugate (P)",
+            "Anne E. Newell-Fugate (P)",
+            "Anne E. Newell-Fugate (P)"
           ],
           "credits": "4",
           "course": "423",
           "days": [
             "MWF",
-            "W"
+            "W",
+            "W",
+            "F",
+            "W",
+            "W",
+            "M"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/21-09/21",
+            "10/07-10/07",
+            "10/19-10/19",
+            "11/09-11/09",
+            "12/05-12/05"
           ],
           "location": [
             "VMS 306",
-            "VMS 316"
+            "VMS 316",
+            "TBA",
+            "TBA",
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "time": [
             "10:20 am-11:10 am",
-            "12:40 pm-02:30 pm"
+            "12:40 pm-02:30 pm",
+            "06:00 pm-07:10 pm",
+            "06:00 pm-08:00 pm",
+            "06:00 pm-07:10 pm",
+            "06:00 pm-07:10 pm",
+            "06:00 pm-07:10 pm"
           ],
           "crn": "12848"
         },
@@ -2690,33 +2800,58 @@
           "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
-          "classes": 2,
-          "active": "0",
+          "classes": 7,
+          "active": "21",
           "section": "503",
           "title": "BIOMEDICAL PHYSIOLOGY I",
-          "remaining": "65",
+          "remaining": "44",
           "capacity": "65",
           "instructor": [
             "James D. Herman (P)",
-            "James D. Herman"
+            "James D. Herman",
+            "James D. Herman (P)",
+            "James D. Herman (P)",
+            "James D. Herman (P)",
+            "James D. Herman (P)",
+            "James D. Herman (P)"
           ],
           "credits": "4",
           "course": "423",
           "days": [
             "MWF",
-            "R"
+            "R",
+            "W",
+            "F",
+            "W",
+            "W",
+            "M"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/21-09/21",
+            "10/07-10/07",
+            "10/19-10/19",
+            "11/09-11/09",
+            "12/05-12/05"
           ],
           "location": [
             "VMS 306",
-            "VMS 316"
+            "VMS 316",
+            "TBA",
+            "TBA",
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "time": [
             "11:30 am-12:20 pm",
-            "12:40 pm-02:30 pm"
+            "12:40 pm-02:30 pm",
+            "06:00 pm-07:10 pm",
+            "06:00 pm-08:00 pm",
+            "06:00 pm-07:10 pm",
+            "06:00 pm-07:10 pm",
+            "06:00 pm-07:10 pm"
           ],
           "crn": "12849"
         }
@@ -2730,10 +2865,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "500",
           "title": "PHARMACOLOGY",
-          "remaining": "50",
+          "remaining": "40",
           "capacity": "50",
           "instructor": [
             "James D. Herman (P)"
@@ -2764,10 +2899,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "BIOMEDICAL PHYSIOLOGY I",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "James D. Herman (P)",
@@ -2837,10 +2972,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "699",
           "title": "PHARMACOLOGY",
-          "remaining": "15",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "Daniel Jones (P)"
@@ -2871,10 +3006,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "19",
           "section": "600",
           "title": "SYSTEMIC VET PHYS I",
-          "remaining": "105",
+          "remaining": "86",
           "capacity": "105",
           "instructor": [
             "John Stallone (P), Ranjeet M. Dongaonkar , Michael C. Golding , Guichun Han , Andrea E. Hanson , Cristine Heaps"
@@ -2935,7 +3070,7 @@
       "title": "PHARMACOL TOXICOL I",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 2,
@@ -3013,7 +3148,7 @@
       "title": "PHYSIOLOGY ELECTIVE",
       "sections": {
         "345": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
@@ -3042,7 +3177,7 @@
           "crn": "18565"
         },
         "314": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
@@ -3071,7 +3206,7 @@
           "crn": "13416"
         },
         "315": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
@@ -3100,7 +3235,7 @@
           "crn": "13417"
         },
         "316": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
@@ -3129,7 +3264,7 @@
           "crn": "13418"
         },
         "317": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
@@ -3161,5 +3296,5 @@
     }
   },
   "title": "VTPP - Vet Physiology & Pharm",
-  "updated": "Thu Apr 07 01:26:58 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
 }

@@ -4,7 +4,7 @@
       "title": "BASIC READING DEVELOPMEN",
       "sections": {
         "102": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIR",
           "campus": "EL",
           "classes": 1,
@@ -38,7 +38,7 @@
       "title": "INT. READING DEVELOPMENT",
       "sections": {
         "201": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIR",
           "campus": "EL",
           "classes": 1,
@@ -67,7 +67,7 @@
           "crn": "11149"
         },
         "203": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIR",
           "campus": "EL",
           "classes": 1,
@@ -96,7 +96,7 @@
           "crn": "15944"
         },
         "204": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIR",
           "campus": "EL",
           "classes": 1,
@@ -130,7 +130,7 @@
       "title": "ADV. READING DEVELOPMENT",
       "sections": {
         "301": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIR",
           "campus": "EL",
           "classes": 1,
@@ -159,7 +159,7 @@
           "crn": "11150"
         },
         "302": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIR",
           "campus": "EL",
           "classes": 1,
@@ -193,7 +193,7 @@
       "title": "INTERMEDIATE READING II",
       "sections": {
         "251": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIR",
           "campus": "EL",
           "classes": 1,
@@ -254,5 +254,5 @@
     }
   },
   "title": "ELIR - Reading/Writing",
-  "updated": "Thu Apr 07 01:15:04 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

@@ -71,10 +71,10 @@
           "subject": "PHEO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "600",
           "title": "ENVIRON/OCCUPTNL DISEASES",
-          "remaining": "38",
+          "remaining": "26",
           "capacity": "38",
           "instructor": [
             "Natalie M. Johnson (P)"
@@ -111,7 +111,7 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "TBA"
+            "Genny Zuniga (P)"
           ],
           "credits": "1-3",
           "course": "685",
@@ -638,7 +638,7 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "TBA"
+            "Genny Zuniga (P)"
           ],
           "credits": "1-3",
           "course": "686",
@@ -698,8 +698,8 @@
           "active": "0",
           "section": "698",
           "title": "PRINCIPLES OF ENV/OCC HLTH",
-          "remaining": "70",
-          "capacity": "70",
+          "remaining": "10",
+          "capacity": "10",
           "instructor": [
             "Mark E. Benden (P), Annamarie D. Bokelmann"
           ],
@@ -724,10 +724,10 @@
           "subject": "PHEO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "600",
           "title": "PRINCIPLES OF ENV/OCC HLTH",
-          "remaining": "30",
+          "remaining": "22",
           "capacity": "30",
           "instructor": [
             "Mark E. Benden (P), Annamarie D. Bokelmann"
@@ -749,17 +749,17 @@
           "crn": "27980"
         },
         "699": {
-          "select": "C",
+          "select": "SR",
           "subject": "PHEO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "699",
           "title": "PRINCIPLES OF ENV/OCC HLTH",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "60",
+          "capacity": "70",
           "instructor": [
-            "Virender K. Sharma (P), Annamarie D. Bokelmann"
+            "Mark E. Benden (P), Annamarie D. Bokelmann"
           ],
           "credits": "3",
           "course": "600",
@@ -782,13 +782,13 @@
           "subject": "PHEO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "601",
           "title": "PRINCIPLES OF ENV/OCC HLTH",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
-            "TBA"
+            "Genny Zuniga (P)"
           ],
           "credits": "3",
           "course": "600",
@@ -807,17 +807,17 @@
           "crn": "27982"
         },
         "700": {
-          "select": "C",
+          "select": "SR",
           "subject": "PHEO",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "700",
           "title": "PRINCIPLES OF ENV/OCC HLTH",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "20",
+          "capacity": "20",
           "instructor": [
-            "Virender K. Sharma (P), Annamarie D. Bokelmann"
+            "Mark E. Benden (P), Annamarie D. Bokelmann"
           ],
           "credits": "3",
           "course": "600",
@@ -845,10 +845,10 @@
           "subject": "PHEO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "OCCUPATIONAL BIOMECHANICS",
-          "remaining": "34",
+          "remaining": "31",
           "capacity": "34",
           "instructor": [
             "Ranjana Mehta (P)"
@@ -879,10 +879,10 @@
           "subject": "PHEO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "SPTP: ENVR SUSTAIN & PUBL HLTH",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Virender K. Sharma (P)"
@@ -942,10 +942,10 @@
           "subject": "PHEO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "600",
           "title": "CHEMICAL HAZARD EXPOSURE",
-          "remaining": "20",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "Thomas J. McDonald (P)"
@@ -976,10 +976,10 @@
           "subject": "PHEO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "HAZ MATLS MGMT AND COMPLIANCE",
-          "remaining": "32",
+          "remaining": "27",
           "capacity": "32",
           "instructor": [
             "TBA"
@@ -1010,10 +1010,10 @@
           "subject": "PHEO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "OCCUPATIONAL SAFETY",
-          "remaining": "26",
+          "remaining": "20",
           "capacity": "26",
           "instructor": [
             "Adam W. Pickens (P)"
@@ -1570,5 +1570,5 @@
     }
   },
   "title": "PHEO - Public Hlth Enviro Occu",
-  "updated": "Thu Apr 07 01:22:50 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:50 AM"
 }

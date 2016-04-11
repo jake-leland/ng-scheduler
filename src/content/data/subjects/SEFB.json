@@ -8,10 +8,10 @@
           "subject": "SEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "900",
           "title": "EDU EMPLOY ISS SECD SPED",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Patricia S. Lynch (P)",
@@ -110,10 +110,10 @@
           "subject": "SEFB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "550",
           "title": "STDNT TCHNG SPED:IN-ABSENTIA",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "17",
           "instructor": [
             "Kelly D. Schmid (P)"
@@ -139,10 +139,10 @@
           "subject": "SEFB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "STDNT TCHNG SPED",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "Kelly D. Schmid (P)"
@@ -202,10 +202,10 @@
           "subject": "SEFB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "700",
           "title": "BEHAVIOR MANAGEMENT",
-          "remaining": "40",
+          "remaining": "32",
           "capacity": "40",
           "instructor": [
             "Mack Burke (P)"
@@ -230,5 +230,5 @@
     }
   },
   "title": "SEFB - Special Ed Field Based",
-  "updated": "Thu Apr 07 01:25:09 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:53 AM"
 }

@@ -8,10 +8,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "ANALOG ELECTRONICS",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Jay R. Porter (P)",
@@ -184,70 +184,70 @@
       "title": "CONTROL SYSTEMS",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
           "active": "0",
           "section": "501",
           "title": "CONTROL SYSTEMS",
-          "remaining": "16",
-          "capacity": "16",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
-            "Xingyong Song",
-            "Xingyong Song (P)"
+            "Xingyong Song (P)",
+            "Xingyong Song"
           ],
           "credits": "4",
           "course": "462",
           "days": [
-            "M",
-            "TR"
+            "TR",
+            "W"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
-            "RDMC 302",
-            "THOM 121"
+            "THOM 121",
+            "RDMC 302"
           ],
           "time": [
-            "05:30 pm-08:10 pm",
-            "11:10 am-12:25 pm"
+            "11:10 am-12:25 pm",
+            "10:00 am-12:40 pm"
           ],
           "crn": "24797"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
           "active": "0",
           "section": "502",
           "title": "CONTROL SYSTEMS",
-          "remaining": "16",
-          "capacity": "16",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
-            "Xingyong Song",
-            "Xingyong Song (P)"
+            "Xingyong Song (P)",
+            "Xingyong Song"
           ],
           "credits": "4",
           "course": "462",
           "days": [
-            "M",
-            "TR"
+            "TR",
+            "W"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
-            "RDMC 302",
-            "THOM 121"
+            "THOM 121",
+            "RDMC 302"
           ],
           "time": [
-            "08:00 am-10:40 am",
-            "11:10 am-12:25 pm"
+            "11:10 am-12:25 pm",
+            "05:30 pm-08:10 pm"
           ],
           "crn": "24798"
         }
@@ -388,7 +388,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "ETB 1035",
+            "TBA",
             "THOM 010"
           ],
           "time": [
@@ -422,7 +422,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "ETB 1035",
+            "TBA",
             "THOM 010"
           ],
           "time": [
@@ -475,10 +475,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "PWR SYS & CIRCUIT APP",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Walter Buchanan (P)",
@@ -548,10 +548,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "ENGR TECH CAPSTONE II",
-          "remaining": "36",
+          "remaining": "34",
           "capacity": "36",
           "instructor": [
             "Joseph Morgan (P)"
@@ -582,10 +582,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "PRODUCT DEVELOPMENT",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Matthew J. Leonard",
@@ -616,10 +616,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "PRODUCT DEVELOPMENT",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Matthew J. Leonard",
@@ -655,10 +655,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "EMAG & HIGH FREQ SYSTEMS",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Jay R. Porter",
@@ -689,10 +689,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "EMAG & HIGH FREQ SYSTEMS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Jay R. Porter (P)",
@@ -728,10 +728,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "WIRELESS TRNSMISSION SYS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "John C. Bosshard (P)",
@@ -762,10 +762,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "WIRELESS TRNSMISSION SYS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "John C. Bosshard (P)",
@@ -908,10 +908,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "EMBEDDED SYSTEMS SOFTWAR",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Gang Sun (P)",
@@ -942,10 +942,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "EMBEDDED SYSTEMS SOFTWAR",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Gang Sun (P)",
@@ -1015,10 +1015,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "LOCAL METRO AREA NETWORK",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "Ana Goulart (P)",
@@ -1122,10 +1122,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "ELEC INSTRUMENTATION",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Jiayuan Zhang",
@@ -1302,10 +1302,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "ADV NETWORK SYS & SECUR",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Ana Goulart (P)",
@@ -1375,10 +1375,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "DIGITAL ELECTRONICS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Joseph Morgan (P)",
@@ -1516,10 +1516,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "SIX SIGMA & APPL STAT",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Wei Zhan (P)",
@@ -1554,7 +1554,7 @@
           "select": "C",
           "subject": "ESET",
           "campus": "CS",
-          "classes": 2,
+          "classes": 3,
           "active": "0",
           "section": "501",
           "title": "ENGINEERING LEADERSHIP",
@@ -1562,25 +1562,30 @@
           "capacity": "0",
           "instructor": [
             "Behbood Zoghi (P)",
+            "Behbood Zoghi (P)",
             "TBA"
           ],
           "credits": "3",
           "course": "319",
           "days": [
             "TR",
+            "TR",
             "R"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
+            "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
-            "TBA",
+            "FERM 110",
+            "FERM 110",
             "RDMC 302"
           ],
           "time": [
             "12:45 pm-01:35 pm",
-            "01:50 pm-04:30 pm"
+            "01:36 pm-02:00 pm",
+            "02:20 pm-04:10 pm"
           ],
           "crn": "28603"
         },
@@ -1588,7 +1593,7 @@
           "select": "C",
           "subject": "ESET",
           "campus": "CS",
-          "classes": 2,
+          "classes": 3,
           "active": "0",
           "section": "502",
           "title": "ENGINEERING LEADERSHIP",
@@ -1596,25 +1601,30 @@
           "capacity": "0",
           "instructor": [
             "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "319",
           "days": [
             "TR",
+            "TR",
             "T"
           ],
           "date (mm/dd)": [
+            "08/29-12/14",
             "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
             "FERM 110",
+            "FERM 110",
             "RDMC 302"
           ],
           "time": [
             "12:45 pm-01:35 pm",
-            "01:50 pm-04:30 pm"
+            "01:36 pm-02:00 pm",
+            "02:20 pm-04:10 pm"
           ],
           "crn": "28610"
         }
@@ -1656,5 +1666,5 @@
     }
   },
   "title": "ESET - Electronic Sys Eng Tech",
-  "updated": "Thu Apr 07 01:16:00 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:43 AM"
 }

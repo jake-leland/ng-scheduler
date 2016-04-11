@@ -8,10 +8,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "THEORY OF RESEARCH",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Martin Dickman (P)"
@@ -569,10 +569,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "Libo Shan (P)"
@@ -637,10 +637,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "14",
           "section": "500",
           "title": "PLANT PATHOLOGY",
-          "remaining": "90",
+          "remaining": "76",
           "capacity": "90",
           "instructor": [
             "David Appel (P)"
@@ -705,10 +705,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "PLANT PATHOLOGY LAB",
-          "remaining": "22",
+          "remaining": "17",
           "capacity": "22",
           "instructor": [
             "Leland Pierson (P)"
@@ -763,10 +763,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "503",
           "title": "PLANT PATHOLOGY LAB",
-          "remaining": "22",
+          "remaining": "19",
           "capacity": "22",
           "instructor": [
             "Carlos Gonzalez (P)"
@@ -792,10 +792,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "504",
           "title": "PLANT PATHOLOGY LAB",
-          "remaining": "22",
+          "remaining": "19",
           "capacity": "22",
           "instructor": [
             "Dennis Gross (P)"
@@ -962,10 +962,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "PATHOGEN STRATEGIES",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Daniel Ebbole (P)"
@@ -996,10 +996,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "PATHOGEN PERCEPT & SIGNALNG",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Libo Shan (P)"
@@ -1030,10 +1030,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "DEFENSE HORMONE SIGNALS",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Mikhailo Kolomiets (P)"
@@ -1058,5 +1058,5 @@
     }
   },
   "title": "PLPA - Plant Pathology",
-  "updated": "Thu Apr 07 01:23:47 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:51 AM"
 }

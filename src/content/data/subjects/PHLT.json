@@ -376,10 +376,10 @@
           "subject": "PHLT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "STRAT POP HEALTH IMPROVMNT",
-          "remaining": "45",
+          "remaining": "44",
           "capacity": "45",
           "instructor": [
             "Jennifer M. Griffith (P)"
@@ -957,10 +957,10 @@
           "subject": "PHLT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "PUBLIC HEALTH COMM",
-          "remaining": "45",
+          "remaining": "44",
           "capacity": "45",
           "instructor": [
             "Bernard Appiah (P)"
@@ -1054,10 +1054,10 @@
           "subject": "PHLT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "PROJECT MGMT PUBLIC HEALTH",
-          "remaining": "100",
+          "remaining": "98",
           "capacity": "100",
           "instructor": [
             "Stephanie A. Kodatt (P)"
@@ -1117,10 +1117,10 @@
           "subject": "PHLT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "FOUNDATIONS PUBLIC HEALTH",
-          "remaining": "100",
+          "remaining": "97",
           "capacity": "100",
           "instructor": [
             "Stephanie A. Kodatt (P)"
@@ -1209,10 +1209,10 @@
           "subject": "PHLT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "HLTH CARE PUBLIC HLTH SYSTEMS",
-          "remaining": "100",
+          "remaining": "99",
           "capacity": "100",
           "instructor": [
             "Szu-Hsuan Lin (P)"
@@ -1360,15 +1360,15 @@
       "title": "SPECIAL TOPICS IN...",
       "sections": {
         "501": {
-          "select": "C",
+          "select": "SR",
           "subject": "PHLT",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "501",
           "title": "SPTP: HEALTH ENTREPRENEURSHIP",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "20",
+          "capacity": "20",
           "instructor": [
             "James Burdine (P)"
           ],
@@ -1427,10 +1427,10 @@
           "subject": "PHLT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "SOC DYNAMICS POP HLTH",
-          "remaining": "100",
+          "remaining": "98",
           "capacity": "100",
           "instructor": [
             "Bernard Appiah (P)"
@@ -1582,10 +1582,10 @@
           "subject": "PHLT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "BIO BASIS OF PUBLIC HLTH",
-          "remaining": "100",
+          "remaining": "99",
           "capacity": "100",
           "instructor": [
             "Jennifer A. Ross (P)"
@@ -1674,10 +1674,10 @@
           "subject": "PHLT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "PUB HLTH DATA MGT ASSMNT II",
-          "remaining": "45",
+          "remaining": "44",
           "capacity": "45",
           "instructor": [
             "Szu-Hsuan Lin (P)"
@@ -1708,10 +1708,10 @@
           "subject": "PHLT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "EPIDEMIOLOGY PUBLIC HEALTH",
-          "remaining": "100",
+          "remaining": "98",
           "capacity": "100",
           "instructor": [
             "Gilbert Ramirez (P)"
@@ -1862,5 +1862,5 @@
     }
   },
   "title": "PHLT - Public Health",
-  "updated": "Thu Apr 07 01:23:04 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:50 AM"
 }

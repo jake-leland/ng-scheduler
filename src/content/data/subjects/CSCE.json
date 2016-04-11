@@ -42,10 +42,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "PROGRAMMING I",
-          "remaining": "45",
+          "remaining": "38",
           "capacity": "45",
           "instructor": [
             "TBA",
@@ -76,10 +76,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "PROGRAMMING I",
-          "remaining": "45",
+          "remaining": "42",
           "capacity": "45",
           "instructor": [
             "TBA",
@@ -178,10 +178,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "505",
           "title": "PROGRAMMING I",
-          "remaining": "35",
+          "remaining": "33",
           "capacity": "35",
           "instructor": [
             "TBA",
@@ -251,10 +251,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "CPSC CONCEPTS & PROGRAM",
-          "remaining": "45",
+          "remaining": "41",
           "capacity": "45",
           "instructor": [
             "Joseph D. Hurley (P)",
@@ -285,10 +285,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "CPSC CONCEPTS & PROGRAM",
-          "remaining": "45",
+          "remaining": "43",
           "capacity": "45",
           "instructor": [
             "Joseph D. Hurley (P)",
@@ -387,10 +387,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "505",
           "title": "CPSC CONCEPTS & PROGRAM",
-          "remaining": "24",
+          "remaining": "21",
           "capacity": "24",
           "instructor": [
             "TBA",
@@ -456,14 +456,14 @@
       "title": "COMP SUPPORT COLL WORK",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "600",
           "title": "COMP SUPPORT COLL WORK",
-          "remaining": "25",
+          "remaining": "0",
           "capacity": "25",
           "instructor": [
             "Frank Shipman (P)"
@@ -494,10 +494,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "14",
           "section": "200",
           "title": "HNR-COMPUTER ORGANIZATION",
-          "remaining": "0",
+          "remaining": "-14",
           "capacity": "0",
           "instructor": [
             "Eun Kim (P)",
@@ -630,10 +630,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "504",
           "title": "COMPUTER ORGANIZATION",
-          "remaining": "30",
+          "remaining": "22",
           "capacity": "30",
           "instructor": [
             "Aakash Tyagi (P)",
@@ -664,10 +664,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "505",
           "title": "COMPUTER ORGANIZATION",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "Aakash Tyagi (P)",
@@ -698,10 +698,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "506",
           "title": "COMPUTER ORGANIZATION",
-          "remaining": "30",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Aakash Tyagi (P)",
@@ -771,10 +771,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "INTRO TO COMPUTER SYSTEM",
-          "remaining": "30",
+          "remaining": "23",
           "capacity": "30",
           "instructor": [
             "TBA",
@@ -805,10 +805,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "INTRO TO COMPUTER SYSTEM",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "TBA",
@@ -839,10 +839,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "503",
           "title": "INTRO TO COMPUTER SYSTEM",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "TBA",
@@ -907,10 +907,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "505",
           "title": "INTRO TO COMPUTER SYSTEM",
-          "remaining": "27",
+          "remaining": "25",
           "capacity": "27",
           "instructor": [
             "TBA",
@@ -980,10 +980,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "200",
           "title": "HNR-COMPILER DESIGN",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Lawrence Rauchwerger (P)"
@@ -1009,10 +1009,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "COMPILER DESIGN",
-          "remaining": "21",
+          "remaining": "15",
           "capacity": "21",
           "instructor": [
             "Lawrence Rauchwerger (P)"
@@ -1101,10 +1101,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "15",
           "section": "501",
           "title": "PROGRAMMING LANGUAGES",
-          "remaining": "90",
+          "remaining": "75",
           "capacity": "90",
           "instructor": [
             "Hyunyoung Lee (P)"
@@ -1130,10 +1130,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "15",
           "section": "502",
           "title": "PROGRAMMING LANGUAGES",
-          "remaining": "90",
+          "remaining": "75",
           "capacity": "90",
           "instructor": [
             "Hyunyoung Lee (P)"
@@ -1156,18 +1156,52 @@
         }
       }
     },
-    "633": {
-      "title": "MACHINE LEARNING",
+    "435": {
+      "title": "PARALLEL COMPUTING",
       "sections": {
-        "600": {
-          "select": "SR",
+        "500": {
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
           "active": "0",
+          "section": "500",
+          "title": "PARALLEL COMPUTING",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "435",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28720"
+        }
+      }
+    },
+    "633": {
+      "title": "MACHINE LEARNING",
+      "sections": {
+        "600": {
+          "select": "C",
+          "subject": "CSCE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "31",
           "section": "600",
           "title": "MACHINE LEARNING",
-          "remaining": "31",
+          "remaining": "0",
           "capacity": "31",
           "instructor": [
             "Thomas Ioerger (P)"
@@ -1198,10 +1232,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "PROGRAMMING STUDIO",
-          "remaining": "30",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Andrew Kerne",
@@ -1232,10 +1266,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "PROGRAMMING STUDIO",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Andrew Kerne",
@@ -1266,10 +1300,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "503",
           "title": "PROGRAMMING STUDIO",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Andrew Kerne",
@@ -1334,10 +1368,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "500",
           "title": "COMP HUMAN INTERACTION",
-          "remaining": "55",
+          "remaining": "30",
           "capacity": "55",
           "instructor": [
             "Richard K. Furuta (P)"
@@ -1368,10 +1402,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "29",
           "section": "900",
           "title": "SEMINAR",
-          "remaining": "120",
+          "remaining": "91",
           "capacity": "120",
           "instructor": [
             "Aakash Tyagi (P)"
@@ -1402,10 +1436,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "501",
           "title": "SR CAPSTONE DESIGN",
-          "remaining": "20",
+          "remaining": "12",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -1504,10 +1538,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "SR CAPSTONE DESIGN",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -1577,10 +1611,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "COMPUTER SYS DESIGN",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Dezhen Song",
@@ -1616,10 +1650,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "19",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "135",
+          "remaining": "116",
           "capacity": "135",
           "instructor": [
             "Lawrence Rauchwerger (P), Nancy Amato"
@@ -1718,10 +1752,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "510",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "26",
+          "remaining": "24",
           "capacity": "26",
           "instructor": [
             "Walter Daugherity (P)",
@@ -1786,10 +1820,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "512",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "19",
+          "remaining": "16",
           "capacity": "19",
           "instructor": [
             "Walter Daugherity (P)",
@@ -1820,10 +1854,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "513",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "90",
+          "remaining": "87",
           "capacity": "90",
           "instructor": [
             "John M. Moore",
@@ -1888,10 +1922,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "23",
           "section": "517",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "90",
+          "remaining": "67",
           "capacity": "90",
           "instructor": [
             "John M. Moore (P)",
@@ -1956,10 +1990,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "13",
           "section": "200",
           "title": "HNR-INTRO PGM DESIGN CONCEPT",
-          "remaining": "0",
+          "remaining": "-13",
           "capacity": "0",
           "instructor": [
             "Jennifer Welch (P)",
@@ -2092,10 +2126,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "521",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Walter Daugherity (P)",
@@ -2160,10 +2194,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "26",
+          "remaining": "20",
           "capacity": "26",
           "instructor": [
             "John M. Moore",
@@ -2228,10 +2262,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "503",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "19",
+          "remaining": "16",
           "capacity": "19",
           "instructor": [
             "John M. Moore (P)",
@@ -2296,10 +2330,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "9",
           "section": "504",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "19",
+          "remaining": "10",
           "capacity": "19",
           "instructor": [
             "John M. Moore (P)",
@@ -2330,10 +2364,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "26",
+          "remaining": "25",
           "capacity": "26",
           "instructor": [
             "Walter Daugherity (P)",
@@ -2364,10 +2398,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "506",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "26",
+          "remaining": "20",
           "capacity": "26",
           "instructor": [
             "Walter Daugherity (P)",
@@ -2398,10 +2432,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "507",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "19",
           "instructor": [
             "Walter Daugherity (P)",
@@ -2432,10 +2466,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "508",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "19",
+          "remaining": "13",
           "capacity": "19",
           "instructor": [
             "Walter Daugherity (P)",
@@ -2505,10 +2539,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "QUANTUM ALGORITHMS",
-          "remaining": "15",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
             "Andreas Klappenecker (P)"
@@ -2539,10 +2573,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "22",
           "section": "500",
           "title": "COMPUTER GRAPHICS",
-          "remaining": "55",
+          "remaining": "33",
           "capacity": "55",
           "instructor": [
             "Scott Schaefer (P)"
@@ -2781,10 +2815,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "600",
           "title": "QUANTUM ALGORITHMS",
-          "remaining": "10",
+          "remaining": "1",
           "capacity": "10",
           "instructor": [
             "Andreas Klappenecker (P)"
@@ -2873,10 +2907,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "671",
           "title": "PROFESSIONAL INTERNSHP: IN-AB",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Eun Kim (P)"
@@ -3381,10 +3415,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "14",
           "section": "600",
           "title": "COMPUTER GRAPHICS",
-          "remaining": "25",
+          "remaining": "11",
           "capacity": "25",
           "instructor": [
             "Jinxiang Chai (P)"
@@ -3527,14 +3561,14 @@
           "crn": "18873"
         },
         "621": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "621",
           "title": "DIRECTED STUDIES",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Eun Kim (P)"
@@ -3963,6 +3997,40 @@
         }
       }
     },
+    "489": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "CSCE",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPTP:DATA SCIENCE & ANALYTICS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "James Caverlee (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "03:55 pm-05:10 pm"
+          ],
+          "crn": "28725"
+        }
+      }
+    },
     "206": {
       "title": "STRUCTURED PROG IN C",
       "sections": {
@@ -4073,10 +4141,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "STRUCTURED PROG IN C",
-          "remaining": "45",
+          "remaining": "43",
           "capacity": "45",
           "instructor": [
             "Joseph D. Hurley (P)",
@@ -4107,10 +4175,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "505",
           "title": "STRUCTURED PROG IN C",
-          "remaining": "45",
+          "remaining": "37",
           "capacity": "45",
           "instructor": [
             "Joseph D. Hurley (P)",
@@ -4175,10 +4243,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "507",
           "title": "STRUCTURED PROG IN C",
-          "remaining": "45",
+          "remaining": "43",
           "capacity": "45",
           "instructor": [
             "TBA",
@@ -4209,10 +4277,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "508",
           "title": "STRUCTURED PROG IN C",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -4248,10 +4316,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "600",
           "title": "DIGITAL IMAGE",
-          "remaining": "15",
+          "remaining": "7",
           "capacity": "15",
           "instructor": [
             "Ergun Akleman (P)",
@@ -4287,10 +4355,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "PHYSIC BASED MODELING",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "John Keyser (P)",
@@ -4326,10 +4394,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "22",
           "section": "600",
           "title": "SOFTWARE ENGINEERING",
-          "remaining": "55",
+          "remaining": "33",
           "capacity": "55",
           "instructor": [
             "Duncan Walker (P)"
@@ -4360,10 +4428,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "29",
           "section": "600",
           "title": "DATABASE SYSTEMS",
-          "remaining": "75",
+          "remaining": "46",
           "capacity": "75",
           "instructor": [
             "Jianer Chen (P)"
@@ -5448,10 +5516,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "630",
           "title": "RESEARCH",
-          "remaining": "15",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Yoonsuck Choe (P)"
@@ -5535,10 +5603,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "632",
           "title": "RESEARCH",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Dilma Da Silva (P)"
@@ -5564,10 +5632,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "633",
           "title": "RESEARCH",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Nancy Amato (P)"
@@ -5651,10 +5719,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "635",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Jennifer Welch (P)"
@@ -5709,10 +5777,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "636",
           "title": "RESEARCH",
-          "remaining": "30",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Tracy Hammond (P)"
@@ -5854,10 +5922,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "683",
           "title": "RESEARCH: IN-ABSENTIA",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Nancy Amato (P)"
@@ -5883,10 +5951,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "640",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Frank Shipman (P)"
@@ -5941,10 +6009,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "641",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Thomas Ioerger (P)"
@@ -6086,10 +6154,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "644",
           "title": "RESEARCH",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "11",
           "instructor": [
             "Guofei Gu (P)"
@@ -6144,10 +6212,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "RESEARCH",
-          "remaining": "4",
+          "remaining": "3",
           "capacity": "4",
           "instructor": [
             "Timothy A. Davis (P)"
@@ -6231,10 +6299,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "646",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Dylan A. Shell (P)"
@@ -6405,10 +6473,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "649",
           "title": "RESEARCH",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Daniel J. Ragsdale (P)"
@@ -6434,10 +6502,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "606",
           "title": "RESEARCH",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Ruihong Huang (P)"
@@ -6463,10 +6531,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "607",
           "title": "RESEARCH",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Xia Hu (P)"
@@ -6492,10 +6560,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "608",
           "title": "RESEARCH",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Radu Stoleru (P)"
@@ -6753,10 +6821,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "610",
           "title": "RESEARCH",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Shaoming Huang (P), Evdokia Nikolova"
@@ -6898,10 +6966,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "613",
           "title": "RESEARCH",
-          "remaining": "4",
+          "remaining": "3",
           "capacity": "4",
           "instructor": [
             "Francis K. Quek (P)"
@@ -6985,10 +7053,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "616",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Ricardo Gutierrez-Osuna (P)"
@@ -7362,10 +7430,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "669",
           "title": "RESEARCH: IN-ABSENTIA",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Robin Murphy (P)"
@@ -7449,10 +7517,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "628",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Scott Schaefer (P)"
@@ -7541,10 +7609,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "500",
           "title": "OPERATING SYSTEMS",
-          "remaining": "55",
+          "remaining": "43",
           "capacity": "55",
           "instructor": [
             "Dilma Da Silva (P)"
@@ -7575,10 +7643,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "13",
           "section": "501",
           "title": "DESIGN ANALY ALGORITHMS",
-          "remaining": "61",
+          "remaining": "48",
           "capacity": "61",
           "instructor": [
             "TBA"
@@ -7604,10 +7672,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "502",
           "title": "DESIGN ANALY ALGORITHMS",
-          "remaining": "55",
+          "remaining": "44",
           "capacity": "55",
           "instructor": [
             "TBA"
@@ -7672,10 +7740,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "21",
           "section": "601",
           "title": "HUMAN-CENTERED COMPUTING",
-          "remaining": "55",
+          "remaining": "34",
           "capacity": "55",
           "instructor": [
             "Andrew Kerne (P)"
@@ -7706,10 +7774,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "HPC EARTH SCIENCE & PETE",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Vivek Sarin (P), Eduardo Gildin"
@@ -7740,10 +7808,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "31",
           "section": "600",
           "title": "COMPUTER ARCHITECTURE",
-          "remaining": "55",
+          "remaining": "24",
           "capacity": "55",
           "instructor": [
             "Daniel A. Jimenez (P)"
@@ -7774,10 +7842,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "601",
           "title": "CO-DESIGN EMBEDDED SYS",
-          "remaining": "25",
+          "remaining": "13",
           "capacity": "25",
           "instructor": [
             "Rabinarayan Mahapatra (P)"
@@ -7808,10 +7876,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "INTRO TO COMPUTING",
-          "remaining": "120",
+          "remaining": "113",
           "capacity": "120",
           "instructor": [
             "Timothy A. Davis (P)"
@@ -7842,10 +7910,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "MICROCOMPUTER SYSTEMS",
-          "remaining": "15",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "Jyh Liu (P)",
@@ -7876,10 +7944,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "502",
           "title": "MICROCOMPUTER SYSTEMS",
-          "remaining": "15",
+          "remaining": "7",
           "capacity": "15",
           "instructor": [
             "Jyh Liu (P)",
@@ -7983,10 +8051,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "22",
+          "remaining": "20",
           "capacity": "22",
           "instructor": [
             "Teresa Leyk",
@@ -8051,10 +8119,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "22",
+          "remaining": "20",
           "capacity": "22",
           "instructor": [
             "Teresa Leyk",
@@ -8119,10 +8187,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "17",
           "section": "505",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "27",
+          "remaining": "10",
           "capacity": "27",
           "instructor": [
             "Teresa Leyk",
@@ -8153,10 +8221,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "27",
+          "remaining": "26",
           "capacity": "27",
           "instructor": [
             "Teresa Leyk",
@@ -8187,10 +8255,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "507",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "27",
+          "remaining": "25",
           "capacity": "27",
           "instructor": [
             "Teresa Leyk",
@@ -8221,10 +8289,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "508",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "36",
+          "remaining": "31",
           "capacity": "36",
           "instructor": [
             "Teresa Leyk (P)",
@@ -8255,10 +8323,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "509",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "19",
+          "remaining": "15",
           "capacity": "19",
           "instructor": [
             "Teresa Leyk",
@@ -8294,10 +8362,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "200",
           "title": "HNR-DISCRETE STRUC COMPUTING",
-          "remaining": "0",
+          "remaining": "-12",
           "capacity": "0",
           "instructor": [
             "Sing Sze (P)"
@@ -8323,10 +8391,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "16",
           "section": "501",
           "title": "DISCRETE STRUC COMPUTING",
-          "remaining": "90",
+          "remaining": "74",
           "capacity": "90",
           "instructor": [
             "Philip C. Ritchey (P)"
@@ -8352,10 +8420,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "19",
           "section": "502",
           "title": "DISCRETE STRUC COMPUTING",
-          "remaining": "90",
+          "remaining": "71",
           "capacity": "90",
           "instructor": [
             "Philip C. Ritchey (P)"
@@ -8381,10 +8449,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "503",
           "title": "DISCRETE STRUC COMPUTING",
-          "remaining": "90",
+          "remaining": "85",
           "capacity": "90",
           "instructor": [
             "Philip C. Ritchey (P)"
@@ -8415,10 +8483,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "29",
           "section": "500",
           "title": "ARTIFICIAL INTELLIGENCE",
-          "remaining": "55",
+          "remaining": "26",
           "capacity": "55",
           "instructor": [
             "Thomas Ioerger (P)"
@@ -8449,10 +8517,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "21",
           "section": "500",
           "title": "WIRELESS AND MOBILE SYS",
-          "remaining": "55",
+          "remaining": "34",
           "capacity": "55",
           "instructor": [
             "Radu Stoleru (P)"
@@ -8483,10 +8551,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "18",
           "section": "500",
           "title": "COMP & NET SECURITY",
-          "remaining": "55",
+          "remaining": "37",
           "capacity": "55",
           "instructor": [
             "Daniel J. Ragsdale (P)"
@@ -8517,10 +8585,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "21",
           "section": "600",
           "title": "REAL-TIME SYSTEMS",
-          "remaining": "25",
+          "remaining": "4",
           "capacity": "25",
           "instructor": [
             "Riccardo Bettati (P)"
@@ -8551,10 +8619,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "COMPUTATIONAL GEOMETRY",
-          "remaining": "25",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Nancy Amato (P)"
@@ -8585,10 +8653,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "34",
           "section": "600",
           "title": "ADV NETWORK & SECURITY",
-          "remaining": "55",
+          "remaining": "21",
           "capacity": "55",
           "instructor": [
             "Guofei Gu (P)"
@@ -8644,14 +8712,14 @@
           "crn": "24231"
         },
         "601": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "601",
           "title": "PATTERN ANALYSIS",
-          "remaining": "25",
+          "remaining": "0",
           "capacity": "25",
           "instructor": [
             "Ricardo Gutierrez-Osuna (P)"
@@ -8678,14 +8746,14 @@
       "title": "SKETCH RECOGNITION",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "600",
           "title": "SKETCH RECOGNITION",
-          "remaining": "25",
+          "remaining": "0",
           "capacity": "25",
           "instructor": [
             "Tracy Hammond (P)"
@@ -8716,10 +8784,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "41",
           "section": "600",
           "title": "ARTIFICIAL INTELLIGNCE",
-          "remaining": "75",
+          "remaining": "34",
           "capacity": "75",
           "instructor": [
             "Yoonsuck Choe (P)"
@@ -8750,10 +8818,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "601",
           "title": "ANALYSIS OF ALGORITHMS",
-          "remaining": "55",
+          "remaining": "46",
           "capacity": "55",
           "instructor": [
             "TBA"
@@ -8779,10 +8847,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "19",
           "section": "602",
           "title": "ANALYSIS OF ALGORITHMS",
-          "remaining": "55",
+          "remaining": "36",
           "capacity": "55",
           "instructor": [
             "TBA"
@@ -8807,5 +8875,5 @@
     }
   },
   "title": "CSCE - Computer Sci & Engr",
-  "updated": "Thu Apr 07 01:13:27 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:40 AM"
 }

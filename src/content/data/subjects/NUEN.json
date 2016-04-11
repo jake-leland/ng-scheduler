@@ -680,10 +680,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "613",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Ryan G. McClarren (P)"
@@ -1260,10 +1260,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "624",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Lin Shao (P)"
@@ -1555,10 +1555,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "COMP APPL IN NUC ENGR",
-          "remaining": "30",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Jim Morel (P)"
@@ -1657,10 +1657,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "ENVRNMNTL NUCLEAR ENGR",
-          "remaining": "44",
+          "remaining": "39",
           "capacity": "44",
           "instructor": [
             "Gamal Akabani Hneide (P)"
@@ -1725,10 +1725,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "MONTE CARLO TRANSPORT",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Sunil S. Chirayath (P)",
@@ -1798,10 +1798,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "NUCLEAR REACTOR DES",
-          "remaining": "30",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Pavel V. Tsvetkov (P)",
@@ -1905,10 +1905,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "FUEL ASSM 3D CORE DESIGN",
-          "remaining": "46",
+          "remaining": "45",
           "capacity": "46",
           "instructor": [
             "Jean C. Ragusa (P)"
@@ -1973,10 +1973,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "SEMINAR",
-          "remaining": "50",
+          "remaining": "49",
           "capacity": "50",
           "instructor": [
             "Yassin Hassan (P)"
@@ -2007,10 +2007,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "65",
+          "remaining": "62",
           "capacity": "65",
           "instructor": [
             "Yassin Hassan (P)"
@@ -2041,10 +2041,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "500",
           "title": "MATL SCI NUCLEAR ENERGY",
-          "remaining": "67",
+          "remaining": "57",
           "capacity": "67",
           "instructor": [
             "Sean McDeavitt (P)"
@@ -2191,10 +2191,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "524",
           "title": "DIRECTED STUDIES",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Lin Shao (P)"
@@ -2370,10 +2370,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "PRINCIPLES OF NUC ENGR",
-          "remaining": "53",
+          "remaining": "47",
           "capacity": "53",
           "instructor": [
             "Kenneth Peddicord (P)"
@@ -2429,15 +2429,15 @@
       "title": "NUCLEAR MATL EXTRM COND",
       "sections": {
         "600": {
-          "select": "C",
+          "select": "SR",
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "NUCLEAR MATL EXTRM COND",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "28",
+          "capacity": "30",
           "instructor": [
             "TBA"
           ],
@@ -2530,10 +2530,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "200",
           "title": "HNR-INTRO TO NUC ENGR I",
-          "remaining": "5",
+          "remaining": "1",
           "capacity": "5",
           "instructor": [
             "Lin Shao (P)"
@@ -2559,10 +2559,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "INTRO TO NUC ENGR I",
-          "remaining": "80",
+          "remaining": "78",
           "capacity": "80",
           "instructor": [
             "Lin Shao (P)"
@@ -2888,10 +2888,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "NUCLEAR REACTOR THEORY",
-          "remaining": "40",
+          "remaining": "37",
           "capacity": "40",
           "instructor": [
             "Marvin Adams (P)"
@@ -2917,10 +2917,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "501",
           "title": "NUCLEAR REACTOR THEORY",
-          "remaining": "45",
+          "remaining": "33",
           "capacity": "45",
           "instructor": [
             "Marvin Adams (P)"
@@ -3040,6 +3040,40 @@
         }
       }
     },
+    "689": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "609": {
+          "select": "C",
+          "subject": "NUEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "609",
+          "title": "SPTP:CFD IN NUCL THRML HYDRLCS",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "689",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "28700"
+        }
+      }
+    },
     "646": {
       "title": "FUND SPACE LIFE SCIENCES",
       "sections": {
@@ -3150,10 +3184,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "901",
           "title": "NUCL ENGR EXPERIMENTS",
-          "remaining": "8",
+          "remaining": "5",
           "capacity": "8",
           "instructor": [
             "John Ford (P)",
@@ -3184,10 +3218,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "902",
           "title": "NUCL ENGR EXPERIMENTS",
-          "remaining": "8",
+          "remaining": "5",
           "capacity": "8",
           "instructor": [
             "John Ford (P)",
@@ -3218,10 +3252,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "903",
           "title": "NUCL ENGR EXPERIMENTS",
-          "remaining": "8",
+          "remaining": "5",
           "capacity": "8",
           "instructor": [
             "John Ford (P)",
@@ -3359,10 +3393,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "NUC ENGR SYS AND DES",
-          "remaining": "48",
+          "remaining": "44",
           "capacity": "48",
           "instructor": [
             "Karen Vierow (P)"
@@ -3393,10 +3427,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "RAD INTERACT & SHIELD",
-          "remaining": "44",
+          "remaining": "43",
           "capacity": "44",
           "instructor": [
             "Pavel V. Tsvetkov (P)"
@@ -3427,10 +3461,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "RAD DET & NUCL MAT MEAS",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Craig Marianno (P)",
@@ -3461,10 +3495,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "RAD DET & NUCL MAT MEAS",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Craig Marianno (P)",
@@ -3534,10 +3568,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "RADIOLOGICAL SAFETY",
-          "remaining": "35",
+          "remaining": "30",
           "capacity": "35",
           "instructor": [
             "John Ford (P)"
@@ -3563,10 +3597,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "RADIOLOGICAL SAFETY",
-          "remaining": "35",
+          "remaining": "29",
           "capacity": "35",
           "instructor": [
             "TBA"
@@ -3625,5 +3659,5 @@
     }
   },
   "title": "NUEN - Nuclear Engineering",
-  "updated": "Thu Apr 07 01:21:30 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:49 AM"
 }

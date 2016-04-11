@@ -37,10 +37,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "551",
           "title": "FLD STUDY DESIGN PHIL: ITALY",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Giovanni Di Pasquale (P)"
@@ -66,10 +66,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "552",
           "title": "FLD STUDY DESIGN PHIL:SPAIN",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Miguel Roldan (P)"
@@ -274,10 +274,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "DIRECTED STUDIES",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Leslie H. Feigenbaum (P)"
@@ -415,7 +415,7 @@
           "crn": "18385"
         },
         "506": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
@@ -473,7 +473,7 @@
           "crn": "18387"
         },
         "508": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
@@ -502,7 +502,7 @@
           "crn": "13705"
         },
         "509": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
@@ -611,8 +611,8 @@
           "active": "0",
           "section": "551",
           "title": "FLD STUDY DESIGN COMM: GERMANY",
-          "remaining": "25",
-          "capacity": "25",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "TBA",
             "June Martin (P)"
@@ -676,10 +676,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "553",
           "title": "FLD STUDY DESIGN COMM: ITALY",
-          "remaining": "40",
+          "remaining": "38",
           "capacity": "40",
           "instructor": [
             "TBA",
@@ -710,10 +710,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "554",
           "title": "FLD STUDY DESIGN COMM: SPAIN",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "TBA",
@@ -841,10 +841,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "652",
           "title": "DIRECTED STUDIES: SPAIN",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Miguel Roldan (P)"
@@ -933,10 +933,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "552",
           "title": "FLD STUDY DESIGN INNOV: ITALY",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Elton Abbott (P), Ward Wells"
@@ -962,10 +962,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "553",
           "title": "FLD STUDY DESIGN INNOV: SPAIN",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Miguel Roldan (P)"
@@ -1025,10 +1025,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "RESEARCH FOUNDATIONS",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Shannon S. Van Zandt (P)"
@@ -1117,10 +1117,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "652",
           "title": "ADV FLD STU DESIGN INNOV: SPAI",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Miguel Roldan (P)"
@@ -1174,5 +1174,5 @@
     }
   },
   "title": "CARC - College of Architecture",
-  "updated": "Thu Apr 07 01:12:01 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
 }

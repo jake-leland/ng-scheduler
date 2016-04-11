@@ -8,10 +8,10 @@
           "subject": "PERF",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "900",
           "title": "INTRO PERF STUDIES",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "James R. Ball III (P)"
@@ -42,10 +42,10 @@
           "subject": "PERF",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "INTRO TO PERFORMANCE TECH",
-          "remaining": "30",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -76,10 +76,10 @@
           "subject": "PERF",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "PERF IN WORLD CULTURES",
-          "remaining": "43",
+          "remaining": "42",
           "capacity": "43",
           "instructor": [
             "Leonardo Cardoso De Cardoso (P)"
@@ -105,10 +105,10 @@
           "subject": "PERF",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "PERF IN WORLD CULTURES",
-          "remaining": "43",
+          "remaining": "42",
           "capacity": "43",
           "instructor": [
             "Leonardo Cardoso De Cardoso (P)"
@@ -139,10 +139,10 @@
           "subject": "PERF",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "SPTP:PERFORMING THE U.S. SOUTH",
-          "remaining": "30",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Kimberly A. Kattari (P)"
@@ -241,10 +241,10 @@
           "subject": "PERF",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "POP MUS IN AFRICAN DIASP",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "23",
           "instructor": [
             "David Donkor (P)"
@@ -513,17 +513,17 @@
       "title": "DIRECTED STUDIES",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "PERF",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "DIRECTED STUDIES",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "38",
+          "capacity": "40",
           "instructor": [
-            "TBA"
+            "Donnalee Dox (P)"
           ],
           "credits": "0-3",
           "course": "285",
@@ -534,7 +534,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "LAAH 124"
           ],
           "time": [
             "03:00 pm-03:50 pm"
@@ -579,5 +579,5 @@
     }
   },
   "title": "PERF - Performance Studies",
-  "updated": "Thu Apr 07 01:22:08 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:49 AM"
 }

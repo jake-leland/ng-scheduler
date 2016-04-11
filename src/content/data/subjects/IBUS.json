@@ -1,5 +1,126 @@
 {
   "courses": {
+    "450": {
+      "title": "INTERNATL ENVIR OF BUS",
+      "sections": {
+        "200": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "200",
+          "title": "HNR-INTERNATL ENVIR OF BUS",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Michael W. Pustay (P)"
+          ],
+          "credits": "3",
+          "course": "450",
+          "days": [
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 156"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "23909"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "1",
+          "section": "501",
+          "title": "INTERNATL ENVIR OF BUS",
+          "remaining": "1",
+          "capacity": "2",
+          "instructor": [
+            "Vanita Mahajan (P)"
+          ],
+          "credits": "3",
+          "course": "450",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 181"
+          ],
+          "time": [
+            "08:00 am-09:15 am"
+          ],
+          "crn": "11568"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "502",
+          "title": "INTERNATL ENVIR OF BUS",
+          "remaining": "2",
+          "capacity": "2",
+          "instructor": [
+            "Vanita Mahajan (P)"
+          ],
+          "credits": "3",
+          "course": "450",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 181"
+          ],
+          "time": [
+            "09:35 am-10:50 am"
+          ],
+          "crn": "11569"
+        },
+        "503": {
+          "select": "C",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "2",
+          "section": "503",
+          "title": "INTERNATL ENVIR OF BUS",
+          "remaining": "0",
+          "capacity": "2",
+          "instructor": [
+            "Vanita Mahajan (P)"
+          ],
+          "credits": "3",
+          "course": "450",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WCBA 107"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "11570"
+        }
+      }
+    },
     "484": {
       "title": "INTERNTL BUSN INTERNSHIP",
       "sections": {
@@ -34,18 +155,52 @@
         }
       }
     },
-    "452": {
-      "title": "INTERNATIONAL MGMT",
+    "693": {
+      "title": "PROFESSIONAL STUDY",
       "sections": {
-        "931": {
-          "select": "SR",
+        "650": {
+          "select": "C",
           "subject": "IBUS",
           "campus": "CS",
           "classes": 1,
           "active": "0",
+          "section": "650",
+          "title": "PROFESSIONAL STUDY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-12",
+          "course": "693",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28737"
+        }
+      }
+    },
+    "452": {
+      "title": "INTERNATIONAL MGMT",
+      "sections": {
+        "931": {
+          "select": "C",
+          "subject": "IBUS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "2",
           "section": "931",
           "title": "INTERNATIONAL MGMT",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "2",
           "instructor": [
             "Daria Panina (P)"
@@ -202,10 +357,10 @@
           "subject": "IBUS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "550",
           "title": "BUSINESS STUDY ABROAD",
-          "remaining": "21",
+          "remaining": "20",
           "capacity": "21",
           "instructor": [
             "TBA"
@@ -236,10 +391,10 @@
           "subject": "IBUS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "GLOBAL MARKETING",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Larry Gresham (P)"
@@ -518,129 +673,8 @@
           "crn": "22236"
         }
       }
-    },
-    "450": {
-      "title": "INTERNATL ENVIR OF BUS",
-      "sections": {
-        "200": {
-          "select": "SR",
-          "subject": "IBUS",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "200",
-          "title": "HNR-INTERNATL ENVIR OF BUS",
-          "remaining": "5",
-          "capacity": "5",
-          "instructor": [
-            "Michael W. Pustay (P)"
-          ],
-          "credits": "3",
-          "course": "450",
-          "days": [
-            "MW"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "WCBA 156"
-          ],
-          "time": [
-            "02:20 pm-03:35 pm"
-          ],
-          "crn": "23909"
-        },
-        "501": {
-          "select": "SR",
-          "subject": "IBUS",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "501",
-          "title": "INTERNATL ENVIR OF BUS",
-          "remaining": "2",
-          "capacity": "2",
-          "instructor": [
-            "Vanita Mahajan (P)"
-          ],
-          "credits": "3",
-          "course": "450",
-          "days": [
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "WCBA 181"
-          ],
-          "time": [
-            "08:00 am-09:15 am"
-          ],
-          "crn": "11568"
-        },
-        "502": {
-          "select": "SR",
-          "subject": "IBUS",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "502",
-          "title": "INTERNATL ENVIR OF BUS",
-          "remaining": "2",
-          "capacity": "2",
-          "instructor": [
-            "Vanita Mahajan (P)"
-          ],
-          "credits": "3",
-          "course": "450",
-          "days": [
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "WCBA 181"
-          ],
-          "time": [
-            "09:35 am-10:50 am"
-          ],
-          "crn": "11569"
-        },
-        "503": {
-          "select": "SR",
-          "subject": "IBUS",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "503",
-          "title": "INTERNATL ENVIR OF BUS",
-          "remaining": "2",
-          "capacity": "2",
-          "instructor": [
-            "Vanita Mahajan (P)"
-          ],
-          "credits": "3",
-          "course": "450",
-          "days": [
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "WCBA 107"
-          ],
-          "time": [
-            "12:45 pm-02:00 pm"
-          ],
-          "crn": "11570"
-        }
-      }
     }
   },
   "title": "IBUS - International Business",
-  "updated": "Thu Apr 07 01:18:06 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:45 AM"
 }

@@ -4,7 +4,7 @@
       "title": "BASIC VOCABULARY",
       "sections": {
         "102": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIV",
           "campus": "EL",
           "classes": 1,
@@ -33,7 +33,7 @@
           "crn": "13473"
         },
         "103": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIV",
           "campus": "EL",
           "classes": 1,
@@ -67,7 +67,7 @@
       "title": "INTERMEDIATE VOCABULARY",
       "sections": {
         "201": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIV",
           "campus": "EL",
           "classes": 1,
@@ -96,7 +96,7 @@
           "crn": "11153"
         },
         "202": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIV",
           "campus": "EL",
           "classes": 1,
@@ -130,7 +130,7 @@
       "title": "ADVANCED VOCABULARY",
       "sections": {
         "301": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIV",
           "campus": "EL",
           "classes": 1,
@@ -222,7 +222,7 @@
           "crn": "24277"
         },
         "251": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIV",
           "campus": "EL",
           "classes": 1,
@@ -254,5 +254,5 @@
     }
   },
   "title": "ELIV - Vocabulary",
-  "updated": "Thu Apr 07 01:15:05 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

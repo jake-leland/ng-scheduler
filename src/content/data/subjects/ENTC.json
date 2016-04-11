@@ -38,15 +38,15 @@
       "title": "SPECIAL TOPICS IN",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "ENTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "SPTP:BUILDING ENER MGMT SYS",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "10",
+          "capacity": "12",
           "instructor": [
             "Behbood Zoghi (P)",
             "TBA"
@@ -82,26 +82,26 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "TBA",
-            "Rainer J. Fink (P)"
+            "Rainer J. Fink (P)",
+            "TBA"
           ],
           "credits": "3",
           "course": "489",
           "days": [
-            " ",
-            " "
+            "TR",
+            "W"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
-            "TBA",
-            "TBA"
+            "ETB 1035",
+            "THOM 010"
           ],
           "time": [
-            "TBA",
-            "TBA"
+            "02:20 pm-03:10 pm",
+            "11:30 am-02:10 pm"
           ],
           "crn": "28567"
         }
@@ -143,5 +143,5 @@
     }
   },
   "title": "ENTC - Engineering Technology",
-  "updated": "Thu Apr 07 01:15:38 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:43 AM"
 }

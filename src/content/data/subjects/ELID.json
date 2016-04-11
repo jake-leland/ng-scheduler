@@ -4,7 +4,7 @@
       "title": "DIRECTED LABORATORY",
       "sections": {
         "101": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELID",
           "campus": "EL",
           "classes": 1,
@@ -33,7 +33,7 @@
           "crn": "14102"
         },
         "102": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELID",
           "campus": "EL",
           "classes": 1,
@@ -62,7 +62,7 @@
           "crn": "14103"
         },
         "103": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELID",
           "campus": "EL",
           "classes": 1,
@@ -157,5 +157,5 @@
     }
   },
   "title": "ELID - Directed Lab",
-  "updated": "Thu Apr 07 01:14:59 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

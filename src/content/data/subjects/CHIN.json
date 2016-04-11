@@ -8,10 +8,10 @@
           "subject": "CHIN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "BEGINNING CHINESE I",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Wei Dong Shi (P)",
@@ -76,10 +76,10 @@
           "subject": "CHIN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "INTERMEDIATE CHINESE I",
-          "remaining": "20",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "Jun Lei (P)"
@@ -105,10 +105,10 @@
           "subject": "CHIN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "INTERMEDIATE CHINESE I",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Jun Lei (P)"
@@ -122,7 +122,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "HELD 120"
+            "LAAH 264"
           ],
           "time": [
             "03:00 pm-03:50 pm"
@@ -139,10 +139,10 @@
           "subject": "CHIN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "READING & COMPOSITION",
-          "remaining": "25",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "Wei Dong Shi (P)"
@@ -164,42 +164,8 @@
           "crn": "24326"
         }
       }
-    },
-    "491": {
-      "title": "RESEARCH",
-      "sections": {
-        "500": {
-          "select": "C",
-          "subject": "CHIN",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "500",
-          "title": "RESEARCH",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "1-4",
-          "course": "491",
-          "days": [
-            "MWF"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "LAAH 264"
-          ],
-          "time": [
-            "03:00 pm-03:50 pm"
-          ],
-          "crn": "28501"
-        }
-      }
     }
   },
   "title": "CHIN - Chinese",
-  "updated": "Thu Apr 07 01:12:40 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
 }

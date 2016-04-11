@@ -8,10 +8,10 @@
           "subject": "DCED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "46",
           "section": "598",
           "title": "DANCE APPRECIATION",
-          "remaining": "60",
+          "remaining": "14",
           "capacity": "60",
           "instructor": [
             "Christine Bergeron (P)"
@@ -33,7 +33,7 @@
           "crn": "25184"
         },
         "500": {
-          "select": "NR",
+          "select": "SR",
           "subject": "DCED",
           "campus": "CS",
           "classes": 1,
@@ -66,10 +66,10 @@
           "subject": "DCED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "599",
           "title": "DANCE APPRECIATION",
-          "remaining": "60",
+          "remaining": "51",
           "capacity": "60",
           "instructor": [
             "Christine Bergeron (P)"
@@ -202,10 +202,10 @@
           "subject": "DCED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "DANCE COMPOSITION I",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Diane C. Bedford (P)"
@@ -265,10 +265,10 @@
           "subject": "DCED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "BALLET I",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Diane C. Bedford (P)"
@@ -333,10 +333,10 @@
           "subject": "DCED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "BALLET II",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Diane C. Bedford (P)"
@@ -463,5 +463,5 @@
     }
   },
   "title": "DCED - Dance Education",
-  "updated": "Thu Apr 07 01:13:48 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:41 AM"
 }

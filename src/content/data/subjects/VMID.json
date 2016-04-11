@@ -4,7 +4,7 @@
       "title": "CLINICAL NUTRITION",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VMID",
           "campus": "CS",
           "classes": 1,
@@ -38,7 +38,7 @@
       "title": "CLINICS 1",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VMID",
           "campus": "CS",
           "classes": 1,
@@ -72,7 +72,7 @@
       "title": "CLINICAL CORRELATES III",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VMID",
           "campus": "CS",
           "classes": 2,
@@ -111,7 +111,7 @@
       "title": "CLINICAL CORRELATES I",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VMID",
           "campus": "CS",
           "classes": 1,
@@ -145,7 +145,7 @@
       "title": "SURGERY I",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VMID",
           "campus": "CS",
           "classes": 1,
@@ -179,7 +179,7 @@
       "title": "DIAG IMAGING INTERPRE I",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VMID",
           "campus": "CS",
           "classes": 1,
@@ -213,7 +213,7 @@
       "title": "VETERINARY BEHAVIOR MED",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VMID",
           "campus": "CS",
           "classes": 1,
@@ -245,5 +245,5 @@
     }
   },
   "title": "VMID - Vet Medicine-Interdisc",
-  "updated": "Thu Apr 07 01:26:40 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
 }

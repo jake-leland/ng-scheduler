@@ -8,10 +8,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "28",
           "section": "200",
           "title": "ENGR HONORS SEMINAR I",
-          "remaining": "125",
+          "remaining": "97",
           "capacity": "125",
           "instructor": [
             "Nancy Amato (P)"
@@ -31,6 +31,35 @@
             "05:45 pm-07:00 pm"
           ],
           "crn": "26329"
+        },
+        "201": {
+          "select": "C",
+          "subject": "ENGR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "201",
+          "title": "ENGR HONORS SEMINAR I",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1",
+          "course": "181",
+          "days": [
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEM 100"
+          ],
+          "time": [
+            "05:30 pm-06:45 pm"
+          ],
+          "crn": "28689"
         }
       }
     },
@@ -42,10 +71,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "ENGR PROJ IN COMM SERV",
-          "remaining": "40",
+          "remaining": "39",
           "capacity": "40",
           "instructor": [
             "Magdalini Lagoudas (P)"
@@ -134,10 +163,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "202",
           "title": "HNR-ESP SEMINAR II",
-          "remaining": "45",
+          "remaining": "41",
           "capacity": "45",
           "instructor": [
             "Nancy Amato (P)"
@@ -145,16 +174,16 @@
           "credits": "1",
           "course": "381",
           "days": [
-            "W"
+            "F"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "CHEN 111"
+            "HRBB 124"
           ],
           "time": [
-            "03:00 pm-03:50 pm"
+            "04:10 pm-05:25 pm"
           ],
           "crn": "11256"
         }
@@ -671,10 +700,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "907",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Glen A. Miller",
@@ -705,10 +734,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "929",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Ray W. James (P), Martin B. Pettersson",
@@ -739,10 +768,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "908",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Glen A. Miller",
@@ -773,10 +802,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "909",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "7",
+          "remaining": "1",
           "capacity": "7",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Martin B. Pettersson",
@@ -807,10 +836,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "970",
           "title": "HNR-ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Glen A. Miller",
@@ -837,14 +866,14 @@
           "crn": "11287"
         },
         "930": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "930",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Ray W. James (P), Martin B. Pettersson",
@@ -875,10 +904,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "931",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -905,14 +934,14 @@
           "crn": "24645"
         },
         "910": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "910",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "3",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Martin B. Pettersson",
@@ -943,10 +972,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "932",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -973,14 +1002,14 @@
           "crn": "24646"
         },
         "911": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "911",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Martin B. Pettersson",
@@ -1007,14 +1036,14 @@
           "crn": "11274"
         },
         "912": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "912",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "5",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Martin B. Pettersson",
@@ -1045,10 +1074,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "913",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "2",
           "capacity": "10",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Glen A. Miller",
@@ -1075,14 +1104,14 @@
           "crn": "11276"
         },
         "914": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "914",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Glen A. Miller",
@@ -1109,14 +1138,14 @@
           "crn": "11277"
         },
         "915": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "915",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Glen A. Miller",
@@ -1147,10 +1176,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "916",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "2",
           "capacity": "10",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Glen A. Miller",
@@ -1181,10 +1210,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "917",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Glen A. Miller",
@@ -1215,10 +1244,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "9",
           "section": "918",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "1",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Glen A. Miller",
@@ -1245,14 +1274,14 @@
           "crn": "11281"
         },
         "919": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "919",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Glen A. Miller",
@@ -1283,10 +1312,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "920",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "7",
+          "remaining": "3",
           "capacity": "7",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Glen A. Miller",
@@ -1351,10 +1380,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "922",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Martin B. Pettersson",
@@ -1385,10 +1414,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "923",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Martin B. Pettersson",
@@ -1415,14 +1444,14 @@
           "crn": "11286"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "902",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Martin B. Pettersson",
@@ -1487,10 +1516,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "9",
           "section": "903",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "1",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Martin B. Pettersson",
@@ -1521,10 +1550,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "925",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Ray W. James (P), Glen A. Miller",
@@ -1555,10 +1584,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "904",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Martin B. Pettersson",
@@ -1585,14 +1614,14 @@
           "crn": "11267"
         },
         "926": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "926",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Ray W. James (P), Glen A. Miller",
@@ -1623,10 +1652,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "905",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Glen A. Miller",
@@ -1653,14 +1682,14 @@
           "crn": "11268"
         },
         "927": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "927",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Ray W. James (P), Glen A. Miller",
@@ -1691,10 +1720,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "906",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Glen A. Miller",
@@ -1725,10 +1754,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "928",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Ray W. James (P), Glen A. Miller",
@@ -1764,10 +1793,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "DIRECTED STUDIES",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Andrea Strzelec (P)"
@@ -2683,9 +2712,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Anthony Cahill (P)",
-            "Anthony Cahill",
-            "Anthony Cahill"
+            "Gregory H. Graves (P)",
+            "Gregory H. Graves",
+            "Gregory H. Graves"
           ],
           "credits": "2",
           "course": "111",
@@ -2761,9 +2790,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Gregory H. Graves (P)",
-            "Gregory H. Graves",
-            "Gregory H. Graves"
+            "Allen D. Godwin (P)",
+            "Allen D. Godwin",
+            "Allen D. Godwin"
           ],
           "credits": "2",
           "course": "111",
@@ -3073,9 +3102,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Matthew M. Whiteacre (P)",
-            "Matthew M. Whiteacre",
-            "Matthew M. Whiteacre"
+            "Gregory H. Graves (P)",
+            "Gregory H. Graves",
+            "Gregory H. Graves"
           ],
           "credits": "2",
           "course": "111",
@@ -4646,15 +4675,15 @@
       "title": "PROJECT MGMT FOR ENGINEERS",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "17",
           "section": "500",
           "title": "PROJECT MGMT FOR ENGINEERS",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "18",
+          "capacity": "35",
           "instructor": [
             "TBA"
           ],
@@ -4713,10 +4742,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "GLOBAL ENGINEERING DESIGN",
-          "remaining": "12",
+          "remaining": "10",
           "capacity": "12",
           "instructor": [
             "Victor Leon (P)",
@@ -4791,10 +4820,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "550",
           "title": "ENGR STUDY ABROAD",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -4889,15 +4918,15 @@
           "crn": "20909"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
           "active": "0",
           "section": "503",
           "title": "INTERDISCIPLINARY DESIGN",
-          "remaining": "10",
-          "capacity": "10",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "Daniel McAdams (P)",
             "Yuval Doron"
@@ -5094,6 +5123,40 @@
         }
       }
     },
+    "489": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "ENGR",
+          "campus": "CS",
+          "classes": 1,
+          "active": "1",
+          "section": "500",
+          "title": "SPTP: ENTRSHIP FOR NANO ENERGY (Syllabus)",
+          "remaining": "19",
+          "capacity": "20",
+          "instructor": [
+            "James M. Donnell (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 204"
+          ],
+          "time": [
+            "02:20 pm-03:35 pm"
+          ],
+          "crn": "28732"
+        }
+      }
+    },
     "698": {
       "title": "WRITING FOR PUBLICATION",
       "sections": {
@@ -5164,5 +5227,5 @@
     }
   },
   "title": "ENGR - Engineering",
-  "updated": "Thu Apr 07 01:15:38 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:43 AM"
 }

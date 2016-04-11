@@ -395,13 +395,13 @@
           "subject": "URSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "STRUCTURE FUNCTIONS CITI",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
-            "Shannon S. Van Zandt (P)"
+            "Yu Xiao (P)"
           ],
           "credits": "3",
           "course": "632",
@@ -483,14 +483,14 @@
           "crn": "23105"
         },
         "642": {
-          "select": "SR",
+          "select": "C",
           "subject": "URSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "642",
           "title": "RESEARCH",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Galen D. Newman (P)"
@@ -1100,5 +1100,5 @@
     }
   },
   "title": "URSC - Urban Science",
-  "updated": "Thu Apr 07 01:26:19 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
 }

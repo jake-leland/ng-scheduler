@@ -4,7 +4,7 @@
       "title": "BASIC LISTENING",
       "sections": {
         "101": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIL",
           "campus": "EL",
           "classes": 1,
@@ -33,7 +33,7 @@
           "crn": "11139"
         },
         "102": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIL",
           "campus": "EL",
           "classes": 1,
@@ -67,7 +67,7 @@
       "title": "INTERMEDIATE LISTENING",
       "sections": {
         "202": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIL",
           "campus": "EL",
           "classes": 1,
@@ -96,7 +96,7 @@
           "crn": "13061"
         },
         "203": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIL",
           "campus": "EL",
           "classes": 1,
@@ -130,7 +130,7 @@
       "title": "ADVANCED LISTENING",
       "sections": {
         "301": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIL",
           "campus": "EL",
           "classes": 1,
@@ -159,7 +159,7 @@
           "crn": "11140"
         },
         "302": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIL",
           "campus": "EL",
           "classes": 1,
@@ -193,7 +193,7 @@
       "title": "INTERMEDIATE LISTENING II",
       "sections": {
         "251": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIL",
           "campus": "EL",
           "classes": 1,
@@ -254,5 +254,5 @@
     }
   },
   "title": "ELIL - Skills Lab",
-  "updated": "Thu Apr 07 01:15:01 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

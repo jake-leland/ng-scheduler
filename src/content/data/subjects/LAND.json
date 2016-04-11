@@ -8,10 +8,10 @@
           "subject": "LAND",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "HIST OF LANDSCPE ARCH",
-          "remaining": "150",
+          "remaining": "146",
           "capacity": "150",
           "instructor": [
             "Galen D. Newman (P)"
@@ -588,8 +588,8 @@
           "active": "0",
           "section": "500",
           "title": "INTRO LAND ARCH PRACT",
-          "remaining": "75",
-          "capacity": "75",
+          "remaining": "150",
+          "capacity": "150",
           "instructor": [
             "TBA"
           ],
@@ -823,10 +823,10 @@
           "subject": "LAND",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "LANDSCAPE DESIGN III",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "TBA",
@@ -1032,10 +1032,10 @@
           "subject": "LAND",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "900",
           "title": "LANDSCAPE ARCH THEORY",
-          "remaining": "40",
+          "remaining": "39",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -1066,10 +1066,10 @@
           "subject": "LAND",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "8",
           "section": "600",
           "title": "OPEN SPA LAND USE PLAN I",
-          "remaining": "20",
+          "remaining": "12",
           "capacity": "20",
           "instructor": [
             "Chang Huang (P)",
@@ -1149,10 +1149,10 @@
           "subject": "LAND",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "LAND ARCH DES THRY APP I",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Chanam Lee (P)",
@@ -1260,5 +1260,5 @@
     }
   },
   "title": "LAND - Landscape Architecture",
-  "updated": "Thu Apr 07 01:19:15 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:46 AM"
 }

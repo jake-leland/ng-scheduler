@@ -53,7 +53,7 @@
           "credits": "3",
           "course": "453",
           "days": [
-            "MW"
+            "MWF"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
@@ -76,10 +76,10 @@
           "subject": "EURO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "CONTEMP RUSSIAN PROSE",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Elisabeth Rich (P)"
@@ -127,10 +127,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "HRBB 104"
+            "ACAD 123"
           ],
           "time": [
-            "03:55 pm-05:10 pm"
+            "12:45 pm-02:00 pm"
           ],
           "crn": "27322"
         }
@@ -138,5 +138,5 @@
     }
   },
   "title": "EURO - European Studies",
-  "updated": "Thu Apr 07 01:16:12 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:43 AM"
 }

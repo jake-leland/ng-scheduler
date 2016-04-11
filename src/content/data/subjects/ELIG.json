@@ -4,7 +4,7 @@
       "title": "BASIC GRAMMAR",
       "sections": {
         "101": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIG",
           "campus": "EL",
           "classes": 1,
@@ -33,7 +33,7 @@
           "crn": "26594"
         },
         "102": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIG",
           "campus": "EL",
           "classes": 1,
@@ -67,7 +67,7 @@
       "title": "INTERMEDIATE GRAMMAR",
       "sections": {
         "201": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIG",
           "campus": "EL",
           "classes": 1,
@@ -96,7 +96,7 @@
           "crn": "11137"
         },
         "202": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIG",
           "campus": "EL",
           "classes": 1,
@@ -130,7 +130,7 @@
       "title": "ADVANCED GRAMMAR",
       "sections": {
         "301": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIG",
           "campus": "EL",
           "classes": 1,
@@ -159,7 +159,7 @@
           "crn": "11138"
         },
         "302": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIG",
           "campus": "EL",
           "classes": 1,
@@ -222,7 +222,7 @@
           "crn": "14105"
         },
         "252": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIG",
           "campus": "EL",
           "classes": 1,
@@ -254,5 +254,5 @@
     }
   },
   "title": "ELIG - Grammar",
-  "updated": "Thu Apr 07 01:15:00 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

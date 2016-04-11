@@ -8,12 +8,29 @@
     <link rel="stylesheet" href="content/manage.css">
     <!-- Angular Material style sheet -->
     <link rel="stylesheet"
-          href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.css">
+          href="//ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.css">
 </head>
 <body>
-<div layout="row" layout-padding style="height: 500px">
-    <div flex="70" ng-include="'app/schedule/schedule.html'" layout-fill></div>
-    <div flex="30" ng-include="'app/manage/manage.html'" layout-fill></div>
+<div layout="column" layout-fill>
+    <div layout="row" layout-padding style="height: 500px">
+        <div flex="70" ng-include="'app/schedule/schedule.html'" layout-fill></div>
+        <div flex="30" ng-include="'app/manage/manage.html'" layout-fill></div>
+    </div>
+    <div layout="row" layout-align="center">
+        <md-content style="margin: 0 16px" class="md-whiteframe-1dp" layout="row" layout-align="center" layout-padding
+                    ng-cloak>
+            <h1>Notes:</h1>
+            <p>
+                Course data is <b>not</b> updated in real time. The time at which the data was last updated is posted
+                at the top of the each course's info window. For the most up-to-date info, use Howdy.
+                <br>
+                This website does not yet have any way of handling scheduling conflicts, so some class times may
+                completely obstruct others. Please be aware of this when planning your schedule.
+                <br>
+                If you experience any major issues, feel free to send me an email: <a href="mailto:jake@jakeleland.com">jake@jakeleland.com</a>
+            </p>
+        </md-content>
+    </div>
 </div>
 
 <!-- Angular.js Libraries -->

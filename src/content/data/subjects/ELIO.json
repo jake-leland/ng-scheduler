@@ -4,7 +4,7 @@
       "title": "BASIC ORAL SKILLS",
       "sections": {
         "101": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIO",
           "campus": "EL",
           "classes": 1,
@@ -33,7 +33,7 @@
           "crn": "11142"
         },
         "102": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIO",
           "campus": "EL",
           "classes": 1,
@@ -67,7 +67,7 @@
       "title": "INTERMEDIATE ORAL SKILLS",
       "sections": {
         "201": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIO",
           "campus": "EL",
           "classes": 1,
@@ -96,7 +96,7 @@
           "crn": "11144"
         },
         "203": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIO",
           "campus": "EL",
           "classes": 1,
@@ -159,7 +159,7 @@
           "crn": "11145"
         },
         "302": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIO",
           "campus": "EL",
           "classes": 1,
@@ -188,7 +188,7 @@
           "crn": "14106"
         },
         "303": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIO",
           "campus": "EL",
           "classes": 1,
@@ -222,7 +222,7 @@
       "title": "INTERMEDIATE ORAL II",
       "sections": {
         "251": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIO",
           "campus": "EL",
           "classes": 1,
@@ -251,7 +251,7 @@
           "crn": "20412"
         },
         "252": {
-          "select": "NR",
+          "select": "SR",
           "subject": "ELIO",
           "campus": "EL",
           "classes": 1,
@@ -283,5 +283,5 @@
     }
   },
   "title": "ELIO - Oral Skills",
-  "updated": "Thu Apr 07 01:15:03 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

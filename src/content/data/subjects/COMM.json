@@ -8,10 +8,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "COMM HCC: Hlth Message Design",
-          "remaining": "24",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "TBA"
@@ -71,10 +71,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "500",
           "title": "THEORIES OF MEDIA COMM",
-          "remaining": "42",
+          "remaining": "34",
           "capacity": "42",
           "instructor": [
             "Heidi Campbell (P)"
@@ -105,10 +105,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "COMM TECHNOLOGY SKILLS",
-          "remaining": "26",
+          "remaining": "24",
           "capacity": "26",
           "instructor": [
             "TBA"
@@ -134,10 +134,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "COMM TECHNOLOGY SKILLS",
-          "remaining": "26",
+          "remaining": "24",
           "capacity": "26",
           "instructor": [
             "TBA"
@@ -163,10 +163,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "COMM TECHNOLOGY SKILLS",
-          "remaining": "26",
+          "remaining": "25",
           "capacity": "26",
           "instructor": [
             "TBA"
@@ -218,40 +218,6 @@
         }
       }
     },
-    "670": {
-      "title": "HEALTH COMMUNICATN SEM",
-      "sections": {
-        "600": {
-          "select": "C",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "HEALTH COMMUNICATN SEM",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "670",
-          "days": [
-            "T"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "BLTN 208"
-          ],
-          "time": [
-            "06:00 pm-09:00 pm"
-          ],
-          "crn": "21683"
-        }
-      }
-    },
     "630": {
       "title": "INTERPERSONAL COMM",
       "sections": {
@@ -260,10 +226,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "INTERPERSONAL COMM",
-          "remaining": "10",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "Emily A. Rauscher (P)"
@@ -294,10 +260,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "COMM AND CONFLICT",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "James Barge (P)"
@@ -328,10 +294,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "900",
           "title": "RHETORIC OF TV & FILM",
-          "remaining": "19",
+          "remaining": "16",
           "capacity": "19",
           "instructor": [
             "Joshua Heuman (P)"
@@ -362,10 +328,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "200",
           "title": "HNR-INTERPERSONAL COMM",
-          "remaining": "20",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "Sherry Holladay (P)"
@@ -391,10 +357,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "INTERPERSONAL COMM",
-          "remaining": "220",
+          "remaining": "213",
           "capacity": "220",
           "instructor": [
             "Sherry Holladay (P)"
@@ -425,10 +391,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "900",
           "title": "VISUAL COMMUNICATION",
-          "remaining": "24",
+          "remaining": "17",
           "capacity": "24",
           "instructor": [
             "Jennifer Jones Barbour (P)"
@@ -451,69 +417,6 @@
         }
       }
     },
-    "637": {
-      "title": "ORGANIZATIONAL COMM SEM",
-      "sections": {
-        "600": {
-          "select": "SR",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "ORGANIZATIONAL COMM SEM",
-          "remaining": "10",
-          "capacity": "10",
-          "instructor": [
-            "William T. Coombs (P)"
-          ],
-          "credits": "3",
-          "course": "637",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "21692"
-        },
-        "601": {
-          "select": "C",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "601",
-          "title": "ORGANIZATIONAL COMM SEM",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "637",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "24549"
-        }
-      }
-    },
     "480": {
       "title": "RELIGIOUS COMMUNICATION",
       "sections": {
@@ -522,10 +425,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "RELIGIOUS COMMUNICATION",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "19",
           "instructor": [
             "Heidi Campbell (P)"
@@ -585,10 +488,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "200",
           "title": "HNR-CULTURAL HISTORY MEDIA",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Lucy J. Miller (P)"
@@ -648,10 +551,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "RHETORICAL CRITICISM",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -740,35 +643,6 @@
     "681": {
       "title": "PROFESSIONAL SEMINAR",
       "sections": {
-        "600": {
-          "select": "C",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "PROFESSIONAL SEMINAR",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "1",
-          "course": "681",
-          "days": [
-            "W"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "01:50 pm-02:40 pm"
-          ],
-          "crn": "28428"
-        },
         "601": {
           "select": "SR",
           "subject": "COMM",
@@ -804,14 +678,14 @@
       "title": "POLITICAL COMMUNICATION",
       "sections": {
         "970": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "970",
           "title": "HNR-POLITICAL COMMUNICATION",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "5",
           "instructor": [
             "Alan Kluver (P)"
@@ -837,10 +711,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "900",
           "title": "POLITICAL COMMUNICATION",
-          "remaining": "19",
+          "remaining": "12",
           "capacity": "19",
           "instructor": [
             "Alan Kluver (P)"
@@ -934,10 +808,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "19",
           "section": "200",
           "title": "HNR-ARGUMENTATION & DEBATE",
-          "remaining": "20",
+          "remaining": "1",
           "capacity": "20",
           "instructor": [
             "Jennifer Mercieca (P)"
@@ -959,14 +833,14 @@
           "crn": "22321"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "501",
           "title": "ARGUMENTATION & DEBATE",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -992,10 +866,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "ARGUMENTATION & DEBATE",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -1021,10 +895,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "ARGUMENTATION & DEBATE",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -1050,10 +924,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "ARGUMENTATION & DEBATE",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -1079,10 +953,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "505",
           "title": "ARGUMENTATION & DEBATE",
-          "remaining": "10",
+          "remaining": "1",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -1108,10 +982,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "506",
           "title": "ARGUMENTATION & DEBATE",
-          "remaining": "10",
+          "remaining": "2",
           "capacity": "10",
           "instructor": [
             "Matthew S. May (P)"
@@ -1142,10 +1016,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "502",
           "title": "ORGANIZATIONAL COMM",
-          "remaining": "145",
+          "remaining": "138",
           "capacity": "145",
           "instructor": [
             "William T. Coombs (P)"
@@ -1297,10 +1171,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "STRATEGIC COMM CASE STUDIES",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Kylene J. Wesner (P)"
@@ -1331,10 +1205,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "200",
           "title": "HNR-INTERNATIONAL COMM",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -1360,10 +1234,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "INTERNATIONAL COMM",
-          "remaining": "125",
+          "remaining": "124",
           "capacity": "125",
           "instructor": [
             "TBA"
@@ -1394,10 +1268,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "COMMUNICATION TACTICS",
-          "remaining": "30",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
             "Kylene J. Wesner (P)"
@@ -1428,10 +1302,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "900",
           "title": "COMM AND CONFLICT",
-          "remaining": "14",
+          "remaining": "9",
           "capacity": "14",
           "instructor": [
             "TBA"
@@ -1607,13 +1481,13 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "606",
           "title": "DIRECTED STUDIES",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
-            "Patrick Burkart (P)"
+            "Matthew S. May (P)"
           ],
           "credits": "1-6",
           "course": "685",
@@ -1728,10 +1602,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "200",
           "title": "HNR-STRATEGIC COMMUNICATION",
-          "remaining": "10",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Charles Conrad (P)"
@@ -1757,10 +1631,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "STRATEGIC COMMUNICATION",
-          "remaining": "135",
+          "remaining": "132",
           "capacity": "135",
           "instructor": [
             "Charles Conrad (P)"
@@ -1942,14 +1816,14 @@
           "crn": "20226"
         },
         "512": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "512",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -2039,14 +1913,14 @@
           "crn": "10858"
         },
         "514": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "514",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -2106,10 +1980,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "515",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -2169,10 +2043,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "516",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -2232,10 +2106,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "517",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2319,10 +2193,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "519",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2377,10 +2251,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "200",
           "title": "HNR-PUBLIC SPEAKING",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Nathan A. Crick (P)"
@@ -2406,10 +2280,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "520",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "1",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2431,14 +2305,14 @@
           "crn": "16586"
         },
         "521": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "521",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2464,10 +2338,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "522",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "1",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2493,10 +2367,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Jennifer Jones Barbour (P)",
@@ -2523,14 +2397,14 @@
           "crn": "10847"
         },
         "523": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "523",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2556,10 +2430,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Jennifer Jones Barbour (P)",
@@ -2586,14 +2460,14 @@
           "crn": "13123"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "503",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Jennifer Jones Barbour (P)",
@@ -2624,10 +2498,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "525",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2653,10 +2527,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "9",
           "section": "504",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "1",
           "capacity": "10",
           "instructor": [
             "Jennifer Jones Barbour (P)",
@@ -2687,10 +2561,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "526",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2716,10 +2590,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "505",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Jennifer Jones Barbour (P)",
@@ -2746,14 +2620,14 @@
           "crn": "10850"
         },
         "527": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "527",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2779,10 +2653,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "506",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Jennifer Jones Barbour (P)",
@@ -2813,10 +2687,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "507",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -2876,10 +2750,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "508",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -2910,10 +2784,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "509",
           "title": "PUBLIC SPEAKING",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -2949,10 +2823,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "500",
           "title": "COMM LDRSHP & CONFL MGMT",
-          "remaining": "145",
+          "remaining": "134",
           "capacity": "145",
           "instructor": [
             "David T. Tarvin (P)"
@@ -2983,10 +2857,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "20",
           "section": "500",
           "title": "PERSUASION",
-          "remaining": "145",
+          "remaining": "125",
           "capacity": "145",
           "instructor": [
             "Traci J. Hong (P)"
@@ -3046,10 +2920,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "901",
           "title": "COMM ORGANZTNS & SOCIETY",
-          "remaining": "24",
+          "remaining": "17",
           "capacity": "24",
           "instructor": [
             "Sherry Holladay (P)"
@@ -3109,10 +2983,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "501",
           "title": "COMM FOR TECH PROFESSION",
-          "remaining": "25",
+          "remaining": "13",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -3138,10 +3012,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "COMM FOR TECH PROFESSION",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -3167,10 +3041,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "23",
           "section": "503",
           "title": "COMM FOR TECH PROFESSION",
-          "remaining": "25",
+          "remaining": "2",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -3196,10 +3070,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "504",
           "title": "COMM FOR TECH PROFESSION",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -3221,14 +3095,14 @@
           "crn": "10875"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "505",
           "title": "COMM FOR TECH PROFESSION",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -3254,10 +3128,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "506",
           "title": "COMM FOR TECH PROFESSION",
-          "remaining": "10",
+          "remaining": "2",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -3288,10 +3162,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "900",
           "title": "MEDIA CHILDREN & ADOLESCENTS",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Srividya Ramasubramanian (P)"
@@ -3311,40 +3185,6 @@
             "02:20 pm-03:35 pm"
           ],
           "crn": "25475"
-        }
-      }
-    },
-    "645": {
-      "title": "RHETOR & TEXTUAL METHODS",
-      "sections": {
-        "600": {
-          "select": "SR",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "RHETOR & TEXTUAL METHODS",
-          "remaining": "10",
-          "capacity": "10",
-          "instructor": [
-            "Matthew S. May (P)"
-          ],
-          "credits": "3",
-          "course": "645",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "24550"
         }
       }
     },
@@ -3390,10 +3230,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "WOMEN MIN & MASS MEDIA",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "19",
           "instructor": [
             "TBA"
@@ -3420,15 +3260,15 @@
       "title": "RESEARCH",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "500",
           "title": "RESEARCH",
-          "remaining": "158",
-          "capacity": "158",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "Nancy Street (P)"
           ],
@@ -3555,10 +3395,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "NEW MEDIA AND IND VOICE",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Dale Rice (P)"
@@ -3875,15 +3715,15 @@
           "crn": "18407"
         },
         "613": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "613",
           "title": "RESEARCH",
-          "remaining": "2",
-          "capacity": "2",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "Alan Kluver (P)"
           ],
@@ -3991,15 +3831,15 @@
           "crn": "20735"
         },
         "615": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "615",
           "title": "RESEARCH",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "Heidi Campbell (P)"
           ],
@@ -4227,13 +4067,13 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "606",
           "title": "RESEARCH",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
-            "Rebecca E. Gill (P)"
+            "Matthew S. May (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -4348,10 +4188,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "900",
           "title": "MEDIA CAMPAIGNS",
-          "remaining": "24",
+          "remaining": "18",
           "capacity": "24",
           "instructor": [
             "Traci J. Hong (P)"
@@ -4377,10 +4217,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "901",
           "title": "MEDIA CAMPAIGNS",
-          "remaining": "24",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "Christopher E. Beaudoin (P)"
@@ -4411,10 +4251,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "501",
           "title": "TECHNOLOGY & COMMUNICATN",
-          "remaining": "30",
+          "remaining": "18",
           "capacity": "30",
           "instructor": [
             "Cara J. Wallis (P)"
@@ -4440,10 +4280,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "TECHNOLOGY & COMMUNICATN",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Patrick Burkart (P)"
@@ -4474,10 +4314,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "200",
           "title": "HNR:GROUP COMM & DISCUSSION",
-          "remaining": "20",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -4503,10 +4343,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "GROUP COMM & DISCUSSION",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -4532,10 +4372,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "503",
           "title": "GROUP COMM & DISCUSSION",
-          "remaining": "15",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -4561,10 +4401,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "504",
           "title": "GROUP COMM & DISCUSSION",
-          "remaining": "15",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -4590,10 +4430,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "505",
           "title": "GROUP COMM & DISCUSSION",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -4721,10 +4561,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "COMM AND VIDEO GAMES",
-          "remaining": "24",
+          "remaining": "21",
           "capacity": "24",
           "instructor": [
             "Patrick Burkart (P)"
@@ -4789,10 +4629,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "PRESIDENTIAL RHETORIC",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Robert K. Goidel (P)"
@@ -4815,40 +4655,6 @@
         }
       }
     },
-    "652": {
-      "title": "RHETORIC OF SOCIAL MVMNT",
-      "sections": {
-        "600": {
-          "select": "C",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "RHETORIC OF SOCIAL MVMNT",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "652",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "24551"
-        }
-      }
-    },
     "411": {
       "title": "REPRESENTATNS MOTHERHOOD",
       "sections": {
@@ -4857,10 +4663,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "900",
           "title": "REPRESENTATNS MOTHERHOOD",
-          "remaining": "19",
+          "remaining": "9",
           "capacity": "19",
           "instructor": [
             "Stacy H. Aschenbeck (P)"
@@ -4891,10 +4697,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "600",
           "title": "RHETORIC PUBLIC CULTURE",
-          "remaining": "10",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Jennifer Jones Barbour (P)"
@@ -4925,10 +4731,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "200",
           "title": "HNR-INTERCULTURAL COMMUNIC",
-          "remaining": "15",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "David T. Tarvin (P)"
@@ -4954,10 +4760,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "500",
           "title": "INTERCULTURAL COMMUNIC",
-          "remaining": "60",
+          "remaining": "51",
           "capacity": "60",
           "instructor": [
             "Joshua J. Street (P)"
@@ -4983,10 +4789,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "502",
           "title": "INTERCULTURAL COMMUNIC",
-          "remaining": "100",
+          "remaining": "95",
           "capacity": "100",
           "instructor": [
             "David T. Tarvin (P)"
@@ -5006,74 +4812,6 @@
             "04:10 pm-05:25 pm"
           ],
           "crn": "28424"
-        }
-      }
-    },
-    "610": {
-      "title": "SOC SCI METH IN COMM",
-      "sections": {
-        "600": {
-          "select": "SR",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "SOC SCI METH IN COMM",
-          "remaining": "10",
-          "capacity": "10",
-          "instructor": [
-            "Robert K. Goidel (P)"
-          ],
-          "credits": "3",
-          "course": "610",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "24547"
-        }
-      }
-    },
-    "654": {
-      "title": "CLASSICAL RHETORIC",
-      "sections": {
-        "600": {
-          "select": "C",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "CLASSICAL RHETORIC",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "654",
-          "days": [
-            "T"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "BLTN 018"
-          ],
-          "time": [
-            "06:00 pm-09:00 pm"
-          ],
-          "crn": "25471"
         }
       }
     },
@@ -5114,10 +4852,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "INTERVIEW PRIN & PRACT",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -5143,10 +4881,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "503",
           "title": "INTERVIEW PRIN & PRACT",
-          "remaining": "10",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -5177,10 +4915,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "CONT THEORY OF RHETORIC",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "TBA"
@@ -5207,14 +4945,14 @@
       "title": "GLOBAL MEDIA",
       "sections": {
         "970": {
-          "select": "SR",
+          "select": "C",
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "970",
           "title": "HNR-GLOBAL MEDIA",
-          "remaining": "5",
+          "remaining": "-1",
           "capacity": "5",
           "instructor": [
             "Antonio La-Pastina (P)"
@@ -5240,10 +4978,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "GLOBAL MEDIA",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "19",
           "instructor": [
             "Antonio La-Pastina (P)"
@@ -5266,40 +5004,6 @@
         }
       }
     },
-    "658": {
-      "title": "SEMINAR IN COMM CULTURE",
-      "sections": {
-        "600": {
-          "select": "SR",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "SEMINAR IN COMM CULTURE",
-          "remaining": "10",
-          "capacity": "10",
-          "instructor": [
-            "Antonio La-Pastina (P)"
-          ],
-          "credits": "3",
-          "course": "658",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "26280"
-        }
-      }
-    },
     "615": {
       "title": "INTERP METHODS IN COMM",
       "sections": {
@@ -5308,10 +5012,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "INTERP METHODS IN COMM",
-          "remaining": "10",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "Antonio La-Pastina (P)"
@@ -5342,10 +5046,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "COMM & CONTEMPORY ISSUES",
-          "remaining": "24",
+          "remaining": "21",
           "capacity": "24",
           "instructor": [
             "Cara J. Wallis (P)"
@@ -5434,10 +5138,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "COMM AND POPULAR CULTURE",
-          "remaining": "145",
+          "remaining": "140",
           "capacity": "145",
           "instructor": [
             "Leroy Dorsey (P)"
@@ -5463,10 +5167,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "COMM AND POPULAR CULTURE",
-          "remaining": "40",
+          "remaining": "39",
           "capacity": "40",
           "instructor": [
             "Ruth Tsuria (P)"
@@ -5706,10 +5410,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "GENDER AND COMMUNICATION",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "19",
           "instructor": [
             "Lucy J. Miller (P)"
@@ -5732,40 +5436,6 @@
         }
       }
     },
-    "662": {
-      "title": "SUR TELCOM MEDIA STUDIES",
-      "sections": {
-        "600": {
-          "select": "SR",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "SUR TELCOM MEDIA STUDIES",
-          "remaining": "9",
-          "capacity": "9",
-          "instructor": [
-            "Joshua Heuman (P)"
-          ],
-          "credits": "3",
-          "course": "662",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "16591"
-        }
-      }
-    },
     "663": {
       "title": "SEM TELCOM MEDIA STUDIES",
       "sections": {
@@ -5774,10 +5444,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "SEM TELCOM MEDIA STUDIES",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Sandra Braman (P)"
@@ -5797,35 +5467,6 @@
             "06:00 pm-09:00 pm"
           ],
           "crn": "13711"
-        },
-        "601": {
-          "select": "C",
-          "subject": "COMM",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "601",
-          "title": "SEM TELCOM MEDIA STUDIES",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "663",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "25474"
         }
       }
     },
@@ -5837,10 +5478,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "500",
           "title": "RHETORIC WEST THOUGHT",
-          "remaining": "240",
+          "remaining": "215",
           "capacity": "240",
           "instructor": [
             "Nathan A. Crick (P)"
@@ -5871,10 +5512,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "MEDIA INDUSTRIES",
-          "remaining": "60",
+          "remaining": "56",
           "capacity": "60",
           "instructor": [
             "Joshua Heuman (P)"
@@ -5905,10 +5546,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "19",
           "section": "200",
           "title": "HNR-THEORIES OF COMM",
-          "remaining": "20",
+          "remaining": "1",
           "capacity": "20",
           "instructor": [
             "Stacy H. Aschenbeck (P)"
@@ -5934,10 +5575,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "14",
           "section": "500",
           "title": "THEORIES OF COMM",
-          "remaining": "200",
+          "remaining": "186",
           "capacity": "200",
           "instructor": [
             "Stacy H. Aschenbeck (P)"
@@ -5968,10 +5609,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "SURVEY OF HEALTH COMM",
-          "remaining": "10",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Richard Street (P)"
@@ -6002,10 +5643,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "MASS COMM LAW & SOCIETY",
-          "remaining": "124",
+          "remaining": "123",
           "capacity": "124",
           "instructor": [
             "Joshua Heuman (P)"
@@ -6036,10 +5677,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "200",
           "title": "HNR-RESEARCH METHODS IN COMM",
-          "remaining": "20",
+          "remaining": "9",
           "capacity": "20",
           "instructor": [
             "Kylene J. Wesner (P)"
@@ -6065,10 +5706,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "500",
           "title": "RESEARCH METHODS IN COMM",
-          "remaining": "200",
+          "remaining": "192",
           "capacity": "200",
           "instructor": [
             "Kylene J. Wesner (P)"
@@ -6094,10 +5735,10 @@
           "subject": "COMM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "RESEARCH METHODS IN COMM",
-          "remaining": "40",
+          "remaining": "34",
           "capacity": "40",
           "instructor": [
             "Aya Yadlin Segal (P)"
@@ -6122,5 +5763,5 @@
     }
   },
   "title": "COMM - Communication",
-  "updated": "Thu Apr 07 01:12:59 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:40 AM"
 }

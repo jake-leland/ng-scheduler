@@ -124,10 +124,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "610",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "R Joshi (P)"
@@ -530,10 +530,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "624",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Carol Stuessy (P)"
@@ -646,10 +646,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "605",
           "title": "RESEARCH",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Norvella Carter (P)"
@@ -877,64 +877,6 @@
             "05:45 pm-08:35 pm"
           ],
           "crn": "27818"
-        },
-        "601": {
-          "select": "C",
-          "subject": "EDCI",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "601",
-          "title": "SOC STDS IN ELEM & SEC",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "670",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "27819"
-        },
-        "602": {
-          "select": "C",
-          "subject": "EDCI",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "602",
-          "title": "SOC STDS IN ELEM & SEC",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "670",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "27820"
         }
       }
     },
@@ -1473,10 +1415,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "596",
           "title": "EARLY CHILD THROUGH ADOL EDUC",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Radhika Viruru (P)"
@@ -1502,10 +1444,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "597",
           "title": "EARLY CHILD THROUGH ADOL EDUC",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Radhika Viruru (P)"
@@ -1560,10 +1502,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "599",
           "title": "EARLY CHILD THROUGH ADOL EDUC",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Rebecca S. Thomas (P)"
@@ -1589,10 +1531,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "EARLY CHILD THROUGH ADOL EDUC",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -1652,10 +1594,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "BIL/MUL CHILD FAM/CUL",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Laurie Dixon (P)"
@@ -1686,10 +1628,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "ED ADOL CURR AND LESS DESIGN",
-          "remaining": "20",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "Rebecca S. Thomas (P)"
@@ -1715,10 +1657,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "ED ADOL CURR AND LESS DESIGN",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Rebecca S. Thomas (P)"
@@ -1744,10 +1686,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "ED ADOL CURR AND LESS DESIGN",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Ashley D. Gabbard (P)"
@@ -1773,10 +1715,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "ED ADOL CURR AND LESS DESIGN",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Ashley D. Gabbard (P)"
@@ -1802,10 +1744,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "ED ADOL CURR AND LESS DESIGN",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Samantha M. Shields (P)"
@@ -1836,10 +1778,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "ANLYS OF TCHNG BEHAVR",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "14",
           "instructor": [
             "Monica V. Neshyba (P)"
@@ -1861,14 +1803,14 @@
           "crn": "24253"
         },
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "700",
           "title": "ANLYS OF TCHNG BEHAVR",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "9",
           "instructor": [
             "TBA"
@@ -1931,8 +1873,8 @@
           "active": "0",
           "section": "699",
           "title": "URBAN EDUCATION",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "10",
+          "capacity": "10",
           "instructor": [
             "Norvella Carter (P)"
           ],
@@ -1957,11 +1899,11 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "700",
           "title": "URBAN EDUCATION",
-          "remaining": "10",
-          "capacity": "10",
+          "remaining": "12",
+          "capacity": "15",
           "instructor": [
             "Norvella Carter (P)"
           ],
@@ -2045,14 +1987,14 @@
           "crn": "25046"
         },
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "700",
           "title": "MENTORING NOVICE EDUCTR",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "9",
           "instructor": [
             "Janet Hammer (P)"
@@ -2072,40 +2014,6 @@
             "WEB"
           ],
           "crn": "25047"
-        }
-      }
-    },
-    "653": {
-      "title": "ED POL LANG MNRTY CHILD",
-      "sections": {
-        "600": {
-          "select": "C",
-          "subject": "EDCI",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "ED POL LANG MNRTY CHILD",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "653",
-          "days": [
-            "T"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "02:20 pm-05:10 pm"
-          ],
-          "crn": "19645"
         }
       }
     },
@@ -2176,14 +2084,14 @@
           "crn": "24254"
         },
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "700",
           "title": "STRAT TCHNG CUL PL SOC",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "11",
           "instructor": [
             "Patricia Larke (P)"
@@ -2214,11 +2122,11 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "699",
           "title": "BIL/ESL CONTENT-AREA",
-          "remaining": "2",
-          "capacity": "2",
+          "remaining": "4",
+          "capacity": "7",
           "instructor": [
             "Monica V. Neshyba (P)"
           ],
@@ -2243,11 +2151,11 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "700",
           "title": "BIL/ESL CONTENT-AREA",
-          "remaining": "11",
-          "capacity": "11",
+          "remaining": "15",
+          "capacity": "16",
           "instructor": [
             "Monica V. Neshyba (P)"
           ],
@@ -2335,10 +2243,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "700",
           "title": "REFLECTIVE INQUIRY",
-          "remaining": "27",
+          "remaining": "19",
           "capacity": "27",
           "instructor": [
             "Geor Slattery (P)"
@@ -2403,10 +2311,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "ESL INTERNAT CULT SET",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Laurie Dixon (P)"
@@ -2495,10 +2403,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "700",
           "title": "EDUCATOR AS RESEARCHER",
-          "remaining": "15",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Lynne Walters (P)"
@@ -2529,10 +2437,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "699",
           "title": "CLASS PRACT ADULT ESL",
-          "remaining": "4",
+          "remaining": "3",
           "capacity": "4",
           "instructor": [
             "Kisha C. Bryan (P)"
@@ -2558,10 +2466,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "CLASS PRACT ADULT ESL",
-          "remaining": "9",
+          "remaining": "7",
           "capacity": "9",
           "instructor": [
             "Kisha C. Bryan (P)"
@@ -2621,10 +2529,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "URBAN ED POLICY ANALYSIS",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Kamala V. Williams (P)"
@@ -2655,11 +2563,11 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "698",
           "title": "TRENDS IN CURR & INSTR",
           "remaining": "9",
-          "capacity": "9",
+          "capacity": "10",
           "instructor": [
             "James D. Laub (P)"
           ],
@@ -2800,11 +2708,11 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "701",
           "title": "TRENDS IN CURR & INSTR",
-          "remaining": "11",
-          "capacity": "11",
+          "remaining": "17",
+          "capacity": "20",
           "instructor": [
             "James D. Laub (P)"
           ],
@@ -3013,35 +2921,6 @@
     "661": {
       "title": "MIXED MTHODS RSCH C&I",
       "sections": {
-        "600": {
-          "select": "SR",
-          "subject": "EDCI",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "600",
-          "title": "MIXED MTHODS RSCH C&I",
-          "remaining": "20",
-          "capacity": "20",
-          "instructor": [
-            "Carol Stuessy (P)"
-          ],
-          "credits": "3",
-          "course": "661",
-          "days": [
-            "F"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "EDCT 225"
-          ],
-          "time": [
-            "01:50 pm-04:40 pm"
-          ],
-          "crn": "14236"
-        },
         "699": {
           "select": "C",
           "subject": "EDCI",
@@ -3110,10 +2989,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "TECH IN CLASSROOMS",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Heather K. Caldwell (P)"
@@ -3139,10 +3018,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "TECH IN CLASSROOMS",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Heather K. Caldwell (P)"
@@ -3226,10 +3105,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "TECH IN CLASSROOMS",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Heather K. Caldwell (P)"
@@ -3255,10 +3134,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "TECH IN CLASSROOMS",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Heather K. Caldwell (P)"
@@ -3318,10 +3197,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "PHIL THEORIES OF EDUC",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Geor Slattery (P)"
@@ -3797,10 +3676,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "T&L SPC DIMSN & MEAS CPT",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Robert Capraro (P)"
@@ -3834,8 +3713,8 @@
           "active": "0",
           "section": "699",
           "title": "TCHNG IN URBAN ENVIRONMT",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "10",
+          "capacity": "10",
           "instructor": [
             "Norvella Carter (P)"
           ],
@@ -3860,11 +3739,11 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "TCHNG IN URBAN ENVIRONMT",
-          "remaining": "15",
-          "capacity": "15",
+          "remaining": "18",
+          "capacity": "20",
           "instructor": [
             "Norvella Carter (P)"
           ],
@@ -3952,10 +3831,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "701",
           "title": "CURRICULUM DEVELOPMENT",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -3986,10 +3865,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "RSCH MTHDS IN EDCI III",
-          "remaining": "20",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Hersholt Waxman (P)"
@@ -4020,10 +3899,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "DISC KNOW RESRCH IN C & I",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "Lynn Burlbaw (P)"
@@ -4049,44 +3928,15 @@
     "645": {
       "title": "SOC&EDUC IN WORLD PERS",
       "sections": {
-        "698": {
-          "select": "C",
-          "subject": "EDCI",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "698",
-          "title": "SOC&EDUC IN WORLD PERS",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "645",
-          "days": [
-            "WEB"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "WEB"
-          ],
-          "time": [
-            "WEB"
-          ],
-          "crn": "24248"
-        },
         "699": {
           "select": "SR",
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "699",
           "title": "SOC&EDUC IN WORLD PERS",
-          "remaining": "7",
+          "remaining": "5",
           "capacity": "7",
           "instructor": [
             "TBA"
@@ -4112,10 +3962,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "700",
           "title": "SOC&EDUC IN WORLD PERS",
-          "remaining": "13",
+          "remaining": "9",
           "capacity": "13",
           "instructor": [
             "TBA"
@@ -4175,10 +4025,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "RES FOUNDATIONS SCI ED",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Bugrahan Yalvac (P)"
@@ -4301,10 +4151,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "CULTURAL FNDTNS OF EDUC",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Lynne Walters (P)"
@@ -4330,10 +4180,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "700",
           "title": "CULTURAL FNDTNS OF EDUC",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Patricia Larke (P)"
@@ -4393,10 +4243,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "600",
           "title": "INSTRUCTION THEORY",
-          "remaining": "20",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Jacqueline Stillisano (P)"
@@ -4461,10 +4311,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "SCI EDU IN SOC CONTEXT",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Bugrahan Yalvac (P)"
@@ -4491,14 +4341,14 @@
       "title": "QUAL RSRCH MTHDS IN C&I",
       "sections": {
         "699": {
-          "select": "SR",
+          "select": "C",
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "699",
           "title": "QUAL RSRCH MTHDS IN C&I",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "5",
           "instructor": [
             "Radhika Viruru (P)"
@@ -4524,10 +4374,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "QUAL RSRCH MTHDS IN C&I",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Radhika Viruru (P)"
@@ -4558,10 +4408,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "BENCHMARKS IN URBAN ED",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Marlon C. James (P)"
@@ -4620,5 +4470,5 @@
     }
   },
   "title": "EDCI - Educ Curriculum & Dev",
-  "updated": "Thu Apr 07 01:14:44 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
 }

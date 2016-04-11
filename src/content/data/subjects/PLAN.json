@@ -772,10 +772,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 4,
-          "active": "0",
+          "active": "11",
           "section": "600",
           "title": "APPLIED PLANNING I",
-          "remaining": "35",
+          "remaining": "24",
           "capacity": "35",
           "instructor": [
             "John T. Cooper (P)",
@@ -1000,10 +1000,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "ENVRNMTL PLAN ADMNSTRN",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Samuel Brody (P)"
@@ -1034,10 +1034,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "TRANSPT SYSTM ANALYSIS",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Tongbin Qu (P)"
@@ -1189,10 +1189,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "PLAN THEORY & HISTORY",
-          "remaining": "35",
+          "remaining": "33",
           "capacity": "35",
           "instructor": [
             "Shannon S. Van Zandt (P)"
@@ -1223,10 +1223,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "STRUC FUNC URB SETLMN",
-          "remaining": "35",
+          "remaining": "30",
           "capacity": "35",
           "instructor": [
             "Ayoung Woo (P)"
@@ -1253,15 +1253,15 @@
       "title": "PLANNING ADMIN & MGMT",
       "sections": {
         "700": {
-          "select": "C",
+          "select": "SR",
           "subject": "PLAN",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "700",
           "title": "PLANNING ADMIN & MGMT",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "100",
+          "capacity": "100",
           "instructor": [
             "Robert S. Cowell (P)"
           ],
@@ -1291,10 +1291,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "600",
           "title": "PLAN MAKING",
-          "remaining": "30",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "Philip Berke (P)"
@@ -1325,10 +1325,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "TRAN IN CITY PLAN",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "17",
           "instructor": [
             "Li Wei (P)",
@@ -1403,10 +1403,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "DIGITAL COMMUNICATION IN LAUP",
-          "remaining": "40",
+          "remaining": "38",
           "capacity": "40",
           "instructor": [
             "Yang Mi Kim (P)",
@@ -1442,10 +1442,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "GIS IN LANDSCP&URBN PLAN",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Douglas F. Wunneburger (P)",
@@ -1476,10 +1476,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "GIS IN LANDSCP&URBN PLAN",
-          "remaining": "40",
+          "remaining": "38",
           "capacity": "40",
           "instructor": [
             "Douglas F. Wunneburger",
@@ -1515,10 +1515,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "DISTER RECOVY HAZ MITIGN",
-          "remaining": "15",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Walter Peacock (P)"
@@ -1549,10 +1549,10 @@
           "subject": "PLAN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "PLANNING METHODS I",
-          "remaining": "35",
+          "remaining": "33",
           "capacity": "35",
           "instructor": [
             "TBA"
@@ -1579,15 +1579,15 @@
       "title": "ECONOMIC DEVELOPMENT",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "PLAN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "ECONOMIC DEVELOPMENT",
-          "remaining": "15",
-          "capacity": "15",
+          "remaining": "-1",
+          "capacity": "0",
           "instructor": [
             "Cecilia Giusti (P)"
           ],
@@ -1645,5 +1645,5 @@
     }
   },
   "title": "PLAN - Urban Planning",
-  "updated": "Thu Apr 07 01:23:43 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:51 AM"
 }

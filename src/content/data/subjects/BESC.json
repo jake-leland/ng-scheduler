@@ -540,10 +540,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "INTRO BIOENVIRON SCI",
-          "remaining": "96",
+          "remaining": "95",
           "capacity": "96",
           "instructor": [
             "Kati I. Stoddard (P)",
@@ -589,10 +589,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "INTRO BIOENVIRON SCI",
-          "remaining": "100",
+          "remaining": "98",
           "capacity": "100",
           "instructor": [
             "Kati I. Stoddard (P)",
@@ -692,10 +692,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "US ENVIRONMENTAL REGULAT",
-          "remaining": "80",
+          "remaining": "79",
           "capacity": "80",
           "instructor": [
             "Heather Wilkinson (P)",
@@ -741,10 +741,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "6",
           "section": "700",
           "title": "US ENVIRONMENTAL REGULAT",
-          "remaining": "100",
+          "remaining": "94",
           "capacity": "100",
           "instructor": [
             "Heather Wilkinson (P)",
@@ -834,10 +834,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "BIOENVIRONMENTAL MICRO",
-          "remaining": "75",
+          "remaining": "70",
           "capacity": "75",
           "instructor": [
             "Carlos Gonzalez (P)"
@@ -868,10 +868,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "200",
           "title": "HNR-PATHOGENS ENV & SOCIETY",
-          "remaining": "6",
+          "remaining": "2",
           "capacity": "6",
           "instructor": [
             "Karenbeth Scholthof (P)"
@@ -897,10 +897,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "500",
           "title": "PATHOGENS ENV & SOCIETY",
-          "remaining": "42",
+          "remaining": "33",
           "capacity": "42",
           "instructor": [
             "Karenbeth Scholthof (P)"
@@ -931,10 +931,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "SAMPLING & ENVIR MONITOR",
-          "remaining": "24",
+          "remaining": "17",
           "capacity": "24",
           "instructor": [
             "Daniel Ebbole (P)",
@@ -1033,11 +1033,11 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "201",
           "title": "HNR-RESEARCH",
           "remaining": "0",
-          "capacity": "0",
+          "capacity": "1",
           "instructor": [
             "Brian Shaw (P)"
           ],
@@ -1062,11 +1062,11 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "202",
           "title": "HNR-RESEARCH",
           "remaining": "0",
-          "capacity": "0",
+          "capacity": "1",
           "instructor": [
             "Mikhailo Kolomiets (P)"
           ],
@@ -1270,10 +1270,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "931",
           "title": "SEMINAR",
-          "remaining": "14",
+          "remaining": "12",
           "capacity": "14",
           "instructor": [
             "Charles Kenerley (P)"
@@ -1299,10 +1299,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "932",
           "title": "SEMINAR",
-          "remaining": "14",
+          "remaining": "12",
           "capacity": "14",
           "instructor": [
             "Leland Pierson (P)"
@@ -1328,10 +1328,10 @@
           "subject": "BESC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "933",
           "title": "SEMINAR",
-          "remaining": "14",
+          "remaining": "12",
           "capacity": "14",
           "instructor": [
             "Won-Bo Shim (P)"
@@ -1339,16 +1339,16 @@
           "credits": "1",
           "course": "481",
           "days": [
-            " "
+            "M"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "PETR 208"
           ],
           "time": [
-            "TBA"
+            "03:00 pm-03:50 pm"
           ],
           "crn": "21058"
         }
@@ -1356,5 +1356,5 @@
     }
   },
   "title": "BESC - Bioenvironmental Sci",
-  "updated": "Thu Apr 07 01:11:09 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:38 AM"
 }

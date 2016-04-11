@@ -367,7 +367,7 @@
           "remaining": "20",
           "capacity": "20",
           "instructor": [
-            "Anastasia Zervou (P)"
+            "Sarah Zubairy (P)"
           ],
           "credits": "3",
           "course": "690",
@@ -448,10 +448,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "604",
           "title": "THEORY OF ECON RESERCH",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Vikram Manjunath (P)"
@@ -627,10 +627,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "623",
           "title": "RESEARCH",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Alexander L. Brown (P)"
@@ -942,15 +942,15 @@
           "crn": "15979"
         },
         "609": {
-          "select": "C",
+          "select": "SR",
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "609",
           "title": "RESEARCH",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "1",
+          "capacity": "1",
           "instructor": [
             "TBA"
           ],
@@ -980,10 +980,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "ECONOMIC DEVELOPMENT",
-          "remaining": "55",
+          "remaining": "51",
           "capacity": "55",
           "instructor": [
             "Adel Varghese (P)"
@@ -1009,10 +1009,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "13",
           "section": "502",
           "title": "ECONOMIC DEVELOPMENT",
-          "remaining": "50",
+          "remaining": "37",
           "capacity": "50",
           "instructor": [
             "Adel Varghese (P)"
@@ -1043,10 +1043,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "500",
           "title": "INTERNAT TRADE POLICY",
-          "remaining": "55",
+          "remaining": "43",
           "capacity": "55",
           "instructor": [
             "Amy Glass (P)"
@@ -1077,10 +1077,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "21",
           "section": "500",
           "title": "MONEY & BANKING",
-          "remaining": "165",
+          "remaining": "144",
           "capacity": "165",
           "instructor": [
             "Jeffrey C. Edwardson (P)"
@@ -1111,10 +1111,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "500",
           "title": "MACROECONOMIC THEORY",
-          "remaining": "120",
+          "remaining": "111",
           "capacity": "120",
           "instructor": [
             "Yuzhe Zhang (P)"
@@ -1136,31 +1136,36 @@
           "crn": "21707"
         },
         "900": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "ECON",
           "campus": "CS",
-          "classes": 1,
+          "classes": 2,
           "active": "0",
           "section": "900",
           "title": "MACROECONOMIC THEORY",
           "remaining": "0",
           "capacity": "0",
           "instructor": [
+            "Sarah Zubairy (P)",
             "Sarah Zubairy (P)"
           ],
           "credits": "3",
           "course": "410",
           "days": [
-            "TR"
+            "TR",
+            "F"
           ],
           "date (mm/dd)": [
+            "08/29-12/07",
             "08/29-12/07"
           ],
           "location": [
+            "ALLN 1004",
             "ALLN 1004"
           ],
           "time": [
-            "11:55 am-01:10 pm"
+            "11:55 am-12:45 pm",
+            "03:00 pm-03:50 pm"
           ],
           "crn": "27507"
         }
@@ -1174,10 +1179,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "ENERGY MKTS & POLICY",
-          "remaining": "21",
+          "remaining": "16",
           "capacity": "21",
           "instructor": [
             "Steven Puller (P), Timothy Gronberg"
@@ -1242,10 +1247,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "15",
           "section": "601",
           "title": "CAPSTONE FINC ECON/ECMT",
-          "remaining": "65",
+          "remaining": "50",
           "capacity": "65",
           "instructor": [
             "Li Gan (P)"
@@ -1271,10 +1276,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "602",
           "title": "CAPSTONE FINC ECON/ECMT",
-          "remaining": "65",
+          "remaining": "64",
           "capacity": "65",
           "instructor": [
             "Li Gan (P)"
@@ -1305,10 +1310,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "PUBLIC FINANCE",
-          "remaining": "60",
+          "remaining": "58",
           "capacity": "60",
           "instructor": [
             "TBA"
@@ -1339,10 +1344,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "9",
           "section": "600",
           "title": "ENERGY MARKETS",
-          "remaining": "47",
+          "remaining": "38",
           "capacity": "47",
           "instructor": [
             "Steven Puller (P)"
@@ -1373,10 +1378,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "EXPERIMENTAL ECONOMICS",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Catherine C. Eckel (P)"
@@ -1407,10 +1412,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "SPORTS ECONOMICS",
-          "remaining": "60",
+          "remaining": "59",
           "capacity": "60",
           "instructor": [
             "Mark L. Hoekstra (P)"
@@ -1436,10 +1441,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "502",
           "title": "SPORTS ECONOMICS",
-          "remaining": "60",
+          "remaining": "53",
           "capacity": "60",
           "instructor": [
             "Mark L. Hoekstra (P)"
@@ -1538,10 +1543,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "GAMES & ECON BEHAVIOR",
-          "remaining": "30",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Daniel Fragiadakis (P)"
@@ -1567,10 +1572,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "GAMES & ECON BEHAVIOR",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Daniel Fragiadakis (P)"
@@ -1669,10 +1674,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "500",
           "title": "ECONOMICS GENDER & RACE",
-          "remaining": "42",
+          "remaining": "34",
           "capacity": "42",
           "instructor": [
             "Manuelita Ureta (P)"
@@ -1703,10 +1708,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "ECONOMICS OF LABOR",
-          "remaining": "45",
+          "remaining": "44",
           "capacity": "45",
           "instructor": [
             "Manuelita Ureta (P)"
@@ -1737,10 +1742,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "600",
           "title": "BEHAVIOR FINANCIAL ECON",
-          "remaining": "70",
+          "remaining": "58",
           "capacity": "70",
           "instructor": [
             "Alexander L. Brown (P)"
@@ -1771,10 +1776,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "INTRO MATH ECONOMICS",
-          "remaining": "45",
+          "remaining": "44",
           "capacity": "45",
           "instructor": [
             "TBA"
@@ -1788,7 +1793,7 @@
             "08/29-12/07"
           ],
           "location": [
-            "ALLN 1006"
+            "TBA"
           ],
           "time": [
             "12:00 pm-01:15 pm"
@@ -1805,10 +1810,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "EXPERIMENTAL ECONOMICS",
-          "remaining": "34",
+          "remaining": "28",
           "capacity": "34",
           "instructor": [
             "Catherine C. Eckel (P)"
@@ -1965,10 +1970,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "LAW AND ECONOMICS",
-          "remaining": "60",
+          "remaining": "53",
           "capacity": "60",
           "instructor": [
             "Silvana S. Krasteva (P)"
@@ -1995,14 +2000,14 @@
       "title": "PROFESSIONAL INTERNSHIP",
       "sections": {
         "654": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "654",
           "title": "PROFESSIONAL INTERNSHIP: IN-AB",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "2",
           "instructor": [
             "Li Gan (P)"
@@ -2091,10 +2096,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "651",
           "title": "DIRECTED STUDIES: IN-ABSENTIA",
-          "remaining": "3",
+          "remaining": "1",
           "capacity": "3",
           "instructor": [
             "Li Gan (P)"
@@ -2241,10 +2246,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "510",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "70",
+          "remaining": "67",
           "capacity": "70",
           "instructor": [
             "Dongni Zhu (P)"
@@ -2270,10 +2275,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "501",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "200",
+          "remaining": "190",
           "capacity": "200",
           "instructor": [
             "Billur Aksoy (P)"
@@ -2299,10 +2304,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "13",
           "section": "502",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "200",
+          "remaining": "187",
           "capacity": "200",
           "instructor": [
             "Nataliya M. Pakhotina (P)"
@@ -2328,10 +2333,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "503",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "202",
+          "remaining": "195",
           "capacity": "202",
           "instructor": [
             "Nataliya M. Pakhotina (P)"
@@ -2357,10 +2362,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "12",
           "section": "504",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "215",
+          "remaining": "203",
           "capacity": "215",
           "instructor": [
             "Noah C. Bacine (P)"
@@ -2386,10 +2391,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "505",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "190",
+          "remaining": "187",
           "capacity": "190",
           "instructor": [
             "Xinghua Long (P)"
@@ -2415,10 +2420,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "16",
           "section": "506",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "180",
+          "remaining": "164",
           "capacity": "180",
           "instructor": [
             "Jeffrey C. Edwardson (P)"
@@ -2444,10 +2449,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "507",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "180",
+          "remaining": "176",
           "capacity": "180",
           "instructor": [
             "Jeffrey C. Edwardson (P)"
@@ -2473,10 +2478,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "508",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "70",
+          "remaining": "67",
           "capacity": "70",
           "instructor": [
             "Ada Kovaliukaite (P)"
@@ -2502,10 +2507,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "509",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "70",
+          "remaining": "66",
           "capacity": "70",
           "instructor": [
             "Jonathan B. Scott (P)"
@@ -2536,10 +2541,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "20",
           "section": "501",
           "title": "MICROECONOMIC THEORY",
-          "remaining": "180",
+          "remaining": "160",
           "capacity": "180",
           "instructor": [
             "Richard K. Anderson (P)"
@@ -2565,10 +2570,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "MICROECONOMIC THEORY",
-          "remaining": "110",
+          "remaining": "106",
           "capacity": "110",
           "instructor": [
             "Vikram Manjunath (P)"
@@ -2594,10 +2599,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "24",
           "section": "503",
           "title": "MICROECONOMIC THEORY",
-          "remaining": "200",
+          "remaining": "176",
           "capacity": "200",
           "instructor": [
             "Amy Glass (P)"
@@ -2628,10 +2633,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "24",
           "section": "501",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "231",
+          "remaining": "207",
           "capacity": "231",
           "instructor": [
             "Nataliya M. Pakhotina (P)"
@@ -2657,10 +2662,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "502",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "240",
+          "remaining": "229",
           "capacity": "240",
           "instructor": [
             "Pedro M. Bento (P)"
@@ -2686,10 +2691,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "21",
           "section": "503",
           "title": "PRIN OF ECONOMICS",
-          "remaining": "100",
+          "remaining": "79",
           "capacity": "100",
           "instructor": [
             "Anastasia Zervou (P)"
@@ -2720,10 +2725,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "FINANCIAL ECONOMICS",
-          "remaining": "45",
+          "remaining": "41",
           "capacity": "45",
           "instructor": [
             "Ta-Cheng Huang (P)"
@@ -2754,10 +2759,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "ORGANIZATN OF INDUSTRY",
-          "remaining": "45",
+          "remaining": "41",
           "capacity": "45",
           "instructor": [
             "Steven Wiggins (P)"
@@ -2788,10 +2793,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "ANTITRUST ECONOMICS",
-          "remaining": "60",
+          "remaining": "56",
           "capacity": "60",
           "instructor": [
             "Fernando A. Luco Echeverria (P)"
@@ -2822,10 +2827,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "ECONOMICS OF DECISION",
-          "remaining": "45",
+          "remaining": "41",
           "capacity": "45",
           "instructor": [
             "Alexander L. Brown (P)"
@@ -2852,7 +2857,7 @@
       "title": "PUBLIC ECONOMICS I",
       "sections": {
         "600": {
-          "select": "C\n                              MM ",
+          "select": "SR",
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
@@ -2890,10 +2895,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "INDUSTRIAL ORGANIZ I",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Steven Puller (P)"
@@ -2924,10 +2929,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "601",
           "title": "FOUN OF MICROEC THEORY",
-          "remaining": "122",
+          "remaining": "116",
           "capacity": "122",
           "instructor": [
             "Richard K. Anderson (P)"
@@ -2958,10 +2963,10 @@
           "subject": "ECON",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "MICROECONOMIC THEORY I",
-          "remaining": "45",
+          "remaining": "43",
           "capacity": "45",
           "instructor": [
             "Rodrigo Velez (P)"
@@ -2986,5 +2991,5 @@
     }
   },
   "title": "ECON - Economics",
-  "updated": "Thu Apr 07 01:14:27 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:41 AM"
 }

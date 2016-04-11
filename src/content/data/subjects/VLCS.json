@@ -129,10 +129,10 @@
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "611",
           "title": "DIRECTED STUDIES",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Ashlee E. Watts (P)"
@@ -304,7 +304,7 @@
       "title": "LARGE ANIMAL CLIN SKILLS",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -338,7 +338,7 @@
       "title": "LARGE ANIMAL MEDICINE",
       "sections": {
         "301": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 2,
@@ -377,7 +377,7 @@
       "title": "LG MED & SURG ELECTIVE",
       "sections": {
         "330": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -406,7 +406,7 @@
           "crn": "13404"
         },
         "352": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -435,7 +435,7 @@
           "crn": "13407"
         },
         "331": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -464,7 +464,7 @@
           "crn": "15632"
         },
         "353": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -493,7 +493,7 @@
           "crn": "13409"
         },
         "332": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -551,7 +551,7 @@
           "crn": "20243"
         },
         "344": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -580,7 +580,7 @@
           "crn": "13405"
         },
         "355": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -609,7 +609,7 @@
           "crn": "13421"
         },
         "356": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -638,7 +638,7 @@
           "crn": "15628"
         },
         "357": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -667,7 +667,7 @@
           "crn": "13422"
         },
         "358": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -696,7 +696,7 @@
           "crn": "22801"
         },
         "305": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -725,7 +725,7 @@
           "crn": "13468"
         },
         "307": {
-          "select": "NRMM ",
+          "select": "SR",
           "subject": "VLCS",
           "campus": "CS",
           "classes": 1,
@@ -907,5 +907,5 @@
     }
   },
   "title": "VLCS-Vet Large Animal Clin Sc",
-  "updated": "Thu Apr 07 01:26:38 CDT 2016"
+  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
 }
