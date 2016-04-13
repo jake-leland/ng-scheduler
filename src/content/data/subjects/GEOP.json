@@ -835,10 +835,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "510",
           "title": "GLOBAL GEOPHYSICS",
-          "remaining": "8",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -937,10 +937,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "9",
           "section": "502",
           "title": "GLOBAL GEOPHYSICS",
-          "remaining": "7",
+          "remaining": "1",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -971,10 +971,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "1",
           "section": "503",
           "title": "GLOBAL GEOPHYSICS",
-          "remaining": "8",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -1005,10 +1005,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "8",
           "section": "504",
           "title": "GLOBAL GEOPHYSICS",
-          "remaining": "6",
+          "remaining": "2",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -1073,10 +1073,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "506",
           "title": "GLOBAL GEOPHYSICS",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -1107,10 +1107,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "507",
           "title": "GLOBAL GEOPHYSICS",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -1141,10 +1141,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "508",
           "title": "GLOBAL GEOPHYSICS",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -1175,10 +1175,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "509",
           "title": "GLOBAL GEOPHYSICS",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -1244,14 +1244,14 @@
       "title": "PETROLEUM SEISMOLOGY I",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "501",
           "title": "PETROLEUM SEISMOLOGY I",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -1282,10 +1282,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "502",
           "title": "PETROLEUM SEISMOLOGY I",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -1312,14 +1312,14 @@
           "crn": "24465"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "10",
           "section": "503",
           "title": "PETROLEUM SEISMOLOGY I",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -1791,10 +1791,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "500",
           "title": "NEAR SURFACE GEOPHYSICS",
-          "remaining": "35",
+          "remaining": "31",
           "capacity": "40",
           "instructor": [
             "Mark Everett (P)"
@@ -1825,10 +1825,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "500",
           "title": "METHODS OF GEOP EXPLOR",
-          "remaining": "13",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "TBA",
@@ -1932,10 +1932,10 @@
           "subject": "GEOP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "BASIN ARCHITECTURE",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Mike Pope (P)"
@@ -1999,5 +1999,5 @@
     }
   },
   "title": "GEOP - Geophysics",
-  "updated": "Mon, 11 Apr 2016 at 12:44 AM"
+  "updated": "Wed, Apr 13 2016 at 01:28 AM"
 }

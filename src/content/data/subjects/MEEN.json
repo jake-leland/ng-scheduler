@@ -8,10 +8,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "500",
           "title": "GAS DYNAMICS",
-          "remaining": "40",
+          "remaining": "32",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -42,10 +42,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "18",
           "section": "600",
           "title": "INTRO FINITE ELEMENTS",
-          "remaining": "16",
+          "remaining": "12",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -72,14 +72,14 @@
       "title": "ADV SYST DYNAMIC & CNTRL",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "20",
+          "active": "40",
           "section": "500",
           "title": "ADV SYST DYNAMIC & CNTRL",
-          "remaining": "20",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -139,10 +139,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "56",
           "section": "501",
           "title": "MATERIALS IN DESIGN",
-          "remaining": "44",
+          "remaining": "4",
           "capacity": "60",
           "instructor": [
             "TBA"
@@ -168,10 +168,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "36",
           "section": "502",
           "title": "MATERIALS IN DESIGN",
-          "remaining": "74",
+          "remaining": "44",
           "capacity": "80",
           "instructor": [
             "TBA"
@@ -299,10 +299,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "12",
           "section": "500",
           "title": "MECHATRONICS",
-          "remaining": "18",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -338,10 +338,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "AIR POLLUTION ENGINEERIN",
-          "remaining": "10",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "Russell O. McGee (P)"
@@ -372,10 +372,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "23",
+          "active": "25",
           "section": "501",
           "title": "ENGR ANALYSIS FOR MECH",
-          "remaining": "62",
+          "remaining": "60",
           "capacity": "85",
           "instructor": [
             "TBA"
@@ -401,10 +401,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "24",
+          "active": "36",
           "section": "502",
           "title": "ENGR ANALYSIS FOR MECH",
-          "remaining": "61",
+          "remaining": "49",
           "capacity": "85",
           "instructor": [
             "TBA"
@@ -464,10 +464,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "DYN & MOD MECHTRO SYS",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -561,10 +561,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "10",
           "section": "501",
           "title": "PRIN OF THERMODYNAMICS",
-          "remaining": "75",
+          "remaining": "70",
           "capacity": "80",
           "instructor": [
             "TBA"
@@ -619,10 +619,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "8",
           "section": "503",
           "title": "PRIN OF THERMODYNAMICS",
-          "remaining": "96",
+          "remaining": "92",
           "capacity": "100",
           "instructor": [
             "TBA"
@@ -648,10 +648,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "32",
           "section": "504",
           "title": "PRIN OF THERMODYNAMICS",
-          "remaining": "74",
+          "remaining": "48",
           "capacity": "80",
           "instructor": [
             "TBA"
@@ -677,10 +677,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "24",
           "section": "505",
           "title": "PRIN OF THERMODYNAMICS",
-          "remaining": "73",
+          "remaining": "56",
           "capacity": "80",
           "instructor": [
             "TBA"
@@ -706,10 +706,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "15",
           "section": "506",
           "title": "PRIN OF THERMODYNAMICS",
-          "remaining": "95",
+          "remaining": "85",
           "capacity": "100",
           "instructor": [
             "TBA"
@@ -740,10 +740,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "8",
           "section": "600",
           "title": "MECHATRON SYS DYN&MOD",
-          "remaining": "16",
+          "remaining": "12",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -774,10 +774,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "48",
           "section": "500",
           "title": "PRIN BLDG ENERGY ANALY",
-          "remaining": "42",
+          "remaining": "8",
           "capacity": "56",
           "instructor": [
             "TBA"
@@ -842,10 +842,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "37",
+          "active": "48",
           "section": "901",
           "title": "MTLS & MFG SELECT IN DSN",
-          "remaining": "13",
+          "remaining": "2",
           "capacity": "50",
           "instructor": [
             "TBA"
@@ -871,10 +871,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "19",
           "section": "902",
           "title": "MTLS & MFG SELECT IN DSN",
-          "remaining": "54",
+          "remaining": "46",
           "capacity": "65",
           "instructor": [
             "TBA"
@@ -934,10 +934,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "13",
           "section": "501",
           "title": "MTLS & MFG IN DESIGN LAB",
-          "remaining": "7",
+          "remaining": "5",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -963,10 +963,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "16",
           "section": "502",
           "title": "MTLS & MFG IN DESIGN LAB",
-          "remaining": "7",
+          "remaining": "2",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -992,10 +992,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "503",
           "title": "MTLS & MFG IN DESIGN LAB",
-          "remaining": "13",
+          "remaining": "9",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -1021,10 +1021,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "504",
           "title": "MTLS & MFG IN DESIGN LAB",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -1050,10 +1050,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "7",
           "section": "505",
           "title": "MTLS & MFG IN DESIGN LAB",
-          "remaining": "13",
+          "remaining": "11",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -1079,10 +1079,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "16",
           "section": "506",
           "title": "MTLS & MFG IN DESIGN LAB",
-          "remaining": "4",
+          "remaining": "2",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -1108,10 +1108,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "507",
           "title": "MTLS & MFG IN DESIGN LAB",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -1137,10 +1137,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "508",
           "title": "MTLS & MFG IN DESIGN LAB",
-          "remaining": "16",
+          "remaining": "13",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -1205,10 +1205,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "19",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "67",
+          "remaining": "61",
           "capacity": "80",
           "instructor": [
             "Daniel McAdams (P)"
@@ -1239,10 +1239,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "22",
+          "active": "25",
           "section": "501",
           "title": "DYNAMICS AND VIBRATIONS",
-          "remaining": "38",
+          "remaining": "35",
           "capacity": "60",
           "instructor": [
             "TBA",
@@ -1273,10 +1273,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "13",
+          "active": "20",
           "section": "502",
           "title": "DYNAMICS AND VIBRATIONS",
-          "remaining": "67",
+          "remaining": "60",
           "capacity": "80",
           "instructor": [
             "TBA",
@@ -1307,10 +1307,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "11",
+          "active": "18",
           "section": "503",
           "title": "DYNAMICS AND VIBRATIONS",
-          "remaining": "49",
+          "remaining": "42",
           "capacity": "60",
           "instructor": [
             "TBA",
@@ -1346,10 +1346,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "14",
           "section": "500",
           "title": "BIO INSPIRED ENGR DESIGN",
-          "remaining": "28",
+          "remaining": "16",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -1380,10 +1380,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "12",
           "section": "501",
           "title": "DYNAMIC SYST AND CONTROL",
-          "remaining": "12",
+          "remaining": "5",
           "capacity": "17",
           "instructor": [
             "TBA",
@@ -1414,10 +1414,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "502",
           "title": "DYNAMIC SYST AND CONTROL",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -1448,10 +1448,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "14",
           "section": "503",
           "title": "DYNAMIC SYST AND CONTROL",
-          "remaining": "14",
+          "remaining": "4",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -1482,10 +1482,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "11",
           "section": "504",
           "title": "DYNAMIC SYST AND CONTROL",
-          "remaining": "13",
+          "remaining": "6",
           "capacity": "17",
           "instructor": [
             "TBA",
@@ -1516,10 +1516,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "505",
           "title": "DYNAMIC SYST AND CONTROL",
-          "remaining": "16",
+          "remaining": "12",
           "capacity": "17",
           "instructor": [
             "TBA",
@@ -1550,10 +1550,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "7",
           "section": "506",
           "title": "DYNAMIC SYST AND CONTROL",
-          "remaining": "17",
+          "remaining": "11",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -1589,10 +1589,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "500",
           "title": "DESN MECH COMP & SYSTM",
-          "remaining": "38",
+          "remaining": "33",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -2059,15 +2059,15 @@
       "title": "COMPUTER AIDED ENGR",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "14",
           "section": "500",
           "title": "COMPUTER AIDED ENGR",
-          "remaining": "9",
-          "capacity": "12",
+          "remaining": "0",
+          "capacity": "14",
           "instructor": [
             "TBA"
           ],
@@ -2088,15 +2088,15 @@
           "crn": "16832"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "14",
           "section": "501",
           "title": "COMPUTER AIDED ENGR",
-          "remaining": "5",
-          "capacity": "12",
+          "remaining": "0",
+          "capacity": "14",
           "instructor": [
             "TBA"
           ],
@@ -2528,15 +2528,15 @@
           "crn": "26574"
         },
         "636": {
-          "select": "C",
+          "select": "SR",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "636",
           "title": "PROFESSIONAL INTERNSHP: IN-AB",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "1",
+          "capacity": "1",
           "instructor": [
             "Gerald Morrison (P)"
           ],
@@ -4427,10 +4427,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "5",
           "section": "501",
           "title": "FIN ELMT ANL MECH ENGR",
-          "remaining": "39",
+          "remaining": "35",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -4461,10 +4461,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "12",
+          "active": "28",
           "section": "501",
           "title": "SOLID MECH IN MEC DESIGN",
-          "remaining": "68",
+          "remaining": "52",
           "capacity": "80",
           "instructor": [
             "TBA",
@@ -4491,14 +4491,14 @@
           "crn": "12052"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "18",
+          "active": "40",
           "section": "502",
           "title": "SOLID MECH IN MEC DESIGN",
-          "remaining": "22",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "TBA",
@@ -4530,15 +4530,15 @@
       "title": "INTRO TO MECH ENGR DESGN",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "18",
           "section": "501",
           "title": "INTRO TO MECH ENGR DESGN",
-          "remaining": "9",
-          "capacity": "18",
+          "remaining": "-1",
+          "capacity": "17",
           "instructor": [
             "TBA",
             "TBA"
@@ -4564,15 +4564,15 @@
           "crn": "16840"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "17",
           "section": "502",
           "title": "INTRO TO MECH ENGR DESGN",
-          "remaining": "12",
-          "capacity": "18",
+          "remaining": "0",
+          "capacity": "17",
           "instructor": [
             "TBA",
             "TBA"
@@ -4632,15 +4632,15 @@
           "crn": "21797"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "15",
           "section": "504",
           "title": "INTRO TO MECH ENGR DESGN",
-          "remaining": "16",
-          "capacity": "18",
+          "remaining": "0",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -4666,15 +4666,15 @@
           "crn": "16828"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "18",
           "section": "505",
           "title": "INTRO TO MECH ENGR DESGN",
-          "remaining": "16",
-          "capacity": "18",
+          "remaining": "-1",
+          "capacity": "17",
           "instructor": [
             "TBA",
             "TBA"
@@ -4700,15 +4700,15 @@
           "crn": "18545"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "15",
           "section": "506",
           "title": "INTRO TO MECH ENGR DESGN",
-          "remaining": "11",
-          "capacity": "18",
+          "remaining": "0",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -4734,15 +4734,15 @@
           "crn": "18793"
         },
         "507": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "20",
           "section": "507",
           "title": "INTRO TO MECH ENGR DESGN",
-          "remaining": "15",
-          "capacity": "18",
+          "remaining": "0",
+          "capacity": "20",
           "instructor": [
             "TBA",
             "TBA"
@@ -4772,11 +4772,11 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "508",
           "title": "INTRO TO MECH ENGR DESGN",
           "remaining": "16",
-          "capacity": "18",
+          "capacity": "20",
           "instructor": [
             "TBA",
             "TBA"
@@ -4811,10 +4811,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "ENGR APP OF SOLID MECHANICS",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -4841,14 +4841,14 @@
       "title": "INTERMEDIATE DESIGN",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "18",
           "section": "501",
           "title": "INTERMEDIATE DESIGN",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -4875,14 +4875,14 @@
           "crn": "12061"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "18",
           "section": "502",
           "title": "INTERMEDIATE DESIGN",
-          "remaining": "16",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -4909,14 +4909,14 @@
           "crn": "12062"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "18",
           "section": "503",
           "title": "INTERMEDIATE DESIGN",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -4943,14 +4943,14 @@
           "crn": "12063"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "18",
           "section": "504",
           "title": "INTERMEDIATE DESIGN",
-          "remaining": "14",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -4977,14 +4977,14 @@
           "crn": "12064"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "18",
           "section": "505",
           "title": "INTERMEDIATE DESIGN",
-          "remaining": "17",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -5020,10 +5020,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "10",
           "section": "601",
           "title": "NUM HEAT TRAN&FL FLOW",
-          "remaining": "21",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -5054,10 +5054,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "6",
           "section": "600",
           "title": "ADVANCED PRODUCT DESIGN",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -5088,10 +5088,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "600",
           "title": "ENGR APP OF SOLID MECHANICS",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -5122,11 +5122,11 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "14",
           "section": "501",
           "title": "ENGINEERING LABORATORY",
-          "remaining": "9",
-          "capacity": "12",
+          "remaining": "1",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -5156,11 +5156,11 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "14",
           "section": "502",
           "title": "ENGINEERING LABORATORY",
-          "remaining": "6",
-          "capacity": "12",
+          "remaining": "1",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -5190,11 +5190,11 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "14",
           "section": "503",
           "title": "ENGINEERING LABORATORY",
-          "remaining": "10",
-          "capacity": "12",
+          "remaining": "1",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -5220,15 +5220,15 @@
           "crn": "12066"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "15",
           "section": "504",
           "title": "ENGINEERING LABORATORY",
-          "remaining": "8",
-          "capacity": "12",
+          "remaining": "0",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -5254,15 +5254,15 @@
           "crn": "19647"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "15",
           "section": "505",
           "title": "ENGINEERING LABORATORY",
-          "remaining": "9",
-          "capacity": "12",
+          "remaining": "0",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -5288,15 +5288,15 @@
           "crn": "12067"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "15",
           "section": "506",
           "title": "ENGINEERING LABORATORY",
-          "remaining": "11",
-          "capacity": "12",
+          "remaining": "0",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -5322,15 +5322,15 @@
           "crn": "13483"
         },
         "507": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "15",
           "section": "507",
           "title": "ENGINEERING LABORATORY",
-          "remaining": "6",
-          "capacity": "12",
+          "remaining": "0",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -5360,11 +5360,11 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "13",
           "section": "508",
           "title": "ENGINEERING LABORATORY",
-          "remaining": "3",
-          "capacity": "12",
+          "remaining": "2",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -5395,15 +5395,15 @@
       "title": "MODELING AND ANALYSIS MECH SYS",
       "sections": {
         "600": {
-          "select": "C",
+          "select": "SR",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "MODELING AND ANALYSIS MECH SYS",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "28",
+          "capacity": "30",
           "instructor": [
             "TBA"
           ],
@@ -5433,10 +5433,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "14",
           "section": "600",
           "title": "THEORY OF ELASTICITY",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -5463,14 +5463,14 @@
       "title": "INTRO TO ROBOTICS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "20",
           "section": "500",
           "title": "INTRO TO ROBOTICS",
-          "remaining": "12",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -5501,10 +5501,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "8",
           "section": "600",
           "title": "CONTINUUM MECHANICS",
-          "remaining": "21",
+          "remaining": "22",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -6178,10 +6178,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "676",
           "title": "RESEARCH",
-          "remaining": "15",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Bryan Rasmussen (P)"
@@ -6555,10 +6555,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "641",
           "title": "RESEARCH",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Pilwon Hur (P)"
@@ -6642,10 +6642,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "RESEARCH",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Douglas L. Allaire (P)"
@@ -6700,10 +6700,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "601",
           "title": "RESEARCH",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Eric Petersen (P)"
@@ -6787,10 +6787,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "646",
           "title": "RESEARCH",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "David Staack (P)"
@@ -7077,10 +7077,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "690",
           "title": "RESEARCH",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Luis A. Sanandres (P)"
@@ -7164,10 +7164,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "694",
           "title": "RESEARCH",
-          "remaining": "120",
+          "remaining": "119",
           "capacity": "120",
           "instructor": [
             "Choongho Yu (P)"
@@ -7251,10 +7251,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "695",
           "title": "RESEARCH",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Junuthula Reddy (P)"
@@ -7918,10 +7918,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "619",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Dara Childs (P)"
@@ -7947,10 +7947,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "6",
           "section": "660",
           "title": "RESEARCH",
-          "remaining": "11",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
             "Partha Mukherjee (P)"
@@ -8358,10 +8358,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "501",
           "title": "VISCOELASTIC MATERIALS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -8421,10 +8421,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "4",
           "section": "502",
           "title": "GEOMETRIC MODELING",
-          "remaining": "45",
+          "remaining": "42",
           "capacity": "46",
           "instructor": [
             "TBA"
@@ -8450,10 +8450,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "503",
           "title": "GEOMETRIC MODELING",
-          "remaining": "44",
+          "remaining": "42",
           "capacity": "46",
           "instructor": [
             "TBA"
@@ -8479,10 +8479,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "504",
           "title": "GEOMETRIC MODELING",
-          "remaining": "45",
+          "remaining": "43",
           "capacity": "46",
           "instructor": [
             "TBA"
@@ -8508,10 +8508,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "505",
           "title": "GEOMETRIC MODELING",
-          "remaining": "46",
+          "remaining": "41",
           "capacity": "46",
           "instructor": [
             "TBA"
@@ -8542,10 +8542,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "15",
           "section": "600",
           "title": "CONTROL SYSTEM DESIGN",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -8610,10 +8610,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "33",
           "section": "500",
           "title": "PROCESS & CHAR POLYMER",
-          "remaining": "45",
+          "remaining": "23",
           "capacity": "56",
           "instructor": [
             "TBA"
@@ -8678,10 +8678,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "6",
           "section": "600",
           "title": "ENGINEERING DYNAMICS",
-          "remaining": "26",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -8712,10 +8712,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "601",
           "title": "VSCO-ELSTY SOL & STRC I",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -8887,10 +8887,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "501",
           "title": "MECHANICAL MEASUREMENTS",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "12",
           "instructor": [
             "TBA",
@@ -8921,10 +8921,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "502",
           "title": "MECHANICAL MEASUREMENTS",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "12",
           "instructor": [
             "TBA",
@@ -8955,10 +8955,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "5",
           "section": "503",
           "title": "MECHANICAL MEASUREMENTS",
-          "remaining": "9",
+          "remaining": "7",
           "capacity": "12",
           "instructor": [
             "TBA",
@@ -8989,10 +8989,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "504",
           "title": "MECHANICAL MEASUREMENTS",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "12",
           "instructor": [
             "TBA",
@@ -9023,10 +9023,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "505",
           "title": "MECHANICAL MEASUREMENTS",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "12",
           "instructor": [
             "TBA",
@@ -9228,14 +9228,14 @@
           "crn": "12054"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "11",
+          "active": "18",
           "section": "502",
           "title": "SEMINAR",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "Timothy Jacobs (P)",
@@ -9262,14 +9262,14 @@
           "crn": "12055"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "18",
           "section": "503",
           "title": "SEMINAR",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "Timothy Jacobs (P)",
@@ -9296,14 +9296,14 @@
           "crn": "12056"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "18",
           "section": "504",
           "title": "SEMINAR",
-          "remaining": "12",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "Timothy Jacobs (P)",
@@ -9330,14 +9330,14 @@
           "crn": "12057"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "18",
           "section": "505",
           "title": "SEMINAR",
-          "remaining": "16",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "Timothy Jacobs (P)",
@@ -9364,14 +9364,14 @@
           "crn": "12058"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "18",
           "section": "506",
           "title": "SEMINAR",
-          "remaining": "18",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "Timothy Jacobs (P)",
@@ -9398,14 +9398,14 @@
           "crn": "12059"
         },
         "507": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "18",
           "section": "507",
           "title": "SEMINAR",
-          "remaining": "17",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "Timothy Jacobs",
@@ -9436,10 +9436,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "9",
           "section": "508",
           "title": "SEMINAR",
-          "remaining": "18",
+          "remaining": "9",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -9475,10 +9475,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "19",
           "section": "501",
           "title": "HEAT TRANSFER",
-          "remaining": "73",
+          "remaining": "61",
           "capacity": "80",
           "instructor": [
             "TBA"
@@ -9500,14 +9500,14 @@
           "crn": "12071"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "40",
           "section": "502",
           "title": "HEAT TRANSFER",
-          "remaining": "23",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -9625,10 +9625,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "4",
           "section": "501",
           "title": "STATICS & PARTICLE DYNAM",
-          "remaining": "71",
+          "remaining": "72",
           "capacity": "76",
           "instructor": [
             "TBA"
@@ -9654,10 +9654,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "20",
           "section": "502",
           "title": "STATICS & PARTICLE DYNAM",
-          "remaining": "69",
+          "remaining": "64",
           "capacity": "84",
           "instructor": [
             "TBA"
@@ -9683,10 +9683,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "7",
           "section": "503",
           "title": "STATICS & PARTICLE DYNAM",
-          "remaining": "97",
+          "remaining": "93",
           "capacity": "100",
           "instructor": [
             "TBA"
@@ -9712,10 +9712,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "8",
           "section": "504",
           "title": "STATICS & PARTICLE DYNAM",
-          "remaining": "73",
+          "remaining": "72",
           "capacity": "80",
           "instructor": [
             "TBA"
@@ -9741,10 +9741,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "505",
           "title": "STATICS & PARTICLE DYNAM",
-          "remaining": "76",
+          "remaining": "75",
           "capacity": "80",
           "instructor": [
             "TBA"
@@ -9770,10 +9770,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "37",
+          "active": "40",
           "section": "506",
           "title": "STATICS & PARTICLE DYNAM",
-          "remaining": "13",
+          "remaining": "10",
           "capacity": "50",
           "instructor": [
             "TBA"
@@ -9799,10 +9799,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "19",
+          "active": "23",
           "section": "507",
           "title": "STATICS & PARTICLE DYNAM",
-          "remaining": "79",
+          "remaining": "75",
           "capacity": "98",
           "instructor": [
             "TBA"
@@ -9828,10 +9828,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "20",
           "section": "508",
           "title": "STATICS & PARTICLE DYNAM",
-          "remaining": "69",
+          "remaining": "65",
           "capacity": "85",
           "instructor": [
             "TBA"
@@ -9862,10 +9862,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "COGENERATION SYSTEMS",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -9925,10 +9925,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "25",
           "section": "502",
           "title": "MATERIALS SCIENCE",
-          "remaining": "13",
+          "remaining": "5",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -9942,10 +9942,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "ETB 1020"
+            "HELD 111"
           ],
           "time": [
-            "05:45 pm-06:35 pm"
+            "03:00 pm-03:50 pm"
           ],
           "crn": "28491"
         },
@@ -9971,7 +9971,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "BLOC 149"
           ],
           "time": [
             "08:00 am-08:50 am"
@@ -10000,10 +10000,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "FRAN 102"
           ],
           "time": [
-            "02:20 pm-03:35 pm"
+            "11:10 am-12:25 pm"
           ],
           "crn": "28493"
         },
@@ -10058,10 +10058,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "FRAN 102"
           ],
           "time": [
-            "TBA"
+            "03:55 pm-05:10 pm"
           ],
           "crn": "28495"
         }
@@ -10071,14 +10071,14 @@
       "title": "HEAT TRANSFER LAB",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "15",
           "section": "501",
           "title": "HEAT TRANSFER LAB",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10100,14 +10100,14 @@
           "crn": "12073"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "15",
           "section": "502",
           "title": "HEAT TRANSFER LAB",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10129,14 +10129,14 @@
           "crn": "12074"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "15",
           "section": "503",
           "title": "HEAT TRANSFER LAB",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10162,10 +10162,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "504",
           "title": "HEAT TRANSFER LAB",
-          "remaining": "12",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10187,14 +10187,14 @@
           "crn": "12076"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "15",
           "section": "505",
           "title": "HEAT TRANSFER LAB",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10220,10 +10220,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "506",
           "title": "HEAT TRANSFER LAB",
-          "remaining": "15",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10249,10 +10249,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "507",
           "title": "HEAT TRANSFER LAB",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10278,10 +10278,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "508",
           "title": "HEAT TRANSFER LAB",
-          "remaining": "13",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10312,10 +10312,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "24",
           "section": "501",
           "title": "FLUID MECHANICS",
-          "remaining": "32",
+          "remaining": "24",
           "capacity": "48",
           "instructor": [
             "TBA"
@@ -10341,10 +10341,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "26",
           "section": "502",
           "title": "FLUID MECHANICS",
-          "remaining": "72",
+          "remaining": "64",
           "capacity": "90",
           "instructor": [
             "TBA"
@@ -10399,10 +10399,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "23",
+          "active": "39",
           "section": "504",
           "title": "FLUID MECHANICS",
-          "remaining": "27",
+          "remaining": "11",
           "capacity": "50",
           "instructor": [
             "TBA"
@@ -10429,14 +10429,14 @@
       "title": "THERMO FLUID ANLY & DESN",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "56",
           "section": "501",
           "title": "THERMO FLUID ANLY & DESN",
-          "remaining": "40",
+          "remaining": "0",
           "capacity": "56",
           "instructor": [
             "TBA"
@@ -10462,10 +10462,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "39",
           "section": "502",
           "title": "THERMO FLUID ANLY & DESN",
-          "remaining": "53",
+          "remaining": "17",
           "capacity": "56",
           "instructor": [
             "TBA"
@@ -10525,10 +10525,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "601",
           "title": "COGENERATION SYSTEMS",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -10555,14 +10555,14 @@
       "title": "FLUID MECHANICS LAB",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "15",
           "section": "501",
           "title": "FLUID MECHANICS LAB",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10617,10 +10617,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "14",
           "section": "503",
           "title": "FLUID MECHANICS LAB",
-          "remaining": "8",
+          "remaining": "1",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10646,10 +10646,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "504",
           "title": "FLUID MECHANICS LAB",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10671,14 +10671,14 @@
           "crn": "12039"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "15",
           "section": "505",
           "title": "FLUID MECHANICS LAB",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10704,10 +10704,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "9",
           "section": "506",
           "title": "FLUID MECHANICS LAB",
-          "remaining": "11",
+          "remaining": "6",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10733,10 +10733,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "507",
           "title": "FLUID MECHANICS LAB",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10762,10 +10762,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "508",
           "title": "FLUID MECHANICS LAB",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10791,10 +10791,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "509",
           "title": "FLUID MECHANICS LAB",
-          "remaining": "15",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -10825,10 +10825,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "601",
           "title": "ENERGY MGMT COMM BLDG",
-          "remaining": "26",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -11000,10 +11000,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "10",
           "section": "601",
           "title": "FLUID MECHANICS",
-          "remaining": "22",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -11034,10 +11034,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "500",
           "title": "ALTERNATIVE ENERGY CONVERSION",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -11068,10 +11068,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "600",
           "title": "MECHATRONICS",
-          "remaining": "17",
+          "remaining": "12",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -11107,10 +11107,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "6",
           "section": "600",
           "title": "ALTERNATIVE ENERGY CONVERSION",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -11141,10 +11141,10 @@
           "subject": "MEEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "10",
           "section": "601",
           "title": "LUBRICATION THEORY",
-          "remaining": "23",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -11169,5 +11169,5 @@
     }
   },
   "title": "MEEN - Mechanical Engineering",
-  "updated": "Mon, 11 Apr 2016 at 12:48 AM"
+  "updated": "Wed, Apr 13 2016 at 01:32 AM"
 }

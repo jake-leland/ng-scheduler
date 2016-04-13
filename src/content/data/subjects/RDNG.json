@@ -4,15 +4,15 @@
       "title": "ASSESS IN RDNG INST MIDG",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "RDNG",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "25",
           "section": "501",
           "title": "ASSESS IN RDNG INST MIDG",
-          "remaining": "15",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Cynthia Ann E. Boettcher (P)",
             "Cynthia Ann E. Boettcher"
@@ -38,14 +38,14 @@
           "crn": "12585"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "RDNG",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "25",
           "section": "502",
           "title": "ASSESS IN RDNG INST MIDG",
-          "remaining": "22",
+          "remaining": "0",
           "capacity": "25",
           "instructor": [
             "Wendi K. Zimmer (P)",
@@ -76,11 +76,11 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 2,
-          "active": "10",
+          "active": "17",
           "section": "503",
           "title": "ASSESS IN RDNG INST MIDG",
-          "remaining": "0",
-          "capacity": "10",
+          "remaining": "-2",
+          "capacity": "15",
           "instructor": [
             "Cynthia Ann E. Boettcher (P)",
             "Cynthia Ann E. Boettcher"
@@ -106,15 +106,15 @@
           "crn": "17706"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "RDNG",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "16",
           "section": "504",
           "title": "ASSESS IN RDNG INST MIDG",
-          "remaining": "8",
-          "capacity": "10",
+          "remaining": "-1",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -149,10 +149,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "901",
           "title": "MLTCTRL INTRDSP LIT MIDG",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Amanda D. Franks (P)"
@@ -178,10 +178,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "902",
           "title": "MLTCTRL INTRDSP LIT MIDG",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Amanda D. Franks (P)"
@@ -208,15 +208,15 @@
       "title": "RDNG/LANG ART MTHDS MIDG",
       "sections": {
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "25",
           "section": "502",
           "title": "RDNG/LANG ART MTHDS MIDG",
-          "remaining": "17",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Sharon D. Matthews (P)"
           ],
@@ -237,15 +237,15 @@
           "crn": "12584"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "RDNG",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "16",
           "section": "504",
           "title": "RDNG/LANG ART MTHDS MIDG",
-          "remaining": "8",
-          "capacity": "10",
+          "remaining": "-1",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -309,10 +309,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "ASSESSMENT IN RDNG",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "John Helfeldt (P)"
@@ -338,10 +338,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "503",
           "title": "ASSESSMENT IN RDNG",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Brenda K. Taylor (P)"
@@ -459,10 +459,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "902",
           "title": "RDNG WRTNG IN MIDG CURR",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Sunni L. Sonnenburg (P)"
@@ -488,10 +488,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "903",
           "title": "RDNG WRTNG IN MIDG CURR",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Sharon D. Matthews (P)"
@@ -517,10 +517,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "904",
           "title": "RDNG WRTNG IN MIDG CURR",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Xuejun Ji (P)"
@@ -580,10 +580,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "RDNG IN ELEM SCHOOL",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Sharon D. Matthews (P)"
@@ -638,10 +638,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "590",
           "title": "RDNG IN ELEM SCHOOL",
-          "remaining": "22",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -701,10 +701,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "4",
           "section": "901",
           "title": "TEACHING RDNG CHILD LIT",
-          "remaining": "19",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Patricia J. Stogdill (P)"
@@ -730,10 +730,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "902",
           "title": "TEACHING RDNG CHILD LIT",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Kristen L. Shumbera (P)"
@@ -759,10 +759,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "903",
           "title": "TEACHING RDNG CHILD LIT",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Kristen L. Shumbera (P)"
@@ -788,10 +788,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "904",
           "title": "TEACHING RDNG CHILD LIT",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Patricia J. Stogdill (P)"
@@ -856,10 +856,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "13",
           "section": "501",
           "title": "RDNG IN MID/SEC GRADES",
-          "remaining": "25",
+          "remaining": "17",
           "capacity": "30",
           "instructor": [
             "Mary Middlebrooks (P)"
@@ -983,14 +983,14 @@
       "title": "RDNG & LANGUAGE ARTS",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "RDNG",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "30",
           "section": "501",
           "title": "RDNG & LANGUAGE ARTS",
-          "remaining": "26",
+          "remaining": "0",
           "capacity": "30",
           "instructor": [
             "Brenda K. Taylor (P)",
@@ -1021,10 +1021,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "29",
           "section": "502",
           "title": "RDNG & LANGUAGE ARTS",
-          "remaining": "26",
+          "remaining": "1",
           "capacity": "30",
           "instructor": [
             "Amanda L. Lindner (P)",
@@ -1055,10 +1055,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "30",
           "section": "503",
           "title": "RDNG & LANGUAGE ARTS",
-          "remaining": "27",
+          "remaining": "2",
           "capacity": "32",
           "instructor": [
             "Robin A. Rackley",
@@ -1089,10 +1089,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "13",
           "section": "504",
           "title": "RDNG & LANGUAGE ARTS",
-          "remaining": "-4",
+          "remaining": "-13",
           "capacity": "0",
           "instructor": [
             "Robin A. Rackley",
@@ -1191,10 +1191,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "501",
           "title": "ESSEN FOUND LANG LITERACY",
-          "remaining": "23",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Rachel E. Rayburn (P)"
@@ -1220,10 +1220,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "ESSEN FOUND LANG LITERACY",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Heather M. Sherman (P)"
@@ -1249,10 +1249,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "20",
           "section": "503",
           "title": "ESSEN FOUND LANG LITERACY",
-          "remaining": "19",
+          "remaining": "5",
           "capacity": "25",
           "instructor": [
             "Amy B. Ging (P)"
@@ -1278,10 +1278,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "11",
           "section": "504",
           "title": "ESSEN FOUND LANG LITERACY",
-          "remaining": "23",
+          "remaining": "14",
           "capacity": "25",
           "instructor": [
             "Amy B. Ging (P)"
@@ -1307,10 +1307,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "9",
           "section": "505",
           "title": "ESSEN FOUND LANG LITERACY",
-          "remaining": "24",
+          "remaining": "16",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -1370,10 +1370,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "700",
           "title": "CHILD LIT & LITERACY",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "Cynthia Ann E. Boettcher (P)"
@@ -1438,10 +1438,10 @@
           "subject": "RDNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "RDNG INST HIGH SCH COL",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Erin McTigue (P)"
@@ -1466,5 +1466,5 @@
     }
   },
   "title": "RDNG - Reading",
-  "updated": "Mon, 11 Apr 2016 at 12:52 AM"
+  "updated": "Wed, Apr 13 2016 at 01:36 AM"
 }

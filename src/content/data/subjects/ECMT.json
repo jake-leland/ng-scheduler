@@ -4,15 +4,15 @@
       "title": "MATH ECONOMICS",
       "sections": {
         "600": {
-          "select": "C",
+          "select": "SR",
           "subject": "ECMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "MATH ECONOMICS",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "2",
+          "capacity": "5",
           "instructor": [
             "TBA"
           ],
@@ -42,10 +42,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "21",
           "section": "907",
           "title": "INTRO TO ECONOMETRICS",
-          "remaining": "17",
+          "remaining": "1",
           "capacity": "22",
           "instructor": [
             "Georges S. Naufal (P)",
@@ -178,10 +178,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "14",
           "section": "901",
           "title": "INTRO TO ECONOMETRICS",
-          "remaining": "11",
+          "remaining": "4",
           "capacity": "18",
           "instructor": [
             "Georges S. Naufal (P)",
@@ -208,14 +208,14 @@
           "crn": "14088"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECMT",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "18",
           "section": "902",
           "title": "INTRO TO ECONOMETRICS",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "Georges S. Naufal (P)",
@@ -246,10 +246,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "15",
           "section": "903",
           "title": "INTRO TO ECONOMETRICS",
-          "remaining": "16",
+          "remaining": "3",
           "capacity": "18",
           "instructor": [
             "Georges S. Naufal (P)",
@@ -280,10 +280,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "904",
           "title": "INTRO TO ECONOMETRICS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Georges S. Naufal (P)",
@@ -314,10 +314,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "905",
           "title": "INTRO TO ECONOMETRICS",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Georges S. Naufal (P)",
@@ -387,10 +387,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "12",
           "section": "500",
           "title": "ECONOMIC FORECASTING",
-          "remaining": "25",
+          "remaining": "18",
           "capacity": "30",
           "instructor": [
             "Tatevik Sekhposyan (P)"
@@ -421,10 +421,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "11",
           "section": "600",
           "title": "ECONOMIC FORECASTING",
-          "remaining": "104",
+          "remaining": "99",
           "capacity": "110",
           "instructor": [
             "Tatevik Sekhposyan (P)"
@@ -455,10 +455,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "9",
           "section": "600",
           "title": "ECONOMETRICS I",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "33",
           "instructor": [
             "Keli M. Xu (P)"
@@ -557,10 +557,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "901",
           "title": "ECONOMIC DATA ANALYSIS",
-          "remaining": "14",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "Craig T. Schulman (P)",
@@ -625,10 +625,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "7",
           "section": "903",
           "title": "ECONOMIC DATA ANALYSIS",
-          "remaining": "14",
+          "remaining": "11",
           "capacity": "18",
           "instructor": [
             "Craig T. Schulman (P)",
@@ -727,10 +727,10 @@
           "subject": "ECMT",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "906",
           "title": "ECONOMIC DATA ANALYSIS",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Dennis Jansen (P)",
@@ -762,15 +762,15 @@
       "title": "ECMT ANALYSIS FIN DATA",
       "sections": {
         "600": {
-          "select": "C",
+          "select": "SR",
           "subject": "ECMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "600",
           "title": "ECMT ANALYSIS FIN DATA",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "19",
+          "capacity": "25",
           "instructor": [
             "TBA"
           ],
@@ -794,5 +794,5 @@
     }
   },
   "title": "ECMT - Econometrics",
-  "updated": "Mon, 11 Apr 2016 at 12:41 AM"
+  "updated": "Wed, Apr 13 2016 at 01:26 AM"
 }

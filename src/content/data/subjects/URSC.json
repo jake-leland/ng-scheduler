@@ -395,10 +395,10 @@
           "subject": "URSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "600",
           "title": "STRUCTURE FUNCTIONS CITI",
-          "remaining": "14",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Yu Xiao (P)"
@@ -715,14 +715,14 @@
           "crn": "20551"
         },
         "655": {
-          "select": "SR",
+          "select": "C",
           "subject": "URSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "655",
           "title": "RESEARCH: IN-ABSENTIA",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Wesley E. Highfield (P)"
@@ -1100,5 +1100,5 @@
     }
   },
   "title": "URSC - Urban Science",
-  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
+  "updated": "Wed, Apr 13 2016 at 01:37 AM"
 }

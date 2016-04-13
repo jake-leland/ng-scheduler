@@ -1068,17 +1068,17 @@
       "title": "CELL MECHANISM OF DISEAS",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "CELL MECHANISM OF DISEAS",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "17",
+          "capacity": "20",
           "instructor": [
-            "TBA"
+            "Bradley Weeks (P)"
           ],
           "credits": "3",
           "course": "410",
@@ -1102,14 +1102,14 @@
       "title": "BACTERIAL DISEASES",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "12",
           "section": "500",
           "title": "BACTERIAL DISEASES",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Thomas Ficht (P)"
@@ -1276,10 +1276,10 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "23",
           "section": "501",
           "title": "BIOMEDICAL MICROBIOLOGY",
-          "remaining": "51",
+          "remaining": "37",
           "capacity": "60",
           "instructor": [
             "Maria Esteve-Gasent (P), Ian Tizard",
@@ -1310,10 +1310,10 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "17",
           "section": "502",
           "title": "BIOMEDICAL MICROBIOLOGY",
-          "remaining": "57",
+          "remaining": "43",
           "capacity": "60",
           "instructor": [
             "Maria Esteve-Gasent (P), Ian Tizard",
@@ -1344,10 +1344,10 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "22",
           "section": "503",
           "title": "BIOMEDICAL MICROBIOLOGY",
-          "remaining": "52",
+          "remaining": "38",
           "capacity": "60",
           "instructor": [
             "Maria Esteve-Gasent (P), Ian Tizard",
@@ -1490,10 +1490,10 @@
           "subject": "VTPB",
           "campus": "CS",
           "classes": 1,
-          "active": "25",
+          "active": "83",
           "section": "500",
           "title": "INTRO TO IMMUNOLOGY",
-          "remaining": "75",
+          "remaining": "17",
           "capacity": "100",
           "instructor": [
             "Mohamed T. Omran (P)"
@@ -1697,5 +1697,5 @@
     }
   },
   "title": "VTPB - Veterinary Pathobiology",
-  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
+  "updated": "Wed, Apr 13 2016 at 01:38 AM"
 }

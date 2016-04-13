@@ -540,10 +540,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "614",
           "title": "RESEARCH",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Michael King (P)"
@@ -830,10 +830,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "618",
           "title": "RESEARCH",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Duane A. McVay (P)"
@@ -1033,10 +1033,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "602",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "William Lee (P)"
@@ -1149,10 +1149,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "7",
           "section": "626",
           "title": "RESEARCH",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "Ding Zhu (P)"
@@ -3247,10 +3247,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "7",
           "section": "500",
           "title": "PETR PROJ EVALUATION",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "Catherine A. Sliva (P), Glenn M. Sliva"
@@ -3276,10 +3276,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "17",
           "section": "501",
           "title": "PETR PROJ EVALUATION",
-          "remaining": "7",
+          "remaining": "3",
           "capacity": "20",
           "instructor": [
             "Catherine A. Sliva (P), Glenn M. Sliva"
@@ -3334,10 +3334,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "16",
           "section": "503",
           "title": "PETR PROJ EVALUATION",
-          "remaining": "16",
+          "remaining": "4",
           "capacity": "20",
           "instructor": [
             "Catherine A. Sliva (P)"
@@ -3402,10 +3402,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "502",
           "title": "RESERVOIR FLUIDS",
-          "remaining": "8",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Maria A. Barrufet (P)",
@@ -3436,10 +3436,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "503",
           "title": "RESERVOIR FLUIDS",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Maria A. Barrufet (P)",
@@ -3504,10 +3504,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "505",
           "title": "RESERVOIR FLUIDS (Syllabus)",
-          "remaining": "9",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Berna Hascakir (P)",
@@ -3538,10 +3538,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "506",
           "title": "RESERVOIR FLUIDS (Syllabus)",
-          "remaining": "7",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Berna Hascakir (P)",
@@ -3714,15 +3714,15 @@
       "title": "DRILLING ENGINEERING",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "40",
           "section": "500",
           "title": "DRILLING ENGINEERING",
-          "remaining": "12",
-          "capacity": "25",
+          "remaining": "0",
+          "capacity": "40",
           "instructor": [
             "Heitor R. Lima (P)"
           ],
@@ -3743,15 +3743,15 @@
           "crn": "21833"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "40",
           "section": "501",
           "title": "DRILLING ENGINEERING",
-          "remaining": "21",
-          "capacity": "25",
+          "remaining": "0",
+          "capacity": "40",
           "instructor": [
             "Samuel F. Noynaert (P)"
           ],
@@ -3781,10 +3781,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "7",
           "section": "200",
           "title": "HNR-PRODUCTION ENGINEERING",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Ding Zhu (P)"
@@ -3806,17 +3806,17 @@
           "crn": "26980"
         },
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "40",
           "section": "500",
           "title": "PRODUCTION ENGINEERING",
-          "remaining": "30",
-          "capacity": "30",
+          "remaining": "0",
+          "capacity": "40",
           "instructor": [
-            "Kan Wu (P)"
+            "Ibere Nascentes Alves (P)"
           ],
           "credits": "3",
           "course": "410",
@@ -3835,15 +3835,15 @@
           "crn": "12336"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "60",
           "section": "501",
           "title": "PRODUCTION ENGINEERING",
-          "remaining": "9",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "60",
           "instructor": [
             "Ding Zhu (P)"
           ],
@@ -3873,10 +3873,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "11",
           "section": "600",
           "title": "GEOSTATISTICS",
-          "remaining": "12",
+          "remaining": "9",
           "capacity": "20",
           "instructor": [
             "Akhil Dattagupta (P)"
@@ -3936,10 +3936,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "29",
           "section": "501",
           "title": "TECH PRESENTATIONS I",
-          "remaining": "54",
+          "remaining": "43",
           "capacity": "72",
           "instructor": [
             "Stacy H. Aschenbeck (P)"
@@ -4028,10 +4028,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "12",
           "section": "501",
           "title": "TRANS PROC IN PETE PROD",
-          "remaining": "53",
+          "remaining": "48",
           "capacity": "60",
           "instructor": [
             "Peter Valko (P)"
@@ -4057,10 +4057,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "14",
           "section": "502",
           "title": "TRANS PROC IN PETE PROD",
-          "remaining": "63",
+          "remaining": "56",
           "capacity": "70",
           "instructor": [
             "Abu Rashid Hasan (P)"
@@ -4087,15 +4087,15 @@
       "title": "TECH PRESENTATIONS II",
       "sections": {
         "931": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "26",
           "section": "931",
           "title": "TECH PRESENTATIONS II",
-          "remaining": "14",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "26",
           "instructor": [
             "Terri S. Smith (P)"
           ],
@@ -4116,15 +4116,15 @@
           "crn": "22819"
         },
         "932": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "932",
           "title": "TECH PRESENTATIONS II",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Terri S. Smith (P)"
           ],
@@ -4145,15 +4145,15 @@
           "crn": "23073"
         },
         "933": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "933",
           "title": "TECH PRESENTATIONS II",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Terri S. Smith (P)"
           ],
@@ -4174,15 +4174,15 @@
           "crn": "24193"
         },
         "934": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "934",
           "title": "TECH PRESENTATIONS II",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Terri S. Smith (P)"
           ],
@@ -4203,15 +4203,15 @@
           "crn": "24640"
         },
         "935": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "27",
           "section": "935",
           "title": "TECH PRESENTATIONS II",
-          "remaining": "3",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "27",
           "instructor": [
             "Terri S. Smith (P)"
           ],
@@ -4241,10 +4241,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "600",
           "title": "UNCONVENTIONAL OIL GAS",
-          "remaining": "36",
+          "remaining": "35",
           "capacity": "40",
           "instructor": [
             "Walter Ayers (P)"
@@ -4270,10 +4270,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "700",
           "title": "UNCONVENTIONAL OIL GAS",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Walter Ayers (P)"
@@ -4304,10 +4304,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "600",
           "title": "UNDERBALANCED DRILLING",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Jerome J. Schubert (P)"
@@ -4430,10 +4430,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "17",
           "section": "500",
           "title": "SOLV COM PROD ENGR PROBS",
-          "remaining": "29",
+          "remaining": "13",
           "capacity": "30",
           "instructor": [
             "John E. Jochen (P)"
@@ -4464,10 +4464,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "600",
           "title": "HP DRIL DES & OPER PRACS",
-          "remaining": "11",
+          "remaining": "8",
           "capacity": "14",
           "instructor": [
             "Fred E. Dupriest (P)"
@@ -4561,13 +4561,13 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "12",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "140",
+          "remaining": "136",
           "capacity": "148",
           "instructor": [
-            "Ibrahim Y. Akkutlu (P), Kan Wu"
+            "Ibrahim Y. Akkutlu (P), Samuel F. Noynaert"
           ],
           "credits": "1",
           "course": "681",
@@ -4919,10 +4919,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "DRILLING ENGINEERING",
-          "remaining": "29",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Samuel F. Noynaert (P)"
@@ -4982,10 +4982,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "24",
           "section": "501",
           "title": "FORMATION EVALUATION",
-          "remaining": "27",
+          "remaining": "10",
           "capacity": "34",
           "instructor": [
             "David Schechter (P)",
@@ -5016,10 +5016,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "FORMATION EVALUATION",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "David Schechter (P)",
@@ -5055,10 +5055,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "600",
           "title": "MOD SIMUL TRANSP MEDIA",
-          "remaining": "9",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "George J. Moridis (P)",
@@ -5094,10 +5094,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "PRODUCTION ENGINEERING",
-          "remaining": "38",
+          "remaining": "37",
           "capacity": "39",
           "instructor": [
             "Jenn T. Liang (P)"
@@ -5278,10 +5278,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "599",
           "title": "INTRO TO PETR ENGR",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Catherine A. Sliva (P)"
@@ -5312,10 +5312,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "21",
+          "active": "108",
           "section": "500",
           "title": "SUMMER PRACTICE",
-          "remaining": "149",
+          "remaining": "62",
           "capacity": "170",
           "instructor": [
             "Priscilla G. McLeroy (P)"
@@ -7236,10 +7236,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "7",
           "section": "501",
           "title": "PETE NUMERICAL METH",
-          "remaining": "8",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "James B. Maggard (P)",
@@ -7270,10 +7270,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "6",
           "section": "502",
           "title": "PETE NUMERICAL METH",
-          "remaining": "6",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "James B. Maggard (P)",
@@ -7338,10 +7338,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "8",
           "section": "504",
           "title": "PETE NUMERICAL METH",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "10",
           "instructor": [
             "James B. Maggard (P)",
@@ -7411,10 +7411,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "26",
           "section": "500",
           "title": "FUND OF RESERVOIR ENGR",
-          "remaining": "51",
+          "remaining": "34",
           "capacity": "60",
           "instructor": [
             "Hadi Nasrabadi (P)"
@@ -7445,10 +7445,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "600",
           "title": "FLUID FLOW PET RESERVO",
-          "remaining": "27",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
             "Thomas A. Blasingame (P)"
@@ -7508,10 +7508,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "600",
           "title": "PETE PROJECT EVAL MGMT",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "George W. Voneiff (P)"
@@ -7911,10 +7911,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "30",
           "section": "501",
           "title": "WELL TESTING",
-          "remaining": "48",
+          "remaining": "25",
           "capacity": "55",
           "instructor": [
             "Priscilla G. McLeroy (P)"
@@ -7941,15 +7941,15 @@
       "title": "RESERVOIR SIMULATION",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "25",
           "section": "501",
           "title": "RESERVOIR SIMULATION",
-          "remaining": "14",
-          "capacity": "15",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Jihoon Kim (P)",
             "Jihoon Kim"
@@ -7975,15 +7975,15 @@
           "crn": "12333"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "14",
+          "active": "25",
           "section": "502",
           "title": "RESERVOIR SIMULATION",
-          "remaining": "1",
-          "capacity": "15",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Duane A. McVay (P)",
             "Duane A. McVay"
@@ -8009,15 +8009,15 @@
           "crn": "12334"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "25",
           "section": "503",
           "title": "RESERVOIR SIMULATION",
-          "remaining": "13",
-          "capacity": "15",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Jihoon Kim (P)",
             "Jihoon Kim"
@@ -8043,15 +8043,15 @@
           "crn": "12335"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "26",
           "section": "504",
           "title": "RESERVOIR SIMULATION",
-          "remaining": "15",
-          "capacity": "15",
+          "remaining": "0",
+          "capacity": "26",
           "instructor": [
             "Duane A. McVay (P)",
             "Duane A. McVay"
@@ -8086,10 +8086,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "SPTP: PROBALISTIC RESV EVAL",
-          "remaining": "5",
+          "remaining": "1",
           "capacity": "5",
           "instructor": [
             "William Lee (P)"
@@ -8115,10 +8115,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "SPTP:PETE DEVELOPMENT STRATEGY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Priscilla G. McLeroy (P)"
@@ -8149,10 +8149,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "PETROLEUM DEV STRATEGY",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Priscilla G. McLeroy (P)",
@@ -8222,10 +8222,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "PETE RESERVOIR ENGR",
-          "remaining": "39",
+          "remaining": "38",
           "capacity": "40",
           "instructor": [
             "James B. Maggard (P)"
@@ -8315,14 +8315,14 @@
           "crn": "26975"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "501",
           "title": "PETR PRODUCTION SYSTEMS",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Ibere Nascentes Alves (P)",
@@ -8349,14 +8349,14 @@
           "crn": "19341"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "15",
           "section": "502",
           "title": "PETR PRODUCTION SYSTEMS",
-          "remaining": "14",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Ibere Nascentes Alves (P)",
@@ -8387,10 +8387,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "503",
           "title": "PETR PRODUCTION SYSTEMS",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Ibere Nascentes Alves (P)",
@@ -8421,10 +8421,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "504",
           "title": "PETR PRODUCTION SYSTEMS",
-          "remaining": "15",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "Ibere Nascentes Alves (P)",
@@ -8455,10 +8455,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "505",
           "title": "PETR PRODUCTION SYSTEMS",
-          "remaining": "14",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "Ibere Nascentes Alves (P)",
@@ -8490,14 +8490,14 @@
       "title": "INTEG ASSET DEVELOPMENT",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "40",
           "section": "500",
           "title": "INTEG ASSET DEVELOPMENT",
-          "remaining": "36",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Peter A. Bastian",
@@ -8528,10 +8528,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "501",
           "title": "INTEG ASSET DEVELOPMENT",
-          "remaining": "20",
+          "remaining": "12",
           "capacity": "20",
           "instructor": [
             "David Schechter (P), Walter Ayers",
@@ -8630,10 +8630,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "600",
           "title": "RESERVES AND EVALUATION",
-          "remaining": "41",
+          "remaining": "40",
           "capacity": "45",
           "instructor": [
             "Rudy Weijermars (P)"
@@ -8659,10 +8659,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "RESERVES AND EVALUATION",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Rudy Weijermars (P)"
@@ -8722,10 +8722,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "601",
           "title": "SPTP: NON-LINEAR ROCH MECH",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Nobuo Morita (P)"
@@ -8809,10 +8809,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "603",
           "title": "SPTP:TRANS 2 PHASE FLOW PIPES",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Ibere Nascentes Alves (P)"
@@ -8838,10 +8838,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "702",
           "title": "SPTP:PROBABLISTIC RESV EVAL",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "William Lee (P)"
@@ -8955,15 +8955,15 @@
       "title": "INTEG RESERVOIR MODELING",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "25",
           "section": "501",
           "title": "INTEG RESERVOIR MODELING",
-          "remaining": "12",
-          "capacity": "15",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "John E. Killough (P)"
           ],
@@ -8988,11 +8988,11 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "25",
           "section": "502",
           "title": "INTEG RESERVOIR MODELING",
           "remaining": "0",
-          "capacity": "15",
+          "capacity": "25",
           "instructor": [
             "John E. Killough (P)"
           ],
@@ -9013,15 +9013,15 @@
           "crn": "24638"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "25",
           "section": "503",
           "title": "INTEG RESERVOIR MODELING",
-          "remaining": "14",
-          "capacity": "15",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Eduardo Gildin (P)"
           ],
@@ -9042,15 +9042,15 @@
           "crn": "24639"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "25",
           "section": "504",
           "title": "INTEG RESERVOIR MODELING",
-          "remaining": "15",
-          "capacity": "15",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Eduardo Gildin (P)"
           ],
@@ -9172,10 +9172,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "500",
           "title": "HIGH PERF DRILL & OPER PRACT",
-          "remaining": "26",
+          "remaining": "16",
           "capacity": "26",
           "instructor": [
             "Fred E. Dupriest (P)"
@@ -9206,10 +9206,10 @@
           "subject": "PETE",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "PHASE BEH OF PET RES F",
-          "remaining": "44",
+          "remaining": "43",
           "capacity": "45",
           "instructor": [
             "William McCain (P)"
@@ -9263,5 +9263,5 @@
     }
   },
   "title": "PETE - Petroleum Engineering",
-  "updated": "Mon, 11 Apr 2016 at 12:50 AM"
+  "updated": "Wed, Apr 13 2016 at 01:34 AM"
 }

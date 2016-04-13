@@ -37,10 +37,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "700",
           "title": "THEORY OF EPSY RSEARCH",
-          "remaining": "21",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Xiaohui Yue (P)"
@@ -651,10 +651,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "689",
           "title": "RESEARCH: IN-ABSENTIA",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Joyce E. Juntune (P)"
@@ -888,10 +888,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "8",
           "section": "500",
           "title": "CREATIVITY THEORY RESRCH",
-          "remaining": "88",
+          "remaining": "82",
           "capacity": "90",
           "instructor": [
             "Robert S. Woodward (P)"
@@ -918,14 +918,14 @@
       "title": "THEORY OF STRUCT EQ MOD",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "EPSY",
           "campus": "CS",
           "classes": 2,
-          "active": "16",
+          "active": "20",
           "section": "600",
           "title": "THEORY OF STRUCT EQ MOD",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Myeongsun Yoon (P)",
@@ -961,10 +961,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "699",
           "title": "LEARN THEORY FOR EDUC",
-          "remaining": "-2",
+          "remaining": "-3",
           "capacity": "0",
           "instructor": [
             "Steven Woltering (P)"
@@ -990,10 +990,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "8",
           "section": "700",
           "title": "LEARN THEORY FOR EDUC",
-          "remaining": "24",
+          "remaining": "22",
           "capacity": "30",
           "instructor": [
             "Steven Woltering (P)"
@@ -1053,10 +1053,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "11",
           "section": "700",
           "title": "CREATIVITY PROBLEM SOLV",
-          "remaining": "23",
+          "remaining": "14",
           "capacity": "25",
           "instructor": [
             "Joyce E. Juntune (P)"
@@ -1107,7 +1107,7 @@
             "EDCT 717"
           ],
           "time": [
-            "01:40 pm-04:20 pm"
+            "01:00 pm-03:40 pm"
           ],
           "crn": "19001"
         }
@@ -1121,10 +1121,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "699",
           "title": "PROGRAM EVAL",
-          "remaining": "-1",
+          "remaining": "-2",
           "capacity": "0",
           "instructor": [
             "Fuhui Tong (P)"
@@ -1150,10 +1150,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "700",
           "title": "PROGRAM EVAL",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Fuhui Tong (P)"
@@ -1218,10 +1218,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "13",
           "section": "501",
           "title": "EDUCATIONAL STATISTICS",
-          "remaining": "17",
+          "remaining": "7",
           "capacity": "20",
           "instructor": [
             "Robert Hall (P)",
@@ -1252,10 +1252,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "5",
           "section": "502",
           "title": "EDUCATIONAL STATISTICS",
-          "remaining": "7",
+          "remaining": "3",
           "capacity": "8",
           "instructor": [
             "Robert Hall (P)"
@@ -1277,15 +1277,15 @@
           "crn": "28644"
         },
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "1",
           "section": "700",
           "title": "EDUCATIONAL STATISTICS",
-          "remaining": "12",
-          "capacity": "15",
+          "remaining": "-1",
+          "capacity": "0",
           "instructor": [
             "Xiaohui Yue (P)"
           ],
@@ -1375,6 +1375,69 @@
         }
       }
     },
+    "656": {
+      "title": "SURVEY INSTRUMENT DEV",
+      "sections": {
+        "699": {
+          "select": "C",
+          "subject": "EPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "699",
+          "title": "SURVEY INSTRUMENT DEV",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Xiaohui Yue (P)"
+          ],
+          "credits": "3",
+          "course": "656",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28751"
+        },
+        "700": {
+          "select": "SR",
+          "subject": "EPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "1",
+          "section": "700",
+          "title": "SURVEY INSTRUMENT DEV",
+          "remaining": "24",
+          "capacity": "25",
+          "instructor": [
+            "Xiaohui Yue (P)"
+          ],
+          "credits": "3",
+          "course": "656",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28752"
+        }
+      }
+    },
     "635": {
       "title": "EDUCATIONAL STATISTICS",
       "sections": {
@@ -1451,10 +1514,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "7",
           "section": "700",
           "title": "EDUCATIONAL STATISTICS",
-          "remaining": "21",
+          "remaining": "18",
           "capacity": "25",
           "instructor": [
             "Xiaohui Yue (P)",
@@ -1519,10 +1582,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "699",
           "title": "TECHNIQUES OF RESEARCH",
-          "remaining": "0",
+          "remaining": "-2",
           "capacity": "0",
           "instructor": [
             "Robert S. Woodward (P)"
@@ -1548,10 +1611,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "22",
           "section": "701",
           "title": "TECHNIQUES OF RESEARCH",
-          "remaining": "34",
+          "remaining": "26",
           "capacity": "48",
           "instructor": [
             "Robert S. Woodward (P)"
@@ -1578,15 +1641,15 @@
       "title": "QUAL GROUNDED THRY METH",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "1",
           "section": "600",
           "title": "QUAL GROUNDED THRY METH",
-          "remaining": "9",
-          "capacity": "14",
+          "remaining": "-1",
+          "capacity": "0",
           "instructor": [
             "Laura M. Stough (P)"
           ],
@@ -1742,10 +1805,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "7",
           "section": "500",
           "title": "CHILD DEV FOR EDCATORS",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "Joyce E. Juntune (P)"
@@ -1771,10 +1834,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "700",
           "title": "CHILD DEV FOR EDCATORS",
-          "remaining": "12",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "Joyce E. Juntune (P)"
@@ -2008,10 +2071,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "501",
           "title": "DIRECTED STUDIES",
-          "remaining": "9",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Steven Woltering (P)"
@@ -2037,10 +2100,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "546",
           "title": "DIRECTED STUDIES",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Joyce E. Juntune (P)"
@@ -2192,10 +2255,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "500",
           "title": "ADOL DEV FOR EDUCATORS",
-          "remaining": "22",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Robert S. Woodward (P)"
@@ -2251,14 +2314,14 @@
           "crn": "11323"
         },
         "602": {
-          "select": "SR",
+          "select": "C",
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "15",
           "section": "602",
           "title": "EXPER DESIGN IN ED I",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Wen Luo (P)"
@@ -2526,6 +2589,35 @@
           ],
           "crn": "20705"
         },
+        "700": {
+          "select": "SR",
+          "subject": "EPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "700",
+          "title": "DIRECTED STUDIES",
+          "remaining": "10",
+          "capacity": "10",
+          "instructor": [
+            "Joyce E. Juntune (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28739"
+        },
         "602": {
           "select": "SR",
           "subject": "EPSY",
@@ -2583,6 +2675,35 @@
             "TBA"
           ],
           "crn": "18901"
+        },
+        "701": {
+          "select": "SR",
+          "subject": "EPSY",
+          "campus": "CS",
+          "classes": 1,
+          "active": "1",
+          "section": "701",
+          "title": "DIRECTED STUDIES",
+          "remaining": "9",
+          "capacity": "10",
+          "instructor": [
+            "Joyce E. Juntune (P)"
+          ],
+          "credits": "1-4",
+          "course": "685",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28740"
         },
         "615": {
           "select": "C",
@@ -2677,14 +2798,14 @@
       "title": "APPLIED MULT METHODS",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "10",
           "section": "600",
           "title": "APPLIED MULT METHODS",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2744,10 +2865,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "10",
           "section": "700",
           "title": "MEAS & EVAL IN EDUC",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "25",
           "instructor": [
             "Xiaohui Yue (P)"
@@ -2778,10 +2899,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "699",
           "title": "EDUC PSYCHOLOGY",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "Jeffrey Liew (P)"
@@ -2807,10 +2928,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "21",
           "section": "700",
           "title": "EDUC PSYCHOLOGY",
-          "remaining": "8",
+          "remaining": "4",
           "capacity": "25",
           "instructor": [
             "Jeffrey Liew (P)"
@@ -2870,10 +2991,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "14",
           "section": "700",
           "title": "CREATIVE THINKING",
-          "remaining": "15",
+          "remaining": "11",
           "capacity": "25",
           "instructor": [
             "Joyce E. Juntune (P)"
@@ -2904,10 +3025,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "ISUES IN CHLD & ADLSNT",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Joyce E. Juntune (P)"
@@ -2938,10 +3059,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "14",
           "section": "600",
           "title": "ADV PSYCHOMETRIC THEORY",
-          "remaining": "8",
+          "remaining": "6",
           "capacity": "20",
           "instructor": [
             "Myeongsun Yoon (P)"
@@ -2972,10 +3093,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "11",
           "section": "600",
           "title": "LIFESPAN DEVELOPMENT",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "20",
           "instructor": [
             "Jeffrey Liew (P)"
@@ -3006,10 +3127,10 @@
           "subject": "EPSY",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "10",
           "section": "600",
           "title": "EFF CULTR DIV POV CHILD",
-          "remaining": "6",
+          "remaining": "5",
           "capacity": "15",
           "instructor": [
             "Jamilia Blake (P)"
@@ -3034,5 +3155,5 @@
     }
   },
   "title": "EPSY - Educational Psychology",
-  "updated": "Mon, 11 Apr 2016 at 12:43 AM"
+  "updated": "Wed, Apr 13 2016 at 01:27 AM"
 }

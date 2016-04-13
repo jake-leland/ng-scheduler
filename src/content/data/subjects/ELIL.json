@@ -31,35 +31,6 @@
             "08:00 am-08:50 am"
           ],
           "crn": "11139"
-        },
-        "102": {
-          "select": "SR",
-          "subject": "ELIL",
-          "campus": "EL",
-          "classes": 1,
-          "active": "0",
-          "section": "102",
-          "title": "BASIC LISTENING",
-          "remaining": "25",
-          "capacity": "25",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "100",
-          "days": [
-            "MWF"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "09:10 am-10:00 am"
-          ],
-          "crn": "13446"
         }
       }
     },
@@ -134,10 +105,10 @@
           "subject": "ELIL",
           "campus": "EL",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "301",
           "title": "ADVANCED LISTENING",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -229,8 +200,8 @@
           "active": "0",
           "section": "252",
           "title": "INTERMEDIATE LISTENING II",
-          "remaining": "25",
-          "capacity": "25",
+          "remaining": "24",
+          "capacity": "24",
           "instructor": [
             "TBA"
           ],
@@ -254,5 +225,5 @@
     }
   },
   "title": "ELIL - Skills Lab",
-  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
+  "updated": "Wed, Apr 13 2016 at 01:26 AM"
 }

@@ -8,10 +8,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "500",
           "title": "CLSR MGMT & BEH INTRVNTN",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Melissa S. Fogarty (P)"
@@ -100,10 +100,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "612",
           "title": "FIELD PRACTICUM",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Kimberly Vannest (P)"
@@ -221,10 +221,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "500",
           "title": "INSTR STRAT STU DISABLE",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Glenda E. Byrns (P)"
@@ -255,10 +255,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "500",
           "title": "STDNTS EMO DIS & BEH DIS",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "13",
           "instructor": [
             "Lisa Perrott (P)"
@@ -289,10 +289,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "ASSESS STDNT WITH DSBLTY",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "13",
           "instructor": [
             "Constance Fournier (P)"
@@ -323,10 +323,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "699",
           "title": "EARLY LIT STUD DIV INSTR",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "Glenda E. Byrns (P)"
@@ -352,10 +352,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "17",
           "section": "700",
           "title": "EARLY LIT STUD DIV INSTR",
-          "remaining": "30",
+          "remaining": "23",
           "capacity": "40",
           "instructor": [
             "Glenda E. Byrns (P)"
@@ -594,10 +594,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "500",
           "title": "EFF RDNG STUD DIVERS ABIL",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Glenda E. Byrns (P)"
@@ -691,10 +691,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "10",
           "section": "700",
           "title": "TRANS FR SCHOOL TO WORK",
-          "remaining": "30",
+          "remaining": "25",
           "capacity": "35",
           "instructor": [
             "TBA"
@@ -725,10 +725,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "EFFEC MATH STR FOR SWD",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "13",
           "instructor": [
             "Corey J. Peltier (P)"
@@ -759,10 +759,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "METH & ISS LOW INCID DISAB",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "13",
           "instructor": [
             "Glenda E. Byrns (P)"
@@ -861,10 +861,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "CRITCL RESRCH PRACT SPED",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Dan Zhang (P)"
@@ -924,10 +924,10 @@
           "subject": "SPED",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "10",
           "section": "700",
           "title": "EDUC INDIV WITH AUTISM",
-          "remaining": "35",
+          "remaining": "30",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -952,5 +952,5 @@
     }
   },
   "title": "SPED - Special Education",
-  "updated": "Mon, 11 Apr 2016 at 12:53 AM"
+  "updated": "Wed, Apr 13 2016 at 01:37 AM"
 }

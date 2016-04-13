@@ -216,10 +216,10 @@
           "subject": "GEOS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "9",
           "section": "500",
           "title": "DATA METHODS GEOSCIENCES",
-          "remaining": "24",
+          "remaining": "16",
           "capacity": "25",
           "instructor": [
             "Steven Dimarco (P)"
@@ -279,10 +279,10 @@
           "subject": "GEOS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "8",
           "section": "901",
           "title": "SEMINAR",
-          "remaining": "12",
+          "remaining": "7",
           "capacity": "15",
           "instructor": [
             "Mary J. Richardson (P)"
@@ -308,10 +308,10 @@
           "subject": "GEOS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "902",
           "title": "SEMINAR",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Mary J. Richardson (P)"
@@ -434,10 +434,10 @@
           "subject": "GEOS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "CLIMATE CHANGE",
-          "remaining": "95",
+          "remaining": "93",
           "capacity": "95",
           "instructor": [
             "Ramalingam Saravanan (P)"
@@ -468,10 +468,10 @@
           "subject": "GEOS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "11",
           "section": "500",
           "title": "GLOBAL SCI POLICY MAKING",
-          "remaining": "52",
+          "remaining": "44",
           "capacity": "55",
           "instructor": [
             "TBA"
@@ -1155,10 +1155,10 @@
           "subject": "GEOS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "9",
           "section": "500",
           "title": "POLAR REGIONS EARTH",
-          "remaining": "17",
+          "remaining": "11",
           "capacity": "20",
           "instructor": [
             "Alejandro H. Orsi (P)"
@@ -1189,10 +1189,10 @@
           "subject": "GEOS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "INTRO ENVIRON GEOSCIENCE",
-          "remaining": "95",
+          "remaining": "93",
           "capacity": "95",
           "instructor": [
             "Vatche Tchakerian (P)"
@@ -1256,33 +1256,28 @@
           "select": "C",
           "subject": "GEOS",
           "campus": "CS",
-          "classes": 2,
+          "classes": 1,
           "active": "0",
           "section": "901",
           "title": "ENVIRONMENTAL GEOSCIENCE",
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Ann E. Jochens (P)",
-            "TBA"
+            "Ann E. Jochens (P)"
           ],
           "credits": "3",
           "course": "405",
           "days": [
-            "MWF",
-            "R"
+            "MWF"
           ],
           "date (mm/dd)": [
-            "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
-            "RICH 302",
-            "OM 206"
+            "RICH 302"
           ],
           "time": [
-            "10:20 am-11:10 am",
-            "09:35 am-10:50 am"
+            "10:20 am-11:10 am"
           ],
           "crn": "21848"
         },
@@ -1353,5 +1348,5 @@
     }
   },
   "title": "GEOS - Geosciences",
-  "updated": "Mon, 11 Apr 2016 at 12:44 AM"
+  "updated": "Wed, Apr 13 2016 at 01:28 AM"
 }

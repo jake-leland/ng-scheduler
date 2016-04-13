@@ -149,14 +149,14 @@
           "crn": "21784"
         },
         "701": {
-          "select": "SR",
+          "select": "C",
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "40",
+          "active": "70",
           "section": "701",
           "title": "ART HISTORY SURVEY II",
-          "remaining": "30",
+          "remaining": "0",
           "capacity": "70",
           "instructor": [
             "Lilia Campana (P)"
@@ -182,10 +182,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "504",
           "title": "ART HISTORY SURVEY II",
-          "remaining": "98",
+          "remaining": "95",
           "capacity": "100",
           "instructor": [
             "Livia Stoenescu (P)"
@@ -211,10 +211,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "702",
           "title": "ART HISTORY SURVEY II",
-          "remaining": "70",
+          "remaining": "67",
           "capacity": "70",
           "instructor": [
             "Susan D. Sutherland (P)"
@@ -269,10 +269,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "704",
           "title": "ART HISTORY SURVEY II",
-          "remaining": "70",
+          "remaining": "67",
           "capacity": "70",
           "instructor": [
             "TBA"
@@ -298,10 +298,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "705",
           "title": "ART HISTORY SURVEY II",
-          "remaining": "69",
+          "remaining": "67",
           "capacity": "70",
           "instructor": [
             "Dawna L. Schuld (P)"
@@ -332,10 +332,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "500",
           "title": "ARTS & CIVILIZATION",
-          "remaining": "13",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "Livia Stoenescu (P)"
@@ -366,10 +366,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "THE ARTS OF AMERICA",
-          "remaining": "20",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "Stephen Caffey (P)"
@@ -400,10 +400,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "501",
           "title": "DRAWING I",
-          "remaining": "16",
+          "remaining": "13",
           "capacity": "18",
           "instructor": [
             "Dmitri V. Koustov (P)",
@@ -434,10 +434,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "DRAWING I",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Dmitri V. Koustov (P)",
@@ -478,10 +478,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "10",
           "section": "500",
           "title": "INTRODUCTION TO PHOTOGRAPHY",
-          "remaining": "17",
+          "remaining": "12",
           "capacity": "22",
           "instructor": [
             "Howard Eilers (P)",
@@ -512,10 +512,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "17",
+          "active": "37",
           "section": "700",
           "title": "INTRODUCTION TO PHOTOGRAPHY",
-          "remaining": "58",
+          "remaining": "38",
           "capacity": "75",
           "instructor": [
             "Glen W. Vigus (P)",
@@ -547,14 +547,14 @@
       "title": "COLOR THEORY",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ARTS",
           "campus": "CS",
           "classes": 3,
-          "active": "7",
+          "active": "18",
           "section": "500",
           "title": "COLOR THEORY",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "Richard Davison (P)",
@@ -890,10 +890,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "LIFE DRAWING",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -968,10 +968,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "3",
           "section": "503",
           "title": "LIFE DRAWING",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -1007,10 +1007,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "3",
           "section": "504",
           "title": "LIFE DRAWING",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "TBA",
@@ -1124,10 +1124,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "502",
           "title": "DESIGN I",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "18",
           "instructor": [
             "Morgan M. Jenks (P)",
@@ -1158,10 +1158,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "DESIGN I",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Morgan M. Jenks (P)",
@@ -1197,10 +1197,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "500",
           "title": "ADVANCED PHOTOGRAPHY",
-          "remaining": "17",
+          "remaining": "12",
           "capacity": "20",
           "instructor": [
             "Glen W. Vigus (P)",
@@ -1265,10 +1265,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "INTRO TO GRAPHIC DESIGN",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -1294,10 +1294,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "INTRO TO GRAPHIC DESIGN",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -1381,10 +1381,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "506",
           "title": "INTRO TO GRAPHIC DESIGN",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -1410,10 +1410,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "507",
           "title": "INTRO TO GRAPHIC DESIGN",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -1439,10 +1439,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "2",
           "section": "508",
           "title": "INTRO TO GRAPHIC DESIGN",
-          "remaining": "17",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -1682,10 +1682,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "9",
           "section": "500",
           "title": "ART HISTORY SURVEY I",
-          "remaining": "134",
+          "remaining": "131",
           "capacity": "140",
           "instructor": [
             "Lilia Campana (P)"
@@ -1711,10 +1711,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "22",
           "section": "701",
           "title": "ART HISTORY SURVEY I",
-          "remaining": "61",
+          "remaining": "48",
           "capacity": "70",
           "instructor": [
             "Susan D. Sutherland (P)"
@@ -1740,10 +1740,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "702",
           "title": "ART HISTORY SURVEY I",
-          "remaining": "67",
+          "remaining": "64",
           "capacity": "70",
           "instructor": [
             "Susan D. Sutherland (P)"
@@ -1774,10 +1774,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "6",
           "section": "501",
           "title": "GRAPHIC DESIGN I",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "Gavin S. Braman (P)",
@@ -1808,10 +1808,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "10",
           "section": "502",
           "title": "GRAPHIC DESIGN I",
-          "remaining": "19",
+          "remaining": "10",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -1881,10 +1881,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "DIGITAL PAINTING",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Anatol Bologan (P)",
@@ -1954,10 +1954,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "503",
           "title": "DIGITAL PAINTING",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Russell W. Reid (P)",
@@ -2032,10 +2032,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "16",
           "section": "500",
           "title": "GRAPHIC DESIGN II",
-          "remaining": "17",
+          "remaining": "4",
           "capacity": "20",
           "instructor": [
             "Gavin S. Braman (P)",
@@ -2071,10 +2071,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "500",
           "title": "GRAPHIC DESIGN III",
-          "remaining": "17",
+          "remaining": "13",
           "capacity": "18",
           "instructor": [
             "Donna Hajash (P)",
@@ -2106,14 +2106,14 @@
       "title": "PAINTING I",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "15",
           "section": "500",
           "title": "PAINTING I",
-          "remaining": "12",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Felice L. House (P)",
@@ -2144,10 +2144,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "502",
           "title": "PAINTING I",
-          "remaining": "15",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
             "TBA",
@@ -2183,10 +2183,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "200",
           "title": "HNR-HISTORY OF MODERN ART",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Dawna L. Schuld (P)"
@@ -2241,10 +2241,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "502",
           "title": "HISTORY OF MODERN ART",
-          "remaining": "145",
+          "remaining": "141",
           "capacity": "150",
           "instructor": [
             "Dawna L. Schuld (P)"
@@ -2270,10 +2270,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "34",
           "section": "700",
           "title": "HISTORY OF MODERN ART",
-          "remaining": "56",
+          "remaining": "36",
           "capacity": "70",
           "instructor": [
             "Susanne C. Bieber (P)"
@@ -2304,10 +2304,10 @@
           "subject": "ARTS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "SCULPTURE",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Dmitri V. Koustov (P)",
@@ -2337,5 +2337,5 @@
     }
   },
   "title": "ARTS - Art",
-  "updated": "Mon, 11 Apr 2016 at 12:38 AM"
+  "updated": "Wed, Apr 13 2016 at 01:22 AM"
 }

@@ -2407,10 +2407,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "0",
           "section": "522",
           "title": "ENGINEERING MATH I",
-          "remaining": "29",
+          "remaining": "30",
           "capacity": "30",
           "instructor": [
             "Alexander V. Lozovskiy (P)",
@@ -4489,14 +4489,14 @@
           "crn": "12006"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "50",
           "section": "501",
           "title": "COMM AND CRYPTOGRAPHY",
-          "remaining": "38",
+          "remaining": "0",
           "capacity": "50",
           "instructor": [
             "Peter Stiller (P)"
@@ -4522,10 +4522,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "49",
           "section": "502",
           "title": "COMM AND CRYPTOGRAPHY",
-          "remaining": "40",
+          "remaining": "1",
           "capacity": "50",
           "instructor": [
             "Peter Stiller (P)"
@@ -4551,10 +4551,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "9",
           "section": "503",
           "title": "COMM AND CRYPTOGRAPHY",
-          "remaining": "49",
+          "remaining": "41",
           "capacity": "50",
           "instructor": [
             "Eren M. Kiral (P)"
@@ -4731,10 +4731,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "513",
           "title": "ENGINEERING MATH II",
-          "remaining": "26",
+          "remaining": "25",
           "capacity": "26",
           "instructor": [
             "Kevin A. Kordek (P)",
@@ -4770,10 +4770,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "2",
           "section": "514",
           "title": "ENGINEERING MATH II",
-          "remaining": "29",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Kevin A. Kordek (P)",
@@ -5160,10 +5160,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 3,
-          "active": "14",
+          "active": "18",
           "section": "522",
           "title": "ENGINEERING MATH II",
-          "remaining": "26",
+          "remaining": "22",
           "capacity": "40",
           "instructor": [
             "Benjamin Aurispa",
@@ -5613,10 +5613,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "2",
           "section": "507",
           "title": "ENGINEERING MATH II",
-          "remaining": "32",
+          "remaining": "31",
           "capacity": "33",
           "instructor": [
             "Rosanna Pearlstein (P)",
@@ -5735,10 +5735,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "930",
           "title": "COMMUNICATIONS IN MATH",
-          "remaining": "17",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "Sue Geller (P)"
@@ -5803,10 +5803,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "9",
           "section": "501",
           "title": "TOP IN APPLIED MATH I",
-          "remaining": "34",
+          "remaining": "31",
           "capacity": "40",
           "instructor": [
             "Joseph Pasciak (P)"
@@ -5832,10 +5832,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "8",
           "section": "502",
           "title": "TOP IN APPLIED MATH I",
-          "remaining": "34",
+          "remaining": "32",
           "capacity": "40",
           "instructor": [
             "Julia Y. Plavnik (P)"
@@ -5861,10 +5861,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "8",
           "section": "503",
           "title": "TOP IN APPLIED MATH I",
-          "remaining": "34",
+          "remaining": "32",
           "capacity": "40",
           "instructor": [
             "Yaroslav Vorobets (P)"
@@ -5919,10 +5919,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "18",
           "section": "505",
           "title": "TOP IN APPLIED MATH I",
-          "remaining": "26",
+          "remaining": "22",
           "capacity": "40",
           "instructor": [
             "Yaroslav Vorobets (P)"
@@ -5982,10 +5982,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "8",
           "section": "600",
           "title": "COMBINATORICS",
-          "remaining": "16",
+          "remaining": "12",
           "capacity": "20",
           "instructor": [
             "Huafei Yan (P)"
@@ -6016,10 +6016,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "10",
           "section": "500",
           "title": "PRINC OF NUMERICAL ANALY",
-          "remaining": "16",
+          "remaining": "10",
           "capacity": "20",
           "instructor": [
             "Bojan Popov (P)",
@@ -6089,10 +6089,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "6",
           "section": "500",
-          "title": "DIF GEOM CRVS & SRFCS",
-          "remaining": "29",
+          "title": "DIF GEOM CRVS & SRFCS (Syllabus)",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Jon Pitts (P)"
@@ -6181,10 +6181,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "DIRECTED STUDIES",
-          "remaining": "6",
+          "remaining": "5",
           "capacity": "7",
           "instructor": [
             "Jay Walton (P)"
@@ -6360,10 +6360,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "14",
           "section": "504",
           "title": "TOP IN CONTEMP MATH II",
-          "remaining": "95",
+          "remaining": "89",
           "capacity": "103",
           "instructor": [
             "Constantin Onica (P)"
@@ -6568,10 +6568,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "DIRECTED STUDIES",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Laura Matusevich (P)"
@@ -6602,10 +6602,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "10",
           "section": "501",
           "title": "EXPLORATIONS IN MATH",
-          "remaining": "87",
+          "remaining": "83",
           "capacity": "93",
           "instructor": [
             "Kathryn L. Bollinger (P)"
@@ -6631,10 +6631,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "16",
           "section": "502",
           "title": "EXPLORATIONS IN MATH",
-          "remaining": "87",
+          "remaining": "79",
           "capacity": "95",
           "instructor": [
             "Kathryn L. Bollinger (P)"
@@ -6660,10 +6660,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "23",
           "section": "503",
           "title": "EXPLORATIONS IN MATH",
-          "remaining": "86",
+          "remaining": "72",
           "capacity": "95",
           "instructor": [
             "Tamara A. Carter (P)"
@@ -6689,10 +6689,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "504",
           "title": "EXPLORATIONS IN MATH",
-          "remaining": "112",
+          "remaining": "109",
           "capacity": "112",
           "instructor": [
             "Kathryn L. Bollinger (P)"
@@ -6752,10 +6752,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "STRUCTURE OF MATH I",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Tamara A. Carter (P)"
@@ -6781,10 +6781,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "16",
           "section": "502",
           "title": "STRUCTURE OF MATH I",
-          "remaining": "24",
+          "remaining": "14",
           "capacity": "30",
           "instructor": [
             "Tamara A. Carter (P)"
@@ -6840,14 +6840,14 @@
       "title": "MATH MODELING",
       "sections": {
         "930": {
-          "select": "SR",
+          "select": "C",
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "15",
           "section": "930",
           "title": "MATH MODELING",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Peter Howard (P)"
@@ -6878,10 +6878,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "700",
           "title": "LINEAR ALGEBRA FOR APPL",
-          "remaining": "0",
+          "remaining": "-11",
           "capacity": "0",
           "instructor": [
             "Zoran Sunik (P)"
@@ -6912,10 +6912,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "501",
           "title": "STRUCTURE OF MATH II",
-          "remaining": "46",
+          "remaining": "45",
           "capacity": "49",
           "instructor": [
             "Vincent Schielack (P)"
@@ -6941,10 +6941,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "STRUCTURE OF MATH II",
-          "remaining": "40",
+          "remaining": "39",
           "capacity": "40",
           "instructor": [
             "Robert Gustafson (P)"
@@ -8087,10 +8087,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "18",
           "section": "502",
           "title": "LINEAR ALGEBRA",
-          "remaining": "29",
+          "remaining": "22",
           "capacity": "40",
           "instructor": [
             "Mohamad R. Masri (P)"
@@ -8116,10 +8116,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "503",
           "title": "LINEAR ALGEBRA",
-          "remaining": "37",
+          "remaining": "36",
           "capacity": "40",
           "instructor": [
             "Michael Stecher (P)"
@@ -8150,10 +8150,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "12",
           "section": "501",
           "title": "BASIC CONCEPTS OF GEOM",
-          "remaining": "57",
+          "remaining": "48",
           "capacity": "60",
           "instructor": [
             "Robert Gustafson (P)"
@@ -8243,14 +8243,14 @@
           "crn": "21194"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "20",
           "section": "502",
           "title": "MATHEMATICS OF INTEREST",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -8281,10 +8281,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "6",
           "section": "200",
           "title": "HNR-PRINCIPLES OF ANALYSIS I",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "David Kerr (P)"
@@ -8310,10 +8310,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "10",
           "section": "500",
           "title": "PRINCIPLES OF ANALYSIS I",
-          "remaining": "13",
+          "remaining": "5",
           "capacity": "15",
           "instructor": [
             "David Kerr (P)"
@@ -8344,10 +8344,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "9",
           "section": "500",
           "title": "MATH AND TECHNOLOGY",
-          "remaining": "38",
+          "remaining": "31",
           "capacity": "40",
           "instructor": [
             "Vincent Schielack (P)"
@@ -8378,10 +8378,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "13",
           "section": "601",
           "title": "METH APPL MATH I",
-          "remaining": "33",
+          "remaining": "27",
           "capacity": "40",
           "instructor": [
             "Steven Taliaferro (P)"
@@ -8436,10 +8436,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "7",
           "section": "603",
           "title": "METH APPL MATH I",
-          "remaining": "39",
+          "remaining": "38",
           "capacity": "45",
           "instructor": [
             "Steven Taliaferro (P)"
@@ -8499,10 +8499,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "700",
           "title": "SURVEY MATH PROBLEMS I",
-          "remaining": "0",
+          "remaining": "-6",
           "capacity": "0",
           "instructor": [
             "Sue Geller (P)"
@@ -8533,10 +8533,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "4",
           "section": "600",
           "title": "METH APPL PART DIFF EQ",
-          "remaining": "34",
+          "remaining": "31",
           "capacity": "35",
           "instructor": [
             "Jean-Luc Guermond (P)"
@@ -8591,10 +8591,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "5",
           "section": "700",
           "title": "METH APPL PART DIFF EQ",
-          "remaining": "0",
+          "remaining": "-4",
           "capacity": "1",
           "instructor": [
             "Graham Allen (P)"
@@ -8659,10 +8659,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "700",
           "title": "MATH MODELLING",
-          "remaining": "0",
+          "remaining": "-6",
           "capacity": "0",
           "instructor": [
             "TBA"
@@ -8693,10 +8693,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "19",
           "section": "500",
           "title": "COMPLEX VARIABLES",
-          "remaining": "27",
+          "remaining": "15",
           "capacity": "34",
           "instructor": [
             "Harold Boas (P)"
@@ -8727,10 +8727,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "200",
           "title": "HNR-ADVANCED CALCULUS I",
-          "remaining": "15",
+          "remaining": "11",
           "capacity": "20",
           "instructor": [
             "David Larson (P)"
@@ -8848,10 +8848,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "3",
           "section": "600",
           "title": "REAL VARIABLES I",
-          "remaining": "19",
+          "remaining": "20",
           "capacity": "23",
           "instructor": [
             "Guoliang Yu (P)"
@@ -8882,10 +8882,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "6",
           "section": "600",
           "title": "NUMERICAL ANALYSIS",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "24",
           "instructor": [
             "Raytcho Lazarov (P)",
@@ -8916,10 +8916,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "NUMERICAL ANALYSIS",
-          "remaining": "0",
+          "remaining": "-2",
           "capacity": "0",
           "instructor": [
             "Joseph Pasciak (P)",
@@ -9280,10 +9280,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "ANALYTIC GEOM & CALC",
-          "remaining": "45",
+          "remaining": "44",
           "capacity": "45",
           "instructor": [
             "Thomas Schlumprecht (P)",
@@ -9977,10 +9977,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "RESEARCH",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Gregory Berkolaiko (P)"
@@ -10127,10 +10127,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "15",
           "section": "511",
           "title": "ENGINEERING MATH III",
-          "remaining": "68",
+          "remaining": "65",
           "capacity": "80",
           "instructor": [
             "Sinjini Sengupta (P)"
@@ -10185,10 +10185,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "15",
           "section": "512",
           "title": "ENGINEERING MATH III",
-          "remaining": "66",
+          "remaining": "65",
           "capacity": "80",
           "instructor": [
             "Sinjini Sengupta (P)"
@@ -10301,10 +10301,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "34",
+          "active": "39",
           "section": "514",
           "title": "ENGINEERING MATH III",
-          "remaining": "46",
+          "remaining": "41",
           "capacity": "80",
           "instructor": [
             "Thomas Vogel (P)"
@@ -10388,10 +10388,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "38",
+          "active": "31",
           "section": "505",
           "title": "ENGINEERING MATH III",
-          "remaining": "42",
+          "remaining": "49",
           "capacity": "80",
           "instructor": [
             "Jennifer Lewis (P)"
@@ -10446,10 +10446,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "506",
           "title": "ENGINEERING MATH III",
-          "remaining": "77",
+          "remaining": "75",
           "capacity": "80",
           "instructor": [
             "Jennifer Lewis (P)"
@@ -10504,10 +10504,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "507",
           "title": "ENGINEERING MATH III",
-          "remaining": "77",
+          "remaining": "76",
           "capacity": "80",
           "instructor": [
             "Ignacio Tomas (P)"
@@ -10562,10 +10562,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "75",
+          "active": "78",
           "section": "508",
           "title": "ENGINEERING MATH III",
-          "remaining": "5",
+          "remaining": "2",
           "capacity": "80",
           "instructor": [
             "Kevin A. Kordek (P)"
@@ -10620,10 +10620,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "28",
+          "active": "31",
           "section": "509",
           "title": "ENGINEERING MATH III",
-          "remaining": "52",
+          "remaining": "49",
           "capacity": "80",
           "instructor": [
             "Kevin A. Kordek (P)"
@@ -11993,10 +11993,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "502",
           "title": "MATH CONCEPTS CALCULUS",
-          "remaining": "62",
+          "remaining": "60",
           "capacity": "65",
           "instructor": [
             "Patrick J. Orchard (P)"
@@ -12022,10 +12022,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "503",
           "title": "MATH CONCEPTS CALCULUS",
-          "remaining": "77",
+          "remaining": "74",
           "capacity": "80",
           "instructor": [
             "Jennifer Lewis (P)"
@@ -12051,10 +12051,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "504",
           "title": "MATH CONCEPTS CALCULUS",
-          "remaining": "80",
+          "remaining": "76",
           "capacity": "80",
           "instructor": [
             "Marcia Drost (P)"
@@ -12114,10 +12114,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "500",
           "title": "INTRMED REAL ANALYSIS",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Vincent Schielack (P)"
@@ -12207,14 +12207,14 @@
           "crn": "28708"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "35",
           "section": "501",
           "title": "MATH PROBABILITY",
-          "remaining": "22",
+          "remaining": "0",
           "capacity": "35",
           "instructor": [
             "Grigorios Paouris (P)"
@@ -12240,10 +12240,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "6",
           "section": "502",
           "title": "MATH PROBABILITY",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "Michael P. Brannan (P)"
@@ -12265,14 +12265,14 @@
           "crn": "13794"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "20",
           "section": "503",
           "title": "MATH PROBABILITY",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Grigorios Paouris (P)"
@@ -12338,7 +12338,7 @@
           "remaining": "23",
           "capacity": "25",
           "instructor": [
-            "Rostislav Grigorchuk (P)"
+            "Volodymyr Nekrashevych (P)"
           ],
           "credits": "3",
           "course": "653",
@@ -12395,10 +12395,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "501",
           "title": "THEORY OF PDES",
-          "remaining": "18",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "Ronald Devore (P)"
@@ -12424,10 +12424,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "18",
           "section": "502",
           "title": "THEORY OF PDES",
-          "remaining": "25",
+          "remaining": "12",
           "capacity": "30",
           "instructor": [
             "Stephen Fulling (P)"
@@ -12531,10 +12531,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "9",
           "section": "200",
           "title": "HNR-MODERN ALGEBRA I",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "20",
           "instructor": [
             "Sue Geller (P)"
@@ -12556,14 +12556,14 @@
           "crn": "12002"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "20",
           "section": "501",
           "title": "MODERN ALGEBRA I",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Peter Stiller (P)"
@@ -12623,10 +12623,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "INTRO CLASSICAL ANALYSIS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Natarajan Sivakumar (P)"
@@ -12657,10 +12657,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "500",
           "title": "APPLIC ACTUARIAL SCI",
-          "remaining": "15",
+          "remaining": "11",
           "capacity": "20",
           "instructor": [
             "Rashi Arora (P)"
@@ -12725,10 +12725,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "MATH FOR BUSINESS AND SOC SCI",
-          "remaining": "90",
+          "remaining": "88",
           "capacity": "90",
           "instructor": [
             "Benjamin Aurispa (P)"
@@ -12754,10 +12754,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "MATH FOR BUSINESS AND SOC SCI",
-          "remaining": "89",
+          "remaining": "88",
           "capacity": "90",
           "instructor": [
             "Benjamin Aurispa (P)"
@@ -12846,10 +12846,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "200",
           "title": "HNR-BUSINESS MATH I",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Joseph E. Kahlig (P)"
@@ -12967,10 +12967,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "511",
           "title": "FINITE MATHEMATICS",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Janice L. Epstein (P)",
@@ -13093,10 +13093,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "26",
           "section": "502",
           "title": "FINITE MATHEMATICS",
-          "remaining": "134",
+          "remaining": "124",
           "capacity": "150",
           "instructor": [
             "Kendra R. Kilmer (P)"
@@ -13156,10 +13156,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "26",
           "section": "503",
           "title": "FINITE MATHEMATICS",
-          "remaining": "136",
+          "remaining": "124",
           "capacity": "150",
           "instructor": [
             "Heather L. Ramsey (P)"
@@ -13408,10 +13408,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "8",
           "section": "507",
           "title": "FINITE MATHEMATICS",
-          "remaining": "147",
+          "remaining": "142",
           "capacity": "150",
           "instructor": [
             "Heather L. Ramsey (P)"
@@ -13597,10 +13597,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "21",
           "section": "502",
           "title": "BUSINESS CALCULUS",
-          "remaining": "295",
+          "remaining": "289",
           "capacity": "310",
           "instructor": [
             "Angela J. Allen (P)"
@@ -13626,10 +13626,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "BUSINESS CALCULUS",
-          "remaining": "215",
+          "remaining": "214",
           "capacity": "215",
           "instructor": [
             "Patrick J. Orchard (P)"
@@ -13655,10 +13655,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "34",
+          "active": "56",
           "section": "504",
           "title": "BUSINESS CALCULUS",
-          "remaining": "116",
+          "remaining": "94",
           "capacity": "150",
           "instructor": [
             "Angela J. Allen (P)"
@@ -13689,10 +13689,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "9",
           "section": "970",
           "title": "HNR-FOUNDATIONS OF MATH",
-          "remaining": "13",
+          "remaining": "11",
           "capacity": "20",
           "instructor": [
             "Oksana Shatalov (P)"
@@ -13747,10 +13747,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "1",
           "section": "902",
           "title": "FOUNDATIONS OF MATH",
-          "remaining": "19",
+          "remaining": "21",
           "capacity": "22",
           "instructor": [
             "Joel Zinn (P)"
@@ -13776,10 +13776,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "903",
           "title": "FOUNDATIONS OF MATH",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Florent P. Baudier (P)"
@@ -13834,10 +13834,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "10",
           "section": "905",
           "title": "FOUNDATIONS OF MATH",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "25",
           "instructor": [
             "Oksana Shatalov (P)"
@@ -13897,10 +13897,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "5",
           "section": "501",
           "title": "SEV VARIABLE CALCULUS",
-          "remaining": "36",
+          "remaining": "35",
           "capacity": "40",
           "instructor": [
             "Philip Yasskin (P)",
@@ -13965,10 +13965,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "11",
           "section": "503",
           "title": "SEV VARIABLE CALCULUS",
-          "remaining": "31",
+          "remaining": "29",
           "capacity": "40",
           "instructor": [
             "Gregory J. Pearlstein (P)",
@@ -14402,10 +14402,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "CALC I BIOL SCI",
-          "remaining": "40",
+          "remaining": "39",
           "capacity": "40",
           "instructor": [
             "Glenn E. Lahodny (P)",
@@ -14538,10 +14538,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "508",
           "title": "CALC I BIOL SCI",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Glenn E. Lahodny (P)",
@@ -14800,10 +14800,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "503",
           "title": "CALC II BIOL SCI",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Yvette C. Hester",
@@ -14902,10 +14902,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "22",
           "section": "900",
           "title": "MODERN GEOMETRY",
-          "remaining": "34",
+          "remaining": "18",
           "capacity": "40",
           "instructor": [
             "Stephen Fulling (P)"
@@ -15057,10 +15057,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "13",
           "section": "511",
-          "title": "LINEAR ALGEBRA",
-          "remaining": "19",
+          "title": "LINEAR ALGEBRA (Syllabus)",
+          "remaining": "17",
           "capacity": "30",
           "instructor": [
             "Jon Pitts (P)"
@@ -15086,10 +15086,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "22",
           "section": "501",
           "title": "LINEAR ALGEBRA",
-          "remaining": "30",
+          "remaining": "18",
           "capacity": "40",
           "instructor": [
             "Paula Tretkoff (P)"
@@ -15198,14 +15198,14 @@
           "crn": "23611"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "32",
+          "active": "40",
           "section": "503",
           "title": "LINEAR ALGEBRA",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Paula Tretkoff (P)"
@@ -15231,10 +15231,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "24",
           "section": "504",
           "title": "LINEAR ALGEBRA",
-          "remaining": "27",
+          "remaining": "16",
           "capacity": "40",
           "instructor": [
             "Rostislav Grigorchuk (P)"
@@ -15289,10 +15289,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "506",
           "title": "LINEAR ALGEBRA",
-          "remaining": "38",
+          "remaining": "37",
           "capacity": "40",
           "instructor": [
             "Timo Dewolff (P)"
@@ -15318,10 +15318,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "27",
           "section": "507",
           "title": "LINEAR ALGEBRA",
-          "remaining": "26",
+          "remaining": "3",
           "capacity": "30",
           "instructor": [
             "Paula Tretkoff (P)"
@@ -15444,10 +15444,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "500",
           "title": "INTRO TO NUMBER THEORY",
-          "remaining": "28",
+          "remaining": "23",
           "capacity": "30",
           "instructor": [
             "Matthew Young (P)"
@@ -15536,10 +15536,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "20",
+          "active": "28",
           "section": "510",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "33",
+          "remaining": "25",
           "capacity": "53",
           "instructor": [
             "Guergana Petrova (P)",
@@ -15570,10 +15570,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "6",
           "section": "511",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "26",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Gregory Berkolaiko (P)",
@@ -15633,10 +15633,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "9",
           "section": "512",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "47",
+          "remaining": "44",
           "capacity": "53",
           "instructor": [
             "Michael Pilant (P)",
@@ -15696,10 +15696,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "3",
           "section": "513",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "46",
+          "remaining": "47",
           "capacity": "50",
           "instructor": [
             "Marco A. Roque Sol (P)",
@@ -15730,10 +15730,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "11",
           "section": "503",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "41",
+          "remaining": "39",
           "capacity": "50",
           "instructor": [
             "TBA"
@@ -15759,10 +15759,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "14",
           "section": "514",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "41",
+          "remaining": "36",
           "capacity": "50",
           "instructor": [
             "Zheng Zhang (P)",
@@ -15793,10 +15793,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "8",
           "section": "504",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "43",
+          "remaining": "42",
           "capacity": "50",
           "instructor": [
             "Volodymyr Nekrashevych (P)"
@@ -15851,10 +15851,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "505",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "47",
+          "remaining": "45",
           "capacity": "50",
           "instructor": [
             "Isaac Harris (P)"
@@ -15938,10 +15938,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 2,
-          "active": "15",
+          "active": "29",
           "section": "517",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "35",
+          "remaining": "21",
           "capacity": "50",
           "instructor": [
             "Andrew Comech (P)",
@@ -15972,10 +15972,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "8",
           "section": "507",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "43",
+          "remaining": "42",
           "capacity": "50",
           "instructor": [
             "Igor Zelenko (P)"
@@ -16001,10 +16001,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "518",
           "title": "DIFFERENTIAL EQUATIONS",
-          "remaining": "49",
+          "remaining": "48",
           "capacity": "50",
           "instructor": [
             "Jianxin Zhou (P)"
@@ -16127,10 +16127,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "18",
           "section": "501",
           "title": "LINEAR ALG FOR DIFF EQ",
-          "remaining": "37",
+          "remaining": "27",
           "capacity": "45",
           "instructor": [
             "Itshak Borosh (P)"
@@ -16156,10 +16156,10 @@
           "subject": "MATH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "6",
           "section": "502",
           "title": "LINEAR ALG FOR DIFF EQ",
-          "remaining": "41",
+          "remaining": "39",
           "capacity": "45",
           "instructor": [
             "Itshak Borosh (P)"
@@ -16213,5 +16213,5 @@
     }
   },
   "title": "MATH - Mathematics",
-  "updated": "Mon, 11 Apr 2016 at 12:47 AM"
+  "updated": "Wed, Apr 13 2016 at 01:31 AM"
 }

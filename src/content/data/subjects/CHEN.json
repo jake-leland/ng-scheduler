@@ -385,10 +385,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "536",
           "title": "RESEARCH",
-          "remaining": "4",
+          "remaining": "2",
           "capacity": "5",
           "instructor": [
             "Micah Green (P)"
@@ -854,13 +854,13 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "11",
           "section": "500",
           "title": "BIOREACTOR ENGINEERING",
-          "remaining": "24",
+          "remaining": "14",
           "capacity": "25",
           "instructor": [
-            "Katy Kao (P)"
+            "Zivko Nikolov (P)"
           ],
           "credits": "3",
           "course": "471",
@@ -946,10 +946,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "610",
           "title": "RESEARCH",
-          "remaining": "7",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Mahmoud El-Halwagi (P)"
@@ -1033,10 +1033,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "633",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Katy Kao (P)"
@@ -1294,10 +1294,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "618",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Christodoulos Floudas (P)"
@@ -1439,10 +1439,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "8",
           "section": "622",
           "title": "RESEARCH",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "23",
           "instructor": [
             "Mahboobul Mannan (P)"
@@ -1729,10 +1729,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "628",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Chad V. Mashuga (P)"
@@ -1875,14 +1875,14 @@
       "title": "INTRO TO POLYMER ENGR",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "20",
           "section": "500",
           "title": "INTRO TO POLYMER ENGR",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "James E. Harris (P)"
@@ -1913,10 +1913,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "18",
           "section": "500",
           "title": "RISK ANALYSIS SAFETY ENG",
-          "remaining": "37",
+          "remaining": "22",
           "capacity": "40",
           "instructor": [
             "William Rogers (P)"
@@ -1946,28 +1946,43 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "4",
+          "classes": 4,
+          "active": "7",
           "section": "500",
           "title": "CHEM ENGR THERMO II",
-          "remaining": "76",
+          "remaining": "73",
           "capacity": "80",
           "instructor": [
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "354",
           "days": [
-            "MWF"
+            "MWF",
+            "R",
+            "R",
+            "R"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/22-09/22",
+            "10/27-10/27",
+            "11/10-11/10"
           ],
           "location": [
-            "HELD 105"
+            "HELD 105",
+            "TBA",
+            "CHEN 102",
+            "CHEN 102"
           ],
           "time": [
-            "08:00 am-08:50 am"
+            "08:00 am-08:50 am",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "10821"
         },
@@ -1976,10 +1991,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "31",
+          "active": "52",
           "section": "501",
           "title": "CHEM ENGR THERMO II",
-          "remaining": "35",
+          "remaining": "14",
           "capacity": "66",
           "instructor": [
             "TBA"
@@ -2010,10 +2025,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "600",
           "title": "BIOCHEMICAL ENGINEERNG",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -2044,10 +2059,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "14",
           "section": "600",
           "title": "GRAD MENTORING SEMINAR II",
-          "remaining": "36",
+          "remaining": "32",
           "capacity": "46",
           "instructor": [
             "Arul Jayaraman (P)"
@@ -2078,10 +2093,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "CHEMICAL ENGR LAB II",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2107,10 +2122,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "12",
           "section": "502",
           "title": "CHEMICAL ENGR LAB II",
-          "remaining": "15",
+          "remaining": "4",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2132,14 +2147,14 @@
           "crn": "10829"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "16",
           "section": "503",
           "title": "CHEMICAL ENGR LAB II",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2165,10 +2180,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "10",
           "section": "504",
           "title": "CHEMICAL ENGR LAB II",
-          "remaining": "16",
+          "remaining": "6",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2195,31 +2210,41 @@
       "title": "PROCESS SAFETY ENGR",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "11",
+          "classes": 3,
+          "active": "20",
           "section": "500",
           "title": "PROCESS SAFETY ENGR",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "455",
           "days": [
-            "MWF"
+            "MWF",
+            "W",
+            "W"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/21-09/21",
+            "11/30-11/30"
           ],
           "location": [
-            "CHEN 106"
+            "CHEN 106",
+            "TBA",
+            "TBA"
           ],
           "time": [
-            "12:40 pm-01:30 pm"
+            "12:40 pm-01:30 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "10831"
         },
@@ -2227,28 +2252,43 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "12",
+          "classes": 4,
+          "active": "61",
           "section": "501",
           "title": "PROCESS SAFETY ENGR",
-          "remaining": "78",
+          "remaining": "29",
           "capacity": "90",
           "instructor": [
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "455",
           "days": [
-            "MWF"
+            "MWF",
+            "W",
+            "S",
+            "W"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/21-09/21",
+            "11/05-11/05",
+            "11/30-11/30"
           ],
           "location": [
-            "CHEN 106"
+            "CHEN 106",
+            "TBA",
+            "CHEN 104",
+            "TBA"
           ],
           "time": [
-            "01:50 pm-02:40 pm"
+            "01:50 pm-02:40 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "25619"
         }
@@ -2262,10 +2302,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "21",
+          "active": "37",
           "section": "500",
           "title": "CHEM ENGR MATERIALS",
-          "remaining": "69",
+          "remaining": "53",
           "capacity": "90",
           "instructor": [
             "Jorge Seminario (P)"
@@ -2326,14 +2366,14 @@
       "title": "CHEMICAL ENGR LAB I",
       "sections": {
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "16",
           "section": "901",
           "title": "CHEMICAL ENGR LAB I",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2355,14 +2395,14 @@
           "crn": "10822"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "16",
           "section": "902",
           "title": "CHEMICAL ENGR LAB I",
-          "remaining": "14",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2384,14 +2424,14 @@
           "crn": "10823"
         },
         "903": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "16",
           "section": "903",
           "title": "CHEMICAL ENGR LAB I",
-          "remaining": "15",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2408,7 +2448,7 @@
             "TBA"
           ],
           "time": [
-            "01:50 pm-04:40 pm"
+            "03:00 pm-05:40 pm"
           ],
           "crn": "10824"
         },
@@ -2417,10 +2457,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "15",
           "section": "904",
           "title": "CHEMICAL ENGR LAB I",
-          "remaining": "12",
+          "remaining": "1",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2442,14 +2482,14 @@
           "crn": "10825"
         },
         "905": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "16",
           "section": "905",
           "title": "CHEMICAL ENGR LAB I",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2471,14 +2511,14 @@
           "crn": "13029"
         },
         "906": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "16",
           "section": "906",
           "title": "CHEMICAL ENGR LAB I",
-          "remaining": "12",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2501,40 +2541,6 @@
         }
       }
     },
-    "459": {
-      "title": "GAS&PETROLEUM PROCESSING",
-      "sections": {
-        "500": {
-          "select": "C",
-          "subject": "CHEN",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "500",
-          "title": "GAS&PETROLEUM PROCESSING",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "459",
-          "days": [
-            "MWF"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "CHEN 112"
-          ],
-          "time": [
-            "08:00 am-08:50 am"
-          ],
-          "crn": "24935"
-        }
-      }
-    },
     "382": {
       "title": "BIOPROCESS ENGINEERING",
       "sections": {
@@ -2543,10 +2549,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "45",
           "section": "500",
           "title": "BIOPROCESS ENGINEERING",
-          "remaining": "32",
+          "remaining": "2",
           "capacity": "47",
           "instructor": [
             "Pushkar P. Lele (P)"
@@ -2573,14 +2579,14 @@
       "title": "SEMINAR",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "16",
           "section": "501",
           "title": "SEMINAR",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2602,14 +2608,14 @@
           "crn": "10833"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "16",
           "section": "502",
           "title": "SEMINAR",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2635,11 +2641,11 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "16",
           "section": "503",
           "title": "SEMINAR",
           "remaining": "0",
-          "capacity": "0",
+          "capacity": "16",
           "instructor": [
             "TBA"
           ],
@@ -2660,14 +2666,14 @@
           "crn": "10835"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "16",
           "section": "504",
           "title": "SEMINAR",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "TBA"
@@ -2726,28 +2732,43 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "20",
+          "classes": 4,
+          "active": "81",
           "section": "500",
           "title": "PROCESS DYNAMICS & CNTRL",
-          "remaining": "70",
+          "remaining": "9",
           "capacity": "90",
           "instructor": [
+            "Costas Kravaris (P)",
+            "Costas Kravaris (P)",
+            "Costas Kravaris (P)",
             "Costas Kravaris (P)"
           ],
           "credits": "3",
           "course": "461",
           "days": [
-            "MWF"
+            "MWF",
+            "M",
+            "M",
+            "M"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/19-09/19",
+            "11/07-11/07",
+            "11/28-11/28"
           ],
           "location": [
-            "CHEN 106"
+            "CHEN 106",
+            "CHEN 102",
+            "CHEN 102",
+            "CHEN 102"
           ],
           "time": [
-            "09:10 am-10:00 am"
+            "09:10 am-10:00 am",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "10832"
         }
@@ -2761,10 +2782,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "6",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "86",
+          "remaining": "84",
           "capacity": "90",
           "instructor": [
             "Micah Green (P), Muhammad N. Karim"
@@ -2823,28 +2844,43 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "13",
+          "classes": 4,
+          "active": "28",
           "section": "501",
           "title": "CHEN ANALYSIS",
-          "remaining": "62",
+          "remaining": "47",
           "capacity": "75",
           "instructor": [
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "320",
           "days": [
-            "MWF"
+            "MWF",
+            "M",
+            "M",
+            "M"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/26-09/26",
+            "10/17-10/17",
+            "12/05-12/05"
           ],
           "location": [
-            "HECC 204"
+            "HECC 204",
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "time": [
-            "01:50 pm-02:40 pm"
+            "01:50 pm-02:40 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "25593"
         },
@@ -2852,28 +2888,43 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "5",
+          "classes": 4,
+          "active": "7",
           "section": "502",
           "title": "CHEN ANALYSIS",
-          "remaining": "85",
+          "remaining": "83",
           "capacity": "90",
           "instructor": [
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "320",
           "days": [
-            "TR"
+            "TR",
+            "M",
+            "M",
+            "M"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/26-09/26",
+            "10/17-10/17",
+            "12/05-12/05"
           ],
           "location": [
-            "HECC 203"
+            "HECC 203",
+            "CHEN 104",
+            "CHEN 104",
+            "CHEN 104"
           ],
           "time": [
-            "08:00 am-09:15 am"
+            "08:00 am-09:15 am",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "26781"
         }
@@ -3066,11 +3117,11 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "24",
+          "active": "72",
           "section": "500",
           "title": "KINETICS & REACTOR DESIGN",
-          "remaining": "36",
-          "capacity": "60",
+          "remaining": "8",
+          "capacity": "80",
           "instructor": [
             "Yue Kuo (P)"
           ],
@@ -3362,15 +3413,15 @@
       "title": "POLYMER ENGINEERING",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
           "active": "6",
           "section": "600",
           "title": "POLYMER ENGINEERING",
-          "remaining": "20",
-          "capacity": "26",
+          "remaining": "-1",
+          "capacity": "5",
           "instructor": [
             "James E. Harris (P)"
           ],
@@ -3695,10 +3746,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "28",
           "section": "500",
           "title": "CHEM ENGR HEAT OPS",
-          "remaining": "35",
+          "remaining": "19",
           "capacity": "47",
           "instructor": [
             "Yossef A. Elabd (P)"
@@ -3729,10 +3780,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "14",
           "section": "500",
           "title": "UNIT OPNS IN FOOD PROC",
-          "remaining": "14",
+          "remaining": "1",
           "capacity": "15",
           "instructor": [
             "Rosana Moreira (P)",
@@ -3768,10 +3819,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "500",
           "title": "SPTP: BIOMOL SIM DES",
-          "remaining": "13",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
             "Phanourios Tamamis (P)"
@@ -3830,7 +3881,7 @@
           "select": "C",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 2,
+          "classes": 5,
           "active": "20",
           "section": "201",
           "title": "HNR-ELEMENTARY CHEM ENGR",
@@ -3838,25 +3889,40 @@
           "capacity": "20",
           "instructor": [
             "TBA",
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "204",
           "days": [
             "MW",
-            "W"
+            "W",
+            "T",
+            "T",
+            "T"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/27-09/27",
+            "10/25-10/25",
+            "11/29-11/29"
           ],
           "location": [
             "CHEN 108",
-            "CHEN 104"
+            "CHEN 104",
+            "CHEN 106",
+            "CHEN 106",
+            "CHEN 106"
           ],
           "time": [
             "09:10 am-10:00 am",
-            "05:45 pm-07:15 pm"
+            "05:45 pm-07:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "26660"
         },
@@ -3864,13 +3930,16 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 2,
-          "active": "24",
+          "classes": 5,
+          "active": "26",
           "section": "501",
           "title": "ELEMENTARY CHEM ENGR",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "40",
           "instructor": [
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA",
             "TBA"
           ],
@@ -3878,19 +3947,31 @@
           "course": "204",
           "days": [
             "MW",
-            "W"
+            "W",
+            "T",
+            "T",
+            "T"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/27-09/27",
+            "10/25-10/25",
+            "11/29-11/29"
           ],
           "location": [
             "CHEN 108",
-            "CHEN 104"
+            "CHEN 104",
+            "CHEN 106",
+            "CHEN 106",
+            "CHEN 106"
           ],
           "time": [
             "09:10 am-10:00 am",
-            "05:45 pm-07:15 pm"
+            "05:45 pm-07:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "10816"
         },
@@ -3898,7 +3979,7 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 2,
+          "classes": 5,
           "active": "2",
           "section": "502",
           "title": "ELEMENTARY CHEM ENGR",
@@ -3906,25 +3987,40 @@
           "capacity": "74",
           "instructor": [
             "TBA",
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "204",
           "days": [
             "MW",
-            "M"
+            "M",
+            "T",
+            "T",
+            "T"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/27-09/27",
+            "10/25-10/25",
+            "11/29-11/29"
           ],
           "location": [
             "CHEN 106",
-            "CHEN 106"
+            "CHEN 106",
+            "CHEN 102",
+            "CHEN 102",
+            "CHEN 102"
           ],
           "time": [
             "08:00 am-08:50 am",
-            "05:45 pm-07:15 pm"
+            "05:45 pm-07:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "10817"
         },
@@ -3932,7 +4028,7 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 2,
+          "classes": 5,
           "active": "12",
           "section": "503",
           "title": "ELEMENTARY CHEM ENGR",
@@ -3940,25 +4036,40 @@
           "capacity": "75",
           "instructor": [
             "TBA",
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "204",
           "days": [
             "WF",
-            "W"
+            "W",
+            "T",
+            "T",
+            "T"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/27-09/27",
+            "10/25-10/25",
+            "11/29-11/29"
           ],
           "location": [
             "CHEN 106",
-            "CHEN 106"
+            "CHEN 106",
+            "CHEN 108",
+            "CHEN 108",
+            "CHEN 108"
           ],
           "time": [
             "10:20 am-11:10 am",
-            "05:45 pm-07:15 pm"
+            "05:45 pm-07:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "24505"
         }
@@ -3971,28 +4082,43 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "13",
+          "classes": 4,
+          "active": "35",
           "section": "501",
           "title": "CHEM ENGR MASS OPS",
-          "remaining": "53",
+          "remaining": "31",
           "capacity": "66",
           "instructor": [
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "424",
           "days": [
-            "TR"
+            "TR",
+            "M",
+            "M",
+            "M"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/19-09/19",
+            "10/24-10/24",
+            "11/28-11/28"
           ],
           "location": [
-            "CHEN 108"
+            "CHEN 108",
+            "CHEN 104",
+            "CHEN 104",
+            "CHEN 104"
           ],
           "time": [
-            "09:35 am-10:50 am"
+            "09:35 am-10:50 am",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "19318"
         },
@@ -4000,28 +4126,43 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "19",
+          "classes": 4,
+          "active": "55",
           "section": "502",
           "title": "CHEM ENGR MASS OPS",
-          "remaining": "47",
+          "remaining": "11",
           "capacity": "66",
           "instructor": [
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "424",
           "days": [
-            "MWF"
+            "MWF",
+            "M",
+            "M",
+            "M"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/19-09/19",
+            "10/24-10/24",
+            "11/28-11/28"
           ],
           "location": [
+            "CHEN 108",
+            "CHEN 108",
+            "CHEN 108",
             "CHEN 108"
           ],
           "time": [
-            "10:20 am-11:10 am"
+            "10:20 am-11:10 am",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "19998"
         }
@@ -4069,10 +4210,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "12",
           "section": "200",
           "title": "HNR-CHEM ENGR FLUID OPS",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -4097,28 +4238,43 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "7",
+          "classes": 4,
+          "active": "16",
           "section": "500",
           "title": "CHEM ENGR FLUID OPS",
-          "remaining": "63",
+          "remaining": "54",
           "capacity": "70",
           "instructor": [
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "304",
           "days": [
-            "MW"
+            "MW",
+            "R",
+            "R",
+            "R"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/22-09/22",
+            "10/20-10/20",
+            "11/17-11/17"
           ],
           "location": [
+            "CHEN 106",
+            "CHEN 106",
+            "CHEN 106",
             "CHEN 106"
           ],
           "time": [
-            "04:10 pm-05:25 pm"
+            "04:10 pm-05:25 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "10818"
         },
@@ -4126,28 +4282,43 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "10",
+          "classes": 4,
+          "active": "18",
           "section": "501",
           "title": "CHEM ENGR FLUID OPS",
-          "remaining": "60",
+          "remaining": "52",
           "capacity": "70",
           "instructor": [
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "304",
           "days": [
-            "TR"
+            "TR",
+            "R",
+            "R",
+            "R"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/22-09/22",
+            "10/20-10/20",
+            "11/17-11/17"
           ],
           "location": [
-            "CHEN 106"
+            "CHEN 106",
+            "CHEN 108",
+            "CHEN 108",
+            "CHEN 108"
           ],
           "time": [
-            "11:10 am-12:25 pm"
+            "11:10 am-12:25 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "15455"
         },
@@ -4155,28 +4326,43 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 1,
-          "active": "8",
+          "classes": 4,
+          "active": "14",
           "section": "502",
           "title": "CHEM ENGR FLUID OPS",
-          "remaining": "58",
+          "remaining": "52",
           "capacity": "66",
           "instructor": [
+            "TBA",
+            "TBA",
+            "TBA",
             "TBA"
           ],
           "credits": "3",
           "course": "304",
           "days": [
-            "TR"
+            "TR",
+            "R",
+            "R",
+            "R"
           ],
           "date (mm/dd)": [
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/22-09/22",
+            "10/20-10/20",
+            "11/17-11/17"
           ],
           "location": [
-            "CHEN 108"
+            "CHEN 108",
+            "CHEN 102",
+            "CHEN 102",
+            "CHEN 102"
           ],
           "time": [
-            "12:45 pm-02:00 pm"
+            "12:45 pm-02:00 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "24937"
         }
@@ -4189,33 +4375,48 @@
           "select": "SR",
           "subject": "CHEN",
           "campus": "CS",
-          "classes": 2,
-          "active": "25",
+          "classes": 5,
+          "active": "72",
           "section": "501",
           "title": "PROCESS INTEG SIM ECON",
-          "remaining": "65",
+          "remaining": "18",
           "capacity": "90",
           "instructor": [
             "M M Faruque Hasan (P)",
-            "TBA"
+            "TBA",
+            "M M Faruque Hasan (P)",
+            "M M Faruque Hasan (P)",
+            "M M Faruque Hasan (P)"
           ],
           "credits": "3",
           "course": "425",
           "days": [
             "MWF",
+            "W",
+            "W",
+            "W",
             "W"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
-            "08/29-12/14"
+            "08/29-12/14",
+            "09/28-09/28",
+            "10/26-10/26",
+            "11/30-11/30"
           ],
           "location": [
             "CHEN 106",
-            "CHEN 119"
+            "CHEN 119",
+            "CHEN 106",
+            "CHEN 106",
+            "CHEN 106"
           ],
           "time": [
             "11:30 am-12:20 pm",
-            "04:00 pm-07:00 pm"
+            "04:00 pm-07:00 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm",
+            "07:15 pm-09:15 pm"
           ],
           "crn": "10826"
         }
@@ -4229,10 +4430,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "500",
           "title": "CHEM ENGR CAR DESIGN",
-          "remaining": "38",
+          "remaining": "36",
           "capacity": "40",
           "instructor": [
             "Yossef A. Elabd (P)"
@@ -4331,10 +4532,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "600",
           "title": "SPTP: BIOMOL SIM DES",
-          "remaining": "14",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "Phanourios Tamamis (P)",
@@ -4399,10 +4600,10 @@
           "subject": "CHEN",
           "campus": "CS",
           "classes": 2,
-          "active": "14",
+          "active": "42",
           "section": "500",
           "title": "CHEM ENGR PLANT DESIGN",
-          "remaining": "52",
+          "remaining": "24",
           "capacity": "66",
           "instructor": [
             "James E. Harris (P)",
@@ -4466,5 +4667,5 @@
     }
   },
   "title": "CHEN - Chemical Engineering",
-  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
+  "updated": "Wed, Apr 13 2016 at 01:24 AM"
 }

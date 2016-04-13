@@ -8,10 +8,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "599",
           "title": "JOURNALISM CNCPTS IN AG",
-          "remaining": "22",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "Holli R. Leggette (P)"
@@ -67,15 +67,15 @@
       "title": "RESEARCH",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "RESEARCH",
-          "remaining": "10",
-          "capacity": "10",
+          "remaining": "-2",
+          "capacity": "0",
           "instructor": [
             "TBA"
           ],
@@ -163,10 +163,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "15",
           "section": "500",
           "title": "SEMINAR",
-          "remaining": "15",
+          "remaining": "5",
           "capacity": "20",
           "instructor": [
             "Deborah W. Dunsford (P)",
@@ -531,10 +531,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "RADIO BROADCASTING",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Billy R. McKim (P)",
@@ -648,10 +648,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "6",
           "section": "700",
           "title": "EDITING FOR AG AUDIENCES",
-          "remaining": "26",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Paul McGrath",
@@ -687,10 +687,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "8",
           "section": "500",
           "title": "AUDIENCE AND COMM RSRCH MTHDS",
-          "remaining": "23",
+          "remaining": "17",
           "capacity": "25",
           "instructor": [
             "Billy R. McKim",
@@ -722,15 +722,15 @@
       "title": "ADVANCED RADIO BROADCASTING",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 4,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "ADVANCED RADIO BROADCASTING",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "21",
+          "capacity": "25",
           "instructor": [
             "Billy R. McKim",
             "Billy R. McKim",
@@ -775,10 +775,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "10",
           "section": "901",
           "title": "AG MEDIA WRITING I",
-          "remaining": "15",
+          "remaining": "10",
           "capacity": "20",
           "instructor": [
             "Deborah W. Dunsford (P)",
@@ -809,10 +809,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "902",
           "title": "AG MEDIA WRITING I",
-          "remaining": "19",
+          "remaining": "12",
           "capacity": "20",
           "instructor": [
             "Deborah W. Dunsford (P)",
@@ -848,10 +848,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "501",
           "title": "INTRO TO AG COMM",
-          "remaining": "48",
+          "remaining": "46",
           "capacity": "50",
           "instructor": [
             "Lori M. Costello (P)"
@@ -877,10 +877,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "INTRO TO AG COMM",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Lori M. Costello (P)"
@@ -907,14 +907,14 @@
       "title": "AG MEDIA WRITING II",
       "sections": {
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "20",
           "section": "901",
           "title": "AG MEDIA WRITING II",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Tobin D. Redwine (P)",
@@ -945,10 +945,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "11",
           "section": "902",
           "title": "AG MEDIA WRITING II",
-          "remaining": "19",
+          "remaining": "9",
           "capacity": "20",
           "instructor": [
             "Tobin D. Redwine (P)",
@@ -984,10 +984,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "13",
           "section": "500",
           "title": "EMERGING MEDIA IN AGRICULTURE",
-          "remaining": "17",
+          "remaining": "7",
           "capacity": "20",
           "instructor": [
             "Holli R. Leggette (P)"
@@ -1018,10 +1018,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "8",
           "section": "599",
           "title": "THEORY & PRAC OF AG PUB",
-          "remaining": "22",
+          "remaining": "17",
           "capacity": "25",
           "instructor": [
             "Holli R. Leggette (P)"
@@ -1077,14 +1077,14 @@
       "title": "AGRI PUBLICATION PROD",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "10",
           "section": "501",
           "title": "AGRI PUBLICATION PROD",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Tracy A. Rutherford (P)",
@@ -1115,10 +1115,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "502",
           "title": "AGRI PUBLICATION PROD",
-          "remaining": "9",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Tracy A. Rutherford (P)",
@@ -1154,10 +1154,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "8",
           "section": "501",
           "title": "DESIGN FOR AG MEDIA",
-          "remaining": "21",
+          "remaining": "17",
           "capacity": "25",
           "instructor": [
             "Tracy A. Rutherford (P)",
@@ -1188,10 +1188,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "8",
           "section": "700",
           "title": "DESIGN FOR AG MEDIA",
-          "remaining": "13",
+          "remaining": "7",
           "capacity": "15",
           "instructor": [
             "Tracy A. Rutherford (P)",
@@ -1227,10 +1227,10 @@
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "20",
           "section": "500",
           "title": "AG PR METHODS",
-          "remaining": "20",
+          "remaining": "5",
           "capacity": "25",
           "instructor": [
             "Deborah W. Dunsford (P)",
@@ -1262,14 +1262,14 @@
       "title": "AGRICULTURAL PHOTOGRAPHY",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "AGCJ",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "20",
           "section": "501",
           "title": "AGRICULTURAL PHOTOGRAPHY",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Tobin D. Redwine (P)"
@@ -1294,5 +1294,5 @@
     }
   },
   "title": "AGCJ - Ag Comm & Journalism",
-  "updated": "Mon, 11 Apr 2016 at 12:36 AM"
+  "updated": "Wed, Apr 13 2016 at 01:21 AM"
 }

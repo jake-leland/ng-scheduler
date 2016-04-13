@@ -8,10 +8,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "24",
           "section": "500",
           "title": "SEMINAR",
-          "remaining": "33",
+          "remaining": "17",
           "capacity": "41",
           "instructor": [
             "Moohyun Kim (P)"
@@ -158,10 +158,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "651",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Scott Socolofsky (P)"
@@ -332,10 +332,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "667",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "James M. Kaihatu (P)"
@@ -453,10 +453,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "9",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "47",
+          "remaining": "42",
           "capacity": "51",
           "instructor": [
             "Moohyun Kim (P)"
@@ -487,10 +487,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "7",
           "section": "600",
           "title": "OCEAN WAVE MECHANICS",
-          "remaining": "37",
+          "remaining": "33",
           "capacity": "40",
           "instructor": [
             "James M. Kaihatu (P)"
@@ -734,10 +734,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "645",
           "title": "DIRECTED STUDIES",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Richard Mercier (P)"
@@ -884,10 +884,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "25",
           "section": "500",
           "title": "BASIC COASTAL ENGR",
-          "remaining": "33",
+          "remaining": "16",
           "capacity": "41",
           "instructor": [
             "James M. Kaihatu (P)"
@@ -918,10 +918,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "19",
           "section": "500",
           "title": "UNDERWATER ACOUSTICS",
-          "remaining": "35",
+          "remaining": "23",
           "capacity": "42",
           "instructor": [
             "Robert Randall (P)"
@@ -952,10 +952,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "1",
           "section": "501",
           "title": "FLUID DYNAMICS LAB",
-          "remaining": "11",
+          "remaining": "12",
           "capacity": "13",
           "instructor": [
             "Kuang-An Chang (P)"
@@ -981,10 +981,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "502",
           "title": "FLUID DYNAMICS LAB",
-          "remaining": "11",
+          "remaining": "9",
           "capacity": "13",
           "instructor": [
             "Kuang-An Chang (P)"
@@ -1010,10 +1010,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "503",
           "title": "FLUID DYNAMICS LAB",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "13",
           "instructor": [
             "Kuang-An Chang (P)"
@@ -1044,10 +1044,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "22",
           "section": "500",
           "title": "PRNCPLS OF NAVAL ARCH",
-          "remaining": "30",
+          "remaining": "15",
           "capacity": "37",
           "instructor": [
             "Jeffrey Falzarano (P)"
@@ -1112,10 +1112,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "20",
           "section": "500",
           "title": "DYNAM OF OFFSHORE STRUCT",
-          "remaining": "34",
+          "remaining": "21",
           "capacity": "41",
           "instructor": [
             "Heonyong Kang (P)"
@@ -1146,10 +1146,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "600",
           "title": "FLD DYN OCEN & ENVRN ENG",
-          "remaining": "25",
+          "remaining": "21",
           "capacity": "27",
           "instructor": [
             "Hamn Chen (P)"
@@ -1180,10 +1180,10 @@
           "subject": "OCEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "26",
           "section": "500",
           "title": "UNDERWTR & MOORED SYST",
-          "remaining": "30",
+          "remaining": "11",
           "capacity": "37",
           "instructor": [
             "Robert Randall (P)"
@@ -1208,5 +1208,5 @@
     }
   },
   "title": "OCEN - Ocean Engineering",
-  "updated": "Mon, 11 Apr 2016 at 12:49 AM"
+  "updated": "Wed, Apr 13 2016 at 01:33 AM"
 }

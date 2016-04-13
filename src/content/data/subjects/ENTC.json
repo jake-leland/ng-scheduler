@@ -38,14 +38,14 @@
       "title": "SPECIAL TOPICS IN",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENTC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "12",
           "section": "500",
           "title": "SPTP:BUILDING ENER MGMT SYS",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Behbood Zoghi (P)",
@@ -76,11 +76,11 @@
           "subject": "ENTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "12",
           "section": "501",
           "title": "SPTP:VALIDATION OF ELECT STYLE",
           "remaining": "0",
-          "capacity": "0",
+          "capacity": "12",
           "instructor": [
             "Rainer J. Fink (P)",
             "TBA"
@@ -101,7 +101,7 @@
           ],
           "time": [
             "02:20 pm-03:10 pm",
-            "11:30 am-02:10 pm"
+            "08:00 am-10:40 am"
           ],
           "crn": "28567"
         }
@@ -143,5 +143,5 @@
     }
   },
   "title": "ENTC - Engineering Technology",
-  "updated": "Mon, 11 Apr 2016 at 12:43 AM"
+  "updated": "Wed, Apr 13 2016 at 01:27 AM"
 }

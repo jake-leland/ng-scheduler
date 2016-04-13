@@ -8,10 +8,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "10",
           "section": "700",
           "title": "PROFESSIONAL INTERNSHIP",
-          "remaining": "43",
+          "remaining": "35",
           "capacity": "45",
           "instructor": [
             "Karen S. Smith (P)"
@@ -42,10 +42,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "500",
           "title": "MANAGING TECH NETWORKS",
-          "remaining": "30",
+          "remaining": "22",
           "capacity": "32",
           "instructor": [
             "Robert T. Jones (P)",
@@ -81,10 +81,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "CONTEMP ISSUES IN TCM",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "Benjamin L. Smith (P)"
@@ -115,10 +115,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "9",
           "section": "500",
           "title": "UNIX SYS ADMIN PRACT",
-          "remaining": "29",
+          "remaining": "21",
           "capacity": "30",
           "instructor": [
             "TBA",
@@ -154,10 +154,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "20",
           "section": "598",
           "title": "INSTRUCT TECH & DESIGN",
-          "remaining": "38",
+          "remaining": "25",
           "capacity": "45",
           "instructor": [
             "Christine L. Mark (P)"
@@ -183,10 +183,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "599",
           "title": "INSTRUCT TECH & DESIGN",
-          "remaining": "45",
+          "remaining": "42",
           "capacity": "45",
           "instructor": [
             "Christine L. Mark (P)"
@@ -217,10 +217,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "6",
           "section": "700",
           "title": "CYBERSECURITY DIGITAL ETHICS",
-          "remaining": "34",
+          "remaining": "29",
           "capacity": "35",
           "instructor": [
             "TBA"
@@ -246,10 +246,10 @@
           "subject": "TCMG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "701",
           "title": "CYBERSECURITY DIGITAL ETHICS",
-          "remaining": "35",
+          "remaining": "34",
           "capacity": "35",
           "instructor": [
             "TBA"
@@ -342,5 +342,5 @@
     }
   },
   "title": "TCMG - Technology Management",
-  "updated": "Mon, 11 Apr 2016 at 12:53 AM"
+  "updated": "Wed, Apr 13 2016 at 01:37 AM"
 }

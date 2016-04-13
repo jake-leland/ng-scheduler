@@ -211,10 +211,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "614",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Ivan I. Rusyn (P)"
@@ -269,10 +269,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "618",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Timothy Phillips (P)"
@@ -880,6 +880,40 @@
         }
       }
     },
+    "277": {
+      "title": "INTRO TO NEUROSCIENCE",
+      "sections": {
+        "500": {
+          "select": "SR",
+          "subject": "VIBS",
+          "campus": "CS",
+          "classes": 1,
+          "active": "6",
+          "section": "500",
+          "title": "INTRO TO NEUROSCIENCE",
+          "remaining": "39",
+          "capacity": "45",
+          "instructor": [
+            "Gladys Ko (P)"
+          ],
+          "credits": "3",
+          "course": "277",
+          "days": [
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "12:45 pm-02:00 pm"
+          ],
+          "crn": "21961"
+        }
+      }
+    },
     "310": {
       "title": "BIOMEDICAL WRITING",
       "sections": {
@@ -942,14 +976,14 @@
           "crn": "19771"
         },
         "912": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "20",
           "section": "912",
           "title": "BIOMEDICAL WRITING",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Kevin O. Curley (P)"
@@ -971,14 +1005,14 @@
           "crn": "19772"
         },
         "913": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "20",
           "section": "913",
           "title": "BIOMEDICAL WRITING",
-          "remaining": "17",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Kevin O. Curley (P)"
@@ -1000,14 +1034,14 @@
           "crn": "19773"
         },
         "914": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "20",
           "section": "914",
           "title": "BIOMEDICAL WRITING",
-          "remaining": "17",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Kevin O. Curley (P)"
@@ -1033,10 +1067,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "18",
           "section": "915",
           "title": "BIOMEDICAL WRITING",
-          "remaining": "17",
+          "remaining": "2",
           "capacity": "20",
           "instructor": [
             "Micah J. Waltz (P)"
@@ -1058,14 +1092,14 @@
           "crn": "19779"
         },
         "916": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "20",
           "section": "916",
           "title": "BIOMEDICAL WRITING",
-          "remaining": "17",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Micah J. Waltz (P)"
@@ -1092,14 +1126,14 @@
       "title": "BIOMED EXPLOR NARRATIVE",
       "sections": {
         "921": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "20",
           "section": "921",
           "title": "BIOMED EXPLOR NARRATIVE",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Michelle S. Yeoman (P)"
@@ -1121,14 +1155,14 @@
           "crn": "19825"
         },
         "922": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "20",
           "section": "922",
           "title": "BIOMED EXPLOR NARRATIVE",
-          "remaining": "15",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Michelle S. Yeoman (P)"
@@ -1150,14 +1184,14 @@
           "crn": "19781"
         },
         "923": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "20",
           "section": "923",
           "title": "BIOMED EXPLOR NARRATIVE",
-          "remaining": "19",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Michelle S. Yeoman (P)"
@@ -1212,10 +1246,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "12",
           "section": "925",
           "title": "BIOMED EXPLOR NARRATIVE",
-          "remaining": "19",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "Micah J. Waltz (P)"
@@ -1237,14 +1271,14 @@
           "crn": "24489"
         },
         "926": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "20",
           "section": "926",
           "title": "BIOMED EXPLOR NARRATIVE",
-          "remaining": "18",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Micah J. Waltz (P)"
@@ -1314,10 +1348,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "12",
           "section": "601",
           "title": "MAMMALIAN EMBRYOLOGY",
-          "remaining": "39",
+          "remaining": "38",
           "capacity": "50",
           "instructor": [
             "Louise Abbott (P)"
@@ -1348,10 +1382,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "ISSUES SCI TECH JOUR",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Barbara Gastel (P)"
@@ -1456,18 +1490,18 @@
       "title": "ADV DEV NEUROTOXICOLOGY",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 2,
           "active": "1",
           "section": "600",
           "title": "ADV DEV NEUROTOXICOLOGY",
-          "remaining": "24",
-          "capacity": "25",
+          "remaining": "-1",
+          "capacity": "0",
           "instructor": [
-            "Louise Abbott (P)",
-            "Louise Abbott (P)"
+            "TBA",
+            "TBA"
           ],
           "credits": "3",
           "course": "616",
@@ -1988,10 +2022,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "REPORTING SCI TECH",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Barbara Gastel (P)"
@@ -2815,10 +2849,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "30",
           "section": "500",
           "title": "HISTOLOGY",
-          "remaining": "65",
+          "remaining": "40",
           "capacity": "70",
           "instructor": [
             "Gregory Johnson (P)",
@@ -3062,10 +3096,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "632",
           "title": "DIRECTED STUDIES",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "E Tiffany-Castiglion (P)"
@@ -3439,10 +3473,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "628",
           "title": "DIRECTED STUDIES",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Barbara Gastel (P)"
@@ -3498,14 +3532,14 @@
       "title": "DEV NEUROTOXICOLOGY",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "16",
           "section": "500",
           "title": "DEV NEUROTOXICOLOGY",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Louise Abbott (P)"
@@ -3536,10 +3570,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "9",
           "section": "501",
           "title": "FUND OF FOOD TOXI & SAFE",
-          "remaining": "94",
+          "remaining": "91",
           "capacity": "100",
           "instructor": [
             "Leon Russell (P)"
@@ -3570,10 +3604,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "204",
           "title": "HNR-BIOMED ENDOCRIN DISORDRS",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Joe Arosh (P)"
@@ -3604,10 +3638,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 2,
-          "active": "11",
+          "active": "64",
           "section": "501",
           "title": "BIOMEDICAL ANATOMY",
-          "remaining": "59",
+          "remaining": "6",
           "capacity": "70",
           "instructor": [
             "Cheryl Herman , Lynn Ruoff",
@@ -3638,10 +3672,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 2,
-          "active": "16",
+          "active": "50",
           "section": "502",
           "title": "BIOMEDICAL ANATOMY",
-          "remaining": "54",
+          "remaining": "20",
           "capacity": "70",
           "instructor": [
             "Lynn Ruoff (P)",
@@ -3673,14 +3707,14 @@
       "title": "FOOD TOXICOLOGY & SAFETY",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "20",
           "section": "500",
           "title": "FOOD TOXICOLOGY & SAFETY",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Timothy Phillips (P)"
@@ -3750,10 +3784,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 3,
-          "active": "3",
+          "active": "4",
           "section": "601",
           "title": "NEUROANATOMY",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Tamy C. Frank-Cannon (P)",
@@ -3824,14 +3858,14 @@
       "title": "CORE IDEAS NEUROSCIENCE",
       "sections": {
         "599": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "80",
           "section": "599",
           "title": "CORE IDEAS NEUROSCIENCE (Syllabus)",
-          "remaining": "65",
+          "remaining": "0",
           "capacity": "80",
           "instructor": [
             "William Klemm (P)"
@@ -3858,14 +3892,14 @@
       "title": "NEUROSCIENCE RELIGION",
       "sections": {
         "900": {
-          "select": "SR",
+          "select": "C",
           "subject": "VIBS",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "20",
           "section": "900",
           "title": "NEUROSCIENCE RELIGION (Syllabus)",
-          "remaining": "16",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "William Klemm (P)"
@@ -3930,10 +3964,10 @@
           "subject": "VIBS",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "5",
           "section": "600",
           "title": "APPLIED EPIDEMIOLOGY",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Leon Russell (P)",
@@ -4113,5 +4147,5 @@
     }
   },
   "title": "VIBS - Vet Integrative Biosci",
-  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
+  "updated": "Wed, Apr 13 2016 at 01:38 AM"
 }

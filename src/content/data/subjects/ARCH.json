@@ -37,10 +37,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "500",
           "title": "HIST/THEOR MOD/CONT ARCH",
-          "remaining": "158",
+          "remaining": "154",
           "capacity": "160",
           "instructor": [
             "Susanne C. Bieber (P)"
@@ -71,10 +71,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "HISTORY OF PRODUCT DESIGN",
-          "remaining": "25",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Jose Esquivel (P)"
@@ -105,10 +105,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "201",
           "title": "HNR-INTEGRATED STRUCTURES",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "16",
           "instructor": [
             "Shelley D. Holliday (P)",
@@ -139,10 +139,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "8",
           "section": "500",
           "title": "INTEGRATED STRUCTURES",
-          "remaining": "14",
+          "remaining": "8",
           "capacity": "16",
           "instructor": [
             "Shelley D. Holliday (P)",
@@ -173,10 +173,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "15",
           "section": "501",
           "title": "INTEGRATED STRUCTURES",
-          "remaining": "13",
+          "remaining": "1",
           "capacity": "16",
           "instructor": [
             "Shelley D. Holliday",
@@ -203,14 +203,14 @@
           "crn": "10251"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "16",
           "section": "502",
           "title": "INTEGRATED STRUCTURES",
-          "remaining": "14",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Shelley D. Holliday (P)",
@@ -241,10 +241,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "13",
           "section": "503",
           "title": "INTEGRATED STRUCTURES",
-          "remaining": "16",
+          "remaining": "3",
           "capacity": "16",
           "instructor": [
             "Shelley D. Holliday (P)",
@@ -382,10 +382,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "18",
           "section": "600",
           "title": "APPLIED ARCH STRUCTURES",
-          "remaining": "35",
+          "remaining": "32",
           "capacity": "50",
           "instructor": [
             "Anne Nichols (P)"
@@ -450,10 +450,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "201",
           "title": "HNR-INTEGRATED SYSTEMS",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "16",
           "instructor": [
             "Juan C. Baltazar Cervantes (P)",
@@ -484,10 +484,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "9",
           "section": "500",
           "title": "INTEGRATED SYSTEMS",
-          "remaining": "14",
+          "remaining": "7",
           "capacity": "16",
           "instructor": [
             "Liliana Beltran (P)",
@@ -518,10 +518,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "14",
           "section": "501",
           "title": "INTEGRATED SYSTEMS",
-          "remaining": "14",
+          "remaining": "2",
           "capacity": "16",
           "instructor": [
             "Liliana Beltran",
@@ -548,14 +548,14 @@
           "crn": "10253"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "16",
           "section": "502",
           "title": "INTEGRATED SYSTEMS",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Juan C. Baltazar Cervantes (P)",
@@ -586,10 +586,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "14",
           "section": "503",
           "title": "INTEGRATED SYSTEMS",
-          "remaining": "15",
+          "remaining": "2",
           "capacity": "16",
           "instructor": [
             "Charles Culp (P)",
@@ -659,10 +659,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "600",
           "title": "APPLIED ARCH SYSTEMS",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "22",
           "instructor": [
             "Juan C. Baltazar Cervantes (P)"
@@ -761,10 +761,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "7",
           "section": "600",
           "title": "20TH C ARCH THRY & PRAC",
-          "remaining": "6",
+          "remaining": "5",
           "capacity": "12",
           "instructor": [
             "Sarah Deyong (P)"
@@ -829,10 +829,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "500",
           "title": "SEMINAR",
-          "remaining": "44",
+          "remaining": "43",
           "capacity": "45",
           "instructor": [
             "George Mann (P)"
@@ -858,10 +858,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "SEMINAR",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -921,10 +921,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "8",
           "section": "601",
           "title": "SEMINAR",
-          "remaining": "28",
+          "remaining": "27",
           "capacity": "35",
           "instructor": [
             "George Mann (P)"
@@ -951,14 +951,14 @@
       "title": "BAROQUE & ROCOCO ARCH",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "15",
           "section": "500",
           "title": "BAROQUE & ROCOCO ARCH",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Stephen Caffey (P)"
@@ -2449,10 +2449,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "8",
           "section": "500",
           "title": "AEGEAN ART & ARCH",
-          "remaining": "28",
+          "remaining": "22",
           "capacity": "30",
           "instructor": [
             "Kevin Glowacki (P)"
@@ -3880,10 +3880,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "10",
           "section": "500",
           "title": "FOUND OF HISTORIC PRESERV",
-          "remaining": "25",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "Anat M. Geva (P)"
@@ -3948,10 +3948,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 4,
-          "active": "8",
+          "active": "9",
           "section": "901",
           "title": "ARCH DESIGN I",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "13",
           "instructor": [
             "Jose Esquivel",
@@ -3992,10 +3992,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 4,
-          "active": "2",
+          "active": "1",
           "section": "902",
           "title": "ARCH DESIGN I",
-          "remaining": "11",
+          "remaining": "12",
           "capacity": "13",
           "instructor": [
             "Zhipeng Lu",
@@ -4036,10 +4036,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 3,
-          "active": "4",
+          "active": "5",
           "section": "903",
           "title": "ARCH DESIGN I",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "13",
           "instructor": [
             "Susan D. Rodiek (P)",
@@ -4289,10 +4289,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "9",
           "section": "502",
           "title": "SURVEY WORLD ARCH HIS I",
-          "remaining": "94",
+          "remaining": "91",
           "capacity": "100",
           "instructor": [
             "Stephen Caffey (P)"
@@ -4318,10 +4318,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "31",
           "section": "700",
           "title": "SURVEY WORLD ARCH HIS I",
-          "remaining": "84",
+          "remaining": "69",
           "capacity": "100",
           "instructor": [
             "Stephen Caffey (P)"
@@ -4376,10 +4376,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "8",
           "section": "504",
           "title": "SURVEY WORLD ARCH HIS I",
-          "remaining": "96",
+          "remaining": "92",
           "capacity": "100",
           "instructor": [
             "Kevin Glowacki (P)"
@@ -4410,10 +4410,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "7",
           "section": "600",
           "title": "DESIGN FUNDAMENTALS I",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "TBA",
@@ -4449,10 +4449,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "11",
           "section": "600",
           "title": "SPTP: SEM URBAN DES FOR ARCH",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "12",
           "instructor": [
             "Koichiro Aitani (P)"
@@ -4483,10 +4483,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "201",
           "title": "HNR-ARCHITECTURE DESIGN IV",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "16",
           "instructor": [
             "Marcel Erminy (P)",
@@ -4517,10 +4517,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "9",
           "section": "500",
           "title": "ARCHITECTURE DESIGN IV",
-          "remaining": "14",
+          "remaining": "7",
           "capacity": "16",
           "instructor": [
             "James T. Haliburton (P)",
@@ -4547,14 +4547,14 @@
           "crn": "20249"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "16",
           "section": "501",
           "title": "ARCHITECTURE DESIGN IV",
-          "remaining": "15",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "John Babe (P)",
@@ -4585,10 +4585,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "15",
           "section": "502",
           "title": "ARCHITECTURE DESIGN IV",
-          "remaining": "13",
+          "remaining": "1",
           "capacity": "16",
           "instructor": [
             "Ray W. Holliday (P)",
@@ -4615,14 +4615,14 @@
           "crn": "10250"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "16",
           "section": "503",
           "title": "ARCHITECTURE DESIGN IV",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Michael Obrien (P)",
@@ -4692,10 +4692,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "BLDG PRESN TECHNOLOGY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "12",
           "instructor": [
             "Robert B. Warden (P)"
@@ -4726,10 +4726,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 3,
-          "active": "14",
+          "active": "16",
           "section": "601",
           "title": "ARCHITECTRL DESIGN I",
-          "remaining": "34",
+          "remaining": "32",
           "capacity": "48",
           "instructor": [
             "Marcel Erminy",
@@ -4887,10 +4887,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "11",
           "section": "600",
           "title": "ADV HIST OF BLDG TECH",
-          "remaining": "4",
+          "remaining": "2",
           "capacity": "13",
           "instructor": [
             "Anat M. Geva (P)"
@@ -4921,10 +4921,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 3,
-          "active": "32",
+          "active": "34",
           "section": "600",
           "title": "ARCHITECTRL DESIGN III",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "48",
           "instructor": [
             "TBA",
@@ -6508,10 +6508,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "201",
           "title": "HNR-SURVEY WORLD ARCH HIS II",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Nancy Klein (P)"
@@ -6566,10 +6566,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "502",
           "title": "SURVEY WORLD ARCH HIS II",
-          "remaining": "97",
+          "remaining": "96",
           "capacity": "100",
           "instructor": [
             "Nancy Klein (P)"
@@ -6653,10 +6653,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "504",
           "title": "SURVEY WORLD ARCH HIS II",
-          "remaining": "97",
+          "remaining": "94",
           "capacity": "100",
           "instructor": [
             "Nancy Klein (P)"
@@ -6687,10 +6687,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "602",
           "title": "RESEARCH IDEOL FOR ARCH",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Stephen Caffey (P)"
@@ -8297,10 +8297,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "8",
           "section": "500",
           "title": "THE MAKING OF ARCHITECT",
-          "remaining": "94",
+          "remaining": "92",
           "capacity": "100",
           "instructor": [
             "Michael Obrien (P), Ahmed K. Ali"
@@ -9699,10 +9699,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "7",
           "section": "500",
           "title": "ARCHITECTURAL STRUCTURES",
-          "remaining": "43",
+          "remaining": "38",
           "capacity": "45",
           "instructor": [
             "Anne Nichols (P)",
@@ -9738,10 +9738,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "17",
           "section": "500",
           "title": "SOCIAL & BEHAV FACT DESN",
-          "remaining": "166",
+          "remaining": "163",
           "capacity": "180",
           "instructor": [
             "Xuemei Zhu (P)"
@@ -9835,10 +9835,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "ARCHITECTURAL SYSTEMS",
-          "remaining": "50",
+          "remaining": "44",
           "capacity": "50",
           "instructor": [
             "Jeff Haberl (P)"
@@ -9869,10 +9869,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 3,
-          "active": "5",
+          "active": "7",
           "section": "600",
           "title": "VISUAL COMMUNICATIONS",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "Marcel Erminy (P)",
@@ -9913,10 +9913,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "10",
           "section": "600",
           "title": "PARAMETRIC MODELING DESIGN",
-          "remaining": "10",
+          "remaining": "5",
           "capacity": "15",
           "instructor": [
             "Wei Yan (P)"
@@ -10010,10 +10010,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "21",
           "section": "500",
           "title": "CULT ETHICAL GLOBAL PRAC",
-          "remaining": "154",
+          "remaining": "139",
           "capacity": "160",
           "instructor": [
             "Rodney Hill (P)"
@@ -10044,10 +10044,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "7",
           "section": "600",
           "title": "STRUCT & ENVIRON TECH",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "Shelley D. Holliday (P)"
@@ -10176,14 +10176,14 @@
       "title": "ENERGY & SUSTAINABLE ARCH",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ARCH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "15",
           "section": "500",
           "title": "ENERGY & SUSTAINABLE ARCH",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Charles Culp (P)"
@@ -10282,10 +10282,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "932",
           "title": "ARCH DESIGN III",
-          "remaining": "11",
+          "remaining": "7",
           "capacity": "12",
           "instructor": [
             "Livia C. Catao Cartaxo Loureiro (P)",
@@ -10316,10 +10316,10 @@
           "subject": "ARCH",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "4",
           "section": "933",
           "title": "ARCH DESIGN III",
-          "remaining": "12",
+          "remaining": "8",
           "capacity": "12",
           "instructor": [
             "Brian C. Gibbs (P)",
@@ -10422,5 +10422,5 @@
     }
   },
   "title": "ARCH - Architecture",
-  "updated": "Mon, 11 Apr 2016 at 12:37 AM"
+  "updated": "Wed, Apr 13 2016 at 01:22 AM"
 }

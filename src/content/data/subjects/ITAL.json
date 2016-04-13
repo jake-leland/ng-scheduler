@@ -81,10 +81,10 @@
           "subject": "ITAL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "ITALIAN LITERATURE",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Manuela Marchesini (P)"
@@ -144,10 +144,10 @@
           "subject": "ITAL",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "502",
           "title": "INTERMED ITALIAN I",
-          "remaining": "22",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Fabiana Cecchini (P)"
@@ -178,10 +178,10 @@
           "subject": "ITAL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "COMP AND CONVERSATION",
-          "remaining": "20",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Fabiana Cecchini (P)"
@@ -206,5 +206,5 @@
     }
   },
   "title": "ITAL - Italian",
-  "updated": "Mon, 11 Apr 2016 at 12:46 AM"
+  "updated": "Wed, Apr 13 2016 at 01:30 AM"
 }

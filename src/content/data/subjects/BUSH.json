@@ -8,10 +8,10 @@
           "subject": "BUSH",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "7",
           "section": "601",
           "title": "QUANT METH PUB MGMT I",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "Kalena E. Cortes (P)"
@@ -37,10 +37,10 @@
           "subject": "BUSH",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "10",
           "section": "602",
           "title": "QUANT METH PUB MGMT I",
-          "remaining": "12",
+          "remaining": "10",
           "capacity": "20",
           "instructor": [
             "Kalena E. Cortes (P)"
@@ -62,14 +62,14 @@
           "crn": "10478"
         },
         "603": {
-          "select": "SR",
+          "select": "C",
           "subject": "BUSH",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "22",
           "section": "603",
           "title": "QUANT METH PUB MGMT I",
-          "remaining": "4",
+          "remaining": "-2",
           "capacity": "20",
           "instructor": [
             "Joanna Lahey (P)"
@@ -98,10 +98,10 @@
           "active": "1",
           "section": "604",
           "title": "QUANT METH PUB MGMT I",
-          "remaining": "20",
-          "capacity": "21",
+          "remaining": "19",
+          "capacity": "20",
           "instructor": [
-            "TBA"
+            "Rebecca C. Nielsen (P)"
           ],
           "credits": "3",
           "course": "631",
@@ -124,10 +124,10 @@
           "subject": "BUSH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "605",
           "title": "QUANT METH PUB MGMT I",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "19",
           "instructor": [
             "Joanna Lahey (P)"
@@ -149,15 +149,15 @@
           "crn": "25078"
         },
         "606": {
-          "select": "C",
+          "select": "SR",
           "subject": "BUSH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "606",
           "title": "QUANT METH PUB MGMT I",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "24",
+          "capacity": "25",
           "instructor": [
             "TBA"
           ],
@@ -221,10 +221,10 @@
           "subject": "BUSH",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "12",
           "section": "600",
           "title": "WRITING MEDAL OF EXCELLENCE",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -249,5 +249,5 @@
     }
   },
   "title": "BUSH - Geo. Bush School of Gov",
-  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
+  "updated": "Wed, Apr 13 2016 at 01:23 AM"
 }

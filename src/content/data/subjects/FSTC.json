@@ -182,10 +182,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "560",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Thomas Taylor (P)"
@@ -274,10 +274,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "671",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Lui Cisneros-Zevallos (P)"
@@ -806,10 +806,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "13",
           "section": "501",
           "title": "PRNCPLS OF FOOD PRSCNG",
-          "remaining": "9",
+          "remaining": "2",
           "capacity": "15",
           "instructor": [
             "Stephen T. Talcott (P)",
@@ -913,10 +913,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "6",
           "section": "501",
           "title": "FOOD ANALYSIS",
-          "remaining": "14",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
             "Susanne Talcott (P)",
@@ -947,10 +947,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "FOOD ANALYSIS",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Susanne Talcott (P)",
@@ -986,10 +986,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "HACCP SYSTEMS",
-          "remaining": "25",
+          "remaining": "18",
           "capacity": "25",
           "instructor": [
             "Kerri B. Harris (P)"
@@ -1020,10 +1020,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "FOOD PROCESS ENGR TECH",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "8",
           "instructor": [
             "Carmen L. Gomes (P)",
@@ -1088,10 +1088,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "503",
           "title": "FOOD PROCESS ENGR TECH",
-          "remaining": "9",
+          "remaining": "7",
           "capacity": "9",
           "instructor": [
             "Carmen L. Gomes (P)",
@@ -1626,10 +1626,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "25",
           "section": "700",
           "title": "FOOD SCIENCE",
-          "remaining": "240",
+          "remaining": "225",
           "capacity": "250",
           "instructor": [
             "Peter Murano (P)"
@@ -1660,10 +1660,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "12",
           "section": "700",
           "title": "RELIGIOUS & ETHNIC FOODS",
-          "remaining": "245",
+          "remaining": "238",
           "capacity": "250",
           "instructor": [
             "Mian Riaz (P)"
@@ -2047,10 +2047,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "26",
           "section": "500",
           "title": "FOOD BACTERIOLOGY",
-          "remaining": "33",
+          "remaining": "19",
           "capacity": "45",
           "instructor": [
             "Thomas Taylor (P)"
@@ -2115,10 +2115,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "500",
           "title": "FUNDAMENTAL BAKING",
-          "remaining": "24",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Joseph M. Awika (P)",
@@ -2150,14 +2150,14 @@
       "title": "FOOD BACTERIOLOGY",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "501",
           "title": "FOOD BACTERIOLOGY",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Thomas Taylor (P)",
@@ -2188,10 +2188,10 @@
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "FOOD BACTERIOLOGY",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "8",
           "instructor": [
             "Thomas Taylor (P)",
@@ -2427,14 +2427,14 @@
           "crn": "15288"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "FSTC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "MEATS",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Jeffrey Savell (P)",
@@ -2537,5 +2537,5 @@
     }
   },
   "title": "FSTC - Food Science & Tech",
-  "updated": "Mon, 11 Apr 2016 at 12:44 AM"
+  "updated": "Wed, Apr 13 2016 at 01:28 AM"
 }

@@ -8,10 +8,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "10",
           "section": "500",
           "title": "ENTREPRENEURIAL SMALL BUSINESS",
-          "remaining": "27",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "Donald H. Lewis (P)"
@@ -38,14 +38,14 @@
       "title": "EMPLOY DISCRIM LAW",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "25",
           "section": "500",
           "title": "EMPLOY DISCRIM LAW",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "25",
           "instructor": [
             "Ramona Paetzold (P)"
@@ -72,14 +72,14 @@
       "title": "LEADERSHIP DEVELOPMENT",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "18",
           "section": "500",
           "title": "LEADERSHIP DEVELOPMENT",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "John D. Watt (P)"
@@ -110,10 +110,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "500",
           "title": "MANAGING NONPROFIT ORGS",
-          "remaining": "26",
+          "remaining": "21",
           "capacity": "28",
           "instructor": [
             "Bharathi K. Shetty (P)"
@@ -144,10 +144,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "18",
           "section": "600",
           "title": "BEHAV IN ORGANIZATIONS",
-          "remaining": "21",
+          "remaining": "12",
           "capacity": "30",
           "instructor": [
             "Deidra Schleicher (P)"
@@ -207,10 +207,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "502",
           "title": "ENTREPRENEURIAL CONSUL AND DEV",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -241,10 +241,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "13",
           "section": "601",
           "title": "LDRSHP IN ORGANIZATIONS",
-          "remaining": "9",
+          "remaining": "2",
           "capacity": "15",
           "instructor": [
             "John D. Watt (P)"
@@ -561,10 +561,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "13",
           "section": "603",
           "title": "INTERNTNL BUS POLICY",
-          "remaining": "6",
+          "remaining": "2",
           "capacity": "15",
           "instructor": [
             "Michael W. Pustay (P)"
@@ -591,15 +591,15 @@
       "title": "NEGOTIATIONS",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "15",
           "section": "501",
           "title": "NEGOTIATIONS",
-          "remaining": "10",
-          "capacity": "18",
+          "remaining": "0",
+          "capacity": "15",
           "instructor": [
             "TBA"
           ],
@@ -620,14 +620,14 @@
           "crn": "12133"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "18",
           "section": "502",
           "title": "NEGOTIATIONS",
-          "remaining": "16",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -649,14 +649,14 @@
           "crn": "12134"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "18",
           "section": "503",
           "title": "NEGOTIATIONS",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -682,10 +682,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "504",
           "title": "NEGOTIATIONS",
-          "remaining": "18",
+          "remaining": "12",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -711,10 +711,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "11",
           "section": "505",
           "title": "NEGOTIATIONS",
-          "remaining": "18",
+          "remaining": "7",
           "capacity": "18",
           "instructor": [
             "TBA"
@@ -745,10 +745,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "22",
+          "active": "28",
           "section": "600",
           "title": "FNDTNS OF ENTRPRENEURSHP",
-          "remaining": "14",
+          "remaining": "8",
           "capacity": "36",
           "instructor": [
             "Richard H. Lester (P)"
@@ -838,14 +838,14 @@
       "title": "BUSINESS & CORP STRATEGY",
       "sections": {
         "601": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "38",
           "section": "601",
           "title": "BUSINESS & CORP STRATEGY",
-          "remaining": "28",
+          "remaining": "0",
           "capacity": "38",
           "instructor": [
             "TBA"
@@ -896,14 +896,14 @@
           "crn": "12165"
         },
         "603": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "30",
+          "active": "38",
           "section": "603",
           "title": "BUSINESS & CORP STRATEGY",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "38",
           "instructor": [
             "TBA"
@@ -925,14 +925,14 @@
           "crn": "12166"
         },
         "604": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "24",
+          "active": "38",
           "section": "604",
           "title": "BUSINESS & CORP STRATEGY",
-          "remaining": "14",
+          "remaining": "0",
           "capacity": "38",
           "instructor": [
             "Steven R. Boivie (P)"
@@ -992,10 +992,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "7",
+          "active": "9",
           "section": "530",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "11",
+          "remaining": "9",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1041,10 +1041,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "2",
+          "active": "3",
           "section": "531",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1090,10 +1090,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "2",
           "section": "510",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1139,10 +1139,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "3",
+          "active": "5",
           "section": "532",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1188,10 +1188,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "1",
+          "active": "2",
           "section": "511",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1237,10 +1237,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "2",
           "section": "512",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1335,10 +1335,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "1",
+          "active": "2",
           "section": "514",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1580,10 +1580,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "1",
           "section": "519",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1658,10 +1658,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "1",
           "section": "520",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1736,10 +1736,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "1",
           "section": "521",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1785,10 +1785,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "3",
           "section": "522",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1834,10 +1834,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "2",
+          "active": "5",
           "section": "501",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "16",
+          "remaining": "13",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1883,10 +1883,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "1",
           "section": "523",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1932,10 +1932,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "8",
+          "active": "17",
           "section": "502",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "10",
+          "remaining": "1",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -1981,10 +1981,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "2",
+          "active": "4",
           "section": "524",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -2030,10 +2030,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "1",
+          "active": "7",
           "section": "503",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "17",
+          "remaining": "11",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -2075,14 +2075,14 @@
           "crn": "12102"
         },
         "525": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "12",
+          "active": "18",
           "section": "525",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -2128,10 +2128,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "1",
+          "active": "4",
           "section": "504",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "17",
+          "remaining": "14",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -2177,10 +2177,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "2",
+          "active": "10",
           "section": "526",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "16",
+          "remaining": "8",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -2226,10 +2226,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "3",
           "section": "505",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -2275,10 +2275,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "4",
+          "active": "8",
           "section": "527",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "14",
+          "remaining": "10",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -2373,10 +2373,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "1",
           "section": "528",
           "title": "MANAGING PEOPLE IN ORGS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Liesl S. Wesson (P)",
@@ -2623,10 +2623,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "10",
           "section": "500",
           "title": "CRTVTY INNVTN BUSINESS",
-          "remaining": "31",
+          "remaining": "24",
           "capacity": "34",
           "instructor": [
             "John D. Watt (P)"
@@ -2691,10 +2691,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "34",
           "section": "600",
           "title": "MANAGE CREAT INNOVATION",
-          "remaining": "28",
+          "remaining": "6",
           "capacity": "40",
           "instructor": [
             "John D. Watt (P)"
@@ -2788,10 +2788,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "RES METH IN ORG SCI II",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Michael C. Withers (P)"
@@ -2822,10 +2822,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "500",
           "title": "SPTP: ENTREPRNEURIAL PERSPCTVS (Syllabus)",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Patricia H. Thornton (P)"
@@ -2856,10 +2856,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "34",
+          "active": "86",
           "section": "600",
           "title": "FNDN OF MANAGERIAL LAW",
-          "remaining": "86",
+          "remaining": "34",
           "capacity": "120",
           "instructor": [
             "Otis Elmore (P)"
@@ -2958,10 +2958,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "56",
+          "active": "163",
           "section": "501",
           "title": "BUSINESS GOVT & SOCIETY",
-          "remaining": "359",
+          "remaining": "252",
           "capacity": "415",
           "instructor": [
             "Keith Swim (P)"
@@ -2987,10 +2987,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "26",
+          "active": "58",
           "section": "502",
           "title": "BUSINESS GOVT & SOCIETY",
-          "remaining": "399",
+          "remaining": "367",
           "capacity": "425",
           "instructor": [
             "Keith Swim (P)"
@@ -3016,10 +3016,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "9",
           "section": "503",
           "title": "BUSINESS GOVT & SOCIETY",
-          "remaining": "31",
+          "remaining": "26",
           "capacity": "35",
           "instructor": [
             "TBA"
@@ -3045,10 +3045,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "BUSINESS GOVT & SOCIETY",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -3079,10 +3079,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "17",
           "section": "901",
           "title": "ADV CONCEPTS IN ORG BHVR",
-          "remaining": "21",
+          "remaining": "9",
           "capacity": "26",
           "instructor": [
             "Murray Barrick (P)"
@@ -3108,10 +3108,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "902",
           "title": "ADV CONCEPTS IN ORG BHVR",
-          "remaining": "24",
+          "remaining": "20",
           "capacity": "26",
           "instructor": [
             "Murray Barrick (P)"
@@ -3553,10 +3553,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "902",
           "title": "MANAGING HUMAN RESOURCES",
-          "remaining": "18",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "Brenda A. Rivera (P)"
@@ -3582,10 +3582,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "903",
           "title": "MANAGING HUMAN RESOURCES",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Brenda A. Rivera (P)"
@@ -3611,10 +3611,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "16",
           "section": "904",
           "title": "MANAGING HUMAN RESOURCES",
-          "remaining": "14",
+          "remaining": "4",
           "capacity": "20",
           "instructor": [
             "Kaitlyn G. Newman (P)"
@@ -3674,10 +3674,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "INTERNATL ENVIR OF BUS",
-          "remaining": "32",
+          "remaining": "31",
           "capacity": "33",
           "instructor": [
             "Vanita Mahajan (P)"
@@ -3703,10 +3703,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "19",
           "section": "502",
           "title": "INTERNATL ENVIR OF BUS",
-          "remaining": "29",
+          "remaining": "14",
           "capacity": "33",
           "instructor": [
             "Vanita Mahajan (P)"
@@ -3732,10 +3732,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "16",
           "section": "503",
           "title": "INTERNATL ENVIR OF BUS",
-          "remaining": "27",
+          "remaining": "17",
           "capacity": "33",
           "instructor": [
             "Vanita Mahajan (P)"
@@ -3766,10 +3766,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "9",
           "section": "931",
           "title": "INTERNATIONAL MGMT",
-          "remaining": "21",
+          "remaining": "16",
           "capacity": "25",
           "instructor": [
             "Daria Panina (P)"
@@ -3795,10 +3795,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "932",
           "title": "INTERNATIONAL MGMT",
-          "remaining": "23",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Daria Panina (P)"
@@ -3887,10 +3887,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "501",
           "title": "LEG&SOC ENVIR OF BUSI",
-          "remaining": "447",
+          "remaining": "446",
           "capacity": "450",
           "instructor": [
             "Keith Swim (P)"
@@ -3916,10 +3916,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "11",
           "section": "502",
           "title": "LEG&SOC ENVIR OF BUSI",
-          "remaining": "211",
+          "remaining": "209",
           "capacity": "220",
           "instructor": [
             "Camille Hailey (P)"
@@ -3950,10 +3950,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "500",
           "title": "EMERGING ECONOMIES: BRIC",
-          "remaining": "25",
+          "remaining": "21",
           "capacity": "27",
           "instructor": [
             "Daria Panina (P)"
@@ -3984,10 +3984,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "33",
           "section": "500",
           "title": "BUSINESS LAW",
-          "remaining": "113",
+          "remaining": "92",
           "capacity": "125",
           "instructor": [
             "Camille Hailey (P)"
@@ -4081,10 +4081,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "20",
+          "active": "28",
           "section": "600",
           "title": "SUR OF MANAGEMENT",
-          "remaining": "10",
+          "remaining": "2",
           "capacity": "30",
           "instructor": [
             "Ben D. Welch (P)"
@@ -4115,10 +4115,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "16",
           "section": "601",
           "title": "MANAGING PROJECTS",
-          "remaining": "10",
+          "remaining": "2",
           "capacity": "18",
           "instructor": [
             "Victoria L. Buenger (P)"
@@ -4149,10 +4149,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "28",
           "section": "501",
           "title": "MANAGING PROJECTS",
-          "remaining": "22",
+          "remaining": "2",
           "capacity": "30",
           "instructor": [
             "Victoria L. Buenger (P)"
@@ -4178,10 +4178,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "11",
           "section": "502",
           "title": "MANAGING PROJECTS",
-          "remaining": "27",
+          "remaining": "19",
           "capacity": "30",
           "instructor": [
             "Victoria L. Buenger (P)"
@@ -4212,10 +4212,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "9",
           "section": "900",
           "title": "ENTREPREN & NEW VNTRS",
-          "remaining": "26",
+          "remaining": "21",
           "capacity": "30",
           "instructor": [
             "Donald H. Lewis (P)"
@@ -4280,10 +4280,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "22",
           "section": "900",
           "title": "POLITICAL ENVIR OF BUSI",
-          "remaining": "28",
+          "remaining": "14",
           "capacity": "36",
           "instructor": [
             "Leonard Bierman (P)"
@@ -4377,10 +4377,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "19",
           "section": "500",
           "title": "MANAGEMENT CONSULTING",
-          "remaining": "23",
+          "remaining": "11",
           "capacity": "30",
           "instructor": [
             "Kathryn H. King-Metters (P)"
@@ -4436,14 +4436,14 @@
           "crn": "12144"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "40",
           "section": "501",
           "title": "STRATEGIC MANAGEMENT",
-          "remaining": "32",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Bharathi K. Shetty (P)"
@@ -4465,14 +4465,14 @@
           "crn": "12145"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "24",
+          "active": "40",
           "section": "502",
           "title": "STRATEGIC MANAGEMENT",
-          "remaining": "16",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Bharathi K. Shetty (P)"
@@ -4498,10 +4498,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "30",
           "section": "503",
           "title": "STRATEGIC MANAGEMENT",
-          "remaining": "34",
+          "remaining": "10",
           "capacity": "40",
           "instructor": [
             "Nicole R. Fuller (P)"
@@ -4523,14 +4523,14 @@
           "crn": "19660"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "40",
           "section": "504",
           "title": "STRATEGIC MANAGEMENT",
-          "remaining": "24",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Richard H. Lester (P)"
@@ -4552,14 +4552,14 @@
           "crn": "12147"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "40",
           "section": "505",
           "title": "STRATEGIC MANAGEMENT",
-          "remaining": "31",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Richard H. Lester (P)"
@@ -4581,17 +4581,17 @@
           "crn": "12148"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "40",
           "section": "506",
           "title": "STRATEGIC MANAGEMENT",
-          "remaining": "36",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
-            "Kevin T. McSweeney (P)"
+            "Michael D. Howard (P)"
           ],
           "credits": "3",
           "course": "466",
@@ -4614,13 +4614,13 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "14",
           "section": "507",
           "title": "STRATEGIC MANAGEMENT",
-          "remaining": "38",
+          "remaining": "26",
           "capacity": "40",
           "instructor": [
-            "Kevin T. McSweeney (P)"
+            "Michael D. Howard (P)"
           ],
           "credits": "3",
           "course": "466",
@@ -4682,10 +4682,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "500",
           "title": "INTRO TO BUSINESS",
-          "remaining": "447",
+          "remaining": "446",
           "capacity": "450",
           "instructor": [
             "Brandi L. Plunkett (P)"
@@ -4716,10 +4716,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "17",
           "section": "501",
           "title": "ORG DESIGN CHG & DVLPMT",
-          "remaining": "18",
+          "remaining": "9",
           "capacity": "26",
           "instructor": [
             "Beth Koufteros (P)"
@@ -4745,10 +4745,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "12",
           "section": "502",
           "title": "ORG DESIGN CHG & DVLPMT",
-          "remaining": "24",
+          "remaining": "14",
           "capacity": "26",
           "instructor": [
             "Beth Koufteros (P)"
@@ -4779,10 +4779,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "22",
           "section": "930",
           "title": "HUMAN RES SELECTION",
-          "remaining": "22",
+          "remaining": "4",
           "capacity": "26",
           "instructor": [
             "Sabrina S. Saladino (P)"
@@ -4813,10 +4813,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "83",
+          "active": "307",
           "section": "501",
           "title": "SURVEY OF MANAGEMENT",
-          "remaining": "342",
+          "remaining": "118",
           "capacity": "425",
           "instructor": [
             "Liesl S. Wesson (P)"
@@ -4842,10 +4842,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "47",
+          "active": "167",
           "section": "502",
           "title": "SURVEY OF MANAGEMENT",
-          "remaining": "378",
+          "remaining": "258",
           "capacity": "425",
           "instructor": [
             "Liesl S. Wesson (P)"
@@ -4871,10 +4871,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "11",
           "section": "503",
           "title": "SURVEY OF MANAGEMENT",
-          "remaining": "23",
+          "remaining": "14",
           "capacity": "25",
           "instructor": [
             "Liesl S. Wesson (P)"
@@ -4900,10 +4900,10 @@
           "subject": "MGMT",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "6",
           "section": "504",
           "title": "SURVEY OF MANAGEMENT",
-          "remaining": "24",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Liesl S. Wesson (P)"
@@ -4962,5 +4962,5 @@
     }
   },
   "title": "MGMT - Management",
-  "updated": "Mon, 11 Apr 2016 at 12:48 AM"
+  "updated": "Wed, Apr 13 2016 at 01:32 AM"
 }

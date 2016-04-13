@@ -530,10 +530,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "624",
           "title": "RESEARCH",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Carol Stuessy (P)"
@@ -1415,10 +1415,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "9",
           "section": "596",
           "title": "EARLY CHILD THROUGH ADOL EDUC",
-          "remaining": "23",
+          "remaining": "16",
           "capacity": "25",
           "instructor": [
             "Radhika Viruru (P)"
@@ -1444,10 +1444,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "597",
           "title": "EARLY CHILD THROUGH ADOL EDUC",
-          "remaining": "22",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Radhika Viruru (P)"
@@ -1473,10 +1473,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "598",
           "title": "EARLY CHILD THROUGH ADOL EDUC",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Radhika Viruru (P)"
@@ -1502,10 +1502,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "599",
           "title": "EARLY CHILD THROUGH ADOL EDUC",
-          "remaining": "24",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Rebecca S. Thomas (P)"
@@ -1531,10 +1531,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "504",
           "title": "EARLY CHILD THROUGH ADOL EDUC",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -1594,10 +1594,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "600",
           "title": "BIL/MUL CHILD FAM/CUL",
-          "remaining": "17",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "Laurie Dixon (P)"
@@ -1624,14 +1624,14 @@
       "title": "ED ADOL CURR AND LESS DESIGN",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "20",
           "section": "501",
           "title": "ED ADOL CURR AND LESS DESIGN",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Rebecca S. Thomas (P)"
@@ -1653,14 +1653,14 @@
           "crn": "25248"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "20",
           "section": "502",
           "title": "ED ADOL CURR AND LESS DESIGN",
-          "remaining": "16",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Rebecca S. Thomas (P)"
@@ -1686,10 +1686,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "10",
           "section": "503",
           "title": "ED ADOL CURR AND LESS DESIGN",
-          "remaining": "19",
+          "remaining": "10",
           "capacity": "20",
           "instructor": [
             "Ashley D. Gabbard (P)"
@@ -1715,10 +1715,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "12",
           "section": "504",
           "title": "ED ADOL CURR AND LESS DESIGN",
-          "remaining": "18",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "Ashley D. Gabbard (P)"
@@ -1744,10 +1744,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "4",
           "section": "505",
           "title": "ED ADOL CURR AND LESS DESIGN",
-          "remaining": "19",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Samantha M. Shields (P)"
@@ -1830,6 +1830,35 @@
             "WEB"
           ],
           "crn": "13968"
+        },
+        "701": {
+          "select": "C",
+          "subject": "EDCI",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "701",
+          "title": "ANLYS OF TCHNG BEHAVR",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "673",
+          "days": [
+            "WEB"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB"
+          ],
+          "time": [
+            "WEB"
+          ],
+          "crn": "28753"
         }
       }
     },
@@ -2021,15 +2050,15 @@
       "title": "TEACHING ESL",
       "sections": {
         "600": {
-          "select": "C",
+          "select": "SR",
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "TEACHING ESL",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "18",
+          "capacity": "20",
           "instructor": [
             "TBA"
           ],
@@ -2243,10 +2272,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "12",
           "section": "700",
           "title": "REFLECTIVE INQUIRY",
-          "remaining": "19",
+          "remaining": "15",
           "capacity": "27",
           "instructor": [
             "Geor Slattery (P)"
@@ -2283,7 +2312,7 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "TBA"
+            "Robin A. Rackley (P)"
           ],
           "credits": "3",
           "course": "711",
@@ -2708,10 +2737,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "701",
           "title": "TRENDS IN CURR & INSTR",
-          "remaining": "17",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "James D. Laub (P)"
@@ -2989,10 +3018,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "501",
           "title": "TECH IN CLASSROOMS",
-          "remaining": "22",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Heather K. Caldwell (P)"
@@ -3018,10 +3047,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "502",
           "title": "TECH IN CLASSROOMS",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Heather K. Caldwell (P)"
@@ -3105,10 +3134,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "4",
           "section": "505",
           "title": "TECH IN CLASSROOMS",
-          "remaining": "24",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "Heather K. Caldwell (P)"
@@ -3163,10 +3192,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "507",
           "title": "TECH IN CLASSROOMS",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Bart Taylor (P)"
@@ -3676,10 +3705,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "T&L SPC DIMSN & MEAS CPT",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Robert Capraro (P)"
@@ -3739,10 +3768,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "700",
           "title": "TCHNG IN URBAN ENVIRONMT",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Norvella Carter (P)"
@@ -3831,10 +3860,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "701",
           "title": "CURRICULUM DEVELOPMENT",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -3865,10 +3894,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "6",
           "section": "600",
           "title": "RSCH MTHDS IN EDCI III",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "Hersholt Waxman (P)"
@@ -3933,10 +3962,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "699",
           "title": "SOC&EDUC IN WORLD PERS",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "7",
           "instructor": [
             "TBA"
@@ -3962,10 +3991,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "700",
           "title": "SOC&EDUC IN WORLD PERS",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "13",
           "instructor": [
             "TBA"
@@ -3985,35 +4014,6 @@
             "WEB"
           ],
           "crn": "16777"
-        },
-        "701": {
-          "select": "C",
-          "subject": "EDCI",
-          "campus": "CS",
-          "classes": 1,
-          "active": "0",
-          "section": "701",
-          "title": "SOC&EDUC IN WORLD PERS",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "645",
-          "days": [
-            "WEB"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "WEB"
-          ],
-          "time": [
-            "WEB"
-          ],
-          "crn": "24249"
         }
       }
     },
@@ -4180,10 +4180,10 @@
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "9",
           "section": "700",
           "title": "CULTURAL FNDTNS OF EDUC",
-          "remaining": "16",
+          "remaining": "11",
           "capacity": "20",
           "instructor": [
             "Patricia Larke (P)"
@@ -4341,15 +4341,15 @@
       "title": "QUAL RSRCH MTHDS IN C&I",
       "sections": {
         "699": {
-          "select": "C",
+          "select": "SR",
           "subject": "EDCI",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "699",
           "title": "QUAL RSRCH MTHDS IN C&I",
-          "remaining": "0",
-          "capacity": "5",
+          "remaining": "6",
+          "capacity": "15",
           "instructor": [
             "Radhika Viruru (P)"
           ],
@@ -4470,5 +4470,5 @@
     }
   },
   "title": "EDCI - Educ Curriculum & Dev",
-  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
+  "updated": "Wed, Apr 13 2016 at 01:26 AM"
 }

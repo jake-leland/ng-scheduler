@@ -71,10 +71,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "500",
           "title": "POLITICAL ISLAM & JIHAD",
-          "remaining": "8",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Sena Karasipahi (P)"
@@ -105,10 +105,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "HIST RELIGION AMER I",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Evan P. Haefeli (P)"
@@ -139,10 +139,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "CONTEMPLATION MOD WORLD",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Jessica M. Havens (P)"
@@ -168,10 +168,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "CONTEMPLATION MOD WORLD",
-          "remaining": "24",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "Donnalee Dox (P)"
@@ -202,10 +202,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "900",
           "title": "SPTP:ALRO-ATLANTIC RELIGIONS",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Nicole Castor (P)"
@@ -232,14 +232,14 @@
       "title": "LIT RELIGION AND CULTURE",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "500",
           "title": "LIT RELIGION AND CULTURE",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "5",
           "instructor": [
             "Margare Ezell-Mainzer (P)"
@@ -270,10 +270,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "EURO INT MID AGES-17TH",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "TBA"
@@ -304,10 +304,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "900",
           "title": "RELIGIOUS COMMUNICATION",
-          "remaining": "3",
+          "remaining": "1",
           "capacity": "5",
           "instructor": [
             "Heidi Campbell (P)"
@@ -372,10 +372,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "12",
           "section": "500",
           "title": "CLASSICAL MYTHOLOGY",
-          "remaining": "24",
+          "remaining": "18",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -406,10 +406,10 @@
           "subject": "RELS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "FOLKLORE & SUPERNATURAL",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Thomas Green (P)"
@@ -434,5 +434,5 @@
     }
   },
   "title": "RELS - Religious Studies",
-  "updated": "Mon, 11 Apr 2016 at 12:52 AM"
+  "updated": "Wed, Apr 13 2016 at 01:36 AM"
 }

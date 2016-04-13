@@ -2251,10 +2251,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "644",
           "title": "RESEARCH",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Joseph A. Sorg (P)"
@@ -3271,10 +3271,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "907",
           "title": "FUND OF MICROBIOL",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Beiyan Nan (P)",
@@ -3335,14 +3335,14 @@
           "crn": "10440"
         },
         "909": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "17",
+          "active": "20",
           "section": "909",
           "title": "FUND OF MICROBIOL",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Deborah Siegele (P)",
@@ -3407,10 +3407,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "12",
           "section": "910",
           "title": "FUND OF MICROBIOL",
-          "remaining": "17",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "Deborah Siegele (P)",
@@ -3437,14 +3437,14 @@
           "crn": "13467"
         },
         "911": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "20",
           "section": "911",
           "title": "FUND OF MICROBIOL",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Deborah Siegele (P)",
@@ -3505,14 +3505,14 @@
           "crn": "10425"
         },
         "912": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "20",
           "section": "912",
           "title": "FUND OF MICROBIOL",
-          "remaining": "15",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Deborah Siegele (P)",
@@ -3543,10 +3543,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "902",
           "title": "FUND OF MICROBIOL",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Beiyan Nan (P)",
@@ -3573,14 +3573,14 @@
           "crn": "10426"
         },
         "913": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "20",
           "section": "913",
           "title": "FUND OF MICROBIOL",
-          "remaining": "18",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Deborah Siegele (P)",
@@ -3645,10 +3645,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "17",
           "section": "914",
           "title": "FUND OF MICROBIOL",
-          "remaining": "17",
+          "remaining": "3",
           "capacity": "20",
           "instructor": [
             "Deborah Siegele (P)",
@@ -3679,10 +3679,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "904",
           "title": "FUND OF MICROBIOL",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Beiyan Nan (P)",
@@ -3713,10 +3713,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "9",
           "section": "915",
           "title": "FUND OF MICROBIOL",
-          "remaining": "19",
+          "remaining": "11",
           "capacity": "20",
           "instructor": [
             "Deborah Siegele (P)",
@@ -3781,10 +3781,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "12",
           "section": "906",
           "title": "FUND OF MICROBIOL",
-          "remaining": "16",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "Beiyan Nan (P)",
@@ -3820,10 +3820,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "500",
           "title": "GENOMICS",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Rodolfo Aramayo (P)",
@@ -3859,10 +3859,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "33",
           "section": "500",
           "title": "BIOINFORMATICS",
-          "remaining": "53",
+          "remaining": "22",
           "capacity": "55",
           "instructor": [
             "Terry Thomas (P)"
@@ -3893,10 +3893,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "900",
           "title": "CPSTONE RSCH COMM LIFESC",
-          "remaining": "21",
+          "remaining": "20",
           "capacity": "22",
           "instructor": [
             "Matthew Sachs (P)"
@@ -4233,10 +4233,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "512",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "Asha Rao",
@@ -4505,10 +4505,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "516",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "Walter Kemp (P)",
@@ -4573,10 +4573,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "6",
           "section": "518",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "24",
           "instructor": [
             "Walter Kemp (P)",
@@ -5253,10 +5253,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "526",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Andrew G. Tag (P)",
@@ -5559,10 +5559,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "574",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Asha Rao (P)",
@@ -5661,10 +5661,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "532",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Andrew G. Tag (P)",
@@ -5729,10 +5729,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "0",
           "section": "533",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "23",
+          "remaining": "24",
           "capacity": "24",
           "instructor": [
             "Andrew G. Tag (P)",
@@ -5933,10 +5933,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "537",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "Wei Wan (P)",
@@ -6069,10 +6069,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "541",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "21",
+          "remaining": "20",
           "capacity": "24",
           "instructor": [
             "Wei Wan (P)",
@@ -6103,10 +6103,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "542",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Wei Wan (P)",
@@ -6409,10 +6409,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "546",
           "title": "INTRODUCTORY BIOLOGY I",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "Walter Kemp (P)",
@@ -6822,10 +6822,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "8",
           "section": "520",
           "title": "INTRODUCTORY BIOLOGY II",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "24",
           "instructor": [
             "Christopher P. Lee (P)",
@@ -6890,10 +6890,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "7",
           "section": "521",
           "title": "INTRODUCTORY BIOLOGY II",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "23",
           "instructor": [
             "Christopher P. Lee (P)",
@@ -6924,10 +6924,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "511",
           "title": "INTRODUCTORY BIOLOGY II",
-          "remaining": "21",
+          "remaining": "20",
           "capacity": "24",
           "instructor": [
             "Carol B. Johnson (P)",
@@ -6992,10 +6992,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "INTRODUCTORY BIOLOGY II",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "Carol B. Johnson (P)",
@@ -7026,10 +7026,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "5",
           "section": "512",
           "title": "INTRODUCTORY BIOLOGY II",
-          "remaining": "21",
+          "remaining": "19",
           "capacity": "24",
           "instructor": [
             "Carol B. Johnson (P)",
@@ -7264,10 +7264,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "504",
           "title": "INTRODUCTORY BIOLOGY II",
-          "remaining": "22",
+          "remaining": "21",
           "capacity": "24",
           "instructor": [
             "Carol B. Johnson (P)",
@@ -7468,10 +7468,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "507",
           "title": "INTRODUCTORY BIOLOGY II",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "Carol B. Johnson (P)",
@@ -7502,10 +7502,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "518",
           "title": "INTRODUCTORY BIOLOGY II",
-          "remaining": "22",
+          "remaining": "20",
           "capacity": "24",
           "instructor": [
             "Christopher P. Lee (P)",
@@ -7604,10 +7604,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "509",
           "title": "INTRODUCTORY BIOLOGY II",
-          "remaining": "21",
+          "remaining": "20",
           "capacity": "23",
           "instructor": [
             "Carol B. Johnson (P)",
@@ -7745,10 +7745,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "ESSENTIALS IN BIOLOGY",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Leslie Winemiller",
@@ -7779,10 +7779,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "504",
           "title": "ESSENTIALS IN BIOLOGY",
-          "remaining": "21",
+          "remaining": "19",
           "capacity": "23",
           "instructor": [
             "Leslie Winemiller (P)",
@@ -7813,10 +7813,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "ESSENTIALS IN BIOLOGY",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Leslie Winemiller (P)",
@@ -7847,10 +7847,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "506",
           "title": "ESSENTIALS IN BIOLOGY",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "Leslie Winemiller (P)",
@@ -7881,10 +7881,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "507",
           "title": "ESSENTIALS IN BIOLOGY",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Leslie Winemiller (P)",
@@ -7915,10 +7915,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "508",
           "title": "ESSENTIALS IN BIOLOGY",
-          "remaining": "23",
+          "remaining": "21",
           "capacity": "24",
           "instructor": [
             "Leslie Winemiller (P)",
@@ -7954,10 +7954,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "16",
           "section": "500",
           "title": "IMMUNOLOGY",
-          "remaining": "66",
+          "remaining": "52",
           "capacity": "68",
           "instructor": [
             "Rita B. Moyes (P)"
@@ -7988,10 +7988,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "7",
           "section": "201",
           "title": "HNR-MOLECULAR CELL BIOL",
-          "remaining": "34",
+          "remaining": "33",
           "capacity": "40",
           "instructor": [
             "Steve W. Lockless (P)"
@@ -8017,10 +8017,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "501",
           "title": "MOLECULAR CELL BIOL",
-          "remaining": "116",
+          "remaining": "115",
           "capacity": "120",
           "instructor": [
             "Richard H. Gomer (P), Paul Hardin"
@@ -8046,10 +8046,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "13",
           "section": "502",
           "title": "MOLECULAR CELL BIOL",
-          "remaining": "59",
+          "remaining": "55",
           "capacity": "68",
           "instructor": [
             "Karl Aufderheide (P)"
@@ -8075,10 +8075,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "503",
           "title": "MOLECULAR CELL BIOL",
-          "remaining": "66",
+          "remaining": "63",
           "capacity": "68",
           "instructor": [
             "Hongmin Qin (P)"
@@ -8104,10 +8104,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "504",
           "title": "MOLECULAR CELL BIOL",
-          "remaining": "65",
+          "remaining": "64",
           "capacity": "68",
           "instructor": [
             "James Erickson (P)"
@@ -8172,10 +8172,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "501",
           "title": "GENES ECOLOGY EVOLUTION",
-          "remaining": "103",
+          "remaining": "101",
           "capacity": "105",
           "instructor": [
             "Joseph Bernardo (P)"
@@ -8201,10 +8201,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "9",
           "section": "502",
           "title": "GENES ECOLOGY EVOLUTION",
-          "remaining": "99",
+          "remaining": "96",
           "capacity": "105",
           "instructor": [
             "Joseph Bernardo (P)"
@@ -8235,10 +8235,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "34",
           "section": "500",
           "title": "ECOLOGY",
-          "remaining": "196",
+          "remaining": "166",
           "capacity": "200",
           "instructor": [
             "David E. Baumgardner (P)"
@@ -8269,10 +8269,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "13",
           "section": "500",
           "title": "REG & BEHAV NEUROSCIENCE",
-          "remaining": "62",
+          "remaining": "55",
           "capacity": "68",
           "instructor": [
             "Michael Smotherman (P)"
@@ -8303,10 +8303,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "18",
           "section": "500",
           "title": "MEDICAL MICROBIOLOGY",
-          "remaining": "38",
+          "remaining": "22",
           "capacity": "40",
           "instructor": [
             "Rita B. Moyes (P)"
@@ -8371,10 +8371,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "7",
           "section": "501",
           "title": "ECOLOGY LABORATORY",
-          "remaining": "15",
+          "remaining": "9",
           "capacity": "16",
           "instructor": [
             "David E. Baumgardner (P)"
@@ -8400,10 +8400,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "8",
           "section": "502",
           "title": "ECOLOGY LABORATORY",
-          "remaining": "15",
+          "remaining": "8",
           "capacity": "16",
           "instructor": [
             "David E. Baumgardner (P)"
@@ -8434,10 +8434,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "31",
           "section": "500",
           "title": "CELL BIOLOGY",
-          "remaining": "59",
+          "remaining": "39",
           "capacity": "70",
           "instructor": [
             "Karl Aufderheide (P)"
@@ -8468,10 +8468,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "0",
           "section": "600",
           "title": "DEVELOPMENTAL GENETICS",
-          "remaining": "11",
+          "remaining": "12",
           "capacity": "12",
           "instructor": [
             "Bruce Riley (P)"
@@ -8502,10 +8502,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "28",
           "section": "500",
           "title": "DEVELOPMENTAL BIOLOGY",
-          "remaining": "32",
+          "remaining": "12",
           "capacity": "40",
           "instructor": [
             "Arne Lekven (P)"
@@ -8570,10 +8570,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "0",
           "section": "600",
           "title": "CELL BIOLOGY",
-          "remaining": "19",
+          "remaining": "20",
           "capacity": "20",
           "instructor": [
             "Kathryn Ryan (P), Luis Garcia"
@@ -8604,10 +8604,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 4,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "CHORDATE ANATOMY",
-          "remaining": "14",
+          "remaining": "10",
           "capacity": "14",
           "instructor": [
             "Ira Greenbaum (P)",
@@ -8648,10 +8648,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 4,
-          "active": "3",
+          "active": "7",
           "section": "502",
           "title": "CHORDATE ANATOMY",
-          "remaining": "11",
+          "remaining": "7",
           "capacity": "14",
           "instructor": [
             "Ira Greenbaum (P)",
@@ -8731,11 +8731,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "520",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "3",
-          "capacity": "3",
+          "remaining": "1",
+          "capacity": "4",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -8761,15 +8761,15 @@
           "crn": "21153"
         },
         "510": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "6",
           "section": "510",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "4",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -8795,15 +8795,15 @@
           "crn": "10409"
         },
         "521": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "521",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "2",
-          "capacity": "3",
+          "remaining": "0",
+          "capacity": "4",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -8829,15 +8829,15 @@
           "crn": "21154"
         },
         "511": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "6",
           "section": "511",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "2",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -8863,15 +8863,15 @@
           "crn": "10410"
         },
         "522": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "522",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "1",
-          "capacity": "3",
+          "remaining": "0",
+          "capacity": "4",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -8901,11 +8901,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "6",
           "section": "501",
           "title": "INTEGRATED HUM AN/PHY I",
           "remaining": "0",
-          "capacity": "5",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn",
             "William B. Cohn (P)"
@@ -8931,15 +8931,15 @@
           "crn": "10400"
         },
         "512": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "6",
           "section": "512",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "2",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -8969,11 +8969,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "6",
           "section": "502",
           "title": "INTEGRATED HUM AN/PHY I",
           "remaining": "0",
-          "capacity": "5",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn",
             "William B. Cohn (P)"
@@ -9003,11 +9003,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "513",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "1",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -9033,15 +9033,15 @@
           "crn": "10412"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "6",
           "section": "503",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "4",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn",
             "William B. Cohn (P)"
@@ -9071,11 +9071,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "514",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "4",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -9101,15 +9101,15 @@
           "crn": "10413"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "6",
           "section": "504",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "1",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -9139,11 +9139,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "515",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "1",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn",
             "William B. Cohn (P)"
@@ -9169,15 +9169,15 @@
           "crn": "10414"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "6",
           "section": "505",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "1",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -9203,15 +9203,15 @@
           "crn": "10404"
         },
         "516": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "6",
           "section": "516",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "4",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn",
             "William B. Cohn (P)"
@@ -9241,11 +9241,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "506",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "3",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -9271,15 +9271,15 @@
           "crn": "10405"
         },
         "517": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "517",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "2",
-          "capacity": "3",
+          "remaining": "0",
+          "capacity": "4",
           "instructor": [
             "William B. Cohn",
             "William B. Cohn (P)"
@@ -9309,11 +9309,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "6",
           "section": "507",
           "title": "INTEGRATED HUM AN/PHY I",
           "remaining": "0",
-          "capacity": "5",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -9346,8 +9346,8 @@
           "active": "0",
           "section": "518",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "3",
-          "capacity": "3",
+          "remaining": "4",
+          "capacity": "4",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -9373,15 +9373,15 @@
           "crn": "21151"
         },
         "508": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "6",
           "section": "508",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "1",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -9414,8 +9414,8 @@
           "active": "2",
           "section": "519",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "1",
-          "capacity": "3",
+          "remaining": "2",
+          "capacity": "4",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -9441,15 +9441,15 @@
           "crn": "21152"
         },
         "509": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "6",
           "section": "509",
           "title": "INTEGRATED HUM AN/PHY I",
-          "remaining": "2",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "6",
           "instructor": [
             "William B. Cohn (P)",
             "William B. Cohn"
@@ -9480,14 +9480,14 @@
       "title": "SEMINAR IN BIOLOGY",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "12",
           "section": "501",
           "title": "SEM IN DEPT COLLOQUIUM",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Luis Garcia (P)"
@@ -9547,10 +9547,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "518",
           "title": "DIRECTED STUDIES",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Jay Walton (P)"
@@ -9813,10 +9813,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "606",
           "title": "SEMINAR: MICRO GENETIC JRNL CL",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Joseph A. Sorg (P)"
@@ -9930,14 +9930,14 @@
       "title": "MARINE BIOLOGY",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "15",
           "section": "501",
           "title": "MARINE BIOLOGY",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Mary Wicksten (P)",
@@ -9968,10 +9968,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "11",
           "section": "502",
           "title": "MARINE BIOLOGY",
-          "remaining": "13",
+          "remaining": "4",
           "capacity": "15",
           "instructor": [
             "Mary Wicksten (P)",
@@ -10037,15 +10037,15 @@
       "title": "INTEGRATED HUM AN/PH II",
       "sections": {
         "510": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "510",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "4",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10071,15 +10071,15 @@
           "crn": "13035"
         },
         "511": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "8",
           "section": "511",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "3",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10105,15 +10105,15 @@
           "crn": "13431"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "501",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor",
             "Lathrop Taylor (P)"
@@ -10143,11 +10143,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "8",
           "section": "512",
           "title": "INTEGRATED HUM AN/PH II",
           "remaining": "0",
-          "capacity": "5",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10173,15 +10173,15 @@
           "crn": "13432"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "502",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "2",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor",
             "Lathrop Taylor (P)"
@@ -10207,15 +10207,15 @@
           "crn": "10418"
         },
         "513": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "8",
           "section": "513",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "3",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10245,11 +10245,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "503",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "3",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor",
             "Lathrop Taylor (P)"
@@ -10275,15 +10275,15 @@
           "crn": "10419"
         },
         "514": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "8",
           "section": "514",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "1",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10309,15 +10309,15 @@
           "crn": "21156"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "504",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "4",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10343,15 +10343,15 @@
           "crn": "10420"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "505",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "4",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10377,15 +10377,15 @@
           "crn": "10421"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "506",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10411,15 +10411,15 @@
           "crn": "10422"
         },
         "507": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "8",
           "section": "507",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "3",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10445,15 +10445,15 @@
           "crn": "10423"
         },
         "508": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "508",
           "title": "INTEGRATED HUM AN/PH II",
-          "remaining": "2",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10483,11 +10483,11 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "8",
           "section": "509",
           "title": "INTEGRATED HUM AN/PH II",
           "remaining": "0",
-          "capacity": "5",
+          "capacity": "8",
           "instructor": [
             "Lathrop Taylor (P)",
             "Lathrop Taylor"
@@ -10556,10 +10556,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "49",
           "section": "900",
           "title": "CRITICAL WRITING IN BIOL",
-          "remaining": "86",
+          "remaining": "47",
           "capacity": "96",
           "instructor": [
             "Ginger Carney (P)"
@@ -10586,14 +10586,14 @@
       "title": "CELL BIOLOGY LAB",
       "sections": {
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "13",
           "section": "901",
           "title": "CELL BIOLOGY LAB",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "13",
           "instructor": [
             "Lawrence Griffing (P)"
@@ -10615,14 +10615,14 @@
           "crn": "10447"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "13",
           "section": "902",
           "title": "CELL BIOLOGY LAB",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "13",
           "instructor": [
             "Lawrence Griffing (P)"
@@ -10653,10 +10653,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "14",
           "section": "500",
           "title": "BIOLOGY OF VIRUSES",
-          "remaining": "76",
+          "remaining": "66",
           "capacity": "80",
           "instructor": [
             "Deborah Bell-Pedersen (P)"
@@ -10687,10 +10687,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "36",
           "section": "500",
           "title": "INTEGRAT ANIMAL BEHAVIOR",
-          "remaining": "91",
+          "remaining": "64",
           "capacity": "100",
           "instructor": [
             "Gil Rosenthal (P)"
@@ -10925,10 +10925,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "ZOOLOGY",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Leslie Winemiller",
@@ -11027,10 +11027,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "505",
           "title": "ZOOLOGY",
-          "remaining": "7",
+          "remaining": "5",
           "capacity": "9",
           "instructor": [
             "Leslie Winemiller (P)",
@@ -11061,10 +11061,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "ZOOLOGY",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "24",
           "instructor": [
             "Leslie Winemiller (P)",
@@ -11095,10 +11095,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "507",
           "title": "ZOOLOGY",
-          "remaining": "22",
+          "remaining": "21",
           "capacity": "24",
           "instructor": [
             "Leslie Winemiller (P)",
@@ -11129,10 +11129,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "508",
           "title": "ZOOLOGY",
-          "remaining": "22",
+          "remaining": "20",
           "capacity": "24",
           "instructor": [
             "Leslie Winemiller (P)",
@@ -11202,10 +11202,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "501",
           "title": "INTRO MICROBIOLOGY",
-          "remaining": "18",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Wei Wan (P)",
@@ -11236,10 +11236,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "17",
           "section": "502",
           "title": "INTRO MICROBIOLOGY",
-          "remaining": "16",
+          "remaining": "3",
           "capacity": "20",
           "instructor": [
             "Wei Wan (P)",
@@ -11270,10 +11270,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "7",
           "section": "503",
           "title": "INTRO MICROBIOLOGY",
-          "remaining": "18",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "Wei Wan (P)",
@@ -11304,10 +11304,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "504",
           "title": "INTRO MICROBIOLOGY",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Wei Wan (P)",
@@ -11338,10 +11338,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "505",
           "title": "INTRO MICROBIOLOGY",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Wei Wan (P)",
@@ -11372,10 +11372,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "506",
           "title": "INTRO MICROBIOLOGY",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Wei Wan (P)",
@@ -11406,10 +11406,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "14",
           "section": "507",
           "title": "INTRO MICROBIOLOGY",
-          "remaining": "19",
+          "remaining": "6",
           "capacity": "20",
           "instructor": [
             "Wei Wan (P)",
@@ -11440,10 +11440,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "12",
           "section": "508",
           "title": "INTRO MICROBIOLOGY",
-          "remaining": "16",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "Wei Wan (P)",
@@ -11479,10 +11479,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "28",
           "section": "500",
           "title": "COMPAR ENDOCRINOLOGY",
-          "remaining": "21",
+          "remaining": "2",
           "capacity": "30",
           "instructor": [
             "Duncan Mackenzie (P)"
@@ -11513,10 +11513,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "0",
           "section": "600",
           "title": "STRUCT & MOLEC BIOLOGY",
-          "remaining": "19",
+          "remaining": "20",
           "capacity": "20",
           "instructor": [
             "Mark L. Harlow (P), Uel J. Mcmahan"
@@ -11547,10 +11547,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "10",
           "section": "500",
           "title": "BACTERIAL GENETICS",
-          "remaining": "23",
+          "remaining": "15",
           "capacity": "25",
           "instructor": [
             "Michael Manson (P)"
@@ -11615,10 +11615,10 @@
           "subject": "BIOL",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "MOLECULAR TOOLS BIOLOGY",
-          "remaining": "29",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Jerome Menet (P), Christine Merlin"
@@ -11643,5 +11643,5 @@
     }
   },
   "title": "BIOL - Biology",
-  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
+  "updated": "Wed, Apr 13 2016 at 01:23 AM"
 }

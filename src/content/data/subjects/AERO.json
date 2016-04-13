@@ -535,10 +535,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "636",
           "title": "RESEARCH",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Helen Reed (P)"
@@ -1028,10 +1028,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "626",
           "title": "RESEARCH",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Sharath Girimaji (P)"
@@ -1057,10 +1057,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "605",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Dimitris Lagoudas (P)"
@@ -1086,10 +1086,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "606",
           "title": "RESEARCH",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "John Junkins (P)"
@@ -1236,10 +1236,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "29",
           "section": "500",
           "title": "AEROTHERMO PROPULSION",
-          "remaining": "58",
+          "remaining": "37",
           "capacity": "66",
           "instructor": [
             "Paul Cizmas (P)"
@@ -1266,14 +1266,14 @@
       "title": "AIRFOIL AND WING DESIGN",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "20",
+          "active": "25",
           "section": "500",
           "title": "AIRFOIL AND WING DESIGN",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "25",
           "instructor": [
             "Edward White (P)"
@@ -1304,10 +1304,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "9",
           "section": "500",
           "title": "INTRO TO AERO MECHANICS",
-          "remaining": "54",
+          "remaining": "51",
           "capacity": "60",
           "instructor": [
             "Thomas Pollock (P)",
@@ -1343,10 +1343,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "12",
           "section": "500",
           "title": "NUMERICAL SIMULATION",
-          "remaining": "56",
+          "remaining": "48",
           "capacity": "60",
           "instructor": [
             "Theofanis Strouboulis (P)"
@@ -1377,10 +1377,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "20",
           "section": "500",
           "title": "HEAT TRANS VISC FLOWS",
-          "remaining": "51",
+          "remaining": "36",
           "capacity": "56",
           "instructor": [
             "Helen Reed (P)"
@@ -1411,10 +1411,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "12",
           "section": "501",
           "title": "AEROSPACE DYNAMICS",
-          "remaining": "57",
+          "remaining": "54",
           "capacity": "66",
           "instructor": [
             "Suman Chakravorty (P)"
@@ -1440,10 +1440,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "17",
           "section": "502",
           "title": "AEROSPACE DYNAMICS",
-          "remaining": "41",
+          "remaining": "38",
           "capacity": "55",
           "instructor": [
             "Benedict Moble (P)"
@@ -1508,10 +1508,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "501",
           "title": "INTRO TO AEROTHERMODYNM",
-          "remaining": "88",
+          "remaining": "87",
           "capacity": "90",
           "instructor": [
             "TBA",
@@ -1581,10 +1581,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "8",
           "section": "500",
           "title": "INTRO AERO MECH OF MATLS",
-          "remaining": "44",
+          "remaining": "42",
           "capacity": "50",
           "instructor": [
             "Jean-Briac B. Le Graverend",
@@ -1620,10 +1620,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "600",
           "title": "AEROTHERMOCHEMISTRY",
-          "remaining": "8",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Rodney Bowersox (P)"
@@ -1654,10 +1654,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "57",
           "section": "501",
           "title": "AERO MATERIALS SCIENCE",
-          "remaining": "68",
+          "remaining": "23",
           "capacity": "80",
           "instructor": [
             "James G. Boyd (P)"
@@ -1717,10 +1717,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "14",
           "section": "500",
           "title": "AEROTHERMOCHEMISTRY",
-          "remaining": "24",
+          "remaining": "11",
           "capacity": "25",
           "instructor": [
             "Rodney Bowersox (P)"
@@ -1819,10 +1819,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "33",
           "section": "500",
           "title": "CHEM ROCKET PROPULSION",
-          "remaining": "35",
+          "remaining": "7",
           "capacity": "40",
           "instructor": [
             "Adonios Karpetis (P)"
@@ -1853,10 +1853,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "601",
           "title": "SEMINAR",
-          "remaining": "21",
+          "remaining": "20",
           "capacity": "22",
           "instructor": [
             "Adonios Karpetis (P)"
@@ -1882,10 +1882,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "602",
           "title": "SEMINAR",
-          "remaining": "43",
+          "remaining": "39",
           "capacity": "48",
           "instructor": [
             "John Valasek (P)"
@@ -1912,15 +1912,15 @@
       "title": "INTRO AERO COMPUTATION",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "500",
           "title": "INTRO AERO COMPUTATION",
-          "remaining": "-2",
-          "capacity": "0",
+          "remaining": "27",
+          "capacity": "30",
           "instructor": [
             "Suman Chakravorty (P)",
             "Suman Chakravorty"
@@ -1928,7 +1928,7 @@
           "credits": "4",
           "course": "220",
           "days": [
-            "MW",
+            "MWF",
             "TR"
           ],
           "date (mm/dd)": [
@@ -1940,21 +1940,21 @@
             "HRBB 627"
           ],
           "time": [
-            "04:10 pm-05:25 pm",
+            "10:20 am-11:10 am",
             "09:35 am-10:50 am"
           ],
           "crn": "24156"
         },
         "501": {
-          "select": "C",
+          "select": "SR",
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "INTRO AERO COMPUTATION",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "29",
+          "capacity": "30",
           "instructor": [
             "Suman Chakravorty (P)",
             "Suman Chakravorty"
@@ -1962,7 +1962,7 @@
           "credits": "4",
           "course": "220",
           "days": [
-            "MW",
+            "MWF",
             "TR"
           ],
           "date (mm/dd)": [
@@ -1974,7 +1974,7 @@
             "HRBB 627"
           ],
           "time": [
-            "04:10 pm-05:25 pm",
+            "10:20 am-11:10 am",
             "12:45 pm-02:00 pm"
           ],
           "crn": "24157"
@@ -2023,10 +2023,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "32",
           "section": "500",
           "title": "DYN OF AERO VEHICLES",
-          "remaining": "49",
+          "remaining": "28",
           "capacity": "60",
           "instructor": [
             "TBA"
@@ -2057,10 +2057,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "600",
           "title": "TURBULENCE PROCESSES",
-          "remaining": "38",
+          "remaining": "35",
           "capacity": "40",
           "instructor": [
             "Sharath Girimaji (P)"
@@ -2125,10 +2125,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "200",
           "title": "HNR-INTRO TO FLIGHT",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Kristi J. Shryock (P)",
@@ -2411,10 +2411,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "12",
           "section": "500",
           "title": "THEORETICAL AERODYN",
-          "remaining": "69",
+          "remaining": "65",
           "capacity": "77",
           "instructor": [
             "Diego A. Donzis (P)"
@@ -2440,10 +2440,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "6",
           "section": "501",
           "title": "THEORETICAL AERODYN",
-          "remaining": "52",
+          "remaining": "50",
           "capacity": "56",
           "instructor": [
             "TBA"
@@ -2474,10 +2474,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "27",
           "section": "500",
           "title": "ACT CONTR FOR AERO VEH",
-          "remaining": "53",
+          "remaining": "29",
           "capacity": "56",
           "instructor": [
             "Srinivas Vadali (P)"
@@ -2508,10 +2508,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "12",
+          "active": "17",
           "section": "901",
           "title": "AERO ENGR LAB",
-          "remaining": "8",
+          "remaining": "3",
           "capacity": "20",
           "instructor": [
             "Othon Rediniotis (P)",
@@ -2542,10 +2542,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "902",
           "title": "AERO ENGR LAB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Othon Rediniotis (P)",
@@ -2576,10 +2576,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "2",
           "section": "903",
           "title": "AERO ENGR LAB",
-          "remaining": "17",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Othon Rediniotis (P)",
@@ -2610,10 +2610,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "904",
           "title": "AERO ENGR LAB",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Othon Rediniotis",
@@ -2678,10 +2678,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "906",
           "title": "AERO ENGR LAB",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -2824,11 +2824,11 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "200",
           "title": "HNR-SPACE TECHNOLOGY I",
-          "remaining": "13",
-          "capacity": "15",
+          "remaining": "4",
+          "capacity": "7",
           "instructor": [
             "Gregory E. Chamitoff (P)"
           ],
@@ -2849,15 +2849,15 @@
           "crn": "13366"
         },
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "20",
+          "active": "77",
           "section": "500",
           "title": "ORBITAL MECHANICS",
-          "remaining": "45",
-          "capacity": "65",
+          "remaining": "0",
+          "capacity": "77",
           "instructor": [
             "Gregory E. Chamitoff (P)"
           ],
@@ -2887,10 +2887,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "11",
           "section": "501",
           "title": "SPTP: AEROSPACE ENGR LAB II",
-          "remaining": "12",
+          "remaining": "4",
           "capacity": "15",
           "instructor": [
             "Mohammad Naraghi (P)",
@@ -2921,10 +2921,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "9",
           "section": "502",
           "title": "SPTP:APP OF ENGR FRAC MECHANIC",
-          "remaining": "22",
+          "remaining": "16",
           "capacity": "25",
           "instructor": [
             "Vikram Kinra (P)"
@@ -2950,10 +2950,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "24",
           "section": "503",
           "title": "SPTP: HELICOPTER AERODYNAMICS",
-          "remaining": "29",
+          "remaining": "6",
           "capacity": "30",
           "instructor": [
             "Benedict Moble (P)"
@@ -3013,10 +3013,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "28",
           "section": "500",
           "title": "HIGH SPEED AERODYN",
-          "remaining": "39",
+          "remaining": "22",
           "capacity": "50",
           "instructor": [
             "TBA"
@@ -3047,10 +3047,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "27",
           "section": "501",
           "title": "AEROSPACE VEHICLE DES II",
-          "remaining": "33",
+          "remaining": "13",
           "capacity": "40",
           "instructor": [
             "Harry Elmendorf (P)",
@@ -3081,10 +3081,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "16",
           "section": "503",
           "title": "AEROSPACE VEHICLE DES II",
-          "remaining": "39",
+          "remaining": "24",
           "capacity": "40",
           "instructor": [
             "David B. Kanipe (P)",
@@ -3120,10 +3120,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "SPACECRAFT DYNAMICS",
-          "remaining": "38",
+          "remaining": "37",
           "capacity": "40",
           "instructor": [
             "John E. Hurtado (P)"
@@ -3183,10 +3183,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "16",
           "section": "500",
           "title": "AERO STRUCTURAL ANALYS I",
-          "remaining": "36",
+          "remaining": "34",
           "capacity": "50",
           "instructor": [
             "John Whitcomb (P)"
@@ -3212,10 +3212,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "10",
           "section": "501",
           "title": "AERO STRUCTURAL ANALYS I",
-          "remaining": "74",
+          "remaining": "70",
           "capacity": "80",
           "instructor": [
             "TBA"
@@ -3246,10 +3246,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "600",
           "title": "ADVANCED AERODYNAMICS",
-          "remaining": "9",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Edward White (P)"
@@ -3310,14 +3310,14 @@
       "title": "SPACE SYSTEM DESIGN",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "40",
           "section": "500",
           "title": "SPACE SYSTEM DESIGN",
-          "remaining": "37",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "David Hyland (P)"
@@ -3348,10 +3348,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "17",
           "section": "500",
           "title": "AERO STRUCTURAL ANALY II",
-          "remaining": "54",
+          "remaining": "43",
           "capacity": "60",
           "instructor": [
             "John Whitcomb (P)"
@@ -3365,7 +3365,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "HRBB 131"
+            "RDMC 202"
           ],
           "time": [
             "10:20 am-11:10 am"
@@ -3382,10 +3382,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "CONTINUUM MECHANICS",
-          "remaining": "39",
+          "remaining": "38",
           "capacity": "40",
           "instructor": [
             "Amine Benzerga (P)"
@@ -3416,10 +3416,10 @@
           "subject": "AERO",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "8",
           "section": "600",
           "title": "MODERN CONTROL AERO SYS",
-          "remaining": "33",
+          "remaining": "32",
           "capacity": "40",
           "instructor": [
             "John Valasek (P)"
@@ -3512,5 +3512,5 @@
     }
   },
   "title": "AERO - Aerospace Engineering",
-  "updated": "Mon, 11 Apr 2016 at 12:36 AM"
+  "updated": "Wed, Apr 13 2016 at 01:20 AM"
 }

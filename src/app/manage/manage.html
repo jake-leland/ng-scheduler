@@ -5,47 +5,48 @@
                     ng-disabled="tab.disabled"
                     label="{{tab.title}}">
                 <div class="demo-tab tab{{$index%4}}">
-                    <md-toolbar md-scroll-shrink>
-                        <div class="md-toolbar-tools" style="font-size: 16px;">
-
-                            <p>{{subjects[tab.subject].courses[tab.course].title}}<br>
-                                <small>Updated: {{subjects[tab.subject].updated}}</small>
-                            </p>
-                            <span flex></span>
+                    <md-list>
+                        <md-subheader class="md-no-sticky">
+                            Updated: {{subjects[tab.subject].updated}}
                             <md-button class="md-raised" aria-label="Remove" ng-click="removeCourse( tab )">
                                 Remove
                             </md-button>
-                        </div>
-                    </md-toolbar>
-                    <md-list>
-                        <section ng-repeat="(instructor, sections) in tab.sectionListing">
-                            <md-subheader>
-                                {{instructor}}
-                            </md-subheader>
-                            <md-list-item class="md-3-line"
-                                          ng-repeat="section in sections"
-                                          ng-click="toggleSection(section)">
-                                <md-checkbox ng-click="toggleSection(section)"
-                                             ng-checked="mySections.indexOf(section) > -1"></md-checkbox>
-                                <div class="md-list-item-text" layout="row" style="width:100%">
-                                    <div flex="40" layout="column" layout-align="center">
-                                        <h3>{{section.section}} ({{section.select}})</h3>
-                                        <h4>{{section.remaining}}/{{section.capacity}}
-                                            <small>remaining</small>
-                                        </h4>
-                                        <p>{{section.credits}} hr(s)</p>
-                                    </div>
-                                    <div flex="60" layout="column" layout-align="center">
-                                        <p ng-repeat="time in section.time track by $index">
-                                            <small>
-                                                <small>
-                                                    {{time}}, {{section.days[$index]}}
-                                                </small>
-                                            </small>
-                                        </p>
-                                    </div>
+                        </md-subheader>
+                        <section ng-repeat="(title, instructors) in tab.sectionListing">
+                            <md-toolbar>
+                                <div class="md-toolbar-tools" style="font-size: 16px;">
+                                    {{title}}
                                 </div>
-                            </md-list-item>
+                            </md-toolbar>
+                            <section ng-repeat="(instructor, sections) in instructors">
+                                <md-subheader class="md-no-sticky">
+                                    {{instructor}}
+                                </md-subheader>
+                                <md-list-item class="md-3-line"
+                                              ng-repeat="section in sections"
+                                              ng-click="toggleSection(section)">
+                                    <md-checkbox ng-click="toggleSection(section)"
+                                                 ng-checked="mySections.indexOf(section) > -1"></md-checkbox>
+                                    <div class="md-list-item-text" layout="row" style="width:100%">
+                                        <div flex="40" layout="column" layout-align="center">
+                                            <h3>{{section.section}} ({{section.select}})</h3>
+                                            <h4>{{section.remaining}}/{{section.capacity}}
+                                                <small>open</small>
+                                            </h4>
+                                            <p>{{section.credits}} hr(s)</p>
+                                        </div>
+                                        <div flex="60" layout="column" layout-align="center">
+                                            <p ng-repeat="time in section.time track by $index">
+                                                <small>
+                                                    <small>
+                                                        {{time}}, {{section.days[$index]}}
+                                                    </small>
+                                                </small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </md-list-item>
+                            </section>
                         </section>
                     </md-list>
                 </div>

@@ -2019,10 +2019,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "648",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Thomas Dewitt (P)"
@@ -2169,10 +2169,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "ICHTHYOLOGY",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Kevin W. Conway (P)",
@@ -2199,14 +2199,14 @@
           "crn": "12865"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "12",
           "section": "502",
           "title": "ICHTHYOLOGY",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Kevin W. Conway (P)",
@@ -2237,10 +2237,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "9",
           "section": "503",
           "title": "ICHTHYOLOGY",
-          "remaining": "11",
+          "remaining": "3",
           "capacity": "12",
           "instructor": [
             "Kevin W. Conway (P)",
@@ -2276,10 +2276,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "901",
           "title": "PRIN OF FISHERIES MGMT",
-          "remaining": "13",
+          "remaining": "9",
           "capacity": "14",
           "instructor": [
             "TBA",
@@ -2310,10 +2310,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "11",
           "section": "902",
           "title": "PRIN OF FISHERIES MGMT",
-          "remaining": "13",
+          "remaining": "3",
           "capacity": "14",
           "instructor": [
             "TBA",
@@ -2349,10 +2349,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "14",
           "section": "500",
           "title": "MOL ECOL WLDLF & FISH",
-          "remaining": "25",
+          "remaining": "14",
           "capacity": "28",
           "instructor": [
             "Luis Hurtado Clavijo (P)"
@@ -2383,10 +2383,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "9",
           "section": "501",
           "title": "NAT HIST INVERTEBRATES",
-          "remaining": "11",
+          "remaining": "3",
           "capacity": "12",
           "instructor": [
             "Norman Dronen (P)",
@@ -2417,10 +2417,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "NAT HIST INVERTEBRATES",
-          "remaining": "12",
+          "remaining": "10",
           "capacity": "12",
           "instructor": [
             "Norman Dronen",
@@ -2447,14 +2447,14 @@
           "crn": "12870"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "12",
           "section": "503",
           "title": "NAT HIST INVERTEBRATES",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Norman Dronen (P)",
@@ -2485,10 +2485,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "NAT HIST INVERTEBRATES",
-          "remaining": "12",
+          "remaining": "10",
           "capacity": "12",
           "instructor": [
             "Norman Dronen (P)",
@@ -2553,10 +2553,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "506",
           "title": "NAT HIST INVERTEBRATES",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "12",
           "instructor": [
             "Norman Dronen (P)",
@@ -2587,10 +2587,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "507",
           "title": "NAT HIST INVERTEBRATES",
-          "remaining": "11",
+          "remaining": "8",
           "capacity": "12",
           "instructor": [
             "Norman Dronen (P)",
@@ -2738,10 +2738,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "WILDLIFE ECOTOXICOLOGY",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -2767,10 +2767,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "700",
           "title": "WILDLIFE ECOTOXICOLOGY",
-          "remaining": "7",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Miguel Mora-Zacarias (P)"
@@ -2835,10 +2835,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "SEMINAR IN ECOLOGY",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Kirk Winemiller (P)"
@@ -5620,10 +5620,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "500",
           "title": "ETHOLOGY",
-          "remaining": "38",
+          "remaining": "36",
           "capacity": "40",
           "instructor": [
             "Emma P. Gomez Ruiz (P)"
@@ -5649,10 +5649,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "9",
           "section": "700",
           "title": "ETHOLOGY",
-          "remaining": "37",
+          "remaining": "31",
           "capacity": "40",
           "instructor": [
             "Emma P. Gomez Ruiz (P)"
@@ -5683,10 +5683,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "511",
           "title": "NAT HIST OF THE VERTS",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Kevin W. Conway (P)",
@@ -5751,10 +5751,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "513",
           "title": "NAT HIST OF THE VERTS",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "12",
           "instructor": [
             "Kevin W. Conway (P)",
@@ -5819,10 +5819,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "515",
           "title": "NAT HIST OF THE VERTS",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Kevin W. Conway (P)",
@@ -5853,10 +5853,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "516",
           "title": "NAT HIST OF THE VERTS",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Kevin W. Conway (P)",
@@ -5892,10 +5892,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "511",
           "title": "GENERAL MAMMALOGY",
-          "remaining": "12",
+          "remaining": "4",
           "capacity": "12",
           "instructor": [
             "Jessica E. Light (P)",
@@ -5926,10 +5926,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "512",
           "title": "GENERAL MAMMALOGY",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "12",
           "instructor": [
             "Jessica E. Light (P)",
@@ -5960,10 +5960,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "513",
           "title": "GENERAL MAMMALOGY",
-          "remaining": "11",
+          "remaining": "7",
           "capacity": "12",
           "instructor": [
             "Jessica E. Light (P)",
@@ -5994,10 +5994,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "514",
           "title": "GENERAL MAMMALOGY",
-          "remaining": "12",
+          "remaining": "4",
           "capacity": "12",
           "instructor": [
             "Jessica E. Light (P)",
@@ -6025,6 +6025,40 @@
         }
       }
     },
+    "489": {
+      "title": "SPECIAL TOPICS IN",
+      "sections": {
+        "500": {
+          "select": "C",
+          "subject": "WFSC",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "500",
+          "title": "SPTP: FUNCTNL ECO OF WILDLIFE",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "Peregrine S. Barboza (P)"
+          ],
+          "credits": "3",
+          "course": "489",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "NGLE 308"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "28741"
+        }
+      }
+    },
     "402": {
       "title": "GENERAL ORNITHOLOGY",
       "sections": {
@@ -6033,10 +6067,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "5",
           "section": "501",
           "title": "GENERAL ORNITHOLOGY (Syllabus)",
-          "remaining": "11",
+          "remaining": "7",
           "capacity": "12",
           "instructor": [
             "Mike Morrison (P)",
@@ -6072,10 +6106,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "4",
           "section": "502",
           "title": "GENERAL ORNITHOLOGY (Syllabus)",
-          "remaining": "11",
+          "remaining": "8",
           "capacity": "12",
           "instructor": [
             "Mike Morrison (P)",
@@ -6111,10 +6145,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 3,
-          "active": "2",
+          "active": "3",
           "section": "503",
           "title": "GENERAL ORNITHOLOGY (Syllabus)",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "12",
           "instructor": [
             "Mike Morrison (P)",
@@ -6150,10 +6184,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "GENERAL ORNITHOLOGY (Syllabus)",
-          "remaining": "12",
+          "remaining": "10",
           "capacity": "12",
           "instructor": [
             "Mike Morrison (P)",
@@ -6228,10 +6262,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "501",
           "title": "ANIMAL ECOLOGY",
-          "remaining": "11",
+          "remaining": "4",
           "capacity": "12",
           "instructor": [
             "William Grant (P)",
@@ -6262,10 +6296,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "7",
           "section": "502",
           "title": "ANIMAL ECOLOGY",
-          "remaining": "11",
+          "remaining": "5",
           "capacity": "12",
           "instructor": [
             "William Grant (P)",
@@ -6296,10 +6330,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "1",
           "section": "503",
           "title": "ANIMAL ECOLOGY",
-          "remaining": "10",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "William Grant (P)",
@@ -6330,10 +6364,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "504",
           "title": "ANIMAL ECOLOGY",
-          "remaining": "10",
+          "remaining": "2",
           "capacity": "12",
           "instructor": [
             "William Grant (P)",
@@ -6408,10 +6442,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "FISH ECOPHYSIOLOGY",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Thomas Dewitt (P)"
@@ -6572,6 +6606,40 @@
             "WEB"
           ],
           "crn": "24630"
+        },
+        "701": {
+          "select": "SR",
+          "subject": "WFSC",
+          "campus": "CS",
+          "classes": 2,
+          "active": "1",
+          "section": "701",
+          "title": "DYNAMICS OF POPULATION",
+          "remaining": "4",
+          "capacity": "5",
+          "instructor": [
+            "TBA",
+            "Masami Fujiwara (P)"
+          ],
+          "credits": "4",
+          "course": "624",
+          "days": [
+            "WEB",
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "WEB",
+            "WEB"
+          ],
+          "time": [
+            "WEB",
+            "WEB"
+          ],
+          "crn": "28742"
         }
       }
     },
@@ -6583,10 +6651,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "URBAN WILDLIFE & FISH",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Emma P. Gomez Ruiz (P)"
@@ -6612,10 +6680,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "10",
           "section": "700",
           "title": "URBAN WILDLIFE & FISH",
-          "remaining": "29",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "Emma P. Gomez Ruiz (P)"
@@ -6646,10 +6714,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "PROF ASPECTS AQUATIC ECOL",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Daniel L. Roelke (P)"
@@ -6743,10 +6811,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "22",
           "section": "700",
           "title": "WILDLIFE HABITAT MANAGEMENT",
-          "remaining": "46",
+          "remaining": "28",
           "capacity": "50",
           "instructor": [
             "Roel R. Lopez (P)"
@@ -6777,10 +6845,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "601",
           "title": "COMMUNITY ECOLOGY",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Kirk Winemiller (P)"
@@ -6811,10 +6879,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "10",
           "section": "511",
           "title": "TECHNQS OF WLDLFE MGMT",
-          "remaining": "9",
+          "remaining": "3",
           "capacity": "13",
           "instructor": [
             "Nova Silvy (P)",
@@ -6845,10 +6913,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "512",
           "title": "TECHNQS OF WLDLFE MGMT",
-          "remaining": "12",
+          "remaining": "5",
           "capacity": "13",
           "instructor": [
             "Nova Silvy (P)",
@@ -6879,10 +6947,10 @@
           "subject": "WFSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "7",
           "section": "513",
           "title": "TECHNQS OF WLDLFE MGMT",
-          "remaining": "12",
+          "remaining": "6",
           "capacity": "13",
           "instructor": [
             "Nova Silvy (P)",
@@ -6912,5 +6980,5 @@
     }
   },
   "title": "WFSC-Wildlife & Fisheries Sci",
-  "updated": "Mon, 11 Apr 2016 at 12:55 AM"
+  "updated": "Wed, Apr 13 2016 at 01:38 AM"
 }

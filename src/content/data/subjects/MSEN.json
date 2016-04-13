@@ -1792,10 +1792,10 @@
           "subject": "MSEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "55",
+          "remaining": "51",
           "capacity": "60",
           "instructor": [
             "Patrick J. Shamberger (P)"
@@ -1826,10 +1826,10 @@
           "subject": "MSEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "15",
           "section": "501",
           "title": "MATERIAL SCIENCE",
-          "remaining": "21",
+          "remaining": "15",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -1872,10 +1872,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "ETB 1020"
+            "HELD 111"
           ],
           "time": [
-            "05:45 pm-06:35 pm"
+            "03:00 pm-03:50 pm"
           ],
           "crn": "27709"
         },
@@ -1901,7 +1901,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "BLOC 149"
           ],
           "time": [
             "08:00 am-08:50 am"
@@ -1930,10 +1930,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "FRAN 102"
           ],
           "time": [
-            "02:20 pm-03:35 pm"
+            "11:10 am-12:25 pm"
           ],
           "crn": "27711"
         },
@@ -1959,10 +1959,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "FRAN 102"
           ],
           "time": [
-            "TBA"
+            "09:10 am-10:00 am"
           ],
           "crn": "27712"
         },
@@ -1988,10 +1988,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "FRAN 102"
           ],
           "time": [
-            "TBA"
+            "03:55 pm-05:10 pm"
           ],
           "crn": "27713"
         }
@@ -2016,16 +2016,16 @@
           "credits": "3",
           "course": "310",
           "days": [
-            "MWF"
+            "TR"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "AIEN M309"
           ],
           "time": [
-            "10:20 am-11:10 am"
+            "03:55 pm-05:10 pm"
           ],
           "crn": "25045"
         }
@@ -2039,10 +2039,10 @@
           "subject": "MSEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "600",
           "title": "THERMODYNAMICS MTRLS SCI",
-          "remaining": "48",
+          "remaining": "44",
           "capacity": "50",
           "instructor": [
             "Raymundo Arroyave (P)"
@@ -2056,10 +2056,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "THOM 107A"
+            "THOM 122"
           ],
           "time": [
-            "11:10 am-12:25 pm"
+            "08:00 am-09:15 am"
           ],
           "crn": "19631"
         }
@@ -2634,10 +2634,10 @@
           "subject": "MSEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "9",
           "section": "600",
           "title": "FNDMTL MATLS SCIENCE ENG",
-          "remaining": "44",
+          "remaining": "41",
           "capacity": "50",
           "instructor": [
             "Xinghang Zhang (P)",
@@ -2673,10 +2673,10 @@
           "subject": "MSEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "600",
           "title": "FNDMTL SOFT & BIOMATERLS",
-          "remaining": "41",
+          "remaining": "40",
           "capacity": "45",
           "instructor": [
             "Svetlana Sukhishvili (P)"
@@ -2684,16 +2684,16 @@
           "credits": "3",
           "course": "603",
           "days": [
-            "MWF"
+            "TR"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "CHEN 104"
+            "THOM 107A"
           ],
           "time": [
-            "03:00 pm-03:50 pm"
+            "11:10 am-12:25 pm"
           ],
           "crn": "23985"
         }
@@ -2724,10 +2724,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "THOM 107A"
+            "ARCC 305"
           ],
           "time": [
-            "05:30 pm-06:45 pm"
+            "09:35 am-10:50 am"
           ],
           "crn": "27057"
         }
@@ -2786,16 +2786,16 @@
           "credits": "3",
           "course": "605",
           "days": [
-            " "
+            "TR"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "TBA"
+            "SCTS 317"
           ],
           "time": [
-            "TBA"
+            "02:20 pm-03:35 pm"
           ],
           "crn": "27056"
         }
@@ -2803,5 +2803,5 @@
     }
   },
   "title": "MSEN -Materials Science & Engr",
-  "updated": "Mon, 11 Apr 2016 at 12:48 AM"
+  "updated": "Wed, Apr 13 2016 at 01:32 AM"
 }

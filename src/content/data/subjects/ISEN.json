@@ -8,10 +8,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "26",
           "section": "501",
           "title": "PRODUCTION SYSTEMS ENGR",
-          "remaining": "65",
+          "remaining": "49",
           "capacity": "75",
           "instructor": [
             "Alaa Mohamed H. Elwany (P)"
@@ -37,10 +37,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "21",
           "section": "502",
           "title": "PRODUCTION SYSTEMS ENGR",
-          "remaining": "69",
+          "remaining": "54",
           "capacity": "75",
           "instructor": [
             "Alaa Mohamed H. Elwany (P)"
@@ -71,10 +71,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "14",
           "section": "501",
           "title": "QUALITY ENGINEERING",
-          "remaining": "69",
+          "remaining": "61",
           "capacity": "75",
           "instructor": [
             "George Bennett (P)",
@@ -105,10 +105,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "23",
           "section": "502",
           "title": "QUALITY ENGINEERING",
-          "remaining": "68",
+          "remaining": "52",
           "capacity": "75",
           "instructor": [
             "George Bennett (P)",
@@ -758,10 +758,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "8",
           "section": "501",
           "title": "INFORMATICS FOR INDUSTRIAL ENG",
-          "remaining": "70",
+          "remaining": "67",
           "capacity": "75",
           "instructor": [
             "TBA"
@@ -787,10 +787,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "502",
           "title": "INFORMATICS FOR INDUSTRIAL ENG",
-          "remaining": "70",
+          "remaining": "66",
           "capacity": "75",
           "instructor": [
             "Ciriaco Valdez-Flores (P)"
@@ -1121,10 +1121,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "42",
           "section": "501",
           "title": "HUMAN SYSTEMS INTERACTION",
-          "remaining": "67",
+          "remaining": "33",
           "capacity": "75",
           "instructor": [
             "Thomas K. Ferris (P), Jose Vazquez"
@@ -1150,10 +1150,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "28",
           "section": "502",
           "title": "HUMAN SYSTEMS INTERACTION",
-          "remaining": "70",
+          "remaining": "47",
           "capacity": "75",
           "instructor": [
             "Thomas K. Ferris (P), Jose Vazquez"
@@ -1184,10 +1184,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "12",
           "section": "501",
           "title": "FUNDAMENTALS OF IE DESIGN",
-          "remaining": "70",
+          "remaining": "63",
           "capacity": "75",
           "instructor": [
             "Amarnath P. Banerjee (P)",
@@ -1218,10 +1218,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "7",
           "section": "502",
           "title": "FUNDAMENTALS OF IE DESIGN",
-          "remaining": "69",
+          "remaining": "68",
           "capacity": "75",
           "instructor": [
             "Amarnath P. Banerjee (P)",
@@ -1286,10 +1286,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "13",
           "section": "501",
           "title": "UNCERTAINTY MODELING FOR IE",
-          "remaining": "62",
+          "remaining": "57",
           "capacity": "70",
           "instructor": [
             "Natarajan Gautam (P)"
@@ -1315,10 +1315,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "502",
           "title": "UNCERTAINTY MODELING FOR IE",
-          "remaining": "74",
+          "remaining": "73",
           "capacity": "75",
           "instructor": [
             "Mark A. Lawley (P)"
@@ -1345,14 +1345,14 @@
       "title": "MANUFACTURING OPERATIONS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "60",
           "section": "500",
           "title": "MANUFACTURING OPERATIONS",
-          "remaining": "48",
+          "remaining": "0",
           "capacity": "60",
           "instructor": [
             "Martin Wortman (P)"
@@ -1383,10 +1383,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "17",
           "section": "501",
           "title": "SYSTEM SIMULATION",
-          "remaining": "67",
+          "remaining": "58",
           "capacity": "75",
           "instructor": [
             "Ciriaco Valdez-Flores (P)",
@@ -1417,10 +1417,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "12",
           "section": "502",
           "title": "SYSTEM SIMULATION",
-          "remaining": "72",
+          "remaining": "63",
           "capacity": "75",
           "instructor": [
             "Ciriaco Valdez-Flores (P)",
@@ -1456,10 +1456,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "33",
+          "active": "38",
           "section": "600",
           "title": "HUM OPER IN COMPLX SYS",
-          "remaining": "27",
+          "remaining": "22",
           "capacity": "60",
           "instructor": [
             "TBA"
@@ -1485,10 +1485,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "700",
           "title": "HUM OPER IN COMPLX SYS",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Thomas K. Ferris (P)"
@@ -1519,10 +1519,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "20",
           "section": "600",
           "title": "MFG SYS PLAN AND ANLYS",
-          "remaining": "42",
+          "remaining": "40",
           "capacity": "60",
           "instructor": [
             "TBA"
@@ -1553,10 +1553,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "24",
           "section": "500",
           "title": "ADVANCED DATA ANALYTICS",
-          "remaining": "55",
+          "remaining": "36",
           "capacity": "60",
           "instructor": [
             "Li Zeng (P)"
@@ -1587,10 +1587,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "31",
           "section": "500",
           "title": "TOTAL QUALITY ENGR",
-          "remaining": "57",
+          "remaining": "29",
           "capacity": "60",
           "instructor": [
             "Satish T. Bukkapatnam (P)",
@@ -1626,10 +1626,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "11",
           "section": "600",
           "title": "DESIGN BY RELIABILITY",
-          "remaining": "35",
+          "remaining": "34",
           "capacity": "45",
           "instructor": [
             "Martin Wortman (P)"
@@ -1656,14 +1656,14 @@
       "title": "INDUST ENGIN SYS DESIGN",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ISEN",
           "campus": "CS",
           "classes": 2,
-          "active": "19",
+          "active": "60",
           "section": "501",
           "title": "INDUST ENGIN SYS DESIGN",
-          "remaining": "41",
+          "remaining": "0",
           "capacity": "60",
           "instructor": [
             "Mark A. Lawley (P)",
@@ -1694,10 +1694,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "39",
           "section": "502",
           "title": "INDUST ENGIN SYS DESIGN",
-          "remaining": "60",
+          "remaining": "21",
           "capacity": "60",
           "instructor": [
             "Mark A. Lawley (P)",
@@ -1729,14 +1729,14 @@
       "title": "ENGR DATA ANALYSIS",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "56",
+          "active": "60",
           "section": "600",
           "title": "ENGR DATA ANALYSIS",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "60",
           "instructor": [
             "Satish T. Bukkapatnam (P)"
@@ -1762,10 +1762,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "11",
           "section": "700",
           "title": "ENGR DATA ANALYSIS",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "15",
           "instructor": [
             "Satish T. Bukkapatnam (P)"
@@ -1792,15 +1792,15 @@
       "title": "HUMAN INFOR PROCESSING",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
           "active": "7",
           "section": "600",
           "title": "HUMAN INFOR PROCESSING",
-          "remaining": "53",
-          "capacity": "60",
+          "remaining": "-7",
+          "capacity": "0",
           "instructor": [
             "TBA"
           ],
@@ -1830,10 +1830,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "25",
+          "active": "27",
           "section": "600",
           "title": "ADVAN QUALITY CONTROL",
-          "remaining": "35",
+          "remaining": "33",
           "capacity": "60",
           "instructor": [
             "Yu Ding (P)"
@@ -1927,10 +1927,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "20",
           "section": "501",
           "title": "OPERATIONS RESEARCH II",
-          "remaining": "72",
+          "remaining": "55",
           "capacity": "75",
           "instructor": [
             "TBA"
@@ -1956,10 +1956,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "70",
           "section": "502",
           "title": "OPERATIONS RESEARCH II",
-          "remaining": "58",
+          "remaining": "5",
           "capacity": "75",
           "instructor": [
             "TBA"
@@ -1990,10 +1990,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "40",
+          "remaining": "39",
           "capacity": "40",
           "instructor": [
             "Yu Ding (P)"
@@ -2020,14 +2020,14 @@
       "title": "SYSTEMS THINKING",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "60",
           "section": "500",
           "title": "SYSTEMS THINKING",
-          "remaining": "48",
+          "remaining": "0",
           "capacity": "60",
           "instructor": [
             "Lewis Ntaimo (P)"
@@ -2058,10 +2058,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "33",
           "section": "501",
           "title": "OPERATIONS RESEARCH I",
-          "remaining": "61",
+          "remaining": "42",
           "capacity": "75",
           "instructor": [
             "Guy Curry (P)"
@@ -2087,10 +2087,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "502",
           "title": "OPERATIONS RESEARCH I",
-          "remaining": "72",
+          "remaining": "70",
           "capacity": "75",
           "instructor": [
             "Guy Curry (P)"
@@ -2300,11 +2300,11 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "23",
           "section": "500",
           "title": "ORGANIZATIONAL SYSTEMS",
-          "remaining": "80",
-          "capacity": "80",
+          "remaining": "17",
+          "capacity": "40",
           "instructor": [
             "Donald Smith (P)"
           ],
@@ -2363,10 +2363,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "700",
           "title": "SYS THINKING ANLYSIS",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Lewis Ntaimo (P)"
@@ -2659,15 +2659,15 @@
       "title": "MGMT CONTROL SYSTEMS",
       "sections": {
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "1",
           "section": "700",
           "title": "MGMT CONTROL SYSTEMS",
-          "remaining": "7",
-          "capacity": "10",
+          "remaining": "-1",
+          "capacity": "0",
           "instructor": [
             "Donald Smith (P)"
           ],
@@ -2847,10 +2847,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "27",
+          "active": "33",
           "section": "602",
           "title": "SURVEY OPTIMIZATION",
-          "remaining": "33",
+          "remaining": "27",
           "capacity": "60",
           "instructor": [
             "Erick Moreno Centeno (P)"
@@ -2910,10 +2910,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "14",
           "section": "502",
           "title": "ECON ANLY ENGR PROJECT",
-          "remaining": "72",
+          "remaining": "66",
           "capacity": "80",
           "instructor": [
             "Madhav Erraguntla (P)"
@@ -2939,10 +2939,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "25",
+          "active": "46",
           "section": "503",
           "title": "ECON ANLY ENGR PROJECT",
-          "remaining": "55",
+          "remaining": "34",
           "capacity": "80",
           "instructor": [
             "TBA"
@@ -2968,10 +2968,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "24",
+          "active": "37",
           "section": "504",
           "title": "ECON ANLY ENGR PROJECT",
-          "remaining": "56",
+          "remaining": "43",
           "capacity": "80",
           "instructor": [
             "TBA"
@@ -3002,10 +3002,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "10",
           "section": "600",
           "title": "LINEAR PROGRAMMING",
-          "remaining": "34",
+          "remaining": "35",
           "capacity": "45",
           "instructor": [
             "Sergiy Butenko (P)"
@@ -3036,10 +3036,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "10",
           "section": "600",
           "title": "LOCA LOG OF INDUS FACI",
-          "remaining": "49",
+          "remaining": "50",
           "capacity": "60",
           "instructor": [
             "Shiren Wang (P)"
@@ -3099,10 +3099,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "19",
           "section": "600",
           "title": "LEAN THINKNG & LEAN MFG",
-          "remaining": "42",
+          "remaining": "41",
           "capacity": "60",
           "instructor": [
             "TBA"
@@ -3133,10 +3133,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "10",
           "section": "600",
           "title": "ENGINEERING ECONOMY",
-          "remaining": "51",
+          "remaining": "50",
           "capacity": "60",
           "instructor": [
             "Andrew Johnson (P)"
@@ -3192,14 +3192,14 @@
       "title": "FACILITIES DESIGN AND MTL HAND",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "60",
           "section": "500",
           "title": "FACILITIES DESIGN AND MTL HAND",
-          "remaining": "47",
+          "remaining": "0",
           "capacity": "60",
           "instructor": [
             "Shiren Wang (P)"
@@ -3230,10 +3230,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 2,
-          "active": "13",
+          "active": "16",
           "section": "600",
           "title": "SIMULATN METHODS & APP",
-          "remaining": "47",
+          "remaining": "44",
           "capacity": "60",
           "instructor": [
             "TBA",
@@ -3264,10 +3264,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "700",
           "title": "SIMULATN METHODS & APP",
-          "remaining": "6",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Amarnath P. Banerjee (P)"
@@ -3298,10 +3298,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "15",
           "section": "600",
           "title": "INDUS CASE ANALYSIS",
-          "remaining": "46",
+          "remaining": "45",
           "capacity": "60",
           "instructor": [
             "Donald Smith (P)"
@@ -3327,10 +3327,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "700",
           "title": "INDUS CASE ANALYSIS",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Donald Smith (P)"
@@ -3361,10 +3361,10 @@
           "subject": "ISEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "10",
           "section": "600",
           "title": "PROB ENGR DECISIONS",
-          "remaining": "36",
+          "remaining": "35",
           "capacity": "45",
           "instructor": [
             "Natarajan Gautam (P)"
@@ -3418,5 +3418,5 @@
     }
   },
   "title": "ISEN - Indust & Systems Engr",
-  "updated": "Mon, 11 Apr 2016 at 12:46 AM"
+  "updated": "Wed, Apr 13 2016 at 01:30 AM"
 }

@@ -9,6 +9,23 @@
     <!-- Angular Material style sheet -->
     <link rel="stylesheet"
           href="//ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.css">
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-76298552-1', 'auto');
+        ga('send', 'pageview');
+    </script>
 </head>
 <body>
 <div layout="column" layout-fill>
@@ -21,13 +38,16 @@
                     ng-cloak>
             <h1>Notes:</h1>
             <p>
-                Course data is <b>not</b> updated in real time. The time at which the data was last updated is posted
-                at the top of the each course's info window. For the most up-to-date info, use Howdy.
-                <br>
-                This website does not yet have any way of handling scheduling conflicts, so some class times may
-                completely obstruct others. Please be aware of this when planning your schedule.
-                <br>
-                If you experience any major issues, feel free to send me an email: <a href="mailto:jake@jakeleland.com">jake@jakeleland.com</a>
+                <small>
+                    Course data is <b>not</b> updated in real time. The time at which the data was last updated is
+                    posted at the top of the each course's info window. For the most up-to-date info, use Howdy.
+                    <br>
+                    This website does not yet have any way of handling scheduling conflicts, so some class times may
+                    completely obstruct others. Please be aware of this when planning your schedule.
+                    <br>
+                    If you experience any major issues, feel free to send me an email: <a
+                        href="mailto:jake@jakeleland.com">jake@jakeleland.com</a>
+                </small>
             </p>
         </md-content>
     </div>

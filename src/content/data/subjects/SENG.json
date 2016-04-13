@@ -37,10 +37,10 @@
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "700",
           "title": "INDUSTRIAL HYGIENE",
-          "remaining": "4",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "Noor A. Quddus (P)"
@@ -221,10 +221,10 @@
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "700",
           "title": "INDUST SAFETY ENGR",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Yogesh Koirala (P)"
@@ -289,10 +289,10 @@
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "9",
           "section": "500",
           "title": "RISK ANALYSIS SAFETY ENG",
-          "remaining": "18",
+          "remaining": "11",
           "capacity": "20",
           "instructor": [
             "William Rogers (P)"
@@ -314,14 +314,14 @@
           "crn": "12650"
         },
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "700",
           "title": "RISK ANALYSIS SAFETY ENG",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "5",
           "instructor": [
             "William Rogers (P)"
@@ -352,10 +352,10 @@
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "56",
           "section": "500",
           "title": "INDUS HYGIENE ENGR",
-          "remaining": "53",
+          "remaining": "9",
           "capacity": "65",
           "instructor": [
             "Noor A. Quddus (P)"
@@ -377,14 +377,14 @@
           "crn": "13277"
         },
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "20",
           "section": "700",
           "title": "INDUS HYGIENE ENGR",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Noor A. Quddus (P)"
@@ -415,10 +415,10 @@
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "29",
           "section": "500",
           "title": "INDUSTRL SAFETY ENGR",
-          "remaining": "39",
+          "remaining": "16",
           "capacity": "45",
           "instructor": [
             "Yogesh Koirala (P)"
@@ -440,14 +440,14 @@
           "crn": "12648"
         },
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "5",
           "section": "700",
           "title": "INDUSTRL SAFETY ENGR",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "5",
           "instructor": [
             "Yogesh Koirala (P)"
@@ -478,10 +478,10 @@
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "672",
           "title": "PROF INTERNSHIP: IN-ABSENTIA",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Mahboobul Mannan (P)"
@@ -662,10 +662,10 @@
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "15",
           "section": "500",
           "title": "FIRE PROTECTION FAC DES",
-          "remaining": "17",
+          "remaining": "4",
           "capacity": "19",
           "instructor": [
             "Jason B. Moats (P)"
@@ -691,10 +691,10 @@
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "4",
           "section": "700",
           "title": "FIRE PROTECTION FAC DES",
-          "remaining": "4",
+          "remaining": "1",
           "capacity": "5",
           "instructor": [
             "Jason B. Moats (P)"
@@ -725,10 +725,10 @@
           "subject": "SENG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "PROCESS SAFETY ENGR",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "TBA"
@@ -851,10 +851,10 @@
           "subject": "SENG",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "11",
           "section": "600",
           "title": "FIRE PROTECTION",
-          "remaining": "3",
+          "remaining": "1",
           "capacity": "12",
           "instructor": [
             "Jason B. Moats (P)",
@@ -918,5 +918,5 @@
     }
   },
   "title": "SENG - Safety Engineering",
-  "updated": "Mon, 11 Apr 2016 at 12:53 AM"
+  "updated": "Wed, Apr 13 2016 at 01:36 AM"
 }

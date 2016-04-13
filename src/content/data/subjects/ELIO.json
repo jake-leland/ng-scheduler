@@ -11,8 +11,8 @@
           "active": "0",
           "section": "101",
           "title": "BASIC ORAL SKILLS",
-          "remaining": "16",
-          "capacity": "16",
+          "remaining": "23",
+          "capacity": "23",
           "instructor": [
             "TBA"
           ],
@@ -31,35 +31,6 @@
             "10:20 am-11:10 am"
           ],
           "crn": "11142"
-        },
-        "102": {
-          "select": "SR",
-          "subject": "ELIO",
-          "campus": "EL",
-          "classes": 1,
-          "active": "0",
-          "section": "102",
-          "title": "BASIC ORAL SKILLS",
-          "remaining": "16",
-          "capacity": "16",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "100",
-          "days": [
-            "MWF"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "ENPH 201"
-          ],
-          "time": [
-            "03:00 pm-03:50 pm"
-          ],
-          "crn": "11143"
         }
       }
     },
@@ -129,44 +100,15 @@
     "300": {
       "title": "ADVANCED ORAL SKILLS",
       "sections": {
-        "301": {
-          "select": "C",
-          "subject": "ELIO",
-          "campus": "EL",
-          "classes": 1,
-          "active": "0",
-          "section": "301",
-          "title": "ADVANCED ORAL SKILLS",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "300",
-          "days": [
-            " "
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "TBA"
-          ],
-          "crn": "11145"
-        },
         "302": {
           "select": "SR",
           "subject": "ELIO",
           "campus": "EL",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "302",
           "title": "ADVANCED ORAL SKILLS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Brandon D. Cooper (P)"
@@ -192,10 +134,10 @@
           "subject": "ELIO",
           "campus": "EL",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "303",
           "title": "ADVANCED ORAL SKILLS",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "17",
           "instructor": [
             "Steven W. Carruthers (P)"
@@ -232,7 +174,7 @@
           "remaining": "25",
           "capacity": "25",
           "instructor": [
-            "Sharron K. Sturgeon (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "250",
@@ -261,7 +203,7 @@
           "remaining": "16",
           "capacity": "16",
           "instructor": [
-            "Nina M. Chick (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "250",
@@ -283,5 +225,5 @@
     }
   },
   "title": "ELIO - Oral Skills",
-  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
+  "updated": "Wed, Apr 13 2016 at 01:26 AM"
 }

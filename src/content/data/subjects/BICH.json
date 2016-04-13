@@ -2072,10 +2072,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "19",
           "section": "600",
           "title": "THEORY OF BIOCHEM RES",
-          "remaining": "113",
+          "remaining": "101",
           "capacity": "120",
           "instructor": [
             "Paul Straight (P)"
@@ -2170,7 +2170,7 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Christian Hilty (P)"
+            "Axel Hook (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -2251,10 +2251,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "633",
           "title": "RESEARCH",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Dorothy Shippen (P)"
@@ -2512,10 +2512,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "616",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Paul Lindahl (P)"
@@ -2744,10 +2744,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "622",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Jean-Philippe Pellois (P)"
@@ -2831,10 +2831,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "602",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Vytas A. Bankaitis (P)"
@@ -2918,10 +2918,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "625",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Michael Polymenis (P)"
@@ -3208,10 +3208,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "609",
           "title": "RESEARCH",
-          "remaining": "8",
+          "remaining": "6",
           "capacity": "8",
           "instructor": [
             "Jennifer K. Herman (P)"
@@ -3238,14 +3238,14 @@
       "title": "GENOMICS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "GENOMICS",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "3",
           "instructor": [
             "Rodolfo Aramayo (P)",
@@ -3315,10 +3315,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "GENOMICS",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Rodolfo Aramayo (P), James Hu"
@@ -3417,11 +3417,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "501",
           "title": "MOLECULAR GENETICS",
           "remaining": "8",
-          "capacity": "10",
+          "capacity": "15",
           "instructor": [
             "Craig D. Kaplan (P)"
           ],
@@ -3442,15 +3442,15 @@
           "crn": "10344"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "15",
           "section": "502",
           "title": "MOLECULAR GENETICS",
-          "remaining": "6",
-          "capacity": "10",
+          "remaining": "0",
+          "capacity": "15",
           "instructor": [
             "Jorge Cruz-Reyes (P)"
           ],
@@ -3480,10 +3480,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "GENE EXPRESSION",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Gary Kunkel (P)"
@@ -3514,11 +3514,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "510",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Leisha S. Mullins (P)",
             "Leisha S. Mullins"
@@ -3548,11 +3548,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "511",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Leisha S. Mullins (P)",
             "Leisha S. Mullins"
@@ -3582,11 +3582,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "512",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Leisha S. Mullins (P)",
             "Leisha S. Mullins"
@@ -3616,11 +3616,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "9",
           "section": "513",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "1",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Pingwei Li (P)",
             "Pingwei Li"
@@ -3653,8 +3653,8 @@
           "active": "1",
           "section": "514",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "5",
-          "capacity": "6",
+          "remaining": "9",
+          "capacity": "10",
           "instructor": [
             "Pingwei Li (P)",
             "Pingwei Li"
@@ -3684,11 +3684,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "515",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "5",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Pingwei Li (P)",
             "Pingwei Li"
@@ -3718,11 +3718,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "516",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "5",
-          "capacity": "6",
+          "remaining": "8",
+          "capacity": "10",
           "instructor": [
             "Pingwei Li (P)",
             "Pingwei Li"
@@ -3752,11 +3752,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "517",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Leisha S. Mullins (P)",
             "Leisha S. Mullins"
@@ -3786,11 +3786,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "518",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Leisha S. Mullins (P)",
             "Leisha S. Mullins"
@@ -3820,11 +3820,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "519",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Leisha S. Mullins (P)",
             "Leisha S. Mullins"
@@ -3854,11 +3854,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "520",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Leisha S. Mullins (P)",
             "Leisha S. Mullins"
@@ -3888,11 +3888,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "521",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Michelle Henderson Pozzi (P)",
             "Michelle Henderson Pozzi"
@@ -3918,15 +3918,15 @@
           "crn": "19025"
         },
         "522": {
-          "select": "SR",
+          "select": "C",
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "522",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "4",
-          "capacity": "6",
+          "remaining": "0",
+          "capacity": "10",
           "instructor": [
             "Michelle Henderson Pozzi (P)",
             "Michelle Henderson Pozzi"
@@ -3952,15 +3952,15 @@
           "crn": "19026"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "10",
           "section": "501",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "3",
-          "capacity": "6",
+          "remaining": "0",
+          "capacity": "10",
           "instructor": [
             "Bryant W. Miles (P)",
             "Bryant W. Miles"
@@ -3986,15 +3986,15 @@
           "crn": "10327"
         },
         "523": {
-          "select": "SR",
+          "select": "C",
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "523",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "4",
-          "capacity": "6",
+          "remaining": "0",
+          "capacity": "10",
           "instructor": [
             "Michelle Henderson Pozzi (P)",
             "Michelle Henderson Pozzi"
@@ -4024,11 +4024,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "502",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Bryant W. Miles (P)",
             "Bryant W. Miles"
@@ -4054,15 +4054,15 @@
           "crn": "16521"
         },
         "524": {
-          "select": "SR",
+          "select": "C",
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "10",
           "section": "524",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "2",
-          "capacity": "6",
+          "remaining": "0",
+          "capacity": "10",
           "instructor": [
             "Michelle Henderson Pozzi (P)",
             "Michelle Henderson Pozzi"
@@ -4092,11 +4092,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "503",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "4",
-          "capacity": "6",
+          "remaining": "5",
+          "capacity": "10",
           "instructor": [
             "Bryant W. Miles (P)",
             "Bryant W. Miles"
@@ -4126,11 +4126,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "9",
           "section": "525",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "5",
-          "capacity": "6",
+          "remaining": "1",
+          "capacity": "10",
           "instructor": [
             "TBA",
             "TBA"
@@ -4160,11 +4160,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "7",
           "section": "504",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "5",
-          "capacity": "6",
+          "remaining": "3",
+          "capacity": "10",
           "instructor": [
             "Bryant W. Miles (P)",
             "Bryant W. Miles"
@@ -4194,11 +4194,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "3",
           "section": "526",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "2",
-          "capacity": "6",
+          "remaining": "7",
+          "capacity": "10",
           "instructor": [
             "TBA",
             "TBA"
@@ -4224,15 +4224,15 @@
           "crn": "27091"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "10",
           "section": "505",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "2",
-          "capacity": "6",
+          "remaining": "0",
+          "capacity": "10",
           "instructor": [
             "Bryant W. Miles (P)",
             "Bryant W. Miles"
@@ -4262,11 +4262,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "527",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "5",
-          "capacity": "6",
+          "remaining": "8",
+          "capacity": "10",
           "instructor": [
             "TBA",
             "TBA"
@@ -4292,15 +4292,15 @@
           "crn": "27092"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "10",
           "section": "506",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "1",
-          "capacity": "6",
+          "remaining": "0",
+          "capacity": "10",
           "instructor": [
             "Bryant W. Miles (P)",
             "Bryant W. Miles"
@@ -4330,11 +4330,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "528",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "6",
-          "capacity": "6",
+          "remaining": "8",
+          "capacity": "10",
           "instructor": [
             "TBA",
             "TBA"
@@ -4364,11 +4364,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "507",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Bryant W. Miles (P)",
             "Bryant W. Miles"
@@ -4394,15 +4394,15 @@
           "crn": "10330"
         },
         "508": {
-          "select": "SR",
+          "select": "C",
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "10",
           "section": "508",
           "title": "COMPREHEN BIOCHEM I",
-          "remaining": "1",
-          "capacity": "6",
+          "remaining": "0",
+          "capacity": "10",
           "instructor": [
             "Bryant W. Miles (P)",
             "Bryant W. Miles"
@@ -4432,11 +4432,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "509",
           "title": "COMPREHEN BIOCHEM I",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "10",
           "instructor": [
             "Leisha S. Mullins (P)",
             "Leisha S. Mullins"
@@ -4471,11 +4471,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "7",
           "section": "900",
           "title": "MOLECULAR GENETICS LAB",
-          "remaining": "5",
-          "capacity": "6",
+          "remaining": "3",
+          "capacity": "10",
           "instructor": [
             "Michelle Henderson Pozzi (P)"
           ],
@@ -4539,11 +4539,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "20",
           "section": "501",
           "title": "COMPREHEN BIOCHEM II",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "20",
           "instructor": [
             "Chavela M. Carr (P)",
             "Chavela M. Carr"
@@ -4573,11 +4573,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "20",
           "section": "502",
           "title": "COMPREHEN BIOCHEM II",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "20",
           "instructor": [
             "Chavela M. Carr (P)",
             "Chavela M. Carr"
@@ -4607,11 +4607,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "20",
           "section": "503",
           "title": "COMPREHEN BIOCHEM II",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "20",
           "instructor": [
             "Chavela M. Carr (P)",
             "Chavela M. Carr"
@@ -4641,11 +4641,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "20",
           "section": "504",
           "title": "COMPREHEN BIOCHEM II",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "20",
           "instructor": [
             "Chavela M. Carr (P)",
             "Chavela M. Carr"
@@ -4675,11 +4675,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "20",
           "section": "505",
           "title": "COMPREHEN BIOCHEM II",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "20",
           "instructor": [
             "Chavela M. Carr (P)",
             "Chavela M. Carr"
@@ -4709,11 +4709,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "20",
           "section": "506",
           "title": "COMPREHEN BIOCHEM II",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "20",
           "instructor": [
             "Chavela M. Carr (P)",
             "Chavela M. Carr"
@@ -4743,11 +4743,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "20",
           "section": "507",
           "title": "COMPREHEN BIOCHEM II",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "20",
           "instructor": [
             "Chavela M. Carr (P)",
             "Chavela M. Carr"
@@ -4777,11 +4777,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "20",
           "section": "508",
           "title": "COMPREHEN BIOCHEM II",
           "remaining": "0",
-          "capacity": "6",
+          "capacity": "20",
           "instructor": [
             "Chavela M. Carr (P)",
             "Chavela M. Carr"
@@ -4850,10 +4850,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "7",
           "section": "601",
           "title": "TEACHING BIOCHEM LABS",
-          "remaining": "18",
+          "remaining": "14",
           "capacity": "21",
           "instructor": [
             "Mary Bryk (P)"
@@ -4879,10 +4879,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "5",
           "section": "602",
           "title": "TEACHING BIOCHEM LABS",
-          "remaining": "19",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Mary Bryk (P)"
@@ -4913,11 +4913,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "BIOCHEM LAB I",
-          "remaining": "6",
-          "capacity": "6",
+          "remaining": "26",
+          "capacity": "28",
           "instructor": [
             "Nicola M. Ayres (P)"
           ],
@@ -4942,11 +4942,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "6",
           "section": "502",
           "title": "BIOCHEM LAB I",
-          "remaining": "5",
-          "capacity": "6",
+          "remaining": "22",
+          "capacity": "28",
           "instructor": [
             "Nicola M. Ayres (P)"
           ],
@@ -4971,11 +4971,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "9",
           "section": "503",
           "title": "BIOCHEM LAB I",
-          "remaining": "2",
-          "capacity": "6",
+          "remaining": "19",
+          "capacity": "28",
           "instructor": [
             "Nicola M. Ayres (P)"
           ],
@@ -5000,11 +5000,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "10",
           "section": "504",
           "title": "BIOCHEM LAB I",
-          "remaining": "3",
-          "capacity": "6",
+          "remaining": "18",
+          "capacity": "28",
           "instructor": [
             "Nicola M. Ayres (P)"
           ],
@@ -5029,11 +5029,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "505",
           "title": "BIOCHEM LAB I",
-          "remaining": "3",
-          "capacity": "6",
+          "remaining": "23",
+          "capacity": "28",
           "instructor": [
             "Nicola M. Ayres (P)"
           ],
@@ -5058,11 +5058,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "15",
           "section": "506",
           "title": "BIOCHEM LAB I",
-          "remaining": "1",
-          "capacity": "6",
+          "remaining": "13",
+          "capacity": "28",
           "instructor": [
             "Nicola M. Ayres (P)"
           ],
@@ -5087,11 +5087,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "8",
           "section": "507",
           "title": "BIOCHEM LAB I",
-          "remaining": "5",
-          "capacity": "6",
+          "remaining": "20",
+          "capacity": "28",
           "instructor": [
             "Nicola M. Ayres (P)"
           ],
@@ -5116,11 +5116,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "6",
           "section": "508",
           "title": "BIOCHEM LAB I",
-          "remaining": "5",
-          "capacity": "6",
+          "remaining": "22",
+          "capacity": "28",
           "instructor": [
             "Nicola M. Ayres (P)"
           ],
@@ -5148,8 +5148,8 @@
           "active": "0",
           "section": "509",
           "title": "BIOCHEM LAB I",
-          "remaining": "6",
-          "capacity": "6",
+          "remaining": "28",
+          "capacity": "28",
           "instructor": [
             "Nicola M. Ayres (P)"
           ],
@@ -5179,10 +5179,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "600",
           "title": "BACTERIOPHAGE BIOLOGY",
-          "remaining": "24",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Ryland Young (P)"
@@ -5213,10 +5213,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "CHEM GENE & DRUG DISCVRY",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "James Sacchettini (P)"
@@ -5247,10 +5247,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "METAL IONS",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Paul Lindahl (P)"
@@ -5281,11 +5281,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "14",
           "section": "500",
           "title": "CMPTL TECH EVOL ANALY",
-          "remaining": "6",
-          "capacity": "10",
+          "remaining": "1",
+          "capacity": "15",
           "instructor": [
             "Sing Sze (P)"
           ],
@@ -5315,10 +5315,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "500",
           "title": "GENOME ANNOT ONTOLOGIES",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "16",
           "instructor": [
             "James Hu (P)"
@@ -5349,10 +5349,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "500",
           "title": "ADV GENOME ANNOT ONTOL",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "James Hu (P)"
@@ -5451,11 +5451,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "4",
           "section": "501",
           "title": "BIOCHEMISTRY I",
-          "remaining": "19",
-          "capacity": "20",
+          "remaining": "21",
+          "capacity": "25",
           "instructor": [
             "Paul Straight (P)"
           ],
@@ -5480,11 +5480,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "9",
           "section": "502",
           "title": "BIOCHEMISTRY I",
           "remaining": "16",
-          "capacity": "20",
+          "capacity": "25",
           "instructor": [
             "Jean-Philippe Pellois (P)"
           ],
@@ -5514,11 +5514,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "21",
           "section": "500",
           "title": "BIOCHEMISTRY II",
-          "remaining": "16",
-          "capacity": "20",
+          "remaining": "4",
+          "capacity": "25",
           "instructor": [
             "Vishal Gohil (P)"
           ],
@@ -5974,10 +5974,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "19",
           "section": "500",
           "title": "ELEMENTS OF BIOL CHEM",
-          "remaining": "79",
+          "remaining": "61",
           "capacity": "80",
           "instructor": [
             "Junjie Zhang (P)"
@@ -6008,10 +6008,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "8",
           "section": "600",
           "title": "FUNDS OF BIOCHEM I",
-          "remaining": "27",
+          "remaining": "26",
           "capacity": "34",
           "instructor": [
             "Jae H. Cho (P)"
@@ -6042,11 +6042,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "9",
           "section": "501",
           "title": "BIOCHEMICAL CALCULATIONS",
-          "remaining": "6",
-          "capacity": "10",
+          "remaining": "11",
+          "capacity": "20",
           "instructor": [
             "Gary Kunkel (P)"
           ],
@@ -6071,11 +6071,11 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "14",
           "section": "502",
           "title": "BIOCHEMICAL CALCULATIONS",
           "remaining": "6",
-          "capacity": "10",
+          "capacity": "20",
           "instructor": [
             "Thomas D. Meek (P)"
           ],
@@ -6105,10 +6105,10 @@
           "subject": "BICH",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "600",
           "title": "GENERAL BIOCHEMISTRY",
-          "remaining": "60",
+          "remaining": "57",
           "capacity": "60",
           "instructor": [
             "Hays S. Rye (P)"
@@ -6264,5 +6264,5 @@
     }
   },
   "title": "BICH - Biochemistry",
-  "updated": "Mon, 11 Apr 2016 at 12:38 AM"
+  "updated": "Wed, Apr 13 2016 at 01:23 AM"
 }

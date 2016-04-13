@@ -38,17 +38,17 @@
       "title": "THEORY OF AGED RSRCH",
       "sections": {
         "600": {
-          "select": "C",
+          "select": "SR",
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "THEORY OF AGED RSRCH",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "11",
+          "capacity": "12",
           "instructor": [
-            "TBA"
+            "Gary E. Briers (P)"
           ],
           "credits": "3",
           "course": "690",
@@ -76,10 +76,10 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "500",
           "title": "GLOBAL AG ISSUES",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "16",
           "instructor": [
             "Gary Wingenbach (P)"
@@ -1855,10 +1855,10 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "GLBL SOC JSTICE ISS AGRI",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "Gary Wingenbach (P)"
@@ -2682,10 +2682,10 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "6",
           "section": "600",
           "title": "FRNTRS IN RESEARCH",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "13",
           "instructor": [
             "John Rayfield (P)"
@@ -2840,8 +2840,8 @@
           "active": "4",
           "section": "600",
           "title": "DEV & PLAN COMMUNITY EDU",
-          "remaining": "7",
-          "capacity": "11",
+          "remaining": "8",
+          "capacity": "12",
           "instructor": [
             "Philip W. Shackelford (P)"
           ],
@@ -2900,11 +2900,11 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "9",
           "section": "699",
           "title": "PRIN OF ADULT EDUCATION",
-          "remaining": "8",
-          "capacity": "15",
+          "remaining": "3",
+          "capacity": "12",
           "instructor": [
             "James Lindner (P)"
           ],
@@ -2929,11 +2929,11 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "700",
           "title": "PRIN OF ADULT EDUCATION",
-          "remaining": "5",
-          "capacity": "8",
+          "remaining": "1",
+          "capacity": "5",
           "instructor": [
             "James Lindner (P)"
           ],
@@ -3060,10 +3060,10 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "12",
           "section": "500",
           "title": "WORKSHOP IN ALEC",
-          "remaining": "19",
+          "remaining": "10",
           "capacity": "22",
           "instructor": [
             "Lori M. Costello (P)"
@@ -3094,10 +3094,10 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -3220,10 +3220,10 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "600",
           "title": "METH OF TECH CHANGE",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "12",
           "instructor": [
             "Julie F. Harlin (P)"
@@ -3805,10 +3805,10 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "609",
           "title": "PROFESSIONAL INTERNSHIP",
-          "remaining": "6",
+          "remaining": "5",
           "capacity": "6",
           "instructor": [
             "Timothy H. Murphy (P)"
@@ -3839,10 +3839,10 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "501",
           "title": "FOUNDATIONS OF ALEC",
-          "remaining": "70",
+          "remaining": "65",
           "capacity": "72",
           "instructor": [
             "Jennifer A. Scasta (P)"
@@ -5048,10 +5048,10 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "699",
           "title": "SURVEY EVAL STRATEGIES",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "11",
           "instructor": [
             "Theresa P. Murphrey (P)"
@@ -5180,14 +5180,14 @@
       "title": "FACILITAT AGSC PROGRAMS",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "ALEC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "FACILITAT AGSC PROGRAMS",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "John Rayfield (P)",
@@ -5223,10 +5223,10 @@
           "subject": "ALEC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "8",
           "section": "600",
           "title": "FOUND OF LDRSHP THEORY",
-          "remaining": "7",
+          "remaining": "4",
           "capacity": "12",
           "instructor": [
             "Chanda Elbert (P)"
@@ -5251,5 +5251,5 @@
     }
   },
   "title": "ALEC - Ag Leadrshp, Ed & Comm",
-  "updated": "Mon, 11 Apr 2016 at 12:37 AM"
+  "updated": "Wed, Apr 13 2016 at 01:21 AM"
 }

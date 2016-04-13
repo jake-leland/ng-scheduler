@@ -564,10 +564,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "509",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Louis E. Strigari (P)"
@@ -1290,10 +1290,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 5,
-          "active": "1",
+          "active": "3",
           "section": "501",
           "title": "OVERVIEW OF MODERN ASTRO",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Jennifer L. Marshall (P)",
@@ -1339,10 +1339,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 5,
-          "active": "4",
+          "active": "6",
           "section": "502",
           "title": "OVERVIEW OF MODERN ASTRO",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "Jennifer L. Marshall (P)",
@@ -1393,11 +1393,11 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "500",
           "title": "ASTROPHYSICAL RESEARCH",
-          "remaining": "27",
-          "capacity": "28",
+          "remaining": "24",
+          "capacity": "27",
           "instructor": [
             "Jennifer L. Marshall (P)"
           ],
@@ -1751,10 +1751,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "10",
           "section": "501",
           "title": "BASIC ASTRONOMY",
-          "remaining": "96",
+          "remaining": "90",
           "capacity": "100",
           "instructor": [
             "Lifan Wang (P)"
@@ -1780,10 +1780,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "3",
           "section": "502",
           "title": "BASIC ASTRONOMY",
-          "remaining": "99",
+          "remaining": "97",
           "capacity": "100",
           "instructor": [
             "Kevin Krisciunas (P)",
@@ -1819,10 +1819,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "9",
           "section": "503",
           "title": "BASIC ASTRONOMY",
-          "remaining": "94",
+          "remaining": "91",
           "capacity": "100",
           "instructor": [
             "Nicholas Suntzeff (P)"
@@ -1848,10 +1848,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "4",
           "section": "504",
           "title": "BASIC ASTRONOMY",
-          "remaining": "99",
+          "remaining": "96",
           "capacity": "100",
           "instructor": [
             "Kevin Krisciunas (P)",
@@ -1979,10 +1979,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "501",
           "title": "OBSERVATIONAL ASTRONOMY",
-          "remaining": "38",
+          "remaining": "34",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -2008,10 +2008,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "9",
           "section": "502",
           "title": "OBSERVATIONAL ASTRONOMY",
-          "remaining": "39",
+          "remaining": "31",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -2037,10 +2037,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "503",
           "title": "OBSERVATIONAL ASTRONOMY",
-          "remaining": "39",
+          "remaining": "37",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -2395,10 +2395,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "8",
           "section": "500",
           "title": "STARS & EXTRASOLAR PLANETS",
-          "remaining": "26",
+          "remaining": "20",
           "capacity": "28",
           "instructor": [
             "Louis E. Strigari (P)"
@@ -2458,10 +2458,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "14",
           "section": "501",
           "title": "SURVEY OF ASTRONOMY",
-          "remaining": "40",
+          "remaining": "34",
           "capacity": "48",
           "instructor": [
             "Casey Papovich (P)"
@@ -2681,10 +2681,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "501",
           "title": "BIG BANG & BLK HOLE LAB",
-          "remaining": "28",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -2710,10 +2710,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "502",
           "title": "BIG BANG & BLK HOLE LAB",
-          "remaining": "28",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -2807,10 +2807,10 @@
           "subject": "ASTR",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "14",
           "section": "501",
           "title": "BIG BANG AND BLACK HOLES",
-          "remaining": "108",
+          "remaining": "102",
           "capacity": "116",
           "instructor": [
             "David Toback (P)"
@@ -2966,5 +2966,5 @@
     }
   },
   "title": "ASTR - Astronomy",
-  "updated": "Mon, 11 Apr 2016 at 12:38 AM"
+  "updated": "Wed, Apr 13 2016 at 01:22 AM"
 }

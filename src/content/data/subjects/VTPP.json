@@ -917,10 +917,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "619",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "John Stallone (P)"
@@ -951,10 +951,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "600",
           "title": "METABOLIC & DETOX MECH",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Stephen Safe (P)"
@@ -985,10 +985,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "DESIGN MODELS FOR PHYSIOLOGY",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Christopher Quick (P), Ranjeet M. Dongaonkar"
@@ -1097,10 +1097,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 5,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "PHYSIOL FOR BIOENGNRS I",
-          "remaining": "32",
+          "remaining": "31",
           "capacity": "32",
           "instructor": [
             "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
@@ -1146,10 +1146,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 5,
-          "active": "6",
+          "active": "9",
           "section": "503",
           "title": "PHYSIOL FOR BIOENGNRS I",
-          "remaining": "26",
+          "remaining": "23",
           "capacity": "32",
           "instructor": [
             "Jayanth Ramadoss (P), Ranjeet M. Dongaonkar , Guichun Han , Katrin Hinrichs , Ken Muneoka , Larry Suva",
@@ -1405,10 +1405,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "ANALY OF GENOMIC SIGNALS",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Ivan Ivanov (P)",
@@ -1807,10 +1807,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "SEMINAR",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Stephen Safe (P)"
@@ -2257,10 +2257,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "DESIGN EXPERIMENTS FOR PHYSIOL",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Ranjeet M. Dongaonkar , Christopher Quick",
@@ -2649,10 +2649,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "19",
+          "active": "51",
           "section": "500",
           "title": "PHYSIOL OF DOMESTIC AN",
-          "remaining": "53",
+          "remaining": "21",
           "capacity": "72",
           "instructor": [
             "Alice R. Blue Mclendon (P)"
@@ -2679,14 +2679,14 @@
       "title": "BIOMEDICAL PHYSIOLOGY I",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "VTPP",
           "campus": "CS",
           "classes": 7,
-          "active": "14",
+          "active": "60",
           "section": "501",
           "title": "BIOMEDICAL PHYSIOLOGY I",
-          "remaining": "46",
+          "remaining": "0",
           "capacity": "60",
           "instructor": [
             "James D. Herman (P)",
@@ -2742,10 +2742,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 7,
-          "active": "4",
+          "active": "21",
           "section": "502",
           "title": "BIOMEDICAL PHYSIOLOGY I",
-          "remaining": "61",
+          "remaining": "44",
           "capacity": "65",
           "instructor": [
             "Anne E. Newell-Fugate (P)",
@@ -2801,10 +2801,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 7,
-          "active": "21",
+          "active": "55",
           "section": "503",
           "title": "BIOMEDICAL PHYSIOLOGY I",
-          "remaining": "44",
+          "remaining": "10",
           "capacity": "65",
           "instructor": [
             "James D. Herman (P)",
@@ -2865,10 +2865,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "33",
           "section": "500",
           "title": "PHARMACOLOGY",
-          "remaining": "40",
+          "remaining": "17",
           "capacity": "50",
           "instructor": [
             "James D. Herman (P)"
@@ -2876,7 +2876,7 @@
           "credits": "3",
           "course": "425",
           "days": [
-            " "
+            "TR"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
@@ -2885,7 +2885,7 @@
             "TBA"
           ],
           "time": [
-            "TBA"
+            "09:35 am-10:50 am"
           ],
           "crn": "27621"
         }
@@ -3006,10 +3006,10 @@
           "subject": "VTPP",
           "campus": "CS",
           "classes": 1,
-          "active": "19",
+          "active": "21",
           "section": "600",
           "title": "SYSTEMIC VET PHYS I",
-          "remaining": "86",
+          "remaining": "84",
           "capacity": "105",
           "instructor": [
             "John Stallone (P), Ranjeet M. Dongaonkar , Michael C. Golding , Guichun Han , Andrea E. Hanson , Cristine Heaps"
@@ -3296,5 +3296,5 @@
     }
   },
   "title": "VTPP - Vet Physiology & Pharm",
-  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
+  "updated": "Wed, Apr 13 2016 at 01:38 AM"
 }

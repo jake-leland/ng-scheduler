@@ -38,15 +38,15 @@
       "title": "ADULT NURSING I",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "NURS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "ADULT NURSING I",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "47",
+          "capacity": "50",
           "instructor": [
             "TBA",
             "TBA"
@@ -115,10 +115,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "500",
           "title": "TRANS INTO PROF NURS PRACTICE",
-          "remaining": "12",
+          "remaining": "5",
           "capacity": "12",
           "instructor": [
             "Rebecca Burns (P)",
@@ -154,10 +154,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "61",
           "section": "500",
           "title": "ADULT NURSING II",
-          "remaining": "72",
+          "remaining": "11",
           "capacity": "72",
           "instructor": [
             "Angela Mountain (P)",
@@ -188,10 +188,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "17",
           "section": "501",
           "title": "ADULT NURSING II",
-          "remaining": "21",
+          "remaining": "4",
           "capacity": "21",
           "instructor": [
             "Angela Mountain (P)",
@@ -290,10 +290,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "12",
           "section": "700",
           "title": "SCHOLARSHIP: INTEG & APP",
-          "remaining": "31",
+          "remaining": "20",
           "capacity": "32",
           "instructor": [
             "Jodie C. Gary (P)"
@@ -324,10 +324,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "26",
           "section": "500",
           "title": "CARE OF COMMUNITY HLTH CLIENTS",
-          "remaining": "35",
+          "remaining": "9",
           "capacity": "35",
           "instructor": [
             "Colleen Neal (P)",
@@ -358,10 +358,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "17",
           "section": "501",
           "title": "CARE OF COMMUNITY HLTH CLIENTS",
-          "remaining": "22",
+          "remaining": "5",
           "capacity": "22",
           "instructor": [
             "Colleen Neal (P)",
@@ -397,10 +397,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "15",
           "section": "500",
           "title": "TEAMWORK AND COMMUNICATION",
-          "remaining": "30",
+          "remaining": "15",
           "capacity": "30",
           "instructor": [
             "Suzanne M. Van (P)"
@@ -426,10 +426,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "17",
           "section": "501",
           "title": "TEAMWORK AND COMMUNICATION",
-          "remaining": "20",
+          "remaining": "3",
           "capacity": "20",
           "instructor": [
             "Suzanne M. Van (P)"
@@ -494,10 +494,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "15",
           "section": "500",
           "title": "NRSNG CARE OF WOMEN, FAM",
-          "remaining": "30",
+          "remaining": "15",
           "capacity": "30",
           "instructor": [
             "Shelley White-Corey (P)",
@@ -529,15 +529,15 @@
       "title": "EVIDENCE-BASED PRAC FOR NURSES",
       "sections": {
         "900": {
-          "select": "C",
+          "select": "SR",
           "subject": "NURS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "35",
           "section": "900",
           "title": "EVIDENCE-BASED PRAC FOR NURSES",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "25",
+          "capacity": "60",
           "instructor": [
             "TBA"
           ],
@@ -607,15 +607,15 @@
       "title": "CARE OF MENTAL HLTH CLIENTS",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "NURS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "500",
           "title": "CARE OF MENTAL HLTH CLIENTS",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "50",
+          "capacity": "60",
           "instructor": [
             "TBA",
             "TBA"
@@ -791,10 +791,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "700",
           "title": "PRIMARY CARE OF FAMILIES II",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Cynthia G. Weston (P)"
@@ -825,10 +825,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "700",
           "title": "LEADERSHIP & HEALTH POLICY II",
-          "remaining": "30",
+          "remaining": "26",
           "capacity": "32",
           "instructor": [
             "Nora Montalvo-Liendo (P)"
@@ -859,11 +859,11 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "58",
           "section": "500",
           "title": "NURSING AND THE AGED",
-          "remaining": "40",
-          "capacity": "40",
+          "remaining": "32",
+          "capacity": "90",
           "instructor": [
             "Wanda Seaback (P)",
             "TBA"
@@ -889,14 +889,14 @@
           "crn": "22082"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "NURS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "20",
           "section": "501",
           "title": "NURSING AND THE AGED",
-          "remaining": "20",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Patricia Ehlert (P), Wanda Seaback",
@@ -932,10 +932,10 @@
           "subject": "NURS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "NURSING DIMENSIONS & INFORMATI",
-          "remaining": "100",
+          "remaining": "99",
           "capacity": "100",
           "instructor": [
             "Jane Kosarek (P)"
@@ -1062,5 +1062,5 @@
     }
   },
   "title": "NURS - Nursing",
-  "updated": "Mon, 11 Apr 2016 at 12:49 AM"
+  "updated": "Wed, Apr 13 2016 at 01:33 AM"
 }

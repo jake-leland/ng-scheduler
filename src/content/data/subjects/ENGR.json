@@ -8,10 +8,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "28",
+          "active": "29",
           "section": "200",
           "title": "ENGR HONORS SEMINAR I",
-          "remaining": "97",
+          "remaining": "96",
           "capacity": "125",
           "instructor": [
             "Nancy Amato (P)"
@@ -33,15 +33,15 @@
           "crn": "26329"
         },
         "201": {
-          "select": "C",
+          "select": "SR",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "201",
           "title": "ENGR HONORS SEMINAR I",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "275",
+          "capacity": "275",
           "instructor": [
             "TBA"
           ],
@@ -166,8 +166,8 @@
           "active": "4",
           "section": "202",
           "title": "HNR-ESP SEMINAR II",
-          "remaining": "41",
-          "capacity": "45",
+          "remaining": "121",
+          "capacity": "125",
           "instructor": [
             "Nancy Amato (P)"
           ],
@@ -666,10 +666,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "ENGR PROJ IN COMM SERV",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Magdalini Lagoudas (P)"
@@ -696,14 +696,14 @@
       "title": "ETHICS AND ENGINEERING",
       "sections": {
         "907": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "10",
           "section": "907",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Glen A. Miller",
@@ -730,14 +730,14 @@
           "crn": "11270"
         },
         "929": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "10",
           "section": "929",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Ray W. James (P), Martin B. Pettersson",
@@ -764,14 +764,14 @@
           "crn": "24642"
         },
         "908": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "908",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Glen A. Miller",
@@ -798,14 +798,14 @@
           "crn": "11271"
         },
         "909": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "7",
           "section": "909",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "7",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Martin B. Pettersson",
@@ -832,14 +832,14 @@
           "crn": "11272"
         },
         "970": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "10",
           "section": "970",
           "title": "HNR-ETHICS AND ENGINEERING",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Glen A. Miller",
@@ -900,14 +900,14 @@
           "crn": "24643"
         },
         "931": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "10",
           "section": "931",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -968,14 +968,14 @@
           "crn": "11273"
         },
         "932": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "10",
           "section": "932",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -1070,14 +1070,14 @@
           "crn": "11275"
         },
         "913": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "10",
           "section": "913",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Glen A. Miller",
@@ -1172,14 +1172,14 @@
           "crn": "11278"
         },
         "916": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "10",
           "section": "916",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Debjyoti Banerjee (P), Ray W. James , Glen A. Miller",
@@ -1206,14 +1206,14 @@
           "crn": "11279"
         },
         "917": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "10",
           "section": "917",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Glen A. Miller",
@@ -1240,14 +1240,14 @@
           "crn": "11280"
         },
         "918": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "10",
           "section": "918",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Glen A. Miller",
@@ -1308,14 +1308,14 @@
           "crn": "11282"
         },
         "920": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "7",
           "section": "920",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "7",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Glen A. Miller",
@@ -1342,14 +1342,14 @@
           "crn": "11283"
         },
         "921": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "921",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Martin B. Pettersson",
@@ -1376,14 +1376,14 @@
           "crn": "11284"
         },
         "922": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "922",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Martin B. Pettersson",
@@ -1410,14 +1410,14 @@
           "crn": "11285"
         },
         "923": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "10",
           "section": "923",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Martin B. Pettersson",
@@ -1478,14 +1478,14 @@
           "crn": "11265"
         },
         "924": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "924",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Peter K. Imbrie (P), Ray W. James , Martin B. Pettersson",
@@ -1512,14 +1512,14 @@
           "crn": "19847"
         },
         "903": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "10",
           "section": "903",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Martin B. Pettersson",
@@ -1546,14 +1546,14 @@
           "crn": "11266"
         },
         "925": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "10",
           "section": "925",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Ray W. James (P), Glen A. Miller",
@@ -1580,14 +1580,14 @@
           "crn": "19848"
         },
         "904": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "904",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Martin B. Pettersson",
@@ -1648,14 +1648,14 @@
           "crn": "22016"
         },
         "905": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "10",
           "section": "905",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Glen A. Miller",
@@ -1716,14 +1716,14 @@
           "crn": "22017"
         },
         "906": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "10",
           "section": "906",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "John Poston (P), Ray W. James , Glen A. Miller",
@@ -1750,14 +1750,14 @@
           "crn": "11269"
         },
         "928": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "928",
           "title": "ETHICS AND ENGINEERING",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Ray W. James (P), Glen A. Miller",
@@ -1922,8 +1922,8 @@
           "active": "0",
           "section": "501",
           "title": "PROB FOR COOP STUDENTS",
-          "remaining": "10",
-          "capacity": "10",
+          "remaining": "1",
+          "capacity": "1",
           "instructor": [
             "Kristi J. Shryock (P)"
           ],
@@ -1977,11 +1977,11 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "513",
           "title": "PROB FOR COOP STUDENTS",
-          "remaining": "40",
-          "capacity": "40",
+          "remaining": "3",
+          "capacity": "4",
           "instructor": [
             "Jerald Caton (P)"
           ],
@@ -2038,8 +2038,8 @@
           "active": "0",
           "section": "504",
           "title": "PROB FOR COOP STUDENTS",
-          "remaining": "30",
-          "capacity": "30",
+          "remaining": "1",
+          "capacity": "1",
           "instructor": [
             "Victor Ugaz (P)"
           ],
@@ -2154,8 +2154,8 @@
           "active": "0",
           "section": "507",
           "title": "PROB FOR COOP STUDENTS",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "1",
+          "capacity": "1",
           "instructor": [
             "Aydin Karsilayan (P)"
           ],
@@ -2322,9 +2322,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Paul D. Schreuders (P)",
-            "Paul D. Schreuders",
-            "Paul D. Schreuders"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -2400,9 +2400,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Jorge H. Lara Ruiz",
-            "Jorge H. Lara Ruiz (P)",
-            "Jorge H. Lara Ruiz"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -2439,9 +2439,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Noemi V. Mendoza Diaz (P)",
-            "Noemi V. Mendoza Diaz",
-            "Noemi V. Mendoza Diaz"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -2478,9 +2478,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Anthony Cahill",
-            "Anthony Cahill (P)",
-            "Anthony Cahill"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -2517,9 +2517,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Richard C. Kurwitz (P)",
-            "Richard C. Kurwitz",
-            "Richard C. Kurwitz"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -2556,9 +2556,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Anthony Cahill (P)",
-            "Anthony Cahill",
-            "Anthony Cahill"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -2628,10 +2628,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "518",
           "title": "FOUNDATIONS OF ENGR I",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "Allen D. Godwin (P)",
@@ -2751,9 +2751,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Jorge H. Lara Ruiz (P)",
-            "Jorge H. Lara Ruiz",
-            "Jorge H. Lara Ruiz"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -3063,9 +3063,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Anthony Cahill (P)",
-            "Anthony Cahill",
-            "Anthony Cahill"
+            "Rene' D. Elms (P)",
+            "Rene' D. Elms",
+            "Rene' D. Elms"
           ],
           "credits": "2",
           "course": "111",
@@ -3219,9 +3219,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Jacques Richard (P)",
-            "Jacques Richard",
-            "Jacques Richard"
+            "Rene' D. Elms (P)",
+            "Rene' D. Elms",
+            "Rene' D. Elms"
           ],
           "credits": "2",
           "course": "111",
@@ -3258,9 +3258,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "TBA",
-            "TBA",
-            "TBA"
+            "Tracy L. Fullerton (P)",
+            "Tracy L. Fullerton",
+            "Tracy L. Fullerton"
           ],
           "credits": "2",
           "course": "111",
@@ -3336,9 +3336,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "TBA",
-            "TBA",
-            "TBA"
+            "Anthony Cahill (P)",
+            "Anthony Cahill",
+            "Anthony Cahill"
           ],
           "credits": "2",
           "course": "111",
@@ -3375,9 +3375,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Jacques Richard (P)",
-            "Jacques Richard",
-            "Jacques Richard"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -3414,9 +3414,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Anthony Cahill (P)",
-            "Anthony Cahill",
-            "Anthony Cahill"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -3609,9 +3609,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "TBA",
-            "TBA",
-            "TBA"
+            "Jorge H. Lara Ruiz (P)",
+            "Jorge H. Lara Ruiz",
+            "Jorge H. Lara Ruiz"
           ],
           "credits": "2",
           "course": "111",
@@ -3648,9 +3648,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "TBA",
-            "TBA",
-            "TBA"
+            "Jorge H. Lara Ruiz (P)",
+            "Jorge H. Lara Ruiz",
+            "Jorge H. Lara Ruiz"
           ],
           "credits": "2",
           "course": "111",
@@ -3843,9 +3843,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Richard C. Kurwitz (P)",
-            "Richard C. Kurwitz",
-            "Richard C. Kurwitz"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -3921,9 +3921,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Gregory H. Graves (P)",
-            "Gregory H. Graves",
-            "Gregory H. Graves"
+            "Richard C. Kurwitz (P)",
+            "Richard C. Kurwitz",
+            "Richard C. Kurwitz"
           ],
           "credits": "2",
           "course": "111",
@@ -3960,9 +3960,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "TBA",
-            "TBA",
-            "TBA"
+            "Jorge H. Lara Ruiz",
+            "Jorge H. Lara Ruiz (P)",
+            "Jorge H. Lara Ruiz"
           ],
           "credits": "2",
           "course": "111",
@@ -4038,9 +4038,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Rainer J. Fink",
-            "Rainer J. Fink (P)",
-            "Rainer J. Fink"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "111",
@@ -4116,9 +4116,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Jorge H. Lara Ruiz",
-            "Jorge H. Lara Ruiz (P)",
-            "Jorge H. Lara Ruiz"
+            "Rene' D. Elms",
+            "Rene' D. Elms (P)",
+            "Rene' D. Elms"
           ],
           "credits": "2",
           "course": "111",
@@ -4150,19 +4150,19 @@
       "title": "FOUNDATIONS OF ENGR II",
       "sections": {
         "501": {
-          "select": "C",
+          "select": "SR",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 3,
           "active": "0",
           "section": "501",
           "title": "FOUNDATIONS OF ENGR II",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "25",
+          "capacity": "25",
           "instructor": [
-            "Tracy L. Fullerton (P)",
-            "Tracy L. Fullerton",
-            "Tracy L. Fullerton"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "112",
@@ -4189,15 +4189,15 @@
           "crn": "11246"
         },
         "502": {
-          "select": "C",
+          "select": "SR",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "FOUNDATIONS OF ENGR II",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "24",
+          "capacity": "25",
           "instructor": [
             "TBA",
             "TBA",
@@ -4228,19 +4228,19 @@
           "crn": "11247"
         },
         "503": {
-          "select": "C",
+          "select": "SR",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 3,
           "active": "0",
           "section": "503",
           "title": "FOUNDATIONS OF ENGR II",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "25",
+          "capacity": "25",
           "instructor": [
-            "Tracy L. Fullerton (P)",
-            "Tracy L. Fullerton",
-            "Tracy L. Fullerton"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "112",
@@ -4277,9 +4277,9 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Tracy L. Fullerton (P)",
-            "Tracy L. Fullerton",
-            "Tracy L. Fullerton"
+            "TBA",
+            "TBA",
+            "TBA"
           ],
           "credits": "2",
           "course": "112",
@@ -4306,15 +4306,15 @@
           "crn": "11249"
         },
         "506": {
-          "select": "C",
+          "select": "SR",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 3,
           "active": "0",
           "section": "506",
           "title": "FOUNDATIONS OF ENGR II",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "25",
+          "capacity": "25",
           "instructor": [
             "TBA",
             "TBA",
@@ -4467,15 +4467,15 @@
       "title": "PROFESSIONAL INTERNSHP",
       "sections": {
         "652": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "652",
           "title": "PROFESSIONAL INTERNSHP: IN-AB",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "Moohyun Kim (P)"
           ],
@@ -4496,15 +4496,15 @@
           "crn": "15205"
         },
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "600",
           "title": "PROFESSIONAL INTERNSHP",
-          "remaining": "3",
-          "capacity": "3",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "TBA"
           ],
@@ -4554,15 +4554,15 @@
           "crn": "15206"
         },
         "656": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "656",
           "title": "PROFESSIONAL INTERNSHP: IN-AB",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "TBA"
           ],
@@ -4641,15 +4641,15 @@
           "crn": "23225"
         },
         "609": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "609",
           "title": "PROFESSIONAL INTERNSHP",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "Victor Leon (P)"
           ],
@@ -4675,14 +4675,14 @@
       "title": "PROJECT MGMT FOR ENGINEERS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "35",
           "section": "500",
           "title": "PROJECT MGMT FOR ENGINEERS",
-          "remaining": "18",
+          "remaining": "0",
           "capacity": "35",
           "instructor": [
             "TBA"
@@ -4742,10 +4742,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 3,
-          "active": "2",
+          "active": "10",
           "section": "501",
           "title": "GLOBAL ENGINEERING DESIGN",
-          "remaining": "10",
+          "remaining": "2",
           "capacity": "12",
           "instructor": [
             "Victor Leon (P)",
@@ -4782,17 +4782,17 @@
       "title": "DIRECTED STUDIES",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "600",
           "title": "DIRECTED STUDIES",
-          "remaining": "5",
-          "capacity": "5",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
-            "Andrea Strzelec (P)"
+            "TBA"
           ],
           "credits": "1-6",
           "course": "685",
@@ -4854,10 +4854,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "INTERDISCIPLINARY DESIGN",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "William Schneider (P)",
@@ -5131,10 +5131,10 @@
           "subject": "ENGR",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "11",
           "section": "500",
           "title": "SPTP: ENTRSHIP FOR NANO ENERGY (Syllabus)",
-          "remaining": "19",
+          "remaining": "9",
           "capacity": "20",
           "instructor": [
             "James M. Donnell (P)"
@@ -5227,5 +5227,5 @@
     }
   },
   "title": "ENGR - Engineering",
-  "updated": "Mon, 11 Apr 2016 at 12:43 AM"
+  "updated": "Wed, Apr 13 2016 at 01:27 AM"
 }

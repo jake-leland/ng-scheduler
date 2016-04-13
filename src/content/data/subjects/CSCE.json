@@ -42,11 +42,11 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "11",
           "section": "501",
           "title": "PROGRAMMING I",
-          "remaining": "38",
-          "capacity": "45",
+          "remaining": "29",
+          "capacity": "40",
           "instructor": [
             "TBA",
             "TBA"
@@ -76,11 +76,11 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "502",
           "title": "PROGRAMMING I",
-          "remaining": "42",
-          "capacity": "45",
+          "remaining": "32",
+          "capacity": "40",
           "instructor": [
             "TBA",
             "TBA"
@@ -105,49 +105,15 @@
           ],
           "crn": "10916"
         },
-        "503": {
-          "select": "C",
-          "subject": "CSCE",
-          "campus": "CS",
-          "classes": 2,
-          "active": "0",
-          "section": "503",
-          "title": "PROGRAMMING I",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA",
-            "TBA"
-          ],
-          "credits": "4",
-          "course": "110",
-          "days": [
-            "MW",
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14",
-            "08/29-12/14"
-          ],
-          "location": [
-            "RDMC 111J",
-            "HRBB 124"
-          ],
-          "time": [
-            "03:00 pm-03:50 pm",
-            "08:00 am-09:15 am"
-          ],
-          "crn": "17152"
-        },
         "504": {
           "select": "SR",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "PROGRAMMING I",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -157,7 +123,7 @@
           "course": "110",
           "days": [
             "MWF",
-            " "
+            "MW"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -165,11 +131,11 @@
           ],
           "location": [
             "HRBB 113",
-            "TBA"
+            "RDMC 111A"
           ],
           "time": [
             "08:00 am-08:50 am",
-            "TBA"
+            "09:10 am-10:00 am"
           ],
           "crn": "24203"
         },
@@ -181,8 +147,8 @@
           "active": "2",
           "section": "505",
           "title": "PROGRAMMING I",
-          "remaining": "33",
-          "capacity": "35",
+          "remaining": "28",
+          "capacity": "30",
           "instructor": [
             "TBA",
             "TBA"
@@ -191,7 +157,7 @@
           "course": "110",
           "days": [
             "MWF",
-            " "
+            "MW"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -199,11 +165,11 @@
           ],
           "location": [
             "HRBB 113",
-            "TBA"
+            "RDMC 111J"
           ],
           "time": [
             "08:00 am-08:50 am",
-            "TBA"
+            "11:30 am-12:20 pm"
           ],
           "crn": "24204"
         },
@@ -251,11 +217,11 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "7",
           "section": "501",
           "title": "CPSC CONCEPTS & PROGRAM",
-          "remaining": "41",
-          "capacity": "45",
+          "remaining": "23",
+          "capacity": "30",
           "instructor": [
             "Joseph D. Hurley (P)",
             "Joseph D. Hurley"
@@ -288,8 +254,8 @@
           "active": "2",
           "section": "502",
           "title": "CPSC CONCEPTS & PROGRAM",
-          "remaining": "43",
-          "capacity": "45",
+          "remaining": "28",
+          "capacity": "30",
           "instructor": [
             "Joseph D. Hurley (P)",
             "Joseph D. Hurley"
@@ -356,8 +322,8 @@
           "active": "0",
           "section": "504",
           "title": "CPSC CONCEPTS & PROGRAM",
-          "remaining": "30",
-          "capacity": "30",
+          "remaining": "20",
+          "capacity": "20",
           "instructor": [
             "TBA",
             "TBA"
@@ -374,11 +340,11 @@
           ],
           "location": [
             "HRBB 113",
-            "RDMC 111J"
+            "RDMC 111C"
           ],
           "time": [
             "01:50 pm-02:40 pm",
-            "08:00 am-08:50 am"
+            "03:00 pm-03:50 pm"
           ],
           "crn": "22909"
         },
@@ -387,11 +353,11 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "6",
           "section": "505",
           "title": "CPSC CONCEPTS & PROGRAM",
-          "remaining": "21",
-          "capacity": "24",
+          "remaining": "14",
+          "capacity": "20",
           "instructor": [
             "TBA",
             "TBA"
@@ -408,11 +374,11 @@
           ],
           "location": [
             "HRBB 113",
-            "RDMC 111J"
+            "RDMC 111H"
           ],
           "time": [
             "01:50 pm-02:40 pm",
-            "09:10 am-10:00 am"
+            "12:40 pm-01:30 pm"
           ],
           "crn": "23080"
         },
@@ -494,10 +460,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "14",
+          "active": "15",
           "section": "200",
           "title": "HNR-COMPUTER ORGANIZATION",
-          "remaining": "-14",
+          "remaining": "-15",
           "capacity": "0",
           "instructor": [
             "Eun Kim (P)",
@@ -519,7 +485,7 @@
           ],
           "time": [
             "11:30 am-12:20 pm",
-            "03:00 pm-03:50 pm"
+            "10:20 am-11:10 am"
           ],
           "crn": "25165"
         },
@@ -528,10 +494,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "COMPUTER ORGANIZATION",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "TBA",
@@ -553,7 +519,7 @@
           ],
           "time": [
             "03:00 pm-03:50 pm",
-            "10:00 am-12:00 pm"
+            "04:10 pm-05:50 pm"
           ],
           "crn": "10937"
         },
@@ -587,7 +553,7 @@
           ],
           "time": [
             "03:00 pm-03:50 pm",
-            "10:00 am-12:00 pm"
+            "04:10 pm-05:50 pm"
           ],
           "crn": "10938"
         },
@@ -609,7 +575,7 @@
           "course": "312",
           "days": [
             "MWF",
-            "M"
+            "F"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -621,7 +587,7 @@
           ],
           "time": [
             "03:00 pm-03:50 pm",
-            "08:00 am-10:00 am"
+            "12:40 pm-02:20 pm"
           ],
           "crn": "16046"
         },
@@ -630,10 +596,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "13",
           "section": "504",
           "title": "COMPUTER ORGANIZATION",
-          "remaining": "22",
+          "remaining": "17",
           "capacity": "30",
           "instructor": [
             "Aakash Tyagi (P)",
@@ -655,7 +621,7 @@
           ],
           "time": [
             "02:20 pm-03:35 pm",
-            "11:10 am-12:50 pm"
+            "03:55 pm-05:35 pm"
           ],
           "crn": "22890"
         },
@@ -664,10 +630,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "5",
           "section": "505",
           "title": "COMPUTER ORGANIZATION",
-          "remaining": "26",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
             "Aakash Tyagi (P)",
@@ -689,7 +655,7 @@
           ],
           "time": [
             "02:20 pm-03:35 pm",
-            "11:10 am-12:50 pm"
+            "03:55 pm-05:35 pm"
           ],
           "crn": "24215"
         },
@@ -711,7 +677,7 @@
           "course": "312",
           "days": [
             "TR",
-            " "
+            "F"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -719,11 +685,11 @@
           ],
           "location": [
             "ETB 2005",
-            "TBA"
+            "RDMC 111C"
           ],
           "time": [
             "02:20 pm-03:35 pm",
-            "TBA"
+            "10:20 am-12:00 pm"
           ],
           "crn": "24216"
         }
@@ -771,44 +737,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "10",
           "section": "501",
           "title": "INTRO TO COMPUTER SYSTEM",
-          "remaining": "23",
-          "capacity": "30",
-          "instructor": [
-            "TBA",
-            "TBA"
-          ],
-          "credits": "4",
-          "course": "313",
-          "days": [
-            "M",
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14",
-            "08/29-12/14"
-          ],
-          "location": [
-            "RDMC 111J",
-            "HRBB 124"
-          ],
-          "time": [
-            "04:00 pm-06:00 pm",
-            "11:10 am-12:25 pm"
-          ],
-          "crn": "10939"
-        },
-        "502": {
-          "select": "SR",
-          "subject": "CSCE",
-          "campus": "CS",
-          "classes": 2,
-          "active": "2",
-          "section": "502",
-          "title": "INTRO TO COMPUTER SYSTEM",
-          "remaining": "28",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "TBA",
@@ -818,7 +750,7 @@
           "course": "313",
           "days": [
             "TR",
-            "W"
+            "T"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -826,11 +758,45 @@
           ],
           "location": [
             "HRBB 124",
-            "RDMC 111J"
+            "RDMC 111C"
           ],
           "time": [
             "11:10 am-12:25 pm",
-            "06:00 pm-08:00 pm"
+            "01:55 pm-03:35 pm"
+          ],
+          "crn": "10939"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "CSCE",
+          "campus": "CS",
+          "classes": 2,
+          "active": "3",
+          "section": "502",
+          "title": "INTRO TO COMPUTER SYSTEM",
+          "remaining": "27",
+          "capacity": "30",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "4",
+          "course": "313",
+          "days": [
+            "TR",
+            "R"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 124",
+            "RDMC 111C"
+          ],
+          "time": [
+            "11:10 am-12:25 pm",
+            "01:55 pm-03:35 pm"
           ],
           "crn": "10940"
         },
@@ -839,10 +805,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "14",
           "section": "503",
           "title": "INTRO TO COMPUTER SYSTEM",
-          "remaining": "26",
+          "remaining": "16",
           "capacity": "30",
           "instructor": [
             "TBA",
@@ -864,7 +830,7 @@
           ],
           "time": [
             "11:10 am-12:25 pm",
-            "10:00 am-12:00 pm"
+            "03:00 pm-04:40 pm"
           ],
           "crn": "14941"
         },
@@ -873,10 +839,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "INTRO TO COMPUTER SYSTEM",
-          "remaining": "28",
+          "remaining": "26",
           "capacity": "28",
           "instructor": [
             "TBA",
@@ -886,7 +852,7 @@
           "course": "313",
           "days": [
             "TR",
-            "F"
+            "T"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -898,7 +864,7 @@
           ],
           "time": [
             "09:35 am-10:50 am",
-            "12:00 pm-02:00 pm"
+            "11:10 am-12:50 pm"
           ],
           "crn": "14942"
         },
@@ -907,45 +873,11 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "505",
           "title": "INTRO TO COMPUTER SYSTEM",
-          "remaining": "25",
-          "capacity": "27",
-          "instructor": [
-            "TBA",
-            "TBA"
-          ],
-          "credits": "4",
-          "course": "313",
-          "days": [
-            "M",
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14",
-            "08/29-12/14"
-          ],
-          "location": [
-            "RDMC 111C",
-            "HRBB 113"
-          ],
-          "time": [
-            "08:00 am-10:00 am",
-            "09:35 am-10:50 am"
-          ],
-          "crn": "24217"
-        },
-        "506": {
-          "select": "C",
-          "subject": "CSCE",
-          "campus": "CS",
-          "classes": 2,
-          "active": "0",
-          "section": "506",
-          "title": "INTRO TO COMPUTER SYSTEM",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "22",
+          "capacity": "25",
           "instructor": [
             "TBA",
             "TBA"
@@ -954,21 +886,21 @@
           "course": "313",
           "days": [
             "TR",
-            "W"
+            "R"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
             "08/29-12/14"
           ],
           "location": [
-            "CHEM 2102",
+            "HRBB 113",
             "RDMC 111C"
           ],
           "time": [
-            "03:55 pm-05:10 pm",
-            "08:00 am-10:00 am"
+            "09:35 am-10:50 am",
+            "11:10 am-12:50 pm"
           ],
-          "crn": "24218"
+          "crn": "24217"
         }
       }
     },
@@ -980,10 +912,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "200",
           "title": "HNR-COMPILER DESIGN",
-          "remaining": "7",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "Lawrence Rauchwerger (P)"
@@ -1005,14 +937,14 @@
           "crn": "13019"
         },
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "21",
           "section": "500",
           "title": "COMPILER DESIGN",
-          "remaining": "15",
+          "remaining": "0",
           "capacity": "21",
           "instructor": [
             "Lawrence Rauchwerger (P)"
@@ -1101,10 +1033,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "32",
           "section": "501",
           "title": "PROGRAMMING LANGUAGES",
-          "remaining": "75",
+          "remaining": "58",
           "capacity": "90",
           "instructor": [
             "Hyunyoung Lee (P)"
@@ -1130,10 +1062,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "26",
           "section": "502",
           "title": "PROGRAMMING LANGUAGES",
-          "remaining": "75",
+          "remaining": "64",
           "capacity": "90",
           "instructor": [
             "Hyunyoung Lee (P)"
@@ -1232,10 +1164,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "15",
           "section": "501",
           "title": "PROGRAMMING STUDIO",
-          "remaining": "24",
+          "remaining": "15",
           "capacity": "30",
           "instructor": [
             "Andrew Kerne",
@@ -1244,7 +1176,7 @@
           "credits": "3",
           "course": "315",
           "days": [
-            "MW",
+            "TR",
             "TR"
           ],
           "date (mm/dd)": [
@@ -1256,7 +1188,7 @@
             "HRBB 124"
           ],
           "time": [
-            "03:00 pm-03:50 pm",
+            "08:25 am-09:15 am",
             "09:35 am-10:50 am"
           ],
           "crn": "12901"
@@ -1266,10 +1198,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "10",
           "section": "502",
           "title": "PROGRAMMING STUDIO",
-          "remaining": "29",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "Andrew Kerne",
@@ -1290,7 +1222,7 @@
             "HRBB 124"
           ],
           "time": [
-            "04:10 pm-05:00 pm",
+            "11:30 am-12:20 pm",
             "09:35 am-10:50 am"
           ],
           "crn": "13020"
@@ -1300,10 +1232,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "503",
           "title": "PROGRAMMING STUDIO",
-          "remaining": "28",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "Andrew Kerne",
@@ -1324,7 +1256,7 @@
             "HRBB 124"
           ],
           "time": [
-            "05:45 pm-06:35 pm",
+            "10:20 am-11:10 am",
             "09:35 am-10:50 am"
           ],
           "crn": "18343"
@@ -1364,14 +1296,14 @@
           "crn": "26733"
         },
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "25",
+          "active": "55",
           "section": "500",
           "title": "COMP HUMAN INTERACTION",
-          "remaining": "30",
+          "remaining": "0",
           "capacity": "55",
           "instructor": [
             "Richard K. Furuta (P)"
@@ -1402,13 +1334,13 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "29",
+          "active": "100",
           "section": "900",
           "title": "SEMINAR",
-          "remaining": "91",
+          "remaining": "20",
           "capacity": "120",
           "instructor": [
-            "Aakash Tyagi (P)"
+            "Timothy A. Davis (P)"
           ],
           "credits": "1",
           "course": "481",
@@ -1432,14 +1364,14 @@
       "title": "SR CAPSTONE DESIGN",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "20",
           "section": "501",
           "title": "SR CAPSTONE DESIGN",
-          "remaining": "12",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -1534,14 +1466,14 @@
           "crn": "24222"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "20",
           "section": "504",
           "title": "SR CAPSTONE DESIGN",
-          "remaining": "18",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "TBA",
@@ -1577,10 +1509,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "COMPUTER SYS DESIGN",
-          "remaining": "10",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Dezhen Song (P)",
@@ -1611,10 +1543,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "8",
           "section": "502",
           "title": "COMPUTER SYS DESIGN",
-          "remaining": "6",
+          "remaining": "2",
           "capacity": "10",
           "instructor": [
             "Dezhen Song",
@@ -1650,10 +1582,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "19",
+          "active": "22",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "116",
+          "remaining": "113",
           "capacity": "135",
           "instructor": [
             "Lawrence Rauchwerger (P), Nancy Amato"
@@ -1755,8 +1687,8 @@
           "active": "2",
           "section": "510",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "24",
-          "capacity": "26",
+          "remaining": "23",
+          "capacity": "25",
           "instructor": [
             "Walter Daugherity (P)",
             "Walter Daugherity"
@@ -1765,7 +1697,7 @@
           "course": "121",
           "days": [
             "MWF",
-            "TR"
+            "MW"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -1773,11 +1705,11 @@
           ],
           "location": [
             "HRBB 124",
-            "RDMC 111H"
+            "RDMC 111C"
           ],
           "time": [
             "01:50 pm-02:40 pm",
-            "02:20 pm-03:10 pm"
+            "12:40 pm-01:30 pm"
           ],
           "crn": "19238"
         },
@@ -1789,8 +1721,8 @@
           "active": "0",
           "section": "511",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "19",
-          "capacity": "19",
+          "remaining": "20",
+          "capacity": "20",
           "instructor": [
             "Walter Daugherity (P)",
             "Walter Daugherity"
@@ -1799,7 +1731,7 @@
           "course": "121",
           "days": [
             "MWF",
-            "TR"
+            "MW"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -1807,11 +1739,11 @@
           ],
           "location": [
             "HRBB 124",
-            "RDMC 111H"
+            "RDMC 111A"
           ],
           "time": [
             "01:50 pm-02:40 pm",
-            "03:55 pm-04:45 pm"
+            "04:40 pm-05:00 pm"
           ],
           "crn": "22887"
         },
@@ -1820,11 +1752,11 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "512",
           "title": "INTRO PGM DESIGN CONCEPT",
           "remaining": "16",
-          "capacity": "19",
+          "capacity": "20",
           "instructor": [
             "Walter Daugherity (P)",
             "Walter Daugherity"
@@ -1854,10 +1786,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "7",
           "section": "513",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "87",
+          "remaining": "83",
           "capacity": "90",
           "instructor": [
             "John M. Moore",
@@ -1922,10 +1854,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "23",
+          "active": "27",
           "section": "517",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "67",
+          "remaining": "63",
           "capacity": "90",
           "instructor": [
             "John M. Moore (P)",
@@ -1990,10 +1922,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "13",
+          "active": "15",
           "section": "200",
           "title": "HNR-INTRO PGM DESIGN CONCEPT",
-          "remaining": "-13",
+          "remaining": "-15",
           "capacity": "0",
           "instructor": [
             "Jennifer Welch (P)",
@@ -2064,14 +1996,14 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "John M. Moore",
-            "John M. Moore (P)"
+            "John M. Moore (P)",
+            "John M. Moore"
           ],
           "credits": "4",
           "course": "121",
           "days": [
-            "TR",
-            "TR"
+            "MW",
+            "MW"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -2079,11 +2011,11 @@
           ],
           "location": [
             "RDMC 111A",
-            "ETB 2005"
+            "RDMC 111A"
           ],
           "time": [
-            "09:35 am-10:25 am",
-            "11:10 am-12:25 pm"
+            "10:20 am-11:10 am",
+            "10:20 am-11:10 am"
           ],
           "crn": "26722"
         },
@@ -2129,8 +2061,8 @@
           "active": "2",
           "section": "521",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "28",
-          "capacity": "30",
+          "remaining": "23",
+          "capacity": "25",
           "instructor": [
             "Walter Daugherity (P)",
             "Walter Daugherity"
@@ -2147,24 +2079,24 @@
           ],
           "location": [
             "HRBB 113",
-            "RDMC 111A"
+            "RDMC 111C"
           ],
           "time": [
             "09:10 am-10:00 am",
-            "12:40 pm-01:30 pm"
+            "08:00 am-08:50 am"
           ],
           "crn": "26173"
         },
         "522": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
           "active": "0",
           "section": "522",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "Walter Daugherity (P)",
             "Walter Daugherity"
@@ -2181,11 +2113,11 @@
           ],
           "location": [
             "HRBB 113",
-            "RDMC 111A"
+            "TBA"
           ],
           "time": [
             "09:10 am-10:00 am",
-            "01:50 pm-02:40 pm"
+            "11:30 am-12:20 pm"
           ],
           "crn": "26174"
         },
@@ -2194,11 +2126,45 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "5",
           "section": "501",
           "title": "INTRO PGM DESIGN CONCEPT",
           "remaining": "20",
-          "capacity": "26",
+          "capacity": "25",
+          "instructor": [
+            "John M. Moore",
+            "John M. Moore (P)"
+          ],
+          "credits": "4",
+          "course": "121",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA",
+            "TBA"
+          ],
+          "time": [
+            "12:45 pm-01:35 pm",
+            "TBA"
+          ],
+          "crn": "10921"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "CSCE",
+          "campus": "CS",
+          "classes": 2,
+          "active": "1",
+          "section": "502",
+          "title": "INTRO PGM DESIGN CONCEPT",
+          "remaining": "19",
+          "capacity": "20",
           "instructor": [
             "John M. Moore",
             "John M. Moore (P)"
@@ -2221,40 +2187,6 @@
             "09:35 am-10:25 am",
             "11:10 am-12:25 pm"
           ],
-          "crn": "10921"
-        },
-        "502": {
-          "select": "SR",
-          "subject": "CSCE",
-          "campus": "CS",
-          "classes": 2,
-          "active": "0",
-          "section": "502",
-          "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "19",
-          "capacity": "19",
-          "instructor": [
-            "John M. Moore",
-            "John M. Moore (P)"
-          ],
-          "credits": "4",
-          "course": "121",
-          "days": [
-            "MW",
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14",
-            "08/29-12/14"
-          ],
-          "location": [
-            "RDMC 111A",
-            "ETB 2005"
-          ],
-          "time": [
-            "08:00 am-08:50 am",
-            "11:10 am-12:25 pm"
-          ],
           "crn": "10922"
         },
         "503": {
@@ -2265,8 +2197,8 @@
           "active": "3",
           "section": "503",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "16",
-          "capacity": "19",
+          "remaining": "22",
+          "capacity": "25",
           "instructor": [
             "John M. Moore (P)",
             "John M. Moore"
@@ -2283,11 +2215,11 @@
           ],
           "location": [
             "ETB 2005",
-            "RDMC 111A"
+            "RDMC 111H"
           ],
           "time": [
             "11:10 am-12:25 pm",
-            "05:30 pm-06:20 pm"
+            "02:20 pm-03:10 pm"
           ],
           "crn": "10923"
         },
@@ -2330,19 +2262,19 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "8",
           "section": "504",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "10",
-          "capacity": "19",
+          "remaining": "12",
+          "capacity": "20",
           "instructor": [
-            "John M. Moore (P)",
-            "John M. Moore"
+            "John M. Moore",
+            "John M. Moore (P)"
           ],
           "credits": "4",
           "course": "121",
           "days": [
-            "TR",
+            "MW",
             "TR"
           ],
           "date (mm/dd)": [
@@ -2350,12 +2282,12 @@
             "08/29-12/14"
           ],
           "location": [
-            "ETB 2005",
-            "RDMC 111A"
+            "RDMC 111A",
+            "ETB 2005"
           ],
           "time": [
-            "11:10 am-12:25 pm",
-            "12:45 pm-01:35 pm"
+            "12:40 pm-01:30 pm",
+            "11:10 am-12:25 pm"
           ],
           "crn": "10924"
         },
@@ -2367,8 +2299,8 @@
           "active": "1",
           "section": "505",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "25",
-          "capacity": "26",
+          "remaining": "24",
+          "capacity": "25",
           "instructor": [
             "Walter Daugherity (P)",
             "Walter Daugherity"
@@ -2385,11 +2317,11 @@
           ],
           "location": [
             "HRBB 124",
-            "RDMC 111H"
+            "RDMC 111C"
           ],
           "time": [
             "10:20 am-11:10 am",
-            "08:00 am-08:50 am"
+            "09:10 am-10:00 am"
           ],
           "crn": "10925"
         },
@@ -2398,11 +2330,11 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "5",
           "section": "506",
           "title": "INTRO PGM DESIGN CONCEPT",
           "remaining": "20",
-          "capacity": "26",
+          "capacity": "25",
           "instructor": [
             "Walter Daugherity (P)",
             "Walter Daugherity"
@@ -2423,7 +2355,7 @@
           ],
           "time": [
             "10:20 am-11:10 am",
-            "09:10 am-10:00 am"
+            "01:50 pm-02:40 pm"
           ],
           "crn": "10926"
         },
@@ -2435,8 +2367,8 @@
           "active": "2",
           "section": "507",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "17",
-          "capacity": "19",
+          "remaining": "18",
+          "capacity": "20",
           "instructor": [
             "Walter Daugherity (P)",
             "Walter Daugherity"
@@ -2453,24 +2385,24 @@
           ],
           "location": [
             "HRBB 124",
-            "RDMC 111H"
+            "RDMC 111A"
           ],
           "time": [
             "10:20 am-11:10 am",
-            "09:35 am-10:25 am"
+            "02:20 pm-03:10 pm"
           ],
           "crn": "13443"
         },
         "508": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
           "active": "6",
           "section": "508",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "13",
-          "capacity": "19",
+          "remaining": "-6",
+          "capacity": "0",
           "instructor": [
             "Walter Daugherity (P)",
             "Walter Daugherity"
@@ -2487,11 +2419,11 @@
           ],
           "location": [
             "HRBB 124",
-            "RDMC 111H"
+            "TBA"
           ],
           "time": [
             "10:20 am-11:10 am",
-            "11:10 am-12:00 pm"
+            "03:55 pm-04:45 pm"
           ],
           "crn": "13445"
         },
@@ -2503,8 +2435,8 @@
           "active": "0",
           "section": "509",
           "title": "INTRO PGM DESIGN CONCEPT",
-          "remaining": "26",
-          "capacity": "26",
+          "remaining": "25",
+          "capacity": "25",
           "instructor": [
             "Walter Daugherity (P)",
             "Walter Daugherity"
@@ -2513,7 +2445,7 @@
           "course": "121",
           "days": [
             "MWF",
-            "TR"
+            "MW"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -2525,7 +2457,7 @@
           ],
           "time": [
             "01:50 pm-02:40 pm",
-            "12:45 pm-01:35 pm"
+            "03:00 pm-03:50 pm"
           ],
           "crn": "13709"
         }
@@ -2535,14 +2467,14 @@
       "title": "QUANTUM ALGORITHMS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "15",
           "section": "500",
           "title": "QUANTUM ALGORITHMS",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Andreas Klappenecker (P)"
@@ -2573,10 +2505,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "22",
+          "active": "55",
           "section": "500",
           "title": "COMPUTER GRAPHICS",
-          "remaining": "33",
+          "remaining": "0",
           "capacity": "55",
           "instructor": [
             "Scott Schaefer (P)"
@@ -2811,14 +2743,14 @@
       "title": "QUANTUM ALGORITHMS",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "10",
           "section": "600",
           "title": "QUANTUM ALGORITHMS",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Andreas Klappenecker (P)"
@@ -4039,45 +3971,11 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "STRUCTURED PROG IN C",
-          "remaining": "45",
-          "capacity": "45",
-          "instructor": [
-            "Joseph D. Hurley (P)",
-            "Joseph D. Hurley"
-          ],
-          "credits": "4",
-          "course": "206",
-          "days": [
-            "MWF",
-            "F"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14",
-            "08/29-12/14"
-          ],
-          "location": [
-            "HRBB 124",
-            "RDMC 111J"
-          ],
-          "time": [
-            "08:00 am-08:50 am",
-            "06:00 pm-08:00 pm"
-          ],
-          "crn": "10927"
-        },
-        "502": {
-          "select": "SR",
-          "subject": "CSCE",
-          "campus": "CS",
-          "classes": 2,
-          "active": "0",
-          "section": "502",
-          "title": "STRUCTURED PROG IN C",
-          "remaining": "45",
-          "capacity": "45",
+          "remaining": "27",
+          "capacity": "30",
           "instructor": [
             "Joseph D. Hurley (P)",
             "Joseph D. Hurley"
@@ -4098,7 +3996,41 @@
           ],
           "time": [
             "08:00 am-08:50 am",
-            "11:30 am-12:20 pm"
+            "09:10 am-10:00 am"
+          ],
+          "crn": "10927"
+        },
+        "502": {
+          "select": "SR",
+          "subject": "CSCE",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "502",
+          "title": "STRUCTURED PROG IN C",
+          "remaining": "30",
+          "capacity": "30",
+          "instructor": [
+            "Joseph D. Hurley (P)",
+            "Joseph D. Hurley"
+          ],
+          "credits": "4",
+          "course": "206",
+          "days": [
+            "MWF",
+            "MW"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "HRBB 124",
+            "RDMC 111J"
+          ],
+          "time": [
+            "08:00 am-08:50 am",
+            "03:00 pm-03:50 pm"
           ],
           "crn": "10928"
         },
@@ -4144,8 +4076,8 @@
           "active": "2",
           "section": "504",
           "title": "STRUCTURED PROG IN C",
-          "remaining": "43",
-          "capacity": "45",
+          "remaining": "28",
+          "capacity": "30",
           "instructor": [
             "Joseph D. Hurley (P)",
             "Joseph D. Hurley"
@@ -4154,7 +4086,7 @@
           "course": "206",
           "days": [
             "MWF",
-            "F"
+            "MW"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -4162,11 +4094,11 @@
           ],
           "location": [
             "HRBB 124",
-            "RDMC 111C"
+            "RDMC 111J"
           ],
           "time": [
             "09:10 am-10:00 am",
-            "06:00 pm-08:00 pm"
+            "08:00 am-08:50 am"
           ],
           "crn": "10930"
         },
@@ -4175,11 +4107,11 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "7",
           "section": "505",
           "title": "STRUCTURED PROG IN C",
-          "remaining": "37",
-          "capacity": "45",
+          "remaining": "23",
+          "capacity": "30",
           "instructor": [
             "Joseph D. Hurley (P)",
             "Joseph D. Hurley"
@@ -4239,15 +4171,15 @@
           "crn": "10932"
         },
         "507": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
           "active": "2",
           "section": "507",
           "title": "STRUCTURED PROG IN C",
-          "remaining": "43",
-          "capacity": "45",
+          "remaining": "-2",
+          "capacity": "0",
           "instructor": [
             "TBA",
             "TBA"
@@ -4256,7 +4188,7 @@
           "course": "206",
           "days": [
             "MWF",
-            "TR"
+            "MW"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -4264,24 +4196,24 @@
           ],
           "location": [
             "BLOC 149",
-            "RDMC 111C"
+            "TBA"
           ],
           "time": [
             "03:00 pm-03:50 pm",
-            "03:55 pm-04:45 pm"
+            "04:10 pm-05:00 pm"
           ],
           "crn": "26217"
         },
         "508": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
           "active": "1",
           "section": "508",
           "title": "STRUCTURED PROG IN C",
-          "remaining": "19",
-          "capacity": "20",
+          "remaining": "-1",
+          "capacity": "0",
           "instructor": [
             "TBA",
             "TBA"
@@ -4290,7 +4222,7 @@
           "course": "206",
           "days": [
             "MWF",
-            "TR"
+            "MW"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -4298,11 +4230,11 @@
           ],
           "location": [
             "BLOC 149",
-            "RDMC 111C"
+            "TBA"
           ],
           "time": [
             "03:00 pm-03:50 pm",
-            "05:30 pm-06:20 pm"
+            "01:50 pm-02:40 pm"
           ],
           "crn": "26218"
         }
@@ -4316,10 +4248,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "7",
           "section": "600",
           "title": "DIGITAL IMAGE",
-          "remaining": "7",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "Ergun Akleman (P)",
@@ -4394,10 +4326,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "22",
+          "active": "24",
           "section": "600",
           "title": "SOFTWARE ENGINEERING",
-          "remaining": "33",
+          "remaining": "31",
           "capacity": "55",
           "instructor": [
             "Duncan Walker (P)"
@@ -5777,10 +5709,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "636",
           "title": "RESEARCH",
-          "remaining": "27",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "Tracy Hammond (P)"
@@ -6415,10 +6347,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "648",
           "title": "RESEARCH",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Roozbeh Jafari (P)"
@@ -6531,10 +6463,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "607",
           "title": "RESEARCH",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "3",
           "instructor": [
             "Xia Hu (P)"
@@ -6879,10 +6811,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "611",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Dezhen Song (P)"
@@ -7140,10 +7072,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "619",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Robin Murphy (P)"
@@ -7488,10 +7420,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "627",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Jyh Liu (P)"
@@ -7605,14 +7537,14 @@
           "crn": "26734"
         },
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "55",
           "section": "500",
           "title": "OPERATING SYSTEMS",
-          "remaining": "43",
+          "remaining": "0",
           "capacity": "55",
           "instructor": [
             "Dilma Da Silva (P)"
@@ -7643,10 +7575,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "48",
           "section": "501",
           "title": "DESIGN ANALY ALGORITHMS",
-          "remaining": "48",
+          "remaining": "13",
           "capacity": "61",
           "instructor": [
             "TBA"
@@ -7672,10 +7604,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "32",
           "section": "502",
           "title": "DESIGN ANALY ALGORITHMS",
-          "remaining": "44",
+          "remaining": "23",
           "capacity": "55",
           "instructor": [
             "TBA"
@@ -7740,10 +7672,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "21",
+          "active": "23",
           "section": "601",
           "title": "HUMAN-CENTERED COMPUTING",
-          "remaining": "34",
+          "remaining": "32",
           "capacity": "55",
           "instructor": [
             "Andrew Kerne (P)"
@@ -7808,10 +7740,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "31",
+          "active": "33",
           "section": "600",
           "title": "COMPUTER ARCHITECTURE",
-          "remaining": "24",
+          "remaining": "22",
           "capacity": "55",
           "instructor": [
             "Daniel A. Jimenez (P)"
@@ -7876,13 +7808,13 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "9",
           "section": "500",
           "title": "INTRO TO COMPUTING",
-          "remaining": "113",
+          "remaining": "111",
           "capacity": "120",
           "instructor": [
-            "Timothy A. Davis (P)"
+            "Aakash Tyagi (P)"
           ],
           "credits": "1",
           "course": "181",
@@ -7906,15 +7838,15 @@
       "title": "MICROCOMPUTER SYSTEMS",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "18",
           "section": "501",
           "title": "MICROCOMPUTER SYSTEMS",
-          "remaining": "10",
-          "capacity": "15",
+          "remaining": "0",
+          "capacity": "18",
           "instructor": [
             "Jyh Liu (P)",
             "Jyh Liu"
@@ -7940,15 +7872,15 @@
           "crn": "10944"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "18",
           "section": "502",
           "title": "MICROCOMPUTER SYSTEMS",
-          "remaining": "7",
-          "capacity": "15",
+          "remaining": "0",
+          "capacity": "18",
           "instructor": [
             "Jyh Liu (P)",
             "Jyh Liu"
@@ -8017,10 +7949,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "24",
+          "remaining": "20",
           "capacity": "24",
           "instructor": [
             "Teresa Leyk (P)",
@@ -8047,23 +7979,23 @@
           "crn": "10933"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
           "active": "2",
           "section": "502",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "20",
-          "capacity": "22",
+          "remaining": "-2",
+          "capacity": "0",
           "instructor": [
-            "Teresa Leyk",
-            "Teresa Leyk (P)"
+            "Teresa Leyk (P)",
+            "Teresa Leyk"
           ],
           "credits": "4",
           "course": "221",
           "days": [
-            "MW",
+            "TR",
             "TR"
           ],
           "date (mm/dd)": [
@@ -8071,12 +8003,12 @@
             "08/29-12/14"
           ],
           "location": [
-            "RDMC 111H",
-            "ETB 2005"
+            "ETB 2005",
+            "TBA"
           ],
           "time": [
-            "12:40 pm-01:30 pm",
-            "08:00 am-09:15 am"
+            "08:00 am-09:15 am",
+            "03:55 pm-04:45 pm"
           ],
           "crn": "10934"
         },
@@ -8109,29 +8041,29 @@
             "ETB 2005"
           ],
           "time": [
-            "01:50 pm-02:40 pm",
+            "08:00 am-08:50 am",
             "08:00 am-09:15 am"
           ],
           "crn": "10935"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
           "active": "2",
           "section": "504",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "20",
-          "capacity": "22",
+          "remaining": "-2",
+          "capacity": "0",
           "instructor": [
-            "Teresa Leyk",
-            "Teresa Leyk (P)"
+            "Teresa Leyk (P)",
+            "Teresa Leyk"
           ],
           "credits": "4",
           "course": "221",
           "days": [
-            "MW",
+            "TR",
             "TR"
           ],
           "date (mm/dd)": [
@@ -8139,12 +8071,12 @@
             "08/29-12/14"
           ],
           "location": [
-            "RDMC 111A",
-            "ETB 2005"
+            "ETB 2005",
+            "TBA"
           ],
           "time": [
-            "03:00 pm-03:50 pm",
-            "08:00 am-09:15 am"
+            "08:00 am-09:15 am",
+            "09:35 am-10:25 am"
           ],
           "crn": "10936"
         },
@@ -8187,44 +8119,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "17",
+          "active": "15",
           "section": "505",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "10",
-          "capacity": "27",
-          "instructor": [
-            "Teresa Leyk",
-            "Teresa Leyk (P)"
-          ],
-          "credits": "4",
-          "course": "221",
-          "days": [
-            "MW",
-            "TR"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14",
-            "08/29-12/14"
-          ],
-          "location": [
-            "RDMC 111A",
-            "ETB 2005"
-          ],
-          "time": [
-            "11:30 am-12:20 pm",
-            "09:35 am-10:50 am"
-          ],
-          "crn": "13021"
-        },
-        "506": {
-          "select": "SR",
-          "subject": "CSCE",
-          "campus": "CS",
-          "classes": 2,
-          "active": "1",
-          "section": "506",
-          "title": "DATA STRUC & ALGORITHM",
-          "remaining": "26",
+          "remaining": "12",
           "capacity": "27",
           "instructor": [
             "Teresa Leyk",
@@ -8245,8 +8143,42 @@
             "ETB 2005"
           ],
           "time": [
-            "08:00 am-08:50 am",
+            "08:25 am-09:15 am",
             "09:35 am-10:50 am"
+          ],
+          "crn": "13021"
+        },
+        "506": {
+          "select": "SR",
+          "subject": "CSCE",
+          "campus": "CS",
+          "classes": 2,
+          "active": "3",
+          "section": "506",
+          "title": "DATA STRUC & ALGORITHM",
+          "remaining": "24",
+          "capacity": "27",
+          "instructor": [
+            "Teresa Leyk (P)",
+            "Teresa Leyk"
+          ],
+          "credits": "4",
+          "course": "221",
+          "days": [
+            "TR",
+            "TR"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "ETB 2005",
+            "RDMC 111H"
+          ],
+          "time": [
+            "09:35 am-10:50 am",
+            "11:10 am-12:00 pm"
           ],
           "crn": "17153"
         },
@@ -8255,10 +8187,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "507",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "27",
           "instructor": [
             "Teresa Leyk",
@@ -8279,21 +8211,21 @@
             "ETB 2005"
           ],
           "time": [
-            "04:10 pm-05:00 pm",
+            "09:10 am-10:00 am",
             "09:35 am-10:50 am"
           ],
           "crn": "24211"
         },
         "508": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
           "active": "5",
           "section": "508",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "31",
-          "capacity": "36",
+          "remaining": "-5",
+          "capacity": "0",
           "instructor": [
             "Teresa Leyk (P)",
             "Teresa Leyk"
@@ -8310,7 +8242,7 @@
           ],
           "location": [
             "HRBB 113",
-            "RDMC 111H"
+            "TBA"
           ],
           "time": [
             "04:10 pm-05:25 pm",
@@ -8323,11 +8255,11 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "9",
           "section": "509",
           "title": "DATA STRUC & ALGORITHM",
-          "remaining": "15",
-          "capacity": "19",
+          "remaining": "11",
+          "capacity": "20",
           "instructor": [
             "Teresa Leyk",
             "Teresa Leyk (P)"
@@ -8343,11 +8275,11 @@
             "08/29-12/14"
           ],
           "location": [
-            "RDMC 111C",
+            "RDMC 111A",
             "HRBB 113"
           ],
           "time": [
-            "12:40 pm-01:30 pm",
+            "03:00 pm-03:50 pm",
             "04:10 pm-05:25 pm"
           ],
           "crn": "24213"
@@ -8362,10 +8294,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "8",
           "section": "200",
           "title": "HNR-DISCRETE STRUC COMPUTING",
-          "remaining": "-12",
+          "remaining": "-8",
           "capacity": "0",
           "instructor": [
             "Sing Sze (P)"
@@ -8373,16 +8305,16 @@
           "credits": "3",
           "course": "222",
           "days": [
-            "MWF"
+            "TR"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "CVE 137"
+            "AGLS 109"
           ],
           "time": [
-            "01:50 pm-02:40 pm"
+            "12:45 pm-02:00 pm"
           ],
           "crn": "16609"
         },
@@ -8391,10 +8323,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "21",
           "section": "501",
           "title": "DISCRETE STRUC COMPUTING",
-          "remaining": "74",
+          "remaining": "69",
           "capacity": "90",
           "instructor": [
             "Philip C. Ritchey (P)"
@@ -8420,10 +8352,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "19",
+          "active": "22",
           "section": "502",
           "title": "DISCRETE STRUC COMPUTING",
-          "remaining": "71",
+          "remaining": "68",
           "capacity": "90",
           "instructor": [
             "Philip C. Ritchey (P)"
@@ -8449,10 +8381,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "503",
           "title": "DISCRETE STRUC COMPUTING",
-          "remaining": "85",
+          "remaining": "81",
           "capacity": "90",
           "instructor": [
             "Philip C. Ritchey (P)"
@@ -8479,14 +8411,14 @@
       "title": "ARTIFICIAL INTELLIGENCE",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "29",
+          "active": "55",
           "section": "500",
           "title": "ARTIFICIAL INTELLIGENCE",
-          "remaining": "26",
+          "remaining": "0",
           "capacity": "55",
           "instructor": [
             "Thomas Ioerger (P)"
@@ -8513,14 +8445,14 @@
       "title": "WIRELESS AND MOBILE SYS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "21",
+          "active": "55",
           "section": "500",
           "title": "WIRELESS AND MOBILE SYS",
-          "remaining": "34",
+          "remaining": "0",
           "capacity": "55",
           "instructor": [
             "Radu Stoleru (P)"
@@ -8547,14 +8479,14 @@
       "title": "COMP & NET SECURITY",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "55",
           "section": "500",
           "title": "COMP & NET SECURITY",
-          "remaining": "37",
+          "remaining": "0",
           "capacity": "55",
           "instructor": [
             "Daniel J. Ragsdale (P)"
@@ -8585,10 +8517,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "21",
+          "active": "20",
           "section": "600",
           "title": "REAL-TIME SYSTEMS",
-          "remaining": "4",
+          "remaining": "5",
           "capacity": "25",
           "instructor": [
             "Riccardo Bettati (P)"
@@ -8619,10 +8551,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "8",
           "section": "600",
           "title": "COMPUTATIONAL GEOMETRY",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "25",
           "instructor": [
             "Nancy Amato (P)"
@@ -8653,10 +8585,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "34",
+          "active": "36",
           "section": "600",
           "title": "ADV NETWORK & SECURITY",
-          "remaining": "21",
+          "remaining": "19",
           "capacity": "55",
           "instructor": [
             "Guofei Gu (P)"
@@ -8784,10 +8716,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "41",
+          "active": "42",
           "section": "600",
           "title": "ARTIFICIAL INTELLIGNCE",
-          "remaining": "34",
+          "remaining": "33",
           "capacity": "75",
           "instructor": [
             "Yoonsuck Choe (P)"
@@ -8818,10 +8750,10 @@
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "24",
           "section": "601",
           "title": "ANALYSIS OF ALGORITHMS",
-          "remaining": "46",
+          "remaining": "31",
           "capacity": "55",
           "instructor": [
             "TBA"
@@ -8843,15 +8775,15 @@
           "crn": "24225"
         },
         "602": {
-          "select": "SR",
+          "select": "C",
           "subject": "CSCE",
           "campus": "CS",
           "classes": 1,
-          "active": "19",
+          "active": "7",
           "section": "602",
           "title": "ANALYSIS OF ALGORITHMS",
-          "remaining": "36",
-          "capacity": "55",
+          "remaining": "-7",
+          "capacity": "0",
           "instructor": [
             "TBA"
           ],
@@ -8875,5 +8807,5 @@
     }
   },
   "title": "CSCE - Computer Sci & Engr",
-  "updated": "Mon, 11 Apr 2016 at 12:40 AM"
+  "updated": "Wed, Apr 13 2016 at 01:25 AM"
 }

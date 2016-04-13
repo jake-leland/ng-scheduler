@@ -8,10 +8,10 @@
           "subject": "IBUS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "200",
           "title": "HNR-INTERNATL ENVIR OF BUS",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Michael W. Pustay (P)"
@@ -163,11 +163,11 @@
           "subject": "IBUS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "650",
           "title": "PROFESSIONAL STUDY",
           "remaining": "0",
-          "capacity": "0",
+          "capacity": "1",
           "instructor": [
             "TBA"
           ],
@@ -226,10 +226,10 @@
           "subject": "IBUS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "932",
           "title": "INTERNATIONAL MGMT",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Daria Panina (P)"
@@ -357,10 +357,10 @@
           "subject": "IBUS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "550",
           "title": "BUSINESS STUDY ABROAD",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "21",
           "instructor": [
             "TBA"
@@ -387,14 +387,14 @@
       "title": "GLOBAL MARKETING",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "IBUS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "GLOBAL MARKETING",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "2",
           "instructor": [
             "Larry Gresham (P)"
@@ -416,14 +416,14 @@
           "crn": "11564"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "IBUS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "GLOBAL MARKETING",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "2",
           "instructor": [
             "Larry Gresham (P)"
@@ -551,10 +551,10 @@
           "subject": "IBUS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "INTERNATIONAL FINANCE",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "TBA"
@@ -676,5 +676,5 @@
     }
   },
   "title": "IBUS - International Business",
-  "updated": "Mon, 11 Apr 2016 at 12:45 AM"
+  "updated": "Wed, Apr 13 2016 at 01:29 AM"
 }

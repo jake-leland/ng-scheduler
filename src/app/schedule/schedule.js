@@ -35,7 +35,7 @@
             function parseSection(section) {
                 for (var i = 0; i < section.classes; i++) {
                     for (var j = 0; j < section.days[i].length; j++) {
-                        if (section.time[i] != 'WEB') {
+                        if (section.time[i] != 'WEB' && section.time[i] != 'TBA') {
                             createClass(section.crn + '-' + i, section.days[i][j], section.time[i]);
                         }
                     }

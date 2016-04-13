@@ -8,10 +8,10 @@
           "subject": "VTMI",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "5",
           "section": "600",
           "title": "EXPERIMENTAL IMMUNOLOGY",
-          "remaining": "4",
+          "remaining": "3",
           "capacity": "8",
           "instructor": [
             "Luc Berghman (P)",
@@ -280,14 +280,14 @@
           "crn": "18582"
         },
         "602": {
-          "select": "C",
+          "select": "SR",
           "subject": "VTMI",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "0",
           "section": "602",
           "title": "DIRECTED STUDIES",
-          "remaining": "0",
+          "remaining": "1",
           "capacity": "1",
           "instructor": [
             "Suryakant Waghela (P)"
@@ -575,15 +575,15 @@
       "title": "PATH BACTERIOLOGY I",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "VTMI",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "PATH BACTERIOLOGY I",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "-1",
+          "capacity": "0",
           "instructor": [
             "Thomas Ficht (P)",
             "Thomas Ficht"
@@ -618,10 +618,10 @@
           "subject": "VTMI",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "600",
           "title": "VIROLOGY",
-          "remaining": "7",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Judith Ball (P)",
@@ -1633,5 +1633,5 @@
     }
   },
   "title": "VTMI - Veterinary Microbiology",
-  "updated": "Mon, 11 Apr 2016 at 12:54 AM"
+  "updated": "Wed, Apr 13 2016 at 01:38 AM"
 }

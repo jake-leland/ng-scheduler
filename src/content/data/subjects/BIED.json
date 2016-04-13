@@ -555,10 +555,10 @@
           "subject": "BIED",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "699",
           "title": "SPAN/ENG BILITERACY",
-          "remaining": "-1",
+          "remaining": "-2",
           "capacity": "0",
           "instructor": [
             "Sandra T. Acosta (P)"
@@ -618,10 +618,10 @@
           "subject": "BIED",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "699",
           "title": "BESL CURRICULUM DEV LANG",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "0",
           "instructor": [
             "Rafael Lara-Alecio (P)"
@@ -796,5 +796,5 @@
     }
   },
   "title": "BIED - Bilingual Education",
-  "updated": "Mon, 11 Apr 2016 at 12:38 AM"
+  "updated": "Wed, Apr 13 2016 at 01:23 AM"
 }

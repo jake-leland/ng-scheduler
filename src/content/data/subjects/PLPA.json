@@ -535,10 +535,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "609",
           "title": "RESEARCH",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Clint Magill (P)"
@@ -637,10 +637,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "47",
           "section": "500",
           "title": "PLANT PATHOLOGY",
-          "remaining": "76",
+          "remaining": "43",
           "capacity": "90",
           "instructor": [
             "David Appel (P)"
@@ -671,10 +671,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "TURFGRASS PATHOLOGY",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Young-Ki Jo (P)"
@@ -705,10 +705,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "13",
           "section": "501",
           "title": "PLANT PATHOLOGY LAB",
-          "remaining": "17",
+          "remaining": "9",
           "capacity": "22",
           "instructor": [
             "Leland Pierson (P)"
@@ -734,10 +734,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "502",
           "title": "PLANT PATHOLOGY LAB",
-          "remaining": "22",
+          "remaining": "14",
           "capacity": "22",
           "instructor": [
             "Dennis Gross (P)"
@@ -763,10 +763,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "8",
           "section": "503",
           "title": "PLANT PATHOLOGY LAB",
-          "remaining": "19",
+          "remaining": "14",
           "capacity": "22",
           "instructor": [
             "Carlos Gonzalez (P)"
@@ -792,10 +792,10 @@
           "subject": "PLPA",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "504",
           "title": "PLANT PATHOLOGY LAB",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "22",
           "instructor": [
             "Dennis Gross (P)"
@@ -1058,5 +1058,5 @@
     }
   },
   "title": "PLPA - Plant Pathology",
-  "updated": "Mon, 11 Apr 2016 at 12:51 AM"
+  "updated": "Wed, Apr 13 2016 at 01:35 AM"
 }

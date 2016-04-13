@@ -646,10 +646,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "519",
           "title": "RESEARCH",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Doodipala S. Reddy (P)"
@@ -680,10 +680,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "12",
           "section": "500",
           "title": "HLTH PSYC & BEHAV MED",
-          "remaining": "44",
+          "remaining": "35",
           "capacity": "47",
           "instructor": [
             "Mary W. Meagher (P)"
@@ -888,10 +888,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "611",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "James Grau (P)"
@@ -1299,10 +1299,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "9",
           "section": "500",
           "title": "PSYC OF LEARNING",
-          "remaining": "58",
+          "remaining": "51",
           "capacity": "60",
           "instructor": [
             "James Grau (P)"
@@ -1333,10 +1333,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "35",
+          "remaining": "34",
           "capacity": "35",
           "instructor": [
             "Michael Smotherman (P)"
@@ -1425,10 +1425,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "200",
           "title": "HNR:SENSATION-PERCEPTION",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "13",
           "instructor": [
             "Takashi Yamauchi (P)"
@@ -1454,10 +1454,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "500",
           "title": "SENSATION-PERCEPTION",
-          "remaining": "34",
+          "remaining": "30",
           "capacity": "34",
           "instructor": [
             "Takashi Yamauchi (P)"
@@ -1662,10 +1662,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "535",
           "title": "DIRECTED STUDIES",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "William Griffith (P)"
@@ -1981,10 +1981,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "523",
           "title": "DIRECTED STUDIES",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Mark Packard (P)"
@@ -2184,10 +2184,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "549",
           "title": "DIRECTED STUDIES",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Shoshana Eitan (P)"
@@ -2209,14 +2209,14 @@
           "crn": "13590"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "506",
           "title": "DIRECTED STUDIES",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "2",
           "instructor": [
             "Christabel Welsh (P)"
@@ -2305,10 +2305,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "7",
           "section": "500",
           "title": "INTRO TO NEUROSCIENCE",
-          "remaining": "42",
+          "remaining": "38",
           "capacity": "45",
           "instructor": [
             "Gladys Ko (P)"
@@ -2335,14 +2335,14 @@
       "title": "NEUROSCI LEARN MEMORY",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "10",
           "section": "500",
           "title": "NEUROSCI LEARN MEMORY",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Stephen Maren (P)"
@@ -2373,10 +2373,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "PSYCHOLOGY OF ANIMAL BEHAVIOR",
-          "remaining": "44",
+          "remaining": "41",
           "capacity": "44",
           "instructor": [
             "Naomi Nagaya (P)"
@@ -2407,10 +2407,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "500",
           "title": "BIO OF PSYCH DISORDERS",
-          "remaining": "14",
+          "remaining": "9",
           "capacity": "16",
           "instructor": [
             "Shoshana Eitan (P)"
@@ -2562,10 +2562,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "PHYSIOLOGICAL PSYCH",
-          "remaining": "40",
+          "remaining": "34",
           "capacity": "40",
           "instructor": [
             "Mark Packard (P)"
@@ -2592,14 +2592,14 @@
       "title": "DEV NEUROTOXICOLOGY",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "10",
           "section": "500",
           "title": "DEV NEUROTOXICOLOGY",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Louise Abbott (P)"
@@ -2630,10 +2630,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "11",
           "section": "500",
           "title": "REG & BEHAV NEUROSCIENCE",
-          "remaining": "18",
+          "remaining": "9",
           "capacity": "20",
           "instructor": [
             "Michael Smotherman (P)"
@@ -2698,10 +2698,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "500",
           "title": "DRUGS & BEHAVIOR",
-          "remaining": "8",
+          "remaining": "4",
           "capacity": "10",
           "instructor": [
             "Rachel Smith (P)"
@@ -2732,10 +2732,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "NEUROPSYCHOPHARMACOLOGY",
-          "remaining": "4",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "Ursula Winzer-Serhan (P)"
@@ -2800,10 +2800,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "PRINC NEURO I",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "12",
           "instructor": [
             "Wesley J. Thompson (P), Mendell Rimer"
@@ -2941,10 +2941,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "12",
           "section": "599",
           "title": "CORE IDEAS NEUROSCIENCE (Syllabus)",
-          "remaining": "16",
+          "remaining": "8",
           "capacity": "20",
           "instructor": [
             "William Klemm (P)"
@@ -2975,10 +2975,10 @@
           "subject": "NRSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "LEARNING",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "8",
           "instructor": [
             "James Grau (P)"
@@ -3003,5 +3003,5 @@
     }
   },
   "title": "NRSC - Neuroscience",
-  "updated": "Mon, 11 Apr 2016 at 12:49 AM"
+  "updated": "Wed, Apr 13 2016 at 01:32 AM"
 }

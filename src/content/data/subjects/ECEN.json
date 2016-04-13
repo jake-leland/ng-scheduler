@@ -43,14 +43,14 @@
           "crn": "24174"
         },
         "510": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "11",
+          "active": "16",
           "section": "510",
           "title": "COMPUTER ARCH & DESIGN",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Alexander Sprintson (P)",
@@ -125,10 +125,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "3",
+          "active": "4",
           "section": "501",
           "title": "COMPUTER ARCH & DESIGN",
-          "remaining": "8",
+          "remaining": "7",
           "capacity": "11",
           "instructor": [
             "Alexander Sprintson",
@@ -164,10 +164,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "2",
+          "active": "3",
           "section": "502",
           "title": "COMPUTER ARCH & DESIGN",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "16",
           "instructor": [
             "Alexander Sprintson",
@@ -242,10 +242,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "COMPUTER ARCH & DESIGN",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "Alexander Sprintson",
@@ -359,10 +359,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "2",
+          "active": "9",
           "section": "507",
           "title": "COMPUTER ARCH & DESIGN",
-          "remaining": "14",
+          "remaining": "7",
           "capacity": "16",
           "instructor": [
             "Alexander Sprintson (P)",
@@ -398,10 +398,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "3",
+          "active": "4",
           "section": "508",
           "title": "COMPUTER ARCH & DESIGN",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "16",
           "instructor": [
             "Alexander Sprintson (P)",
@@ -437,10 +437,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "4",
+          "active": "9",
           "section": "509",
           "title": "COMPUTER ARCH & DESIGN",
-          "remaining": "12",
+          "remaining": "7",
           "capacity": "16",
           "instructor": [
             "Alexander Sprintson (P)",
@@ -477,14 +477,14 @@
       "title": "MICROELECT CIRCUIT FAB",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "MICROELECT CIRCUIT FAB",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "2",
           "instructor": [
             "Harlan Harris (P)",
@@ -515,10 +515,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "MICROELECT CIRCUIT FAB",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Harlan Harris (P)",
@@ -617,10 +617,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "505",
           "title": "MICROELECT CIRCUIT FAB",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Harlan Harris (P)",
@@ -651,10 +651,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "MICROELECT CIRCUIT FAB",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Harlan Harris",
@@ -681,14 +681,14 @@
           "crn": "11083"
         },
         "507": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "507",
           "title": "MICROELECT CIRCUIT FAB",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "2",
           "instructor": [
             "Harlan Harris",
@@ -719,10 +719,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "508",
           "title": "MICROELECT CIRCUIT FAB",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Harlan Harris",
@@ -753,10 +753,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "509",
           "title": "MICROELECT CIRCUIT FAB",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Harlan Harris (P)",
@@ -788,14 +788,14 @@
       "title": "MICROELEC DEVICE DESGN",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "45",
           "section": "500",
           "title": "MICROELEC DEVICE DESGN",
-          "remaining": "34",
+          "remaining": "0",
           "capacity": "45",
           "instructor": [
             "Chin Su (P)"
@@ -822,14 +822,14 @@
       "title": "VLSI CIRCUIT DESIGN",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "501",
           "title": "VLSI CIRCUIT DESIGN",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "4",
           "instructor": [
             "Samuel M. Palermo (P)",
@@ -860,10 +860,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "502",
           "title": "VLSI CIRCUIT DESIGN",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "4",
           "instructor": [
             "Samuel M. Palermo (P)",
@@ -894,10 +894,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "503",
           "title": "VLSI CIRCUIT DESIGN",
-          "remaining": "4",
+          "remaining": "1",
           "capacity": "4",
           "instructor": [
             "Samuel M. Palermo (P)",
@@ -948,7 +948,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "CHEN 104",
+            "TBA",
             "CVLB 324"
           ],
           "time": [
@@ -1035,10 +1035,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "10",
           "section": "600",
           "title": "MOTOR DRIVE DYNAMICS",
-          "remaining": "31",
+          "remaining": "30",
           "capacity": "40",
           "instructor": [
             "Hamid Toliyat (P)"
@@ -1069,10 +1069,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "24",
+          "active": "26",
           "section": "600",
           "title": "ADV COMPUTER ARCHITEC",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "40",
           "instructor": [
             "Paul Gratz (P)"
@@ -1098,10 +1098,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "700",
           "title": "ADV COMPUTER ARCHITEC",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Paul Gratz (P)"
@@ -1166,10 +1166,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "11",
           "section": "501",
           "title": "SIGNALS AND SYSTEMS",
-          "remaining": "50",
+          "remaining": "44",
           "capacity": "55",
           "instructor": [
             "Jim Ji (P)",
@@ -1200,10 +1200,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "20",
+          "active": "32",
           "section": "502",
           "title": "SIGNALS AND SYSTEMS",
-          "remaining": "40",
+          "remaining": "28",
           "capacity": "60",
           "instructor": [
             "TBA",
@@ -1234,10 +1234,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "8",
           "section": "503",
           "title": "SIGNALS AND SYSTEMS",
-          "remaining": "56",
+          "remaining": "52",
           "capacity": "60",
           "instructor": [
             "TBA",
@@ -1307,10 +1307,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "600",
           "title": "ELECTROMAGNETIC THEORY",
-          "remaining": "27",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Krzysztof Michalski (P)"
@@ -1341,10 +1341,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "510",
           "title": "POWER ELECTRONICS",
-          "remaining": "7",
+          "remaining": "5",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1371,14 +1371,14 @@
           "crn": "23275"
         },
         "511": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "511",
           "title": "POWER ELECTRONICS",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1409,10 +1409,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "POWER ELECTRONICS",
-          "remaining": "8",
+          "remaining": "2",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1443,10 +1443,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "512",
           "title": "POWER ELECTRONICS",
-          "remaining": "7",
+          "remaining": "3",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1473,14 +1473,14 @@
           "crn": "24872"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "502",
           "title": "POWER ELECTRONICS",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1507,14 +1507,14 @@
           "crn": "21668"
         },
         "513": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "513",
           "title": "POWER ELECTRONICS",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1545,10 +1545,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "6",
           "section": "503",
           "title": "POWER ELECTRONICS",
-          "remaining": "6",
+          "remaining": "2",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1575,14 +1575,14 @@
           "crn": "21669"
         },
         "514": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "8",
           "section": "514",
           "title": "POWER ELECTRONICS",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1609,14 +1609,14 @@
           "crn": "24874"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "504",
           "title": "POWER ELECTRONICS",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1643,14 +1643,14 @@
           "crn": "21670"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "505",
           "title": "POWER ELECTRONICS",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1681,10 +1681,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "506",
           "title": "POWER ELECTRONICS",
-          "remaining": "6",
+          "remaining": "4",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1715,10 +1715,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "507",
           "title": "POWER ELECTRONICS",
-          "remaining": "8",
+          "remaining": "4",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1745,14 +1745,14 @@
           "crn": "21673"
         },
         "508": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "508",
           "title": "POWER ELECTRONICS",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1779,14 +1779,14 @@
           "crn": "21674"
         },
         "509": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "509",
           "title": "POWER ELECTRONICS",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "TBA",
@@ -1822,10 +1822,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "10",
           "section": "600",
           "title": "PHASED ARRAYS",
-          "remaining": "22",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "Steven M. Wright (P)"
@@ -2094,10 +2094,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "1",
           "section": "607",
           "title": "DIGITAL INTEGRATED CIRCUIT DES",
-          "remaining": "5",
+          "remaining": "6",
           "capacity": "7",
           "instructor": [
             "Peng Li (P)",
@@ -2128,10 +2128,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "608",
           "title": "DIGITAL INTEGRATED CIRCUIT DES",
-          "remaining": "6",
+          "remaining": "5",
           "capacity": "7",
           "instructor": [
             "Peng Li (P)",
@@ -2197,14 +2197,14 @@
       "title": "RF & MICROWAVE WIRELESS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "30",
           "section": "500",
           "title": "RF & MICROWAVE WIRELESS",
-          "remaining": "19",
+          "remaining": "0",
           "capacity": "30",
           "instructor": [
             "Kai Chang (P)"
@@ -2298,10 +2298,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "SEMINAR-BIO",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Xiaoning Qian (P)"
@@ -2327,10 +2327,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "22",
+          "active": "23",
           "section": "602",
           "title": "SEMINAR-CE",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "40",
           "instructor": [
             "Paul Gratz (P)"
@@ -2512,14 +2512,14 @@
           "crn": "21222"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "2",
+          "active": "8",
           "section": "501",
           "title": "ELECTRONIC MOTOR DRIVE",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Mehrdad Ehsani (P)",
@@ -2551,14 +2551,14 @@
           "crn": "21676"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "8",
           "section": "502",
           "title": "ELECTRONIC MOTOR DRIVE",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Mehrdad Ehsani (P)",
@@ -2590,14 +2590,14 @@
           "crn": "21677"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "4",
+          "active": "8",
           "section": "503",
           "title": "ELECTRONIC MOTOR DRIVE",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Mehrdad Ehsani (P)",
@@ -2629,14 +2629,14 @@
           "crn": "21678"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "2",
+          "active": "8",
           "section": "504",
           "title": "ELECTRONIC MOTOR DRIVE",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Mehrdad Ehsani (P)",
@@ -2668,14 +2668,14 @@
           "crn": "21679"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "8",
           "section": "505",
           "title": "ELECTRONIC MOTOR DRIVE",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Mehrdad Ehsani (P)",
@@ -3234,10 +3234,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "DSP-BASED MOTION CONTROL",
-          "remaining": "8",
+          "remaining": "1",
           "capacity": "8",
           "instructor": [
             "Hamid Toliyat (P)",
@@ -3264,14 +3264,14 @@
           "crn": "24177"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "502",
           "title": "DSP-BASED MOTION CONTROL",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Hamid Toliyat (P)",
@@ -3298,14 +3298,14 @@
           "crn": "24178"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "503",
           "title": "DSP-BASED MOTION CONTROL",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Hamid Toliyat (P)",
@@ -3332,14 +3332,14 @@
           "crn": "24179"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "504",
           "title": "DSP-BASED MOTION CONTROL",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Hamid Toliyat (P)",
@@ -3366,14 +3366,14 @@
           "crn": "24180"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "8",
           "section": "505",
           "title": "DSP-BASED MOTION CONTROL",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Hamid Toliyat (P)",
@@ -4860,14 +4860,14 @@
       "title": "BIOSENSORS LAB",
       "sections": {
         "601": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "601",
           "title": "BIOSENSORS LAB",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "2",
           "instructor": [
             "Arum Han (P)",
@@ -4894,14 +4894,14 @@
           "crn": "21680"
         },
         "602": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "602",
           "title": "BIOSENSORS LAB",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "2",
           "instructor": [
             "Arum Han (P)",
@@ -4971,11 +4971,11 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "5",
+          "active": "6",
           "section": "200",
           "title": "HNR-ELEC & MAGNETIC FIELDS",
           "remaining": "0",
-          "capacity": "5",
+          "capacity": "6",
           "instructor": [
             "Krzysztof Michalski (P)",
             "Krzysztof Michalski (P)",
@@ -5010,11 +5010,11 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "501",
           "title": "ELEC & MAGNETIC FIELDS",
-          "remaining": "52",
-          "capacity": "55",
+          "remaining": "50",
+          "capacity": "54",
           "instructor": [
             "Krzysztof Michalski (P)",
             "Krzysztof Michalski (P)"
@@ -5044,10 +5044,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "4",
+          "active": "13",
           "section": "502",
           "title": "ELEC & MAGNETIC FIELDS",
-          "remaining": "56",
+          "remaining": "47",
           "capacity": "60",
           "instructor": [
             "Gregory Huff (P)",
@@ -5058,7 +5058,7 @@
           "course": "322",
           "days": [
             "MWF",
-            "F",
+            "T",
             " "
           ],
           "date (mm/dd)": [
@@ -5068,12 +5068,12 @@
           ],
           "location": [
             "HRBB 113",
-            "WEB 049",
+            "ETB 1037",
             "TBA"
           ],
           "time": [
             "12:40 pm-01:30 pm",
-            "01:50 pm-02:50 pm",
+            "11:10 am-12:10 pm",
             "TBA"
           ],
           "crn": "11056"
@@ -5083,10 +5083,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "5",
+          "active": "7",
           "section": "503",
           "title": "ELEC & MAGNETIC FIELDS",
-          "remaining": "55",
+          "remaining": "53",
           "capacity": "60",
           "instructor": [
             "Robert Nevels (P)",
@@ -5112,7 +5112,7 @@
           ],
           "time": [
             "08:00 am-09:15 am",
-            "09:10 am-10:10 am",
+            "05:20 pm-06:20 pm",
             "TBA"
           ],
           "crn": "21220"
@@ -5741,10 +5741,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "600",
           "title": "ULTRASOUND IMAGING",
-          "remaining": "27",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
             "Raffaella Righetti (P)"
@@ -5758,7 +5758,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "ETB 1003"
+            "CVE 137"
           ],
           "time": [
             "03:55 pm-05:10 pm"
@@ -5775,11 +5775,11 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "600",
           "title": "DIGITAL IMAGE PROCESSING",
           "remaining": "0",
-          "capacity": "0",
+          "capacity": "5",
           "instructor": [
             "TBA",
             "TBA"
@@ -5810,14 +5810,14 @@
       "title": "MAGNETIC RESONANCE ENGR",
       "sections": {
         "601": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "MAGNETIC RESONANCE ENGR",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Steven M. Wright (P)",
@@ -5985,14 +5985,14 @@
       "title": "INTRO TO DGTL SYM DSGN",
       "sections": {
         "200": {
-          "select": "C",
+          "select": "SR",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "4",
           "section": "200",
           "title": "HNR-INTRO TO DGTL SYM DSGN",
-          "remaining": "0",
+          "remaining": "1",
           "capacity": "5",
           "instructor": [
             "Mi Lu (P)",
@@ -6013,7 +6013,7 @@
             "CVLB 418"
           ],
           "time": [
-            "09:35 am-10:50 am",
+            "11:10 am-12:25 pm",
             "02:20 pm-05:10 pm"
           ],
           "crn": "11044"
@@ -6023,10 +6023,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "520",
           "title": "INTRO TO DGTL SYM DSGN",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "I-Hong Hou (P)",
@@ -6057,10 +6057,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "5",
           "section": "510",
           "title": "INTRO TO DGTL SYM DSGN",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "16",
           "instructor": [
             "Seong G. Choi",
@@ -6159,10 +6159,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "512",
           "title": "INTRO TO DGTL SYM DSGN",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "16",
           "instructor": [
             "Seong G. Choi (P)",
@@ -6227,10 +6227,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "513",
           "title": "INTRO TO DGTL SYM DSGN",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "Seong G. Choi (P)",
@@ -6261,10 +6261,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "0",
           "section": "503",
           "title": "INTRO TO DGTL SYM DSGN",
-          "remaining": "15",
+          "remaining": "16",
           "capacity": "16",
           "instructor": [
             "Mi Lu (P)",
@@ -6329,10 +6329,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "5",
           "section": "504",
           "title": "INTRO TO DGTL SYM DSGN",
-          "remaining": "13",
+          "remaining": "11",
           "capacity": "16",
           "instructor": [
             "Mi Lu (P)",
@@ -6363,10 +6363,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "8",
           "section": "515",
           "title": "INTRO TO DGTL SYM DSGN",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "16",
           "instructor": [
             "Seong G. Choi (P)",
@@ -6743,14 +6743,14 @@
           "crn": "11057"
         },
         "510": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "7",
+          "active": "16",
           "section": "510",
           "title": "ELECTRONICS",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Sebastian Hoyos (P)",
@@ -6825,10 +6825,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "2",
+          "active": "6",
           "section": "501",
           "title": "ELECTRONICS",
-          "remaining": "9",
+          "remaining": "5",
           "capacity": "11",
           "instructor": [
             "Harlan Harris (P)",
@@ -6864,10 +6864,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "5",
           "section": "502",
           "title": "ELECTRONICS",
-          "remaining": "16",
+          "remaining": "11",
           "capacity": "16",
           "instructor": [
             "Harlan Harris (P)",
@@ -6903,10 +6903,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "2",
           "section": "503",
           "title": "ELECTRONICS",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "16",
           "instructor": [
             "Harlan Harris (P)",
@@ -6942,10 +6942,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "3",
+          "active": "14",
           "section": "504",
           "title": "ELECTRONICS",
-          "remaining": "13",
+          "remaining": "2",
           "capacity": "16",
           "instructor": [
             "Harlan Harris (P)",
@@ -6981,10 +6981,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "4",
           "section": "505",
           "title": "ELECTRONICS",
-          "remaining": "16",
+          "remaining": "12",
           "capacity": "16",
           "instructor": [
             "Kamran Entesari (P)",
@@ -7020,10 +7020,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "7",
           "section": "506",
           "title": "ELECTRONICS",
-          "remaining": "15",
+          "remaining": "9",
           "capacity": "16",
           "instructor": [
             "Kamran Entesari (P)",
@@ -7059,10 +7059,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "5",
+          "active": "6",
           "section": "507",
           "title": "ELECTRONICS",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "16",
           "instructor": [
             "Kamran Entesari (P)",
@@ -7094,14 +7094,14 @@
           "crn": "11064"
         },
         "508": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "9",
+          "active": "16",
           "section": "508",
           "title": "ELECTRONICS",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Sebastian Hoyos (P)",
@@ -7133,14 +7133,14 @@
           "crn": "11065"
         },
         "509": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "5",
+          "active": "16",
           "section": "509",
           "title": "ELECTRONICS",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Sebastian Hoyos (P)",
@@ -7162,7 +7162,7 @@
           "location": [
             "BLOC 113",
             "CVLB 423",
-            "THOM 121"
+            "TBA"
           ],
           "time": [
             "12:45 pm-02:00 pm",
@@ -7599,10 +7599,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "6",
           "section": "501",
           "title": "ELECTRONIC CIRCUITS",
-          "remaining": "13",
+          "remaining": "9",
           "capacity": "15",
           "instructor": [
             "Aydin Karsilayan (P)",
@@ -7633,10 +7633,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "11",
           "section": "502",
           "title": "ELECTRONIC CIRCUITS",
-          "remaining": "9",
+          "remaining": "4",
           "capacity": "15",
           "instructor": [
             "Aydin Karsilayan (P)",
@@ -7672,10 +7672,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "901",
           "title": "ELECTRICAL DESIGN LAB I",
-          "remaining": "39",
+          "remaining": "32",
           "capacity": "40",
           "instructor": [
             "TBA",
@@ -7706,10 +7706,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "14",
+          "active": "37",
           "section": "902",
           "title": "ELECTRICAL DESIGN LAB I",
-          "remaining": "26",
+          "remaining": "3",
           "capacity": "40",
           "instructor": [
             "TBA",
@@ -7740,10 +7740,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "15",
+          "active": "31",
           "section": "903",
           "title": "ELECTRICAL DESIGN LAB I",
-          "remaining": "25",
+          "remaining": "9",
           "capacity": "40",
           "instructor": [
             "TBA",
@@ -7775,14 +7775,14 @@
       "title": "DIGITAL IMAGE PROCESS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "32",
           "section": "500",
           "title": "DIGITAL IMAGE PROCESS",
-          "remaining": "24",
+          "remaining": "0",
           "capacity": "32",
           "instructor": [
             "Raffaella Righetti (P)",
@@ -7799,11 +7799,11 @@
             "08/29-12/14"
           ],
           "location": [
-            "WEB 049",
+            "CVE 203",
             "CVLB 322"
           ],
           "time": [
-            "09:35 am-10:50 am",
+            "02:20 pm-03:35 pm",
             "03:00 pm-05:50 pm"
           ],
           "crn": "11074"
@@ -7818,10 +7818,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "7",
           "section": "600",
           "title": "LINEAR NETWORK ANLYS",
-          "remaining": "34",
+          "remaining": "33",
           "capacity": "40",
           "instructor": [
             "Jean-Francois Chamberland-Tremblay (P)"
@@ -7835,10 +7835,10 @@
             "08/29-12/14"
           ],
           "location": [
-            "CVE 203"
+            "WEB 049"
           ],
           "time": [
-            "02:20 pm-03:35 pm"
+            "05:30 pm-06:45 pm"
           ],
           "crn": "11088"
         }
@@ -7886,10 +7886,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "32",
           "section": "501",
           "title": "ELECTRICAL DESIGN LAB II",
-          "remaining": "43",
+          "remaining": "18",
           "capacity": "50",
           "instructor": [
             "Samuel S. Villareal",
@@ -7920,10 +7920,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "35",
           "section": "502",
           "title": "ELECTRICAL DESIGN LAB II",
-          "remaining": "45",
+          "remaining": "15",
           "capacity": "50",
           "instructor": [
             "TBA",
@@ -7993,10 +7993,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "8",
           "section": "600",
           "title": "STAT COMMUCATN THEORY",
-          "remaining": "35",
+          "remaining": "32",
           "capacity": "40",
           "instructor": [
             "Serap Savari (P)"
@@ -8057,14 +8057,14 @@
           "crn": "19766"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "8",
           "section": "501",
           "title": "MICROPROCSR SYS DSGN",
-          "remaining": "2",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Jiang Hu (P)",
@@ -8095,10 +8095,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "502",
           "title": "MICROPROCSR SYS DSGN",
-          "remaining": "13",
+          "remaining": "8",
           "capacity": "13",
           "instructor": [
             "Jiang Hu (P)",
@@ -8129,10 +8129,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "503",
           "title": "MICROPROCSR SYS DSGN",
-          "remaining": "12",
+          "remaining": "8",
           "capacity": "13",
           "instructor": [
             "Jiang Hu (P)",
@@ -8163,10 +8163,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "6",
           "section": "504",
           "title": "MICROPROCSR SYS DSGN",
-          "remaining": "13",
+          "remaining": "7",
           "capacity": "13",
           "instructor": [
             "Jiang Hu (P)",
@@ -8197,10 +8197,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "505",
           "title": "MICROPROCSR SYS DSGN",
-          "remaining": "13",
+          "remaining": "10",
           "capacity": "13",
           "instructor": [
             "Jiang Hu (P)",
@@ -8270,10 +8270,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "CHANNEL CODING FOR COM",
-          "remaining": "38",
+          "remaining": "37",
           "capacity": "40",
           "instructor": [
             "Krishna Narayanan (P)"
@@ -8324,11 +8324,11 @@
             "08/29-12/14"
           ],
           "location": [
-            "TBA",
+            "WEB 049",
             "WEB 205W"
           ],
           "time": [
-            "02:20 pm-03:35 pm",
+            "08:00 am-09:15 am",
             "11:10 am-02:00 pm"
           ],
           "crn": "17173"
@@ -8377,10 +8377,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "19",
           "section": "501",
           "title": "ELEC PROPS OF MATLS",
-          "remaining": "38",
+          "remaining": "26",
           "capacity": "45",
           "instructor": [
             "Ohannes Eknoyan (P)",
@@ -8411,10 +8411,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "8",
+          "active": "21",
           "section": "502",
           "title": "ELEC PROPS OF MATLS",
-          "remaining": "42",
+          "remaining": "29",
           "capacity": "50",
           "instructor": [
             "Jun Zou (P)",
@@ -10021,10 +10021,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "633",
           "title": "RESEARCH",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "E Sanchez-Sinencio (P)"
@@ -10050,10 +10050,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "634",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Chanan Singh (P)"
@@ -10224,10 +10224,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "639",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Byung-Jun Yoon (P)"
@@ -10282,10 +10282,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "641",
           "title": "RESEARCH",
-          "remaining": "8",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Paul Gratz (P)"
@@ -11268,10 +11268,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "666",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Yang Shen (P)"
@@ -11384,10 +11384,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "669",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Le Xie (P)"
@@ -11616,10 +11616,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "676",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Xiaoning Qian (P)"
@@ -11993,10 +11993,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Ulisses Braga Neto (P)"
@@ -12109,10 +12109,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "605",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Nicholas G. Duffield (P)"
@@ -12399,10 +12399,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "614",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Arum Han (P)"
@@ -12457,10 +12457,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "616",
           "title": "RESEARCH",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Costas Georghiades (P)"
@@ -12631,10 +12631,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "620",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Panganamala R. Kumar (P)"
@@ -12951,14 +12951,14 @@
       "title": "ANTENNA ENGINEERING",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "40",
           "section": "500",
           "title": "ANTENNA ENGINEERING",
-          "remaining": "31",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Gregory Huff (P)"
@@ -13043,7 +13043,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "WEB 049",
+            "ETB 1003",
             "CVLB 324"
           ],
           "time": [
@@ -13057,10 +13057,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "601",
           "title": "MICRO CONT OF DIG SYST",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "16",
           "instructor": [
             "Mi Lu (P)",
@@ -13077,7 +13077,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "WEB 049",
+            "ETB 1003",
             "CVLB 324"
           ],
           "time": [
@@ -13096,10 +13096,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "4",
           "section": "600",
           "title": "INTRO MICROELECTROMECH",
-          "remaining": "23",
+          "remaining": "24",
           "capacity": "28",
           "instructor": [
             "Jun Zou (P)"
@@ -13160,14 +13160,14 @@
           "crn": "23269"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "7",
           "section": "501",
           "title": "DIG INTEGRATEDCKT DES",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "7",
           "instructor": [
             "Peng Li (P)",
@@ -13194,14 +13194,14 @@
           "crn": "11077"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "7",
           "section": "502",
           "title": "DIG INTEGRATEDCKT DES",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "7",
           "instructor": [
             "Peng Li (P)",
@@ -13228,14 +13228,14 @@
           "crn": "11078"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "7",
           "section": "503",
           "title": "DIG INTEGRATEDCKT DES",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "7",
           "instructor": [
             "Peng Li (P)",
@@ -13262,14 +13262,14 @@
           "crn": "11079"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "8",
           "section": "504",
           "title": "DIG INTEGRATEDCKT DES",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Peng Li (P)",
@@ -13296,14 +13296,14 @@
           "crn": "17172"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "505",
           "title": "DIG INTEGRATEDCKT DES",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Peng Li (P)",
@@ -13330,14 +13330,14 @@
           "crn": "22906"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "506",
           "title": "DIG INTEGRATEDCKT DES",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Peng Li (P)",
@@ -13364,14 +13364,14 @@
           "crn": "23265"
         },
         "507": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "8",
           "section": "507",
           "title": "DIG INTEGRATEDCKT DES",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Peng Li (P)",
@@ -13398,14 +13398,14 @@
           "crn": "23266"
         },
         "508": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "508",
           "title": "DIG INTEGRATEDCKT DES",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Peng Li (P)",
@@ -13432,14 +13432,14 @@
           "crn": "23267"
         },
         "509": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "509",
           "title": "DIG INTEGRATEDCKT DES",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Peng Li (P)",
@@ -13475,10 +13475,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "18",
           "section": "501",
           "title": "DIGITAL COMMUNICATIONS",
-          "remaining": "13",
+          "remaining": "2",
           "capacity": "20",
           "instructor": [
             "Scott L. Miller (P)",
@@ -13509,10 +13509,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "16",
           "section": "502",
           "title": "DIGITAL COMMUNICATIONS",
-          "remaining": "17",
+          "remaining": "4",
           "capacity": "20",
           "instructor": [
             "Scott L. Miller (P)",
@@ -13665,10 +13665,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "ELEC CIRCUIT THEORY",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "John E. Tyler (P)",
@@ -13782,10 +13782,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "ELEC CIRCUIT THEORY",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "John E. Tyler (P)",
@@ -13821,10 +13821,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "2",
           "section": "505",
           "title": "ELEC CIRCUIT THEORY",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "John E. Tyler (P)",
@@ -13977,10 +13977,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "509",
           "title": "ELEC CIRCUIT THEORY",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "John E. Tyler (P)",
@@ -14021,10 +14021,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "530",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14055,10 +14055,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "510",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "14",
+          "remaining": "11",
           "capacity": "14",
           "instructor": [
             "John E. Tyler (P)",
@@ -14089,10 +14089,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "6",
           "section": "511",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "11",
+          "remaining": "8",
           "capacity": "14",
           "instructor": [
             "John E. Tyler",
@@ -14123,10 +14123,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "512",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "14",
+          "remaining": "12",
           "capacity": "14",
           "instructor": [
             "John E. Tyler (P)",
@@ -14153,14 +14153,14 @@
           "crn": "13197"
         },
         "513": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "14",
           "section": "513",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14191,10 +14191,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "13",
           "section": "514",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "9",
+          "remaining": "1",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14225,10 +14225,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "6",
           "section": "515",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14259,10 +14259,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "516",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "12",
+          "remaining": "10",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14361,10 +14361,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "13",
           "section": "519",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "9",
+          "remaining": "1",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14395,10 +14395,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "520",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "13",
+          "remaining": "9",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14463,10 +14463,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "522",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "14",
+          "remaining": "12",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14497,10 +14497,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "501",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "13",
+          "remaining": "11",
           "capacity": "14",
           "instructor": [
             "TBA",
@@ -14531,10 +14531,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "523",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "13",
+          "remaining": "11",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14565,10 +14565,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "14",
           "instructor": [
             "TBA",
@@ -14599,10 +14599,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "524",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "13",
+          "remaining": "10",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14667,10 +14667,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "525",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14837,10 +14837,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "14",
           "instructor": [
             "John E. Tyler (P)",
@@ -14871,10 +14871,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "528",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "13",
+          "remaining": "10",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14905,10 +14905,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "507",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "14",
           "instructor": [
             "John E. Tyler (P)",
@@ -14939,10 +14939,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "529",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "14",
+          "remaining": "12",
           "capacity": "14",
           "instructor": [
             "Mina M. Rahimian (P)",
@@ -14973,10 +14973,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "508",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "12",
+          "remaining": "9",
           "capacity": "14",
           "instructor": [
             "John E. Tyler (P)",
@@ -15007,10 +15007,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "509",
           "title": "PRIN OF ELECTRICAL ENGR",
-          "remaining": "13",
+          "remaining": "11",
           "capacity": "14",
           "instructor": [
             "John E. Tyler (P)",
@@ -15192,10 +15192,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "8",
           "section": "600",
           "title": "POWER STATE ESTIMATION",
-          "remaining": "25",
+          "remaining": "22",
           "capacity": "30",
           "instructor": [
             "Le Xie (P)"
@@ -15209,7 +15209,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "ETB 1003"
+            "WEB 049"
           ],
           "time": [
             "12:45 pm-02:00 pm"
@@ -15243,7 +15243,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "WEB 049"
+            "TBA"
           ],
           "time": [
             "02:20 pm-03:35 pm"
@@ -15260,10 +15260,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "EL POW SYS ANLYS METH",
-          "remaining": "26",
+          "remaining": "25",
           "capacity": "28",
           "instructor": [
             "Garng Huang (P)"
@@ -15362,10 +15362,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "601",
           "title": "POWER ELECTRONICS",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "TBA",
@@ -15498,10 +15498,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "603",
           "title": "POWER ELECTRONICS",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "TBA",
@@ -15566,10 +15566,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "0",
           "section": "604",
           "title": "POWER ELECTRONICS",
-          "remaining": "1",
+          "remaining": "2",
           "capacity": "2",
           "instructor": [
             "TBA",
@@ -15775,10 +15775,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "501",
           "title": "PWR SYST OPER & CONTROL",
-          "remaining": "12",
+          "remaining": "5",
           "capacity": "12",
           "instructor": [
             "Garng Huang",
@@ -15809,10 +15809,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "9",
           "section": "502",
           "title": "PWR SYST OPER & CONTROL",
-          "remaining": "11",
+          "remaining": "3",
           "capacity": "12",
           "instructor": [
             "Garng Huang",
@@ -15839,14 +15839,14 @@
           "crn": "11080"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "12",
           "section": "503",
           "title": "PWR SYST OPER & CONTROL",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Garng Huang",
@@ -15877,10 +15877,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "11",
           "section": "504",
           "title": "PWR SYST OPER & CONTROL",
-          "remaining": "10",
+          "remaining": "1",
           "capacity": "12",
           "instructor": [
             "Garng Huang",
@@ -15911,10 +15911,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "505",
           "title": "PWR SYST OPER & CONTROL",
-          "remaining": "12",
+          "remaining": "8",
           "capacity": "12",
           "instructor": [
             "Garng Huang",
@@ -15984,10 +15984,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "MAGNETIC RESONANCE ENGR",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Steven M. Wright (P)",
@@ -16018,10 +16018,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "MAGNETIC RESONANCE ENGR",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "3",
           "instructor": [
             "Steven M. Wright (P)",
@@ -16187,6 +16187,40 @@
             "08:00 am-10:50 am"
           ],
           "crn": "28727"
+        },
+        "601": {
+          "select": "C",
+          "subject": "ECEN",
+          "campus": "CS",
+          "classes": 2,
+          "active": "0",
+          "section": "601",
+          "title": "MODULATION THEORY",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA",
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "661",
+          "days": [
+            "MWF",
+            "F"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14",
+            "08/29-12/14"
+          ],
+          "location": [
+            "PETR 113",
+            "CVLB 322"
+          ],
+          "time": [
+            "09:10 am-10:00 am",
+            "10:30 am-01:10 pm"
+          ],
+          "crn": "28747"
         }
       }
     },
@@ -16257,14 +16291,14 @@
       "title": "OPTICAL ENGINEERING",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "35",
           "section": "501",
           "title": "OPTICAL ENGINEERING",
-          "remaining": "28",
+          "remaining": "0",
           "capacity": "35",
           "instructor": [
             "Christi Madsen (P)"
@@ -16295,10 +16329,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "EXPERIMENTAL OPTICS",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "6",
           "instructor": [
             "Philip Hemmer",
@@ -16351,7 +16385,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "CVE 137"
+            "WEB 049"
           ],
           "time": [
             "03:55 pm-05:10 pm"
@@ -16368,10 +16402,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "19",
           "section": "600",
           "title": "NANOTECH FABRICATION",
-          "remaining": "27",
+          "remaining": "25",
           "capacity": "44",
           "instructor": [
             "Jun Kameoka (P)"
@@ -16719,10 +16753,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "41",
+          "active": "44",
           "section": "600",
           "title": "MOBILE WIRELESS NETWORK",
-          "remaining": "39",
+          "remaining": "36",
           "capacity": "80",
           "instructor": [
             "Xi Zhang (P)"
@@ -16730,16 +16764,16 @@
           "credits": "3",
           "course": "621",
           "days": [
-            "TR"
+            "MWF"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "ETB 1037"
+            "WEB 049"
           ],
           "time": [
-            "11:10 am-12:25 pm"
+            "12:40 pm-01:30 pm"
           ],
           "crn": "17174"
         }
@@ -16753,10 +16787,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "12",
+          "active": "15",
           "section": "600",
           "title": "INTEGRATED CMOS RF CIRCT",
-          "remaining": "12",
+          "remaining": "9",
           "capacity": "24",
           "instructor": [
             "Kamran Entesari (P)",
@@ -16773,7 +16807,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "WEB 049",
+            "ENPH 216",
             "WEB 205W"
           ],
           "time": [
@@ -17001,10 +17035,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "501",
           "title": "RANDOM SIGNALS & SYSTEMS",
-          "remaining": "40",
+          "remaining": "36",
           "capacity": "40",
           "instructor": [
             "Peng Yu (P)",
@@ -17035,10 +17069,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "13",
+          "active": "25",
           "section": "502",
           "title": "RANDOM SIGNALS & SYSTEMS",
-          "remaining": "37",
+          "remaining": "25",
           "capacity": "50",
           "instructor": [
             "Jean-Francois Chamberland-Tremblay (P)",
@@ -17069,10 +17103,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "503",
           "title": "RANDOM SIGNALS & SYSTEMS",
-          "remaining": "45",
+          "remaining": "42",
           "capacity": "45",
           "instructor": [
             "Yang Shen (P)",
@@ -17108,10 +17142,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "7",
           "section": "600",
           "title": "ACTIVE NTWRK SYNTHESES",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "30",
           "instructor": [
             "E Sanchez-Sinencio (P)"
@@ -17119,16 +17153,16 @@
           "credits": "3",
           "course": "622",
           "days": [
-            "TR"
+            "MWF"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
           ],
           "location": [
-            "ETB 1003"
+            "WEB 049"
           ],
           "time": [
-            "11:10 am-12:25 pm"
+            "09:10 am-10:00 am"
           ],
           "crn": "14342"
         }
@@ -17142,10 +17176,10 @@
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "6",
           "section": "601",
           "title": "VLSI CIRCUIT DESIGN",
-          "remaining": "6",
+          "remaining": "5",
           "capacity": "11",
           "instructor": [
             "Samuel M. Palermo (P)",
@@ -17381,14 +17415,14 @@
           "crn": "25352"
         },
         "604": {
-          "select": "SR",
+          "select": "C",
           "subject": "ECEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "604",
           "title": "MICROPROCESSOR SYSTEMS DESIGN",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "3",
           "instructor": [
             "Jiang Hu (P)",
@@ -17486,5 +17520,5 @@
     }
   },
   "title": "ECEN - Electrical & Comp Engr",
-  "updated": "Mon, 11 Apr 2016 at 12:41 AM"
+  "updated": "Wed, Apr 13 2016 at 01:25 AM"
 }

@@ -8,11 +8,11 @@
           "subject": "OMFR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "CASE CONFERENCE",
           "remaining": "0",
-          "capacity": "0",
+          "capacity": "2",
           "instructor": [
             "Byron W. Benson (P)"
           ],
@@ -42,11 +42,11 @@
           "subject": "OMFR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "RADIATION PHYSICS & BIOL",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "1",
+          "capacity": "2",
           "instructor": [
             "TBA"
           ],
@@ -76,10 +76,10 @@
           "subject": "OMFR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "ADV RADIOL INTERPRETATION",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Diane J. Flint (P)"
@@ -110,10 +110,10 @@
           "subject": "OMFR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "CLINICAL TEACHING",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Diane J. Flint (P)"
@@ -144,11 +144,11 @@
           "subject": "OMFR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "MED CLINICAL RADIOLOGY SERV",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "1",
+          "capacity": "2",
           "instructor": [
             "TBA"
           ],
@@ -178,10 +178,10 @@
           "subject": "OMFR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "LITERATURE REVIEW JOURN CLUB",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "1",
           "instructor": [
             "Byron W. Benson (P)"
@@ -212,11 +212,11 @@
           "subject": "OMFR",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "CLINICAL ORAL MAX RADIO SERV",
           "remaining": "1",
-          "capacity": "1",
+          "capacity": "3",
           "instructor": [
             "Diane J. Flint (P)"
           ],
@@ -240,5 +240,5 @@
     }
   },
   "title": "OMFR - Oral & Maxillofac Radio",
-  "updated": "Mon, 11 Apr 2016 at 12:49 AM"
+  "updated": "Wed, Apr 13 2016 at 01:33 AM"
 }

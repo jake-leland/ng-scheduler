@@ -8,13 +8,13 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "16",
           "section": "500",
           "title": "INQUIRIES IN PHYSICAL SC",
-          "remaining": "21",
+          "remaining": "9",
           "capacity": "25",
           "instructor": [
-            "Lynn Burlbaw (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "475",
@@ -37,10 +37,10 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "501",
           "title": "INQUIRIES IN PHYSICAL SC",
-          "remaining": "24",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -66,10 +66,10 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "INQUIRIES IN PHYSICAL SC",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -129,10 +129,10 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "13",
           "section": "501",
           "title": "INQ IN LIFE & EARTH SCI",
-          "remaining": "11",
+          "remaining": "7",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -158,10 +158,10 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "INQ IN LIFE & EARTH SCI",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -192,13 +192,13 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "500",
           "title": "PROBLEM SOLVING IN MATH",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
-            "Alexandra L. Foran (P)"
+            "Mahati Kopparla (P)"
           ],
           "credits": "3",
           "course": "351",
@@ -221,10 +221,10 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "7",
           "section": "501",
           "title": "PROBLEM SOLVING IN MATH",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "25",
           "instructor": [
             "Dianne Goldsby (P)"
@@ -250,10 +250,10 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "502",
           "title": "PROBLEM SOLVING IN MATH",
-          "remaining": "24",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
             "Dianne Goldsby (P)"
@@ -279,13 +279,13 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "503",
           "title": "PROBLEM SOLVING IN MATH",
-          "remaining": "25",
+          "remaining": "23",
           "capacity": "25",
           "instructor": [
-            "TBA"
+            "Ali Bicer (P)"
           ],
           "credits": "3",
           "course": "351",
@@ -314,7 +314,7 @@
           "remaining": "25",
           "capacity": "25",
           "instructor": [
-            "TBA"
+            "Ali Bicer (P)"
           ],
           "credits": "3",
           "course": "351",
@@ -342,10 +342,10 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "8",
           "section": "500",
           "title": "INTEGRATED MATHEMATICS",
-          "remaining": "23",
+          "remaining": "17",
           "capacity": "25",
           "instructor": [
             "Katherine N. Vela (P)"
@@ -371,10 +371,10 @@
           "subject": "MASC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "501",
           "title": "INTEGRATED MATHEMATICS",
-          "remaining": "23",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Katherine N. Vela (P)"
@@ -399,5 +399,5 @@
     }
   },
   "title": "MASC - Integrated Math & Sci",
-  "updated": "Mon, 11 Apr 2016 at 12:47 AM"
+  "updated": "Wed, Apr 13 2016 at 01:31 AM"
 }

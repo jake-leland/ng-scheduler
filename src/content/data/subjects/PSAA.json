@@ -8,10 +8,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "4",
           "section": "700",
           "title": "PROG EVAL IN PUB & NPROF",
-          "remaining": "25",
+          "remaining": "26",
           "capacity": "30",
           "instructor": [
             "Edwina Dorch (P)"
@@ -347,10 +347,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "COMPAR PUB ADMIN AND MGMT",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Mary E. Hilderbrand (P)"
@@ -415,10 +415,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "1",
           "section": "700",
           "title": "PHILANTHROPY IN NONPROF",
-          "remaining": "28",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Kelly J. Zuniga (P)"
@@ -513,14 +513,14 @@
       "title": "POLICY ANALYSIS",
       "sections": {
         "601": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "20",
           "section": "601",
           "title": "POLICY ANALYSIS",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Miner P. Marchbanks (P)"
@@ -546,10 +546,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "15",
           "section": "602",
           "title": "POLICY ANALYSIS",
-          "remaining": "7",
+          "remaining": "5",
           "capacity": "20",
           "instructor": [
             "Miner P. Marchbanks (P)"
@@ -614,10 +614,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "11",
           "section": "600",
           "title": "U.S. STATE AND LOCAL GOVT",
-          "remaining": "11",
+          "remaining": "9",
           "capacity": "20",
           "instructor": [
             "Ann Bowman (P)"
@@ -648,10 +648,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "16",
           "section": "600",
           "title": "DOMESTIC TERRORISM",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "20",
           "instructor": [
             "Danny W. Davis (P)"
@@ -712,17 +712,17 @@
       "title": "DIRECTED STUDIES",
       "sections": {
         "601": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "601",
           "title": "DIRECTED STUDIES",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
-            "William West (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "685",
@@ -741,17 +741,17 @@
           "crn": "22487"
         },
         "602": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "602",
           "title": "DIRECTED STUDIES",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
-            "Kalena E. Cortes (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "685",
@@ -770,17 +770,17 @@
           "crn": "25667"
         },
         "603": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "603",
           "title": "DIRECTED STUDIES",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
-            "Kent E. Portney (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "685",
@@ -799,17 +799,17 @@
           "crn": "25668"
         },
         "604": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "604",
           "title": "DIRECTED STUDIES",
-          "remaining": "1",
-          "capacity": "1",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
-            "Lori L. Taylor (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "685",
@@ -871,10 +871,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "13",
           "section": "601",
           "title": "ECONOMIC ANALYSIS",
-          "remaining": "17",
+          "remaining": "13",
           "capacity": "26",
           "instructor": [
             "TBA"
@@ -929,10 +929,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "602",
           "title": "ECONOMIC ANALYSIS",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "27",
           "instructor": [
             "TBA"
@@ -958,10 +958,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "21",
+          "active": "25",
           "section": "603",
           "title": "ECONOMIC ANALYSIS",
-          "remaining": "6",
+          "remaining": "2",
           "capacity": "27",
           "instructor": [
             "Lori L. Taylor (P)"
@@ -988,14 +988,14 @@
       "title": "FOUND OF NON-PROFIT SECT",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "28",
           "section": "600",
           "title": "FOUND OF NON-PROFIT SECT",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "28",
           "instructor": [
             "Laurie P. Paarlberg (P)"
@@ -1021,10 +1021,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "700",
           "title": "FOUND OF NON-PROFIT SECT",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "Laurie P. Paarlberg (P)"
@@ -1079,10 +1079,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "9",
           "section": "603",
           "title": "FOUND OF NON-PROFIT SECT",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "28",
           "instructor": [
             "TBA"
@@ -1113,10 +1113,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "3",
           "section": "700",
           "title": "MGMT & LDR OF N-PRFT ORG",
-          "remaining": "26",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Jenny K. Morrison (P)"
@@ -1147,10 +1147,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "14",
           "section": "601",
           "title": "FOUNDATIONS OF PUB SERV",
-          "remaining": "8",
+          "remaining": "6",
           "capacity": "20",
           "instructor": [
             "William West (P)"
@@ -1176,10 +1176,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "7",
           "section": "602",
           "title": "FOUNDATIONS OF PUB SERV",
-          "remaining": "15",
+          "remaining": "12",
           "capacity": "19",
           "instructor": [
             "Justin B. Bullock (P)"
@@ -1205,10 +1205,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "15",
           "section": "603",
           "title": "FOUNDATIONS OF PUB SERV",
-          "remaining": "7",
+          "remaining": "4",
           "capacity": "19",
           "instructor": [
             "Justin B. Bullock (P)"
@@ -1234,10 +1234,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "604",
           "title": "FOUNDATIONS OF PUB SERV",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Domonic Bearfield (P)"
@@ -1268,10 +1268,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "16",
           "section": "601",
           "title": "BUDGETING IN PUBLIC SERV",
-          "remaining": "0",
+          "remaining": "-1",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -1297,10 +1297,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "9",
           "section": "602",
           "title": "BUDGETING IN PUBLIC SERV",
-          "remaining": "9",
+          "remaining": "6",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -1433,10 +1433,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "17",
           "section": "600",
           "title": "EMRGNCY MGMT & HMLND SEC",
-          "remaining": "4",
+          "remaining": "3",
           "capacity": "20",
           "instructor": [
             "David McIntyre (P)"
@@ -1467,10 +1467,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "14",
           "section": "600",
           "title": "PERF MGMT PUB & NONPROF",
-          "remaining": "18",
+          "remaining": "6",
           "capacity": "20",
           "instructor": [
             "Deborah L. Kerr (P)"
@@ -1530,10 +1530,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "600",
           "title": "ENVIRONMENTAL POL & MGMT",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Kent E. Portney (P)"
@@ -1564,10 +1564,10 @@
           "subject": "PSAA",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "700",
           "title": "CYBER SECURITY FOR MNGRS",
-          "remaining": "28",
+          "remaining": "27",
           "capacity": "30",
           "instructor": [
             "Gary Whitten (P)"
@@ -1592,5 +1592,5 @@
     }
   },
   "title": "PSAA - Public Service & Admin",
-  "updated": "Mon, 11 Apr 2016 at 12:52 AM"
+  "updated": "Wed, Apr 13 2016 at 01:35 AM"
 }

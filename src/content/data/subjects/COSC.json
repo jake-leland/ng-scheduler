@@ -337,10 +337,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "INTRO TO CONSTR INDUS",
-          "remaining": "36",
+          "remaining": "35",
           "capacity": "36",
           "instructor": [
             "John Nichols (P)",
@@ -702,10 +702,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "14",
           "section": "500",
           "title": "FACILITY MGMT PRINCIPLES",
-          "remaining": "27",
+          "remaining": "16",
           "capacity": "30",
           "instructor": [
             "Sarel Lavy (P)"
@@ -770,10 +770,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "10",
           "section": "501",
           "title": "CONST MATLS & METH I",
-          "remaining": "114",
+          "remaining": "110",
           "capacity": "120",
           "instructor": [
             "Kimberly A. Carlson (P)"
@@ -838,10 +838,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "501",
           "title": "ESTIMATING I",
-          "remaining": "33",
+          "remaining": "31",
           "capacity": "35",
           "instructor": [
             "Gary L. Boldt (P)",
@@ -1390,10 +1390,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "8",
           "section": "501",
           "title": "CONST MATRLS & METHDS II",
-          "remaining": "176",
+          "remaining": "172",
           "capacity": "180",
           "instructor": [
             "Benjamin S. Ashburn (P)"
@@ -1497,10 +1497,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "11",
           "section": "502",
           "title": "CONSTRUCTION PRJECT MGMT",
-          "remaining": "29",
+          "remaining": "19",
           "capacity": "30",
           "instructor": [
             "Edelmiro Escamilla (P)",
@@ -1536,10 +1536,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 3,
-          "active": "5",
+          "active": "6",
           "section": "503",
           "title": "CONSTRUCTION PRJECT MGMT",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "David Bilbo (P)",
@@ -1575,10 +1575,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 3,
-          "active": "6",
+          "active": "11",
           "section": "504",
           "title": "CONSTRUCTION PRJECT MGMT",
-          "remaining": "24",
+          "remaining": "19",
           "capacity": "30",
           "instructor": [
             "Edelmiro Escamilla (P)",
@@ -1653,10 +1653,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "506",
           "title": "CONSTRUCTION PRJECT MGMT",
-          "remaining": "30",
+          "remaining": "29",
           "capacity": "30",
           "instructor": [
             "David Bilbo (P)",
@@ -1736,10 +1736,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "501",
           "title": "ESTIMATING II",
-          "remaining": "29",
+          "remaining": "25",
           "capacity": "35",
           "instructor": [
             "Michael P. Jordan (P)",
@@ -1770,10 +1770,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "17",
           "section": "502",
           "title": "ESTIMATING II",
-          "remaining": "30",
+          "remaining": "18",
           "capacity": "35",
           "instructor": [
             "Michael P. Jordan (P)",
@@ -1804,10 +1804,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "503",
           "title": "ESTIMATING II",
-          "remaining": "34",
+          "remaining": "33",
           "capacity": "35",
           "instructor": [
             "Michael P. Jordan (P)",
@@ -1838,10 +1838,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "2",
           "section": "504",
           "title": "ESTIMATING II",
-          "remaining": "32",
+          "remaining": "33",
           "capacity": "35",
           "instructor": [
             "Michael P. Jordan (P)",
@@ -2009,14 +2009,14 @@
       "title": "CONST PROJECT PLANNING",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "36",
           "section": "501",
           "title": "CONST PROJECT PLANNING",
-          "remaining": "32",
+          "remaining": "0",
           "capacity": "36",
           "instructor": [
             "Boong-Yeol Ryoo (P)",
@@ -2043,14 +2043,14 @@
           "crn": "10910"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "36",
           "section": "502",
           "title": "CONST PROJECT PLANNING",
-          "remaining": "30",
+          "remaining": "0",
           "capacity": "36",
           "instructor": [
             "Boong-Yeol Ryoo (P)",
@@ -2081,10 +2081,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "31",
           "section": "503",
           "title": "CONST PROJECT PLANNING",
-          "remaining": "34",
+          "remaining": "5",
           "capacity": "36",
           "instructor": [
             "Boong-Yeol Ryoo (P)",
@@ -2115,10 +2115,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "504",
           "title": "CONST PROJECT PLANNING",
-          "remaining": "36",
+          "remaining": "33",
           "capacity": "36",
           "instructor": [
             "Boong-Yeol Ryoo (P)",
@@ -2184,14 +2184,14 @@
       "title": "CONST PROJECT CONTROLS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "30",
           "section": "500",
           "title": "CONST PROJECT CONTROLS",
-          "remaining": "26",
+          "remaining": "0",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -2217,10 +2217,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "10",
           "section": "501",
           "title": "CONST PROJECT CONTROLS",
-          "remaining": "29",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "Larry W. Fickel (P)"
@@ -2242,14 +2242,14 @@
           "crn": "25618"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "30",
           "section": "502",
           "title": "CONST PROJECT CONTROLS",
-          "remaining": "25",
+          "remaining": "0",
           "capacity": "30",
           "instructor": [
             "Larry W. Fickel (P)"
@@ -2280,10 +2280,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "11",
           "section": "500",
           "title": "INDUSTRIAL CONSTRUCTION",
-          "remaining": "31",
+          "remaining": "21",
           "capacity": "32",
           "instructor": [
             "TBA"
@@ -2314,10 +2314,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "30",
           "section": "500",
           "title": "PROF ETHICS IN CONST IND",
-          "remaining": "185",
+          "remaining": "170",
           "capacity": "200",
           "instructor": [
             "TBA"
@@ -2344,14 +2344,14 @@
       "title": "BLDG INFO MODEL SYSTEM",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "24",
           "section": "500",
           "title": "BLDG INFO MODEL SYSTEM",
-          "remaining": "21",
+          "remaining": "0",
           "capacity": "24",
           "instructor": [
             "Jing Du (P)"
@@ -2373,14 +2373,14 @@
           "crn": "13160"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "24",
           "section": "501",
           "title": "BLDG INFO MODEL SYSTEM",
-          "remaining": "22",
+          "remaining": "0",
           "capacity": "24",
           "instructor": [
             "Ho-Yeong Kang (P)"
@@ -2445,10 +2445,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "6",
           "section": "501",
           "title": "CONSTRUCTION SAFETY I",
-          "remaining": "26",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Anne B. McGowan (P)"
@@ -2474,10 +2474,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "12",
           "section": "502",
           "title": "CONSTRUCTION SAFETY I",
-          "remaining": "24",
+          "remaining": "18",
           "capacity": "30",
           "instructor": [
             "Anne B. McGowan (P)"
@@ -2532,10 +2532,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "504",
           "title": "CONSTRUCTION SAFETY I",
-          "remaining": "29",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Anne B. McGowan (P)"
@@ -2561,10 +2561,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "505",
           "title": "CONSTRUCTION SAFETY I",
-          "remaining": "28",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
             "Anne B. McGowan (P)"
@@ -2619,10 +2619,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "507",
           "title": "CONSTRUCTION SAFETY I",
-          "remaining": "30",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Jerome Huff (P)"
@@ -2649,14 +2649,14 @@
       "title": "RESIDENTIAL CAPSTONE",
       "sections": {
         "900": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "20",
           "section": "900",
           "title": "RESIDENTIAL CAPSTONE",
-          "remaining": "19",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Ben F. Bigelow (P)",
@@ -2692,10 +2692,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "907",
           "title": "INTRO TO CONST LAW",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Debra R. Ellis (P)",
@@ -2794,10 +2794,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "6",
           "section": "902",
           "title": "INTRO TO CONST LAW",
-          "remaining": "24",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Ray F. Grisham (P)",
@@ -2824,14 +2824,14 @@
           "crn": "10906"
         },
         "903": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "25",
           "section": "903",
           "title": "INTRO TO CONST LAW",
-          "remaining": "21",
+          "remaining": "0",
           "capacity": "25",
           "instructor": [
             "Ray F. Grisham (P)",
@@ -2862,10 +2862,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "904",
           "title": "INTRO TO CONST LAW",
-          "remaining": "24",
+          "remaining": "17",
           "capacity": "25",
           "instructor": [
             "Ray F. Grisham (P)",
@@ -2896,10 +2896,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "6",
           "section": "905",
           "title": "INTRO TO CONST LAW",
-          "remaining": "22",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Debra R. Ellis (P)",
@@ -2930,10 +2930,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "8",
           "section": "906",
           "title": "INTRO TO CONST LAW",
-          "remaining": "21",
+          "remaining": "17",
           "capacity": "25",
           "instructor": [
             "Debra R. Ellis (P)",
@@ -3061,10 +3061,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "26",
           "section": "501",
           "title": "STRUCTURAL SYSTEMS I",
-          "remaining": "80",
+          "remaining": "64",
           "capacity": "90",
           "instructor": [
             "Kunhee Choi (P)"
@@ -3090,10 +3090,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "21",
           "section": "502",
           "title": "STRUCTURAL SYSTEMS I",
-          "remaining": "80",
+          "remaining": "69",
           "capacity": "90",
           "instructor": [
             "Mohammed Haque (P)"
@@ -3120,14 +3120,14 @@
       "title": "COMMERCIAL CAPSTONE",
       "sections": {
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "20",
           "section": "901",
           "title": "COMMERCIAL CAPSTONE",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Jose Fernandez-Solis (P)",
@@ -3159,14 +3159,14 @@
       "title": "CONSTRUCTION SAFETY II",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "36",
           "section": "500",
           "title": "CONSTRUCTION SAFETY II",
-          "remaining": "28",
+          "remaining": "0",
           "capacity": "36",
           "instructor": [
             "Anne B. McGowan (P)"
@@ -3197,10 +3197,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "92",
           "section": "501",
           "title": "SOIL & STRUCTURAL ANYLS",
-          "remaining": "139",
+          "remaining": "58",
           "capacity": "150",
           "instructor": [
             "Mohammed Haque (P)"
@@ -3227,14 +3227,14 @@
       "title": "INDUSTRIAL CAPSTONE",
       "sections": {
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "20",
           "section": "901",
           "title": "INDUSTRIAL CAPSTONE",
-          "remaining": "19",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Ho-Yeong Kang (P)",
@@ -3270,10 +3270,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "14",
+          "active": "104",
           "section": "500",
           "title": "ADV TOPICS IN CONST LAW",
-          "remaining": "96",
+          "remaining": "6",
           "capacity": "110",
           "instructor": [
             "William Rodgers (P)"
@@ -3571,14 +3571,14 @@
       "title": "CONSTRUCTION SURVEYING",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "30",
           "section": "501",
           "title": "CONSTRUCTION SURVEYING",
-          "remaining": "21",
+          "remaining": "0",
           "capacity": "30",
           "instructor": [
             "Kenneth Williamson (P)"
@@ -3600,14 +3600,14 @@
           "crn": "18985"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "30",
           "section": "502",
           "title": "CONSTRUCTION SURVEYING",
-          "remaining": "30",
+          "remaining": "0",
           "capacity": "30",
           "instructor": [
             "Kenneth Williamson (P)"
@@ -3633,10 +3633,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "19",
           "section": "503",
           "title": "CONSTRUCTION SURVEYING",
-          "remaining": "28",
+          "remaining": "11",
           "capacity": "30",
           "instructor": [
             "Kenneth Williamson (P)"
@@ -3667,10 +3667,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "CONST COMPANY OPERATIONS",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Manish K. Dixit (P)"
@@ -3701,10 +3701,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "600",
           "title": "CONST INFO TECHNOLOGY",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "Jing Du (P)"
@@ -3735,10 +3735,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "501",
           "title": "MEP SYSTEMS IN CONST I",
-          "remaining": "88",
+          "remaining": "87",
           "capacity": "90",
           "instructor": [
             "Iftekharudd Choudhury (P)"
@@ -3764,10 +3764,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "28",
           "section": "502",
           "title": "MEP SYSTEMS IN CONST I",
-          "remaining": "79",
+          "remaining": "62",
           "capacity": "90",
           "instructor": [
             "Iftekharudd Choudhury (P)"
@@ -3794,14 +3794,14 @@
       "title": "SPECIALTY CAPSTONE",
       "sections": {
         "900": {
-          "select": "SR",
+          "select": "C",
           "subject": "COSC",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "20",
           "section": "900",
           "title": "SPECIALTY CAPSTONE",
-          "remaining": "15",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "John A. Bryant (P)",
@@ -3871,10 +3871,10 @@
           "subject": "COSC",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "99",
           "section": "500",
           "title": "MEP SYSTEMS IN CONST II",
-          "remaining": "89",
+          "remaining": "1",
           "capacity": "100",
           "instructor": [
             "John A. Bryant (P)"
@@ -3933,5 +3933,5 @@
     }
   },
   "title": "COSC - Construction Science",
-  "updated": "Mon, 11 Apr 2016 at 12:40 AM"
+  "updated": "Wed, Apr 13 2016 at 01:24 AM"
 }

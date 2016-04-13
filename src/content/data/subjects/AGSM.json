@@ -8,10 +8,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "6",
           "section": "501",
           "title": "PROJ MGMT AGSM",
-          "remaining": "29",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Ronald Lacey (P)"
@@ -42,10 +42,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "0",
           "section": "501",
           "title": "AGRI ENERGY & PWR SYSTEMS",
-          "remaining": "19",
+          "remaining": "20",
           "capacity": "20",
           "instructor": [
             "Douglas M. Kingman (P)",
@@ -110,10 +110,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "503",
           "title": "AGRI ENERGY & PWR SYSTEMS",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Douglas M. Kingman (P)",
@@ -144,10 +144,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "AGRI ENERGY & PWR SYSTEMS",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Douglas M. Kingman (P)",
@@ -251,10 +251,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "SYSTEMS ANALYSIS AGRI",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Russell O. McGee (P)"
@@ -285,10 +285,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "13",
           "section": "500",
           "title": "WATER & SOIL MGMT",
-          "remaining": "24",
+          "remaining": "12",
           "capacity": "25",
           "instructor": [
             "Douglas M. Kingman (P)",
@@ -319,10 +319,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "14",
           "section": "501",
           "title": "WATER & SOIL MGMT",
-          "remaining": "24",
+          "remaining": "11",
           "capacity": "25",
           "instructor": [
             "Douglas M. Kingman (P)",
@@ -358,10 +358,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "FOOD PROCESS ENGR TECH",
-          "remaining": "7",
+          "remaining": "6",
           "capacity": "7",
           "instructor": [
             "Carmen L. Gomes (P)",
@@ -465,10 +465,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "22",
           "section": "500",
           "title": "TECH ENV NAT RES ENGR",
-          "remaining": "48",
+          "remaining": "28",
           "capacity": "50",
           "instructor": [
             "Cady R. Engler (P)"
@@ -499,10 +499,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "14",
           "section": "501",
           "title": "PROCESS & STOR AG PROD",
-          "remaining": "23",
+          "remaining": "10",
           "capacity": "24",
           "instructor": [
             "Gregory Stark (P)",
@@ -533,10 +533,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "11",
           "section": "502",
           "title": "PROCESS & STOR AG PROD",
-          "remaining": "23",
+          "remaining": "13",
           "capacity": "24",
           "instructor": [
             "Gregory Stark (P)",
@@ -572,10 +572,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "25",
           "section": "900",
           "title": "MGMT AGRI SYSTM I",
-          "remaining": "40",
+          "remaining": "18",
           "capacity": "43",
           "instructor": [
             "Gerald Riskowski (P), Russell O. McGee"
@@ -665,14 +665,14 @@
       "title": "AG ELECTRONICS & CTRL",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "AGSM",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "16",
           "section": "501",
           "title": "AG ELECTRONICS & CTRL",
-          "remaining": "14",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Gregory Stark (P)",
@@ -703,10 +703,10 @@
           "subject": "AGSM",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "11",
           "section": "502",
           "title": "AG ELECTRONICS & CTRL",
-          "remaining": "15",
+          "remaining": "5",
           "capacity": "16",
           "instructor": [
             "Gregory Stark (P)",
@@ -736,5 +736,5 @@
     }
   },
   "title": "AGSM - Agricultrl Systems Mgmt",
-  "updated": "Mon, 11 Apr 2016 at 12:36 AM"
+  "updated": "Wed, Apr 13 2016 at 01:21 AM"
 }

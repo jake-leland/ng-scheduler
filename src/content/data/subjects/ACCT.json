@@ -120,10 +120,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 5,
-          "active": "22",
+          "active": "24",
           "section": "500",
           "title": "INTRO ACCOUNTING",
-          "remaining": "168",
+          "remaining": "166",
           "capacity": "190",
           "instructor": [
             "Natalie L. Allen (P)",
@@ -257,10 +257,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "12",
           "section": "501",
           "title": "MGRL & COST ACCT PRIN",
-          "remaining": "44",
+          "remaining": "38",
           "capacity": "50",
           "instructor": [
             "Robert Strawser (P)"
@@ -286,10 +286,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "18",
           "section": "502",
           "title": "MGRL & COST ACCT PRIN",
-          "remaining": "45",
+          "remaining": "32",
           "capacity": "50",
           "instructor": [
             "Robert Strawser (P)"
@@ -320,10 +320,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "22",
+          "active": "52",
           "section": "600",
           "title": "ACCOUNTING ETHICS",
-          "remaining": "38",
+          "remaining": "8",
           "capacity": "60",
           "instructor": [
             "Michael Shaub (P)"
@@ -350,14 +350,14 @@
       "title": "DEV OF ACCT THOUGHT",
       "sections": {
         "601": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "28",
           "section": "601",
           "title": "DEV OF ACCT THOUGHT",
-          "remaining": "24",
+          "remaining": "0",
           "capacity": "28",
           "instructor": [
             "Anwer Ahmed (P)"
@@ -383,10 +383,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "8",
           "section": "602",
           "title": "DEV OF ACCT THOUGHT",
-          "remaining": "28",
+          "remaining": "20",
           "capacity": "28",
           "instructor": [
             "Anwer Ahmed (P)"
@@ -437,14 +437,14 @@
           "crn": "10036"
         },
         "604": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "28",
           "section": "604",
           "title": "DEV OF ACCT THOUGHT",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "28",
           "instructor": [
             "Edward Swanson (P)"
@@ -466,14 +466,14 @@
           "crn": "10037"
         },
         "605": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "28",
           "section": "605",
           "title": "DEV OF ACCT THOUGHT",
-          "remaining": "26",
+          "remaining": "0",
           "capacity": "28",
           "instructor": [
             "Edward Swanson (P)"
@@ -592,14 +592,14 @@
       "title": "MGMT OF TAXATION",
       "sections": {
         "601": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "25",
+          "active": "26",
           "section": "601",
           "title": "MGMT OF TAXATION",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "26",
           "instructor": [
             "Kevin Roach (P)"
@@ -621,14 +621,14 @@
           "crn": "13140"
         },
         "602": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "26",
           "section": "602",
           "title": "MGMT OF TAXATION",
-          "remaining": "22",
+          "remaining": "0",
           "capacity": "26",
           "instructor": [
             "Kevin Roach (P)"
@@ -655,14 +655,14 @@
       "title": "PARTNRSP & REAL EST TX",
       "sections": {
         "602": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "29",
+          "active": "53",
           "section": "602",
           "title": "PARTNRSP & REAL EST TX",
-          "remaining": "24",
+          "remaining": "0",
           "capacity": "53",
           "instructor": [
             "Dennis Lassila (P)"
@@ -693,10 +693,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "550",
           "title": "ACCOUNTING INTERNSHIP:IN-AB",
-          "remaining": "29",
+          "remaining": "28",
           "capacity": "30",
           "instructor": [
             "Annie L. McGowan (P)"
@@ -756,10 +756,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 3,
-          "active": "11",
+          "active": "14",
           "section": "601",
           "title": "ACCT CON & PROCEDURE I",
-          "remaining": "89",
+          "remaining": "86",
           "capacity": "100",
           "instructor": [
             "Courtney E. Foster (P)",
@@ -800,10 +800,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "10",
           "section": "650",
           "title": "PROF INTERNSHIP: IN-ABSENTIA",
-          "remaining": "30",
+          "remaining": "25",
           "capacity": "35",
           "instructor": [
             "Annie L. McGowan (P)"
@@ -830,14 +830,14 @@
       "title": "CRITICAL COMM ACCT",
       "sections": {
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "21",
+          "active": "45",
           "section": "901",
           "title": "CRITICAL COMM ACCT",
-          "remaining": "24",
+          "remaining": "0",
           "capacity": "45",
           "instructor": [
             "Susan Fiechtner (P)"
@@ -859,14 +859,14 @@
           "crn": "18806"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "45",
           "section": "902",
           "title": "CRITICAL COMM ACCT",
-          "remaining": "37",
+          "remaining": "0",
           "capacity": "45",
           "instructor": [
             "Susan Fiechtner (P)"
@@ -897,10 +897,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "34",
           "section": "604",
           "title": "CORPORATE TAXATION I",
-          "remaining": "24",
+          "remaining": "2",
           "capacity": "36",
           "instructor": [
             "Dennis Lassila (P)"
@@ -926,10 +926,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "20",
           "section": "605",
           "title": "CORPORATE TAXATION I",
-          "remaining": "30",
+          "remaining": "18",
           "capacity": "38",
           "instructor": [
             "Dennis Lassila (P)"
@@ -1024,14 +1024,14 @@
       "title": "FINANCIAL STMNT ANALYSIS",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "20",
           "section": "501",
           "title": "FINANCIAL STMNT ANALYSIS",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Karen Redman (P)"
@@ -1053,14 +1053,14 @@
           "crn": "21718"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "20",
           "section": "502",
           "title": "FINANCIAL STMNT ANALYSIS",
-          "remaining": "18",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Karen Redman (P)"
@@ -1091,10 +1091,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "600",
           "title": "SPTP: ACCT CON AND PROC II",
-          "remaining": "23",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Tara N. Blasor (P)"
@@ -1120,10 +1120,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "20",
           "section": "601",
           "title": "SPTP: ACCT FOR INCOME TAX",
-          "remaining": "39",
+          "remaining": "20",
           "capacity": "40",
           "instructor": [
             "Constance Weaver (P)"
@@ -1145,14 +1145,14 @@
           "crn": "28597"
         },
         "602": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "29",
+          "active": "40",
           "section": "602",
           "title": "SPTP: ACCT FOR INCOME TAX",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Constance Weaver (P)"
@@ -1174,14 +1174,14 @@
           "crn": "28598"
         },
         "603": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "40",
           "section": "603",
           "title": "SPTP: ACCT FOR INCOME TAX",
-          "remaining": "34",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Constance Weaver (P)"
@@ -1208,15 +1208,15 @@
       "title": "FINANCIAL REPORTING I",
       "sections": {
         "510": {
-          "select": "C",
+          "select": "SR",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "5",
+          "active": "6",
           "section": "510",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "0",
-          "capacity": "5",
+          "remaining": "29",
+          "capacity": "35",
           "instructor": [
             "Nathan Sharp (P)",
             "Nathan Sharp (P)",
@@ -1252,15 +1252,15 @@
           "crn": "17723"
         },
         "511": {
-          "select": "C",
+          "select": "SR",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "5",
+          "active": "6",
           "section": "511",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "0",
-          "capacity": "5",
+          "remaining": "29",
+          "capacity": "35",
           "instructor": [
             "Nathan Sharp (P)",
             "Nathan Sharp (P)",
@@ -1296,15 +1296,15 @@
           "crn": "27193"
         },
         "501": {
-          "select": "C",
+          "select": "SR",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
           "active": "5",
           "section": "501",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "0",
-          "capacity": "5",
+          "remaining": "30",
+          "capacity": "35",
           "instructor": [
             "Tara N. Blasor (P)",
             "Tara N. Blasor (P)",
@@ -1340,15 +1340,15 @@
           "crn": "14185"
         },
         "502": {
-          "select": "C",
+          "select": "SR",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "5",
+          "active": "7",
           "section": "502",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "0",
-          "capacity": "5",
+          "remaining": "28",
+          "capacity": "35",
           "instructor": [
             "Tara N. Blasor (P)",
             "Tara N. Blasor (P)",
@@ -1384,15 +1384,15 @@
           "crn": "10010"
         },
         "513": {
-          "select": "C",
+          "select": "SR",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "5",
+          "active": "8",
           "section": "513",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "0",
-          "capacity": "5",
+          "remaining": "37",
+          "capacity": "45",
           "instructor": [
             "Kayla M. Cline (P)",
             "Kayla M. Cline (P)",
@@ -1428,15 +1428,15 @@
           "crn": "27195"
         },
         "503": {
-          "select": "C",
+          "select": "SR",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "5",
+          "active": "8",
           "section": "503",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "0",
-          "capacity": "5",
+          "remaining": "27",
+          "capacity": "35",
           "instructor": [
             "Tara N. Blasor (P)",
             "Tara N. Blasor (P)",
@@ -1472,15 +1472,15 @@
           "crn": "10011"
         },
         "514": {
-          "select": "C",
+          "select": "SR",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "5",
+          "active": "9",
           "section": "514",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "0",
-          "capacity": "5",
+          "remaining": "36",
+          "capacity": "45",
           "instructor": [
             "Kayla M. Cline (P)",
             "Kayla M. Cline (P)",
@@ -1516,15 +1516,15 @@
           "crn": "27196"
         },
         "504": {
-          "select": "C",
+          "select": "SR",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "5",
+          "active": "7",
           "section": "504",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "0",
-          "capacity": "5",
+          "remaining": "28",
+          "capacity": "35",
           "instructor": [
             "Ryan Larkin (P)",
             "Ryan Larkin (P)",
@@ -1564,11 +1564,11 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "2",
+          "active": "3",
           "section": "505",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "3",
-          "capacity": "5",
+          "remaining": "32",
+          "capacity": "35",
           "instructor": [
             "Ryan Larkin (P)",
             "Ryan Larkin (P)",
@@ -1608,11 +1608,11 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "1",
+          "active": "4",
           "section": "506",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "4",
-          "capacity": "5",
+          "remaining": "31",
+          "capacity": "35",
           "instructor": [
             "Ryan Larkin (P)",
             "Ryan Larkin (P)",
@@ -1652,11 +1652,11 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "1",
+          "active": "2",
           "section": "508",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "4",
-          "capacity": "5",
+          "remaining": "33",
+          "capacity": "35",
           "instructor": [
             "Ryan Larkin (P)",
             "Ryan Larkin (P)",
@@ -1692,15 +1692,15 @@
           "crn": "14186"
         },
         "509": {
-          "select": "C",
+          "select": "SR",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "5",
+          "active": "3",
           "section": "509",
           "title": "FINANCIAL REPORTING I",
-          "remaining": "0",
-          "capacity": "5",
+          "remaining": "32",
+          "capacity": "35",
           "instructor": [
             "Nathan Sharp (P)",
             "Nathan Sharp (P)",
@@ -2023,10 +2023,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 4,
-          "active": "21",
+          "active": "29",
           "section": "504",
           "title": "INTRO ACCOUNTING",
-          "remaining": "29",
+          "remaining": "21",
           "capacity": "50",
           "instructor": [
             "Jacqueline D. Knoop (P)",
@@ -2302,14 +2302,14 @@
           "crn": "10013"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "15",
           "section": "503",
           "title": "FINANCIAL REPORTING II",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Adrienne C. Rhodes (P)"
@@ -2331,14 +2331,14 @@
           "crn": "10014"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "15",
           "section": "504",
           "title": "FINANCIAL REPORTING II",
-          "remaining": "14",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Steven Grossman (P)"
@@ -2360,14 +2360,14 @@
           "crn": "21551"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "15",
           "section": "505",
           "title": "FINANCIAL REPORTING II",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Steven Grossman (P)"
@@ -2389,14 +2389,14 @@
           "crn": "12974"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "15",
           "section": "506",
           "title": "FINANCIAL REPORTING II",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Steven Grossman (P)"
@@ -2418,14 +2418,14 @@
           "crn": "21717"
         },
         "507": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "15",
           "section": "507",
           "title": "FINANCIAL REPORTING II",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Dechun Wang (P)"
@@ -2447,14 +2447,14 @@
           "crn": "27198"
         },
         "508": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "15",
           "section": "508",
           "title": "FINANCIAL REPORTING II",
-          "remaining": "13",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Dechun Wang (P)"
@@ -2485,10 +2485,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "17",
           "section": "501",
           "title": "INCOME TAX",
-          "remaining": "45",
+          "remaining": "33",
           "capacity": "50",
           "instructor": [
             "Morgan E. Clarke (P)"
@@ -2519,10 +2519,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "18",
           "section": "501",
           "title": "ACCT & FIN INFO SYSTEMS",
-          "remaining": "24",
+          "remaining": "14",
           "capacity": "32",
           "instructor": [
             "Michelle C. Diaz (P)"
@@ -2548,10 +2548,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "9",
           "section": "502",
           "title": "ACCT & FIN INFO SYSTEMS",
-          "remaining": "29",
+          "remaining": "23",
           "capacity": "32",
           "instructor": [
             "Michelle C. Diaz (P)"
@@ -2582,10 +2582,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "19",
           "section": "601",
           "title": "FINANCIAL STMNT ANALYSIS",
-          "remaining": "15",
+          "remaining": "4",
           "capacity": "23",
           "instructor": [
             "Senyo Tse (P)"
@@ -2611,10 +2611,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "12",
           "section": "602",
           "title": "FINANCIAL STMNT ANALYSIS",
-          "remaining": "18",
+          "remaining": "11",
           "capacity": "23",
           "instructor": [
             "Senyo Tse (P)"
@@ -2665,14 +2665,14 @@
           "crn": "18998"
         },
         "604": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "21",
+          "active": "29",
           "section": "604",
           "title": "FINANCIAL STMNT ANALYSIS",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "29",
           "instructor": [
             "Tim D. Torno (P)"
@@ -2698,10 +2698,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "23",
           "section": "605",
           "title": "FINANCIAL STMNT ANALYSIS",
-          "remaining": "18",
+          "remaining": "2",
           "capacity": "25",
           "instructor": [
             "Tim D. Torno (P)"
@@ -2732,10 +2732,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 2,
-          "active": "27",
+          "active": "77",
           "section": "501",
           "title": "COST MGMT & ANALYSIS",
-          "remaining": "173",
+          "remaining": "123",
           "capacity": "200",
           "instructor": [
             "Karen C. Farmer (P)",
@@ -2767,14 +2767,14 @@
       "title": "ACCT INFO SYSTEMS",
       "sections": {
         "601": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "44",
           "section": "601",
           "title": "ACCT INFO SYSTEMS",
-          "remaining": "40",
+          "remaining": "0",
           "capacity": "44",
           "instructor": [
             "Christopher Wolfe (P)"
@@ -2796,14 +2796,14 @@
           "crn": "10031"
         },
         "602": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "40",
+          "active": "44",
           "section": "602",
           "title": "ACCT INFO SYSTEMS",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "44",
           "instructor": [
             "Christopher Wolfe (P)"
@@ -2825,14 +2825,14 @@
           "crn": "10032"
         },
         "603": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "30",
+          "active": "44",
           "section": "603",
           "title": "ACCT INFO SYSTEMS",
-          "remaining": "14",
+          "remaining": "0",
           "capacity": "44",
           "instructor": [
             "Christopher Wolfe (P)"
@@ -2863,10 +2863,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 5,
-          "active": "88",
+          "active": "167",
           "section": "501",
           "title": "SURVEY OF ACCT PRIN",
-          "remaining": "342",
+          "remaining": "263",
           "capacity": "430",
           "instructor": [
             "Mary K. Stasny (P)",
@@ -2912,10 +2912,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 5,
-          "active": "14",
+          "active": "30",
           "section": "502",
           "title": "SURVEY OF ACCT PRIN",
-          "remaining": "416",
+          "remaining": "400",
           "capacity": "430",
           "instructor": [
             "Mary K. Stasny (P)",
@@ -3064,10 +3064,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 3,
-          "active": "3",
+          "active": "21",
           "section": "908",
           "title": "AUDITING",
-          "remaining": "24",
+          "remaining": "6",
           "capacity": "27",
           "instructor": [
             "James C. Flagg (P)",
@@ -3103,10 +3103,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "10",
           "section": "901",
           "title": "AUDITING",
-          "remaining": "26",
+          "remaining": "17",
           "capacity": "27",
           "instructor": [
             "Matthew S. Ege (P)",
@@ -3142,10 +3142,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "10",
           "section": "902",
           "title": "AUDITING",
-          "remaining": "26",
+          "remaining": "17",
           "capacity": "27",
           "instructor": [
             "Matthew S. Ege (P)",
@@ -3181,10 +3181,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "3",
           "section": "903",
           "title": "AUDITING",
-          "remaining": "27",
+          "remaining": "24",
           "capacity": "27",
           "instructor": [
             "Matthew S. Ege (P)",
@@ -3216,14 +3216,14 @@
           "crn": "15210"
         },
         "904": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 3,
-          "active": "4",
+          "active": "27",
           "section": "904",
           "title": "AUDITING",
-          "remaining": "23",
+          "remaining": "0",
           "capacity": "27",
           "instructor": [
             "April D. Nafstad (P)",
@@ -3255,14 +3255,14 @@
           "crn": "15204"
         },
         "905": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 3,
-          "active": "5",
+          "active": "27",
           "section": "905",
           "title": "AUDITING",
-          "remaining": "22",
+          "remaining": "0",
           "capacity": "27",
           "instructor": [
             "April D. Nafstad (P)",
@@ -3294,14 +3294,14 @@
           "crn": "17550"
         },
         "906": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 3,
-          "active": "40",
+          "active": "55",
           "section": "906",
           "title": "AUDITING",
-          "remaining": "15",
+          "remaining": "0",
           "capacity": "55",
           "instructor": [
             "Michael Shaub (P)",
@@ -3342,10 +3342,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "30",
           "section": "500",
           "title": "INTERNAL AUDITING",
-          "remaining": "26",
+          "remaining": "5",
           "capacity": "35",
           "instructor": [
             "Tara N. Blasor (P)"
@@ -3376,10 +3376,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "21",
           "section": "601",
           "title": "BUS APPLICATION MODELING",
-          "remaining": "30",
+          "remaining": "19",
           "capacity": "40",
           "instructor": [
             "Joan E. Sanders (P)"
@@ -3405,10 +3405,10 @@
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "20",
           "section": "602",
           "title": "BUS APPLICATION MODELING",
-          "remaining": "38",
+          "remaining": "20",
           "capacity": "40",
           "instructor": [
             "Joan E. Sanders (P)"
@@ -3430,14 +3430,14 @@
           "crn": "10028"
         },
         "603": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "23",
+          "active": "40",
           "section": "603",
           "title": "BUS APPLICATION MODELING",
-          "remaining": "17",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Joan E. Sanders (P)"
@@ -3464,15 +3464,15 @@
       "title": "SEMINAR IN AUDITING",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "ACCT",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "50",
           "section": "600",
           "title": "SEMINAR IN AUDITING",
-          "remaining": "27",
-          "capacity": "43",
+          "remaining": "0",
+          "capacity": "50",
           "instructor": [
             "James C. Flagg (P)"
           ],
@@ -3496,5 +3496,5 @@
     }
   },
   "title": "ACCT - Accounting",
-  "updated": "Mon, 11 Apr 2016 at 12:36 AM"
+  "updated": "Wed, Apr 13 2016 at 01:20 AM"
 }

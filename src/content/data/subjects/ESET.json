@@ -8,10 +8,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "9",
           "section": "501",
           "title": "ANALOG ELECTRONICS",
-          "remaining": "15",
+          "remaining": "9",
           "capacity": "18",
           "instructor": [
             "Jay R. Porter (P)",
@@ -115,10 +115,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "9",
           "section": "501",
           "title": "ELECTRONICS TEST I",
-          "remaining": "16",
+          "remaining": "7",
           "capacity": "16",
           "instructor": [
             "Rainer J. Fink (P)",
@@ -149,10 +149,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "ELECTRONICS TEST I",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "Rainer J. Fink (P)",
@@ -184,15 +184,15 @@
       "title": "CONTROL SYSTEMS",
       "sections": {
         "501": {
-          "select": "C",
+          "select": "SR",
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "9",
           "section": "501",
           "title": "CONTROL SYSTEMS",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "9",
+          "capacity": "18",
           "instructor": [
             "Xingyong Song (P)",
             "Xingyong Song"
@@ -218,15 +218,15 @@
           "crn": "24797"
         },
         "502": {
-          "select": "C",
+          "select": "SR",
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "17",
           "section": "502",
           "title": "CONTROL SYSTEMS",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "1",
+          "capacity": "18",
           "instructor": [
             "Xingyong Song (P)",
             "Xingyong Song"
@@ -235,7 +235,7 @@
           "course": "462",
           "days": [
             "TR",
-            "W"
+            "T"
           ],
           "date (mm/dd)": [
             "08/29-12/14",
@@ -247,7 +247,7 @@
           ],
           "time": [
             "11:10 am-12:25 pm",
-            "05:30 pm-08:10 pm"
+            "05:50 pm-08:30 pm"
           ],
           "crn": "24798"
         }
@@ -261,10 +261,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "CIRCUIT ANALYSIS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Walter Buchanan (P)",
@@ -295,10 +295,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "502",
           "title": "CIRCUIT ANALYSIS",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Walter Buchanan (P)",
@@ -363,40 +363,6 @@
     "452": {
       "title": "ELECTRONICS TEST II",
       "sections": {
-        "501": {
-          "select": "C",
-          "subject": "ESET",
-          "campus": "CS",
-          "classes": 2,
-          "active": "0",
-          "section": "501",
-          "title": "ELECTRONICS TEST II",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "Rainer J. Fink (P)",
-            "Ellen Onderko"
-          ],
-          "credits": "3",
-          "course": "452",
-          "days": [
-            "TR",
-            "W"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14",
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA",
-            "THOM 010"
-          ],
-          "time": [
-            "02:20 pm-03:35 pm",
-            "08:00 am-10:40 am"
-          ],
-          "crn": "24800"
-        },
         "502": {
           "select": "C",
           "subject": "ESET",
@@ -465,7 +431,7 @@
             "THOM 204"
           ],
           "time": [
-            "09:35 am-10:50 am",
+            "09:35 am-10:25 am",
             "03:55 pm-06:35 pm"
           ],
           "crn": "24774"
@@ -475,10 +441,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "1",
           "section": "502",
           "title": "PWR SYS & CIRCUIT APP",
-          "remaining": "16",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Walter Buchanan (P)",
@@ -499,7 +465,7 @@
             "THOM 204"
           ],
           "time": [
-            "09:35 am-10:50 am",
+            "09:35 am-10:25 am",
             "04:30 pm-07:10 pm"
           ],
           "crn": "24775"
@@ -534,7 +500,7 @@
           ],
           "time": [
             "04:30 pm-07:10 pm",
-            "09:35 am-10:50 am"
+            "09:35 am-10:25 am"
           ],
           "crn": "24776"
         }
@@ -548,10 +514,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "29",
           "section": "500",
           "title": "ENGR TECH CAPSTONE II",
-          "remaining": "34",
+          "remaining": "7",
           "capacity": "36",
           "instructor": [
             "Joseph Morgan (P)"
@@ -582,10 +548,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "10",
           "section": "501",
           "title": "PRODUCT DEVELOPMENT",
-          "remaining": "17",
+          "remaining": "8",
           "capacity": "18",
           "instructor": [
             "Matthew J. Leonard",
@@ -616,10 +582,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "7",
           "section": "502",
           "title": "PRODUCT DEVELOPMENT",
-          "remaining": "16",
+          "remaining": "11",
           "capacity": "18",
           "instructor": [
             "Matthew J. Leonard",
@@ -655,10 +621,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "501",
           "title": "EMAG & HIGH FREQ SYSTEMS",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Jay R. Porter",
@@ -689,10 +655,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "502",
           "title": "EMAG & HIGH FREQ SYSTEMS",
-          "remaining": "17",
+          "remaining": "10",
           "capacity": "18",
           "instructor": [
             "Jay R. Porter (P)",
@@ -728,10 +694,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "16",
           "section": "501",
           "title": "WIRELESS TRNSMISSION SYS",
-          "remaining": "17",
+          "remaining": "2",
           "capacity": "18",
           "instructor": [
             "John C. Bosshard (P)",
@@ -762,10 +728,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "6",
           "section": "502",
           "title": "WIRELESS TRNSMISSION SYS",
-          "remaining": "17",
+          "remaining": "12",
           "capacity": "18",
           "instructor": [
             "John C. Bosshard (P)",
@@ -801,10 +767,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "501",
           "title": "EMBEDDED SYS DEV IN C",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "18",
           "instructor": [
             "Adam J. Burke (P)",
@@ -908,10 +874,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "6",
           "section": "501",
           "title": "EMBEDDED SYSTEMS SOFTWAR",
-          "remaining": "17",
+          "remaining": "12",
           "capacity": "18",
           "instructor": [
             "Gang Sun (P)",
@@ -942,10 +908,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "7",
           "section": "502",
           "title": "EMBEDDED SYSTEMS SOFTWAR",
-          "remaining": "15",
+          "remaining": "11",
           "capacity": "18",
           "instructor": [
             "Gang Sun (P)",
@@ -1049,10 +1015,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "LOCAL METRO AREA NETWORK",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "16",
           "instructor": [
             "Ana Goulart (P)",
@@ -1118,14 +1084,14 @@
       "title": "ELEC INSTRUMENTATION",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "18",
           "section": "501",
           "title": "ELEC INSTRUMENTATION",
-          "remaining": "16",
+          "remaining": "0",
           "capacity": "18",
           "instructor": [
             "Jiayuan Zhang",
@@ -1156,10 +1122,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "502",
           "title": "ELEC INSTRUMENTATION",
-          "remaining": "18",
+          "remaining": "11",
           "capacity": "18",
           "instructor": [
             "Wei Zhan (P)",
@@ -1195,10 +1161,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "MICROCONTROLLER ARCH",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "18",
           "instructor": [
             "Gang Sun (P)",
@@ -1302,10 +1268,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "11",
           "section": "501",
           "title": "ADV NETWORK SYS & SECUR",
-          "remaining": "17",
+          "remaining": "7",
           "capacity": "18",
           "instructor": [
             "Ana Goulart (P)",
@@ -1336,10 +1302,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "502",
           "title": "ADV NETWORK SYS & SECUR",
-          "remaining": "18",
+          "remaining": "10",
           "capacity": "18",
           "instructor": [
             "Ana Goulart (P)",
@@ -1375,10 +1341,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "501",
           "title": "DIGITAL ELECTRONICS",
-          "remaining": "17",
+          "remaining": "15",
           "capacity": "18",
           "instructor": [
             "Joseph Morgan (P)",
@@ -1482,10 +1448,10 @@
           "subject": "ESET",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "5",
           "section": "501",
           "title": "SIX SIGMA & APPL STAT",
-          "remaining": "18",
+          "remaining": "13",
           "capacity": "18",
           "instructor": [
             "Wei Zhan (P)",
@@ -1551,15 +1517,15 @@
       "title": "ENGINEERING LEADERSHIP",
       "sections": {
         "501": {
-          "select": "C",
+          "select": "SR",
           "subject": "ESET",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "ENGINEERING LEADERSHIP",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "15",
+          "capacity": "16",
           "instructor": [
             "Behbood Zoghi (P)",
             "Behbood Zoghi (P)",
@@ -1666,5 +1632,5 @@
     }
   },
   "title": "ESET - Electronic Sys Eng Tech",
-  "updated": "Mon, 11 Apr 2016 at 12:43 AM"
+  "updated": "Wed, Apr 13 2016 at 01:27 AM"
 }

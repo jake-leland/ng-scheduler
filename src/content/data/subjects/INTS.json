@@ -299,14 +299,14 @@
       "title": "SEMINAR",
       "sections": {
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "20",
           "section": "901",
           "title": "SEMINAR",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Natalie M. Khazaal (P)"
@@ -328,14 +328,14 @@
           "crn": "17203"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "20",
           "section": "902",
           "title": "SEMINAR",
-          "remaining": "14",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Sena Karasipahi (P)"
@@ -357,14 +357,14 @@
           "crn": "17204"
         },
         "903": {
-          "select": "SR",
+          "select": "C",
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "20",
           "section": "903",
           "title": "SEMINAR",
-          "remaining": "12",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Adam R. Rosenthal (P)"
@@ -618,10 +618,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "POLITICAL ISLAM & JIHAD",
-          "remaining": "40",
+          "remaining": "37",
           "capacity": "40",
           "instructor": [
             "Sena Karasipahi (P)"
@@ -744,10 +744,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "501",
           "title": "INTRO TO INTS",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Dinah Hannaford (P)",
@@ -778,10 +778,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "INTRO TO INTS",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Dinah Hannaford (P)",
@@ -846,10 +846,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "3",
           "section": "504",
           "title": "INTRO TO INTS",
-          "remaining": "16",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Dinah Hannaford (P)",
@@ -881,14 +881,14 @@
       "title": "GENDER AND THE GLOBAL MODERN",
       "sections": {
         "900": {
-          "select": "SR",
+          "select": "C",
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "20",
           "section": "900",
           "title": "GENDER AND THE GLOBAL MODERN",
-          "remaining": "18",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Melanie Hawthorne (P)"
@@ -919,10 +919,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "500",
           "title": "THEORIES OF GLOBALIZATION",
-          "remaining": "48",
+          "remaining": "44",
           "capacity": "50",
           "instructor": [
             "Sena Karasipahi (P)"
@@ -1016,10 +1016,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "31",
+          "active": "61",
           "section": "500",
           "title": "CURRENT ISSUES INTL STUD",
-          "remaining": "217",
+          "remaining": "187",
           "capacity": "248",
           "instructor": [
             "Robert Shandley (P)"
@@ -1075,14 +1075,14 @@
           "crn": "19228"
         },
         "900": {
-          "select": "SR",
+          "select": "C",
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "20",
           "section": "900",
           "title": "NATIONS & NATIONALISMS",
-          "remaining": "14",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -1113,10 +1113,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "23",
           "section": "500",
           "title": "DIVERSITY GLOBALIZ WORLD",
-          "remaining": "40",
+          "remaining": "27",
           "capacity": "50",
           "instructor": [
             "Dinah Hannaford (P)"
@@ -1142,10 +1142,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "18",
           "section": "900",
           "title": "DIVERSITY GLOBALIZ WORLD",
-          "remaining": "16",
+          "remaining": "2",
           "capacity": "20",
           "instructor": [
             "Nathan Bracher (P)"
@@ -1176,10 +1176,10 @@
           "subject": "INTS",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "19",
           "section": "500",
           "title": "CULTURE NEOLIB GLOBALISM",
-          "remaining": "33",
+          "remaining": "21",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -1204,5 +1204,5 @@
     }
   },
   "title": "INTS - International Studies",
-  "updated": "Mon, 11 Apr 2016 at 12:46 AM"
+  "updated": "Wed, Apr 13 2016 at 01:30 AM"
 }

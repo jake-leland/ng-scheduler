@@ -42,10 +42,10 @@
           "subject": "HEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "TCH SCHOOL MODERN SOCIETY",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "12",
           "instructor": [
             "Meagan M. Shipley (P)",
@@ -81,10 +81,10 @@
           "subject": "HEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "500",
           "title": "TECH TCHING 21ST CENT LRN",
-          "remaining": "8",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -120,10 +120,10 @@
           "subject": "HEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "900",
           "title": "INTRO SEC SCHOOL TCHING",
-          "remaining": "13",
+          "remaining": "10",
           "capacity": "13",
           "instructor": [
             "TBA",
@@ -144,7 +144,7 @@
             "TBA"
           ],
           "time": [
-            "12:40 pm-02:40 pm",
+            "01:50 pm-03:50 pm",
             "TBA"
           ],
           "crn": "17850"
@@ -159,10 +159,10 @@
           "subject": "HEFB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "554",
           "title": "SPRV STD TCH: IN-ABSENTIA",
-          "remaining": "20",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Elisa H. McNeill (P)"
@@ -216,5 +216,5 @@
     }
   },
   "title": "HEFB - Health Ed Field Based",
-  "updated": "Mon, 11 Apr 2016 at 12:44 AM"
+  "updated": "Wed, Apr 13 2016 at 01:28 AM"
 }

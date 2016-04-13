@@ -101,15 +101,15 @@
       "title": "BUSINESS COMMUNICATION",
       "sections": {
         "600": {
-          "select": "C",
+          "select": "SR",
           "subject": "BUAD",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "600",
           "title": "BUSINESS COMMUNICATION",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "65",
+          "capacity": "65",
           "instructor": [
             "John C. Krajicek (P)"
           ],
@@ -254,5 +254,5 @@
     }
   },
   "title": "BUAD - Business Administration",
-  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
+  "updated": "Wed, Apr 13 2016 at 01:23 AM"
 }

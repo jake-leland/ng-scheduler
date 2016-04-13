@@ -8,10 +8,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "QUALITY ASSURANCE FOOD IND",
-          "remaining": "12",
+          "remaining": "11",
           "capacity": "12",
           "instructor": [
             "Wesley N. Osburn (P)"
@@ -42,10 +42,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "501",
           "title": "CURRENT ISSUES IN ANIMAL AG",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "12",
           "instructor": [
             "Gary C. Smith (P)"
@@ -110,10 +110,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 3,
-          "active": "0",
+          "active": "1",
           "section": "901",
           "title": "BEHVR & MGMT OF DMSTC",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Courtney L. Daigle (P)",
@@ -149,10 +149,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "902",
           "title": "BEHVR & MGMT OF DMSTC",
-          "remaining": "14",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "TBA",
@@ -301,8 +301,8 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Amanda N. Bradbery (P)",
-            "Amanda N. Bradbery"
+            "Haley C. Collins (P), Amanda N. Bradbery",
+            "Amanda N. Bradbery , Haley C. Collins"
           ],
           "credits": "2",
           "course": "312",
@@ -335,8 +335,8 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Amanda N. Bradbery",
-            "Amanda N. Bradbery (P)"
+            "Amanda N. Bradbery , Haley C. Collins",
+            "Haley C. Collins (P), Amanda N. Bradbery"
           ],
           "credits": "2",
           "course": "312",
@@ -368,10 +368,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "10",
           "section": "200",
           "title": "HNR-REPROD IN FARM ANIMALS",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "12",
           "instructor": [
             "David W. Forrest (P)",
@@ -398,14 +398,14 @@
           "crn": "19614"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "15",
           "section": "501",
           "title": "REPROD IN FARM ANIMALS",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Kathrin A. Dunlap",
@@ -436,10 +436,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "502",
           "title": "REPROD IN FARM ANIMALS",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Kathrin A. Dunlap",
@@ -504,10 +504,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "504",
           "title": "REPROD IN FARM ANIMALS",
-          "remaining": "14",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "Kathrin A. Dunlap (P)",
@@ -538,10 +538,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "11",
           "section": "505",
           "title": "REPROD IN FARM ANIMALS",
-          "remaining": "14",
+          "remaining": "4",
           "capacity": "15",
           "instructor": [
             "Kathrin A. Dunlap (P)",
@@ -568,14 +568,14 @@
           "crn": "10217"
         },
         "506": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "15",
           "section": "506",
           "title": "REPROD IN FARM ANIMALS",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Kathrin A. Dunlap (P)",
@@ -606,10 +606,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "507",
           "title": "REPROD IN FARM ANIMALS",
-          "remaining": "13",
+          "remaining": "10",
           "capacity": "15",
           "instructor": [
             "Kathrin A. Dunlap (P)",
@@ -645,10 +645,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "501",
           "title": "ANIMAL REPRODUCTION MGMT",
-          "remaining": "9",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Michael C. Satterfield (P)",
@@ -679,10 +679,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "ANIMAL REPRODUCTION MGMT",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Michael C. Satterfield (P)",
@@ -713,10 +713,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "503",
           "title": "ANIMAL REPRODUCTION MGMT",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Michael C. Satterfield (P)",
@@ -825,10 +825,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 3,
-          "active": "1",
+          "active": "6",
           "section": "930",
           "title": "LIVESTOCK JUDGING",
-          "remaining": "59",
+          "remaining": "54",
           "capacity": "60",
           "instructor": [
             "Allen B. Poe (P)",
@@ -869,10 +869,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "16",
           "section": "500",
           "title": "MKTG&GRDG LVSTCK &MEAT",
-          "remaining": "123",
+          "remaining": "114",
           "capacity": "130",
           "instructor": [
             "Jeffrey Savell (P)",
@@ -948,14 +948,14 @@
       "title": "FEEDS & FEEDING",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "12",
           "section": "501",
           "title": "FEEDS & FEEDING",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Gordon Carstens",
@@ -982,14 +982,14 @@
           "crn": "10206"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "12",
           "section": "502",
           "title": "FEEDS & FEEDING",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Gordon Carstens (P)",
@@ -1020,10 +1020,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "11",
           "section": "503",
           "title": "FEEDS & FEEDING",
-          "remaining": "9",
+          "remaining": "1",
           "capacity": "12",
           "instructor": [
             "Gordon Carstens (P)",
@@ -1054,10 +1054,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "7",
           "section": "504",
           "title": "FEEDS & FEEDING",
-          "remaining": "11",
+          "remaining": "5",
           "capacity": "12",
           "instructor": [
             "Gordon Carstens (P)",
@@ -1084,14 +1084,14 @@
           "crn": "10209"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "12",
           "section": "505",
           "title": "FEEDS & FEEDING",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Gordon Carstens (P)",
@@ -1122,10 +1122,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "506",
           "title": "FEEDS & FEEDING",
-          "remaining": "12",
+          "remaining": "4",
           "capacity": "12",
           "instructor": [
             "Gordon Carstens (P)",
@@ -1161,10 +1161,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "8",
           "section": "500",
           "title": "FEEDLOT RISK MGMT",
-          "remaining": "39",
+          "remaining": "32",
           "capacity": "40",
           "instructor": [
             "William Mies (P)"
@@ -1191,14 +1191,14 @@
       "title": "SEMINAR",
       "sections": {
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "8",
           "section": "700",
           "title": "SEMINAR",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Wesley N. Osburn (P)"
@@ -1220,14 +1220,14 @@
           "crn": "27931"
         },
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "12",
           "section": "901",
           "title": "SEMINAR",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Martha M. Vogelsang (P)"
@@ -1249,14 +1249,14 @@
           "crn": "18702"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "12",
           "section": "902",
           "title": "SEMINAR",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "H R. Cross (P), Christopher R. Kerth"
@@ -1278,14 +1278,14 @@
           "crn": "18704"
         },
         "903": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "12",
           "section": "903",
           "title": "SEMINAR",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Thomas Welsh (P)"
@@ -1307,14 +1307,14 @@
           "crn": "18706"
         },
         "904": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "12",
           "section": "904",
           "title": "SEMINAR",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "TBA"
@@ -1336,14 +1336,14 @@
           "crn": "18707"
         },
         "905": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "12",
           "section": "905",
           "title": "SEMINAR",
-          "remaining": "4",
+          "remaining": "0",
           "capacity": "12",
           "instructor": [
             "Wesley N. Osburn (P)"
@@ -1449,7 +1449,7 @@
             "08/29-12/14"
           ],
           "location": [
-            "AGLS 109"
+            "KLCT 021A"
           ],
           "time": [
             "09:10 am-10:00 am"
@@ -1500,10 +1500,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "25",
           "section": "500",
           "title": "ANIMAL NUTR & FEEDING",
-          "remaining": "116",
+          "remaining": "95",
           "capacity": "120",
           "instructor": [
             "Whitney L. Crossland (P)"
@@ -1525,14 +1525,14 @@
           "crn": "10211"
         },
         "700": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "700",
           "title": "ANIMAL NUTR & FEEDING",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "5",
           "instructor": [
             "Whitney L. Crossland (P)"
@@ -2419,10 +2419,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "13",
           "section": "500",
           "title": "INTRO EQUINE CARE",
-          "remaining": "96",
+          "remaining": "87",
           "capacity": "100",
           "instructor": [
             "Haley C. Collins (P)"
@@ -2801,10 +2801,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "635",
           "title": "DIRECTED STUDIES",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "6",
           "instructor": [
             "Martha M. Vogelsang (P)"
@@ -3077,10 +3077,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "8",
           "section": "500",
           "title": "EXPLORE ANIMAL INDUSTR",
-          "remaining": "23",
+          "remaining": "17",
           "capacity": "25",
           "instructor": [
             "Leslie L. Frenzel (P)"
@@ -3106,10 +3106,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "7",
           "section": "900",
           "title": "EXPLORE ANIMAL INDUSTR",
-          "remaining": "12",
+          "remaining": "8",
           "capacity": "15",
           "instructor": [
             "Leslie L. Frenzel (P)"
@@ -3140,10 +3140,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "8",
           "section": "501",
           "title": "ADVANCED MEAT SCI & TECH",
-          "remaining": "14",
+          "remaining": "7",
           "capacity": "15",
           "instructor": [
             "Rhonda K. Miller (P)",
@@ -3174,10 +3174,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "502",
           "title": "ADVANCED MEAT SCI & TECH",
-          "remaining": "14",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Rhonda K. Miller (P)",
@@ -3213,10 +3213,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "9",
           "section": "600",
           "title": "GEN ANIMAL NUTRITION",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "22",
           "instructor": [
             "Tryon A. Wickersham (P)"
@@ -3281,10 +3281,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "931",
           "title": "BEEF CATTLE PROD & MGM",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Andy D. Herring (P)",
@@ -3311,14 +3311,14 @@
           "crn": "13460"
         },
         "932": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "15",
           "section": "932",
           "title": "BEEF CATTLE PROD & MGM",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Andy D. Herring (P)",
@@ -3422,10 +3422,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "600",
           "title": "PH&BICH OF MUS AS FOOD",
-          "remaining": "22",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Stephen B. Smith (P)"
@@ -3456,10 +3456,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "600",
           "title": "PHYSIOL GROWTH STRESS",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "18",
           "instructor": [
             "Thomas Welsh (P)"
@@ -6168,10 +6168,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "642",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Andy D. Herring (P)"
@@ -6671,10 +6671,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "24",
           "section": "500",
           "title": "COMPANION ANIMAL SCIENCE",
-          "remaining": "111",
+          "remaining": "96",
           "capacity": "120",
           "instructor": [
             "Nancy Ing (P)"
@@ -6705,10 +6705,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "13",
           "section": "500",
           "title": "EQUINE IND AND CAREER PREP",
-          "remaining": "25",
+          "remaining": "17",
           "capacity": "30",
           "instructor": [
             "Anna L. Morrison (P)"
@@ -6735,14 +6735,14 @@
       "title": "SWINE PROD & MGMT",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "15",
           "section": "500",
           "title": "SWINE PROD & MGMT",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Chad Paulk (P)",
@@ -6817,10 +6817,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "14",
           "section": "500",
           "title": "HACCP SYSTEMS",
-          "remaining": "30",
+          "remaining": "21",
           "capacity": "35",
           "instructor": [
             "Kerri B. Harris (P)"
@@ -6851,10 +6851,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "7",
           "section": "600",
           "title": "EQUINE NUTRITION",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -6881,14 +6881,14 @@
       "title": "SHEEP & GOAT PROD & MG",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "8",
           "section": "501",
           "title": "SHEEP & GOAT PROD & MG",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Wesley S. Ramsey (P)",
@@ -6915,14 +6915,14 @@
           "crn": "25931"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "502",
           "title": "SHEEP & GOAT PROD & MG",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Wesley S. Ramsey (P)",
@@ -6949,14 +6949,14 @@
           "crn": "25932"
         },
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "8",
           "section": "901",
           "title": "SHEEP & GOAT PROD & MG",
-          "remaining": "6",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Wesley S. Ramsey (P)",
@@ -6983,14 +6983,14 @@
           "crn": "20290"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "902",
           "title": "SHEEP & GOAT PROD & MG",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "Wesley S. Ramsey (P)",
@@ -7026,10 +7026,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "6",
           "section": "600",
           "title": "EQUINE REPRODUCTION",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "18",
           "instructor": [
             "Martha M. Vogelsang (P)"
@@ -7094,10 +7094,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "500",
           "title": "EQUINE EXERCISE PHYSIOL",
-          "remaining": "23",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "Martha M. Vogelsang (P)",
@@ -7133,10 +7133,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "EQUINE REPRODUCTION",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Martha M. Vogelsang (P)"
@@ -7167,10 +7167,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "EQUINE HANDLING & SAFETY",
-          "remaining": "7",
+          "remaining": "6",
           "capacity": "8",
           "instructor": [
             "Anna L. Morrison",
@@ -7235,10 +7235,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "5",
           "section": "503",
           "title": "EQUINE HANDLING & SAFETY",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "8",
           "instructor": [
             "Anna L. Morrison (P)",
@@ -7308,10 +7308,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "15",
           "section": "500",
           "title": "BASIC BEEF CATTLE PROD",
-          "remaining": "91",
+          "remaining": "85",
           "capacity": "100",
           "instructor": [
             "Jason J. Cleere (P)"
@@ -7337,10 +7337,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "700",
           "title": "BASIC BEEF CATTLE PROD",
-          "remaining": "50",
+          "remaining": "44",
           "capacity": "50",
           "instructor": [
             "Jason J. Cleere (P)"
@@ -7400,10 +7400,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "32",
           "section": "500",
           "title": "PRIN OF ANIM NUTRITION",
-          "remaining": "238",
+          "remaining": "218",
           "capacity": "250",
           "instructor": [
             "Tryon A. Wickersham (P)"
@@ -7463,10 +7463,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "37",
+          "active": "49",
           "section": "501",
           "title": "GENERAL ANIMAL SCIENCE",
-          "remaining": "138",
+          "remaining": "126",
           "capacity": "175",
           "instructor": [
             "Leslie L. Frenzel (P)"
@@ -7492,10 +7492,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "22",
           "section": "502",
           "title": "GENERAL ANIMAL SCIENCE",
-          "remaining": "43",
+          "remaining": "38",
           "capacity": "60",
           "instructor": [
             "Wesley S. Ramsey (P)"
@@ -7580,14 +7580,14 @@
       "title": "ANIMAL BREEDING",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "9",
+          "active": "10",
           "section": "501",
           "title": "ANIMAL BREEDING",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "James Sanders",
@@ -7614,15 +7614,15 @@
           "crn": "10188"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "10",
           "section": "502",
           "title": "ANIMAL BREEDING",
-          "remaining": "2",
-          "capacity": "2",
+          "remaining": "0",
+          "capacity": "10",
           "instructor": [
             "TBA",
             "James Sanders (P)"
@@ -7648,14 +7648,14 @@
           "crn": "10189"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "503",
           "title": "ANIMAL BREEDING",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "James Sanders",
@@ -7686,11 +7686,11 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "504",
           "title": "ANIMAL BREEDING",
-          "remaining": "2",
-          "capacity": "2",
+          "remaining": "3",
+          "capacity": "10",
           "instructor": [
             "TBA",
             "James Sanders (P)"
@@ -7716,14 +7716,14 @@
           "crn": "10191"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "505",
           "title": "ANIMAL BREEDING",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "James Sanders (P)",
@@ -7759,10 +7759,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "MAMMALIAN DEVEL GENETICS",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "11",
           "instructor": [
             "Penny K. Riggs (P)"
@@ -7938,10 +7938,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "515",
           "title": "GENERAL ANIMAL SCIENCE",
-          "remaining": "22",
+          "remaining": "19",
           "capacity": "25",
           "instructor": [
             "Chris L. Skaggs (P)"
@@ -8199,10 +8199,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "501",
           "title": "GENERAL ANIMAL SCIENCE",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Chris L. Skaggs (P)"
@@ -8228,10 +8228,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "523",
           "title": "GENERAL ANIMAL SCIENCE",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "12",
           "instructor": [
             "Chris L. Skaggs (P)"
@@ -8402,10 +8402,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "506",
           "title": "GENERAL ANIMAL SCIENCE",
-          "remaining": "23",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Chris L. Skaggs (P)"
@@ -8523,10 +8523,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "501",
           "title": "MEATS",
-          "remaining": "7",
+          "remaining": "6",
           "capacity": "9",
           "instructor": [
             "Jeffrey Savell (P)",
@@ -8625,10 +8625,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "504",
           "title": "MEATS",
-          "remaining": "8",
+          "remaining": "6",
           "capacity": "9",
           "instructor": [
             "Jeffrey Savell (P)",
@@ -8659,10 +8659,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "4",
           "section": "505",
           "title": "MEATS",
-          "remaining": "7",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Jeffrey Savell (P)",
@@ -8693,10 +8693,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "4",
           "section": "506",
           "title": "MEATS",
-          "remaining": "10",
+          "remaining": "6",
           "capacity": "10",
           "instructor": [
             "Jeffrey Savell (P)",
@@ -8727,10 +8727,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "507",
           "title": "MEATS",
-          "remaining": "8",
+          "remaining": "5",
           "capacity": "9",
           "instructor": [
             "Jeffrey Savell (P)",
@@ -8800,10 +8800,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "14",
           "section": "500",
           "title": "APPLIED ANIMAL RECORD KEEPING",
-          "remaining": "47",
+          "remaining": "36",
           "capacity": "50",
           "instructor": [
             "Christopher R. Kerth (P)",
@@ -8839,10 +8839,10 @@
           "subject": "ANSC",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "APPLIED ANIMAL GENOMICS",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "6",
           "instructor": [
             "Clare Gill (P)"
@@ -8867,5 +8867,5 @@
     }
   },
   "title": "ANSC - Animal Science",
-  "updated": "Mon, 11 Apr 2016 at 12:37 AM"
+  "updated": "Wed, Apr 13 2016 at 01:21 AM"
 }

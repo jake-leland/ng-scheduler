@@ -4,15 +4,15 @@
       "title": "CURR & INSTR FOR MIDG GRADES",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "25",
           "section": "501",
           "title": "CURR & INSTR FOR MIDG GRADES",
-          "remaining": "15",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Candice R. Ashley (P)",
             "Candice R. Ashley"
@@ -38,15 +38,15 @@
           "crn": "25279"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "25",
           "section": "502",
           "title": "CURR & INSTR FOR MIDG GRADES",
-          "remaining": "17",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "James D. Laub",
             "James D. Laub (P)"
@@ -76,11 +76,11 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "10",
+          "active": "18",
           "section": "503",
           "title": "CURR & INSTR FOR MIDG GRADES",
-          "remaining": "0",
-          "capacity": "10",
+          "remaining": "-3",
+          "capacity": "15",
           "instructor": [
             "Candice R. Ashley (P)",
             "Candice R. Ashley (P)"
@@ -106,15 +106,15 @@
           "crn": "25277"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "16",
           "section": "504",
           "title": "CURR & INSTR FOR MIDG GRADES",
-          "remaining": "8",
-          "capacity": "10",
+          "remaining": "-1",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -149,10 +149,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "23",
           "section": "550",
           "title": "RSDNCY IN MIDG: IN-ABSENTIA",
-          "remaining": "75",
+          "remaining": "52",
           "capacity": "75",
           "instructor": [
             "Kimberly B. Parish (P)"
@@ -207,10 +207,10 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "18",
           "section": "500",
           "title": "SUPERVISED CLINICAL TEACHING",
-          "remaining": "73",
+          "remaining": "57",
           "capacity": "75",
           "instructor": [
             "Kimberly B. Parish (P)"
@@ -241,11 +241,11 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "24",
           "section": "501",
           "title": "SCIENCE METHODS IN MIDG",
-          "remaining": "16",
-          "capacity": "20",
+          "remaining": "1",
+          "capacity": "25",
           "instructor": [
             "Julie A. Singleton (P)",
             "Julie A. Singleton (P)"
@@ -275,11 +275,11 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "10",
+          "active": "18",
           "section": "503",
           "title": "SCIENCE METHODS IN MIDG",
-          "remaining": "0",
-          "capacity": "10",
+          "remaining": "-3",
+          "capacity": "15",
           "instructor": [
             "Julie A. Singleton (P)",
             "Julie A. Singleton (P)"
@@ -314,11 +314,11 @@
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "23",
           "section": "501",
           "title": "MATH METHODS IN MIDG",
-          "remaining": "17",
-          "capacity": "20",
+          "remaining": "2",
+          "capacity": "25",
           "instructor": [
             "Dawn R. Parker (P)",
             "Dawn R. Parker (P)"
@@ -344,15 +344,15 @@
           "crn": "12086"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "16",
           "section": "503",
           "title": "MATH METHODS IN MIDG",
-          "remaining": "3",
-          "capacity": "10",
+          "remaining": "-1",
+          "capacity": "15",
           "instructor": [
             "Dawn R. Parker (P)",
             "Dawn R. Parker (P)"
@@ -383,15 +383,15 @@
       "title": "SOCIAL STUDIES MTHD MIDG",
       "sections": {
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "25",
           "section": "502",
           "title": "SOCIAL STUDIES MTHD MIDG",
-          "remaining": "17",
-          "capacity": "20",
+          "remaining": "0",
+          "capacity": "25",
           "instructor": [
             "Janet Hammer (P)",
             "Janet Hammer (P)"
@@ -417,15 +417,15 @@
           "crn": "12085"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "MEFB",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "16",
           "section": "504",
           "title": "SOCIAL STUDIES MTHD MIDG",
-          "remaining": "8",
-          "capacity": "10",
+          "remaining": "-1",
+          "capacity": "15",
           "instructor": [
             "TBA",
             "TBA"
@@ -454,5 +454,5 @@
     }
   },
   "title": "MEFB - Mid Grds Ed Field Based",
-  "updated": "Mon, 11 Apr 2016 at 12:48 AM"
+  "updated": "Wed, Apr 13 2016 at 01:32 AM"
 }

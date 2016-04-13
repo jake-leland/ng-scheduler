@@ -8,10 +8,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "18",
           "section": "500",
           "title": "ENGR PROJECT EST & PLAN",
-          "remaining": "19",
+          "remaining": "6",
           "capacity": "24",
           "instructor": [
             "TBA",
@@ -47,10 +47,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "21",
+          "active": "24",
           "section": "600",
           "title": "BEH&DES PRESTRESSED CONC",
-          "remaining": "19",
+          "remaining": "16",
           "capacity": "40",
           "instructor": [
             "Marybeth Hueste (P)"
@@ -81,10 +81,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "8",
           "section": "600",
           "title": "ENGR & PLAN URBAN TRANS",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "24",
           "instructor": [
             "Xiu Wang (P)"
@@ -115,10 +115,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "18",
           "section": "502",
           "title": "FLUID DYNAMICS",
-          "remaining": "71",
+          "remaining": "62",
           "capacity": "80",
           "instructor": [
             "Huilin Gao (P)"
@@ -144,10 +144,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "503",
           "title": "FLUID DYNAMICS",
-          "remaining": "68",
+          "remaining": "66",
           "capacity": "70",
           "instructor": [
             "Lufthansa R. Kanta (P)"
@@ -212,10 +212,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "CASE HIST IN GEOTECH",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Jean-Louis Briaud (P)",
@@ -251,10 +251,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "4",
           "section": "600",
           "title": "STREET & HWY DESIGN",
-          "remaining": "39",
+          "remaining": "36",
           "capacity": "40",
           "instructor": [
             "Dominique Lord (P)"
@@ -285,10 +285,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "600",
           "title": "EXP FLUID MECH MODELING",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "22",
           "instructor": [
             "Kuang-An Chang (P)"
@@ -319,10 +319,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "6",
           "section": "600",
           "title": "COMP INTG CONST ENGR SYS",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "24",
           "instructor": [
             "John Walewski (P)"
@@ -353,10 +353,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "10",
           "section": "500",
           "title": "ANLYSIS & DES OF STRUC",
-          "remaining": "18",
+          "remaining": "10",
           "capacity": "20",
           "instructor": [
             "Joseph Bracci (P)",
@@ -421,10 +421,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "602",
           "title": "SEMINAR",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Marybeth Hueste (P)"
@@ -484,10 +484,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "14",
           "section": "501",
           "title": "ENGR MECHANICS: DYNAMICS",
-          "remaining": "61",
+          "remaining": "51",
           "capacity": "65",
           "instructor": [
             "TBA",
@@ -518,10 +518,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "11",
+          "active": "28",
           "section": "502",
           "title": "ENGR MECHANICS: DYNAMICS",
-          "remaining": "64",
+          "remaining": "47",
           "capacity": "75",
           "instructor": [
             "TBA",
@@ -790,14 +790,14 @@
       "title": "INTRO TO GEOTECH ENGR",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "15",
           "section": "501",
           "title": "INTRO TO GEOTECH ENGR",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Zenon Medina Cetina",
@@ -828,10 +828,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "14",
           "section": "502",
           "title": "INTRO TO GEOTECH ENGR",
-          "remaining": "11",
+          "remaining": "1",
           "capacity": "15",
           "instructor": [
             "Zenon Medina Cetina (P)",
@@ -858,14 +858,14 @@
           "crn": "10984"
         },
         "503": {
-          "select": "SR",
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "15",
           "section": "503",
           "title": "INTRO TO GEOTECH ENGR",
-          "remaining": "12",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "Zenon Medina Cetina (P)",
@@ -896,10 +896,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "11",
           "section": "504",
           "title": "INTRO TO GEOTECH ENGR",
-          "remaining": "13",
+          "remaining": "4",
           "capacity": "15",
           "instructor": [
             "TBA",
@@ -926,14 +926,14 @@
           "crn": "10986"
         },
         "505": {
-          "select": "SR",
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "15",
           "section": "505",
           "title": "INTRO TO GEOTECH ENGR",
-          "remaining": "11",
+          "remaining": "0",
           "capacity": "15",
           "instructor": [
             "TBA",
@@ -969,10 +969,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "4",
           "section": "501",
           "title": "CIVIL ENGR SYSTEMS",
-          "remaining": "39",
+          "remaining": "36",
           "capacity": "40",
           "instructor": [
             "Xiu Wang (P)"
@@ -998,10 +998,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "29",
           "section": "502",
           "title": "CIVIL ENGR SYSTEMS",
-          "remaining": "75",
+          "remaining": "56",
           "capacity": "85",
           "instructor": [
             "Luca Quadrifoglio (P)"
@@ -1990,14 +1990,14 @@
       "title": "DESIGN PROBLEMS IN CVEN",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "32",
           "section": "501",
           "title": "DESIGN PROBLEMS IN CVEN",
-          "remaining": "26",
+          "remaining": "0",
           "capacity": "32",
           "instructor": [
             "Leslie W. Pittman (P)",
@@ -2028,10 +2028,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "31",
           "section": "502",
           "title": "DESIGN PROBLEMS IN CVEN",
-          "remaining": "29",
+          "remaining": "1",
           "capacity": "32",
           "instructor": [
             "Leslie W. Pittman (P)",
@@ -2063,14 +2063,14 @@
       "title": "STRUC CONCRETE DESIGN",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "40",
           "section": "501",
           "title": "STRUC CONCRETE DESIGN",
-          "remaining": "32",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "John Mander (P)"
@@ -2092,14 +2092,14 @@
           "crn": "10994"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "50",
           "section": "502",
           "title": "STRUC CONCRETE DESIGN",
-          "remaining": "41",
+          "remaining": "0",
           "capacity": "50",
           "instructor": [
             "Anna Birely (P)"
@@ -2130,10 +2130,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "25",
           "section": "500",
           "title": "MATRIX STRUCT ANALYSIS",
-          "remaining": "28",
+          "remaining": "10",
           "capacity": "35",
           "instructor": [
             "Harry Jones (P)"
@@ -2164,10 +2164,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "22",
           "section": "500",
           "title": "ENGR ENVIRONMENTAL SYS",
-          "remaining": "16",
+          "remaining": "2",
           "capacity": "24",
           "instructor": [
             "Shankararaman Chellam (P)"
@@ -2198,10 +2198,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "37",
           "section": "501",
           "title": "STRUC STEEL DESIGN",
-          "remaining": "35",
+          "remaining": "3",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -2223,14 +2223,14 @@
           "crn": "10997"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "40",
           "section": "502",
           "title": "STRUC STEEL DESIGN",
-          "remaining": "28",
+          "remaining": "0",
           "capacity": "40",
           "instructor": [
             "Peter Keating (P)"
@@ -2261,10 +2261,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "COMP FLUID DYNAMICS",
-          "remaining": "40",
+          "remaining": "39",
           "capacity": "42",
           "instructor": [
             "Hamn Chen (P)"
@@ -2329,10 +2329,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "601",
           "title": "SPTP: VIS BIM STRUCT ENGR DES",
-          "remaining": "34",
+          "remaining": "33",
           "capacity": "35",
           "instructor": [
             "Jeffrey M. Otey (P)"
@@ -2363,10 +2363,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "INTRO CIVIL ENGRG PROFSN",
-          "remaining": "90",
+          "remaining": "89",
           "capacity": "90",
           "instructor": [
             "Robert A. Appleton (P)"
@@ -2392,10 +2392,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "503",
           "title": "INTRO CIVIL ENGRG PROFSN",
-          "remaining": "89",
+          "remaining": "88",
           "capacity": "90",
           "instructor": [
             "Robert A. Appleton (P)"
@@ -2422,14 +2422,14 @@
       "title": "CONS MGMT FIELD OPS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "30",
           "section": "500",
           "title": "CONS MGMT FIELD OPS",
-          "remaining": "24",
+          "remaining": "0",
           "capacity": "30",
           "instructor": [
             "John Walewski (P)"
@@ -2460,10 +2460,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "600",
           "title": "ADV NUM METH IN GEOTECH",
-          "remaining": "22",
+          "remaining": "21",
           "capacity": "26",
           "instructor": [
             "Charles Aubeny (P)"
@@ -2746,10 +2746,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "12",
           "section": "501",
           "title": "INTR GRPHCS & VISLZN CE DSGN",
-          "remaining": "29",
+          "remaining": "23",
           "capacity": "35",
           "instructor": [
             "Jeffrey M. Otey (P)"
@@ -2775,10 +2775,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "5",
           "section": "502",
           "title": "INTR GRPHCS & VISLZN CE DSGN",
-          "remaining": "34",
+          "remaining": "30",
           "capacity": "35",
           "instructor": [
             "Jeffrey M. Otey (P)"
@@ -2804,10 +2804,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "503",
           "title": "INTR GRPHCS & VISLZN CE DSGN",
-          "remaining": "35",
+          "remaining": "33",
           "capacity": "35",
           "instructor": [
             "Richard N. Hutchinson (P)"
@@ -2833,10 +2833,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "504",
           "title": "INTR GRPHCS & VISLZN CE DSGN",
-          "remaining": "33",
+          "remaining": "31",
           "capacity": "35",
           "instructor": [
             "Richard N. Hutchinson (P)"
@@ -2954,10 +2954,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "674",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Marcelo-Javier Sanchez Castilla (P)"
@@ -3447,10 +3447,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "602",
           "title": "RESEARCH",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "15",
           "instructor": [
             "Charles Aubeny (P)"
@@ -3969,10 +3969,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "615",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "James Brumbelow (P)"
@@ -3998,10 +3998,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "659",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Yunlong Zhang (P)"
@@ -4114,10 +4114,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "663",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Ivan Damnjanovic (P)"
@@ -4143,10 +4143,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "620",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "David Ford (P)"
@@ -4496,10 +4496,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "AUTOCAD IN CVEN",
-          "remaining": "24",
+          "remaining": "18",
           "capacity": "24",
           "instructor": [
             "Jeffrey M. Otey (P)"
@@ -4530,10 +4530,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "GEOMECHANICS",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "24",
           "instructor": [
             "Zenon Medina Cetina (P)",
@@ -4569,10 +4569,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "22",
           "section": "500",
           "title": "URBAN PLAN FOR ENGINRS",
-          "remaining": "33",
+          "remaining": "13",
           "capacity": "35",
           "instructor": [
             "Gene Hawkins (P)",
@@ -4608,10 +4608,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "600",
           "title": "URBAN TRAFFIC FACILITIES",
-          "remaining": "26",
+          "remaining": "25",
           "capacity": "28",
           "instructor": [
             "Gene Hawkins (P)"
@@ -4638,15 +4638,15 @@
       "title": "URBAN STORMWATER MGMT",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "8",
           "section": "501",
           "title": "URBAN STORMWATER MGMT",
-          "remaining": "22",
-          "capacity": "28",
+          "remaining": "-8",
+          "capacity": "0",
           "instructor": [
             "Francisco Olivera (P)"
           ],
@@ -4715,10 +4715,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "6",
           "section": "600",
           "title": "STRATGIC CONST ENGR MGMT",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "22",
           "instructor": [
             "David Ford (P)"
@@ -4749,10 +4749,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "17",
           "section": "500",
           "title": "URBAN TRAFFIC FACIL",
-          "remaining": "22",
+          "remaining": "7",
           "capacity": "24",
           "instructor": [
             "Gene Hawkins (P)"
@@ -4783,10 +4783,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "20",
           "section": "600",
           "title": "BRIDGE ENGINEERING",
-          "remaining": "19",
+          "remaining": "15",
           "capacity": "35",
           "instructor": [
             "Peter Keating (P)"
@@ -4817,10 +4817,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "25",
+          "active": "26",
           "section": "600",
           "title": "DYN LOADS&STRUC BEH",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "40",
           "instructor": [
             "John Niedzwecki (P)"
@@ -4851,10 +4851,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "31",
           "section": "501",
           "title": "WATER RESOURCES ENGR",
-          "remaining": "56",
+          "remaining": "34",
           "capacity": "65",
           "instructor": [
             "Ralph Wurbs (P)"
@@ -4924,10 +4924,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "BITUMINOUS MATERIALS",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "Amy E. Martin (P)",
@@ -5036,10 +5036,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "12",
           "section": "501",
           "title": "ENGINEERING HYDROGEOLOGY",
-          "remaining": "24",
+          "remaining": "16",
           "capacity": "28",
           "instructor": [
             "Gretchen R. Miller (P)"
@@ -5177,10 +5177,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "501",
           "title": "MATERIALS OF CONST",
-          "remaining": "18",
+          "remaining": "14",
           "capacity": "19",
           "instructor": [
             "Dan Zollinger (P)",
@@ -5211,10 +5211,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "13",
           "section": "502",
           "title": "MATERIALS OF CONST",
-          "remaining": "17",
+          "remaining": "6",
           "capacity": "19",
           "instructor": [
             "Dan Zollinger (P)",
@@ -5245,10 +5245,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "11",
           "section": "503",
           "title": "MATERIALS OF CONST",
-          "remaining": "16",
+          "remaining": "8",
           "capacity": "19",
           "instructor": [
             "Dan Zollinger (P)",
@@ -5279,10 +5279,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "504",
           "title": "MATERIALS OF CONST",
-          "remaining": "16",
+          "remaining": "11",
           "capacity": "19",
           "instructor": [
             "Dan Zollinger (P)",
@@ -5314,15 +5314,15 @@
       "title": "ENGINEERING HYDROLOGY",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "29",
           "section": "500",
           "title": "ENGINEERING HYDROLOGY",
-          "remaining": "30",
-          "capacity": "40",
+          "remaining": "0",
+          "capacity": "29",
           "instructor": [
             "Anthony Cahill (P)"
           ],
@@ -5386,10 +5386,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "CONCRETE MATLS FOR CE",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "14",
           "instructor": [
             "Zachary Grasley",
@@ -5420,10 +5420,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "503",
           "title": "CONCRETE MATLS FOR CE",
-          "remaining": "13",
+          "remaining": "11",
           "capacity": "14",
           "instructor": [
             "Zachary Grasley (P)",
@@ -5459,10 +5459,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "EXPERIMENT METHOD CVEN",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Stefan Hurlebaus (P)",
@@ -5498,10 +5498,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "14",
           "section": "501",
           "title": "ENVIRONMENTAL ENGR",
-          "remaining": "33",
+          "remaining": "26",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -5527,10 +5527,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "17",
           "section": "502",
           "title": "ENVIRONMENTAL ENGR",
-          "remaining": "61",
+          "remaining": "48",
           "capacity": "65",
           "instructor": [
             "Qi Ying (P)"
@@ -5561,10 +5561,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "27",
           "section": "501",
           "title": "THEORY OF STRUCTURES",
-          "remaining": "63",
+          "remaining": "48",
           "capacity": "75",
           "instructor": [
             "Lee L. Lowery (P)"
@@ -5590,10 +5590,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "502",
           "title": "THEORY OF STRUCTURES",
-          "remaining": "73",
+          "remaining": "70",
           "capacity": "75",
           "instructor": [
             "Ray W. James (P)"
@@ -5658,10 +5658,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "19",
           "section": "600",
           "title": "WTR RES ENGR PLAN & MGMT",
-          "remaining": "24",
+          "remaining": "21",
           "capacity": "40",
           "instructor": [
             "James Brumbelow (P)"
@@ -5692,10 +5692,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "501",
           "title": "COMP APPL ENGR & CONST",
-          "remaining": "70",
+          "remaining": "69",
           "capacity": "70",
           "instructor": [
             "James M. Kaihatu (P)",
@@ -5726,10 +5726,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "7",
+          "active": "13",
           "section": "502",
           "title": "COMP APPL ENGR & CONST",
-          "remaining": "63",
+          "remaining": "57",
           "capacity": "70",
           "instructor": [
             "Maryam S. Sakhaei Far (P)",
@@ -5765,10 +5765,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "500",
           "title": "GEOMATICS FOR CIVIL ENG",
-          "remaining": "9",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "Francisco Olivera (P)",
@@ -5872,10 +5872,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "CIVIL ENGR MEASUREMENT",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "17",
           "instructor": [
             "Nasir Gharaibeh (P)",
@@ -5906,10 +5906,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "504",
           "title": "CIVIL ENGR MEASUREMENT",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "17",
           "instructor": [
             "Nasir Gharaibeh (P)",
@@ -5940,10 +5940,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "505",
           "title": "CIVIL ENGR MEASUREMENT",
-          "remaining": "15",
+          "remaining": "12",
           "capacity": "17",
           "instructor": [
             "Timothy Chinn (P)",
@@ -6008,10 +6008,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "507",
           "title": "CIVIL ENGR MEASUREMENT",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "17",
           "instructor": [
             "Timothy Chinn (P)",
@@ -6076,15 +6076,15 @@
     "424": {
       "title": "CIV ENGR PROF PRACTICE",
       "sections": {
-        "501": {
+        "901": {
           "select": "SR",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
-          "section": "501",
+          "active": "19",
+          "section": "901",
           "title": "CIV ENGR PROF PRACTICE",
-          "remaining": "16",
+          "remaining": "1",
           "capacity": "20",
           "instructor": [
             "Peter S. England (P)",
@@ -6110,15 +6110,15 @@
           ],
           "crn": "13324"
         },
-        "502": {
-          "select": "SR",
+        "902": {
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "10",
-          "section": "502",
+          "active": "20",
+          "section": "902",
           "title": "CIV ENGR PROF PRACTICE",
-          "remaining": "10",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Peter S. England (P)",
@@ -6144,15 +6144,15 @@
           ],
           "crn": "10992"
         },
-        "503": {
-          "select": "SR",
+        "903": {
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
-          "section": "503",
+          "active": "20",
+          "section": "903",
           "title": "CIV ENGR PROF PRACTICE",
-          "remaining": "15",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Peter S. England (P)",
@@ -6178,15 +6178,15 @@
           ],
           "crn": "13325"
         },
-        "504": {
-          "select": "SR",
+        "904": {
+          "select": "C",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
-          "section": "504",
+          "active": "20",
+          "section": "904",
           "title": "CIV ENGR PROF PRACTICE",
-          "remaining": "17",
+          "remaining": "0",
           "capacity": "20",
           "instructor": [
             "Jessica C. Scarfuto (P)",
@@ -6212,15 +6212,15 @@
           ],
           "crn": "13326"
         },
-        "505": {
+        "905": {
           "select": "SR",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
-          "section": "505",
+          "active": "3",
+          "section": "905",
           "title": "CIV ENGR PROF PRACTICE",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Jessica C. Scarfuto (P)",
@@ -6246,15 +6246,15 @@
           ],
           "crn": "24478"
         },
-        "506": {
+        "906": {
           "select": "SR",
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
-          "section": "506",
+          "active": "18",
+          "section": "906",
           "title": "CIV ENGR PROF PRACTICE",
-          "remaining": "17",
+          "remaining": "2",
           "capacity": "20",
           "instructor": [
             "Jessica C. Scarfuto (P)",
@@ -6363,10 +6363,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "600",
           "title": "NONDESTRUCT PAVEMT EVAL",
-          "remaining": "13",
+          "remaining": "11",
           "capacity": "15",
           "instructor": [
             "Robert Lytton (P)",
@@ -6402,10 +6402,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "28",
           "section": "501",
           "title": "MECHANICS OF MATERIALS",
-          "remaining": "54",
+          "remaining": "42",
           "capacity": "70",
           "instructor": [
             "William Beason (P)"
@@ -6460,10 +6460,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "5",
           "section": "503",
           "title": "MECHANICS OF MATERIALS",
-          "remaining": "54",
+          "remaining": "55",
           "capacity": "60",
           "instructor": [
             "Arash Noshadravan (P)"
@@ -6489,10 +6489,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "11",
           "section": "504",
           "title": "MECHANICS OF MATERIALS",
-          "remaining": "61",
+          "remaining": "59",
           "capacity": "70",
           "instructor": [
             "TBA"
@@ -6518,10 +6518,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "9",
           "section": "505",
           "title": "MECHANICS OF MATERIALS",
-          "remaining": "35",
+          "remaining": "31",
           "capacity": "40",
           "instructor": [
             "TBA"
@@ -6552,10 +6552,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "42",
           "section": "501",
           "title": "CVEN PROJ MGMT",
-          "remaining": "78",
+          "remaining": "48",
           "capacity": "90",
           "instructor": [
             "Ivan Damnjanovic (P)"
@@ -6586,10 +6586,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "6",
           "section": "600",
           "title": "INFRASTRUCTURE ENGR",
-          "remaining": "16",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "Nasir Gharaibeh (P)"
@@ -6620,10 +6620,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "600",
           "title": "ADV EPC PROJECT DEVELOP",
-          "remaining": "17",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -6654,10 +6654,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 2,
-          "active": "14",
+          "active": "23",
           "section": "501",
           "title": "MATERIALS ENGR CVEN ENGR",
-          "remaining": "46",
+          "remaining": "37",
           "capacity": "60",
           "instructor": [
             "Dallas Little (P)",
@@ -6727,10 +6727,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "14",
           "section": "600",
           "title": "DES STRUCT HAZ ENV LOADS",
-          "remaining": "37",
+          "remaining": "36",
           "capacity": "50",
           "instructor": [
             "Luciana Barroso (P)"
@@ -6761,10 +6761,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "17",
           "section": "501",
           "title": "TRANSPORTATION ENG",
-          "remaining": "64",
+          "remaining": "53",
           "capacity": "70",
           "instructor": [
             "Alireza Talebpour (P)"
@@ -6790,10 +6790,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "17",
           "section": "502",
           "title": "TRANSPORTATION ENG",
-          "remaining": "47",
+          "remaining": "33",
           "capacity": "50",
           "instructor": [
             "Yunlong Zhang (P)"
@@ -6824,10 +6824,10 @@
           "subject": "CVEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "600",
           "title": "ADV HYDRAULIC ENGRG",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Ralph Wurbs (P)"
@@ -6852,5 +6852,5 @@
     }
   },
   "title": "CVEN - Civil Engineering",
-  "updated": "Mon, 11 Apr 2016 at 12:41 AM"
+  "updated": "Wed, Apr 13 2016 at 01:25 AM"
 }

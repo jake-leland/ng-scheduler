@@ -245,10 +245,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "600",
           "title": "THEORY OF RESEARCH",
-          "remaining": "24",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Binayak Mohanty (P)"
@@ -279,10 +279,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "10",
           "section": "500",
           "title": "BIOREACTOR ENGINEERING",
-          "remaining": "13",
+          "remaining": "5",
           "capacity": "15",
           "instructor": [
             "Zivko Nikolov (P)"
@@ -951,10 +951,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "602",
           "title": "RESEARCH",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "M Castell-Perez (P)"
@@ -1067,10 +1067,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "607",
           "title": "RESEARCH",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "5",
           "instructor": [
             "Raghupathy Karthikeyan (P)"
@@ -1159,10 +1159,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "31",
           "section": "500",
           "title": "DES OF AG MACH & STRUC",
-          "remaining": "45",
+          "remaining": "19",
           "capacity": "50",
           "instructor": [
             "John A. Thomasson (P)"
@@ -1193,11 +1193,11 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "600",
           "title": "SMALL WATERSHED HYDROLGY",
-          "remaining": "22",
-          "capacity": "25",
+          "remaining": "15",
+          "capacity": "20",
           "instructor": [
             "Clyde Munster (P)"
           ],
@@ -1227,10 +1227,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "5",
+          "active": "12",
           "section": "501",
           "title": "ENGR PROP BIOL MATLS",
-          "remaining": "20",
+          "remaining": "13",
           "capacity": "25",
           "instructor": [
             "M Castell-Perez (P)",
@@ -1261,10 +1261,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "4",
           "section": "502",
           "title": "ENGR PROP BIOL MATLS",
-          "remaining": "24",
+          "remaining": "21",
           "capacity": "25",
           "instructor": [
             "M Castell-Perez (P)",
@@ -1300,10 +1300,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "601",
           "title": "GEOG INFO SYS RES MGMT",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "5",
           "instructor": [
             "TBA",
@@ -1369,15 +1369,15 @@
       "title": "AIR POLLUTION ENGINEERIN",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "19",
           "section": "500",
           "title": "AIR POLLUTION ENGINEERIN",
-          "remaining": "12",
-          "capacity": "20",
+          "remaining": "-9",
+          "capacity": "10",
           "instructor": [
             "Russell O. McGee (P)"
           ],
@@ -1403,15 +1403,15 @@
       "title": "BIOL & AGR ENGR DES I",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "25",
           "section": "500",
           "title": "BIOL & AGR ENGR DES I",
-          "remaining": "20",
-          "capacity": "25",
+          "remaining": "-5",
+          "capacity": "20",
           "instructor": [
             "Ronald Lacey (P), Rabi H. Mohtar , Gregory Stark"
           ],
@@ -1436,10 +1436,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "16",
           "section": "501",
           "title": "BIOL & AGR ENGR DES I",
-          "remaining": "25",
+          "remaining": "9",
           "capacity": "25",
           "instructor": [
             "Ronald Lacey (P), Rabi H. Mohtar , Gregory Stark"
@@ -1470,10 +1470,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "7",
           "section": "500",
           "title": "RENEWABLE ENERGY CONVRSN",
-          "remaining": "8",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Sergio C. Capareda (P)",
@@ -1577,11 +1577,11 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "12",
           "section": "500",
           "title": "PRIN OF ENVIRO HYDROLOGY",
-          "remaining": "9",
-          "capacity": "10",
+          "remaining": "3",
+          "capacity": "15",
           "instructor": [
             "Clyde Munster (P)"
           ],
@@ -1611,10 +1611,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "10",
           "section": "500",
           "title": "FLUID MECHANICS",
-          "remaining": "45",
+          "remaining": "40",
           "capacity": "50",
           "instructor": [
             "Patricia Smith (P)"
@@ -1645,10 +1645,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "4",
           "section": "600",
           "title": "SEMINAR",
-          "remaining": "47",
+          "remaining": "46",
           "capacity": "50",
           "instructor": [
             "Binayak Mohanty (P)"
@@ -1679,10 +1679,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "501",
           "title": "ENGR THERMODYNAMICS",
-          "remaining": "11",
+          "remaining": "10",
           "capacity": "13",
           "instructor": [
             "Sandun Fernando (P)",
@@ -1713,10 +1713,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "7",
           "section": "502",
           "title": "ENGR THERMODYNAMICS",
-          "remaining": "10",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Sandun Fernando (P)",
@@ -1777,14 +1777,14 @@
           "crn": "13167"
         },
         "504": {
-          "select": "SR",
+          "select": "C",
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "10",
           "section": "504",
           "title": "ENGR THERMODYNAMICS",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Sandun Fernando (P)",
@@ -1946,10 +1946,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "10",
           "section": "500",
           "title": "IRRGTN & DRAINAGE ENGR",
-          "remaining": "17",
+          "remaining": "10",
           "capacity": "20",
           "instructor": [
             "Vijay Singh (P)",
@@ -2256,10 +2256,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "UNIT OPNS IN FOOD PROC",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Rosana Moreira (P)",
@@ -2431,10 +2431,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "501",
           "title": "BIO & AG ENGR FUND II",
-          "remaining": "12",
+          "remaining": "10",
           "capacity": "14",
           "instructor": [
             "Raghupathy Karthikeyan (P)",
@@ -2465,10 +2465,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "BIO & AG ENGR FUND II",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "14",
           "instructor": [
             "Raghupathy Karthikeyan (P)",
@@ -2499,10 +2499,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "503",
           "title": "BIO & AG ENGR FUND II",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "14",
           "instructor": [
             "Raghupathy Karthikeyan (P)",
@@ -2572,10 +2572,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "UNIT OPNS IN FOOD PROC",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Rosana Moreira (P)",
@@ -2703,10 +2703,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "3",
           "section": "500",
           "title": "ENGR ASPECTS PACKAGING",
-          "remaining": "9",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "M Castell-Perez (P)"
@@ -2737,10 +2737,10 @@
           "subject": "BAEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "ENGR ASPECTS PACKAGING",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "M Castell-Perez (P)"
@@ -2794,5 +2794,5 @@
     }
   },
   "title": "BAEN - Biological & Ag Engr",
-  "updated": "Mon, 11 Apr 2016 at 12:38 AM"
+  "updated": "Wed, Apr 13 2016 at 01:22 AM"
 }

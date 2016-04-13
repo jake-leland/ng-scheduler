@@ -8,10 +8,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "18",
           "section": "550",
           "title": "FLD STUDY DESIGN PHIL: GERMANY",
-          "remaining": "25",
+          "remaining": "7",
           "capacity": "25",
           "instructor": [
             "Thomas Knuvener (P)"
@@ -37,10 +37,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "551",
           "title": "FLD STUDY DESIGN PHIL: ITALY",
-          "remaining": "23",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Giovanni Di Pasquale (P)"
@@ -66,10 +66,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "552",
           "title": "FLD STUDY DESIGN PHIL:SPAIN",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Miguel Roldan (P)"
@@ -574,10 +574,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "18",
           "section": "550",
           "title": "FLD STUDY DESIGN COMM: GERMANY",
-          "remaining": "25",
+          "remaining": "7",
           "capacity": "25",
           "instructor": [
             "TBA",
@@ -642,10 +642,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "552",
           "title": "FLD STUDY DESIGN COMM: ITALY",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "TBA",
@@ -676,10 +676,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "553",
           "title": "FLD STUDY DESIGN COMM: ITALY",
-          "remaining": "38",
+          "remaining": "35",
           "capacity": "40",
           "instructor": [
             "TBA",
@@ -710,10 +710,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "3",
           "section": "554",
           "title": "FLD STUDY DESIGN COMM: SPAIN",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "TBA",
@@ -875,10 +875,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "18",
           "section": "550",
           "title": "FLD STUDY DESIGN INNOV: GERMAN",
-          "remaining": "25",
+          "remaining": "7",
           "capacity": "25",
           "instructor": [
             "June Martin (P)"
@@ -912,7 +912,7 @@
           "instructor": [
             "Elton Abbott (P), Ward Wells"
           ],
-          "credits": "6",
+          "credits": "3",
           "course": "301",
           "days": [
             " "
@@ -933,10 +933,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "5",
           "section": "552",
           "title": "FLD STUDY DESIGN INNOV: ITALY",
-          "remaining": "23",
+          "remaining": "20",
           "capacity": "25",
           "instructor": [
             "Elton Abbott (P), Ward Wells"
@@ -962,10 +962,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "553",
           "title": "FLD STUDY DESIGN INNOV: SPAIN",
-          "remaining": "23",
+          "remaining": "22",
           "capacity": "25",
           "instructor": [
             "Miguel Roldan (P)"
@@ -1088,10 +1088,10 @@
           "subject": "CARC",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "651",
           "title": "ADV FLD STU DESIGN INNOV: ITAL",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "2",
           "instructor": [
             "Elton Abbott (P), Ward Wells"
@@ -1174,5 +1174,5 @@
     }
   },
   "title": "CARC - College of Architecture",
-  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
+  "updated": "Wed, Apr 13 2016 at 01:23 AM"
 }

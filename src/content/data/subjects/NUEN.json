@@ -95,10 +95,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "513",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Ryan G. McClarren (P)"
@@ -147,6 +147,35 @@
             "TBA"
           ],
           "crn": "19516"
+        },
+        "505": {
+          "select": "C",
+          "subject": "NUEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "RESEARCH",
+          "remaining": "0",
+          "capacity": "0",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "1-4",
+          "course": "491",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28746"
         },
         "508": {
           "select": "SR",
@@ -241,17 +270,17 @@
           "crn": "27069"
         },
         "650": {
-          "select": "C",
+          "select": "SR",
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "650",
           "title": "RESEARCH: IN-ABSENTIA",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "10",
+          "capacity": "10",
           "instructor": [
-            "TBA"
+            "Marvin Adams (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -396,7 +425,7 @@
           "remaining": "10",
           "capacity": "10",
           "instructor": [
-            "TBA"
+            "Leslie Braby (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -541,7 +570,7 @@
           "remaining": "10",
           "capacity": "10",
           "instructor": [
-            "TBA"
+            "Sunil S. Chirayath (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -628,7 +657,7 @@
           "remaining": "10",
           "capacity": "10",
           "instructor": [
-            "TBA"
+            "John Ford (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -744,7 +773,7 @@
           "remaining": "5",
           "capacity": "5",
           "instructor": [
-            "Stephen B. Guetersloh (P)"
+            "Mark Kimber (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -1324,7 +1353,7 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "TBA"
+            "Pavel V. Tsvetkov (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -1382,7 +1411,7 @@
           "remaining": "10",
           "capacity": "10",
           "instructor": [
-            "Pavel V. Tsvetkov (P)"
+            "TBA"
           ],
           "credits": "1-23",
           "course": "691",
@@ -1440,7 +1469,7 @@
           "remaining": "10",
           "capacity": "10",
           "instructor": [
-            "Galina V. Tsvetkova (P)"
+            "Karen Vierow (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -1469,7 +1498,7 @@
           "remaining": "10",
           "capacity": "10",
           "instructor": [
-            "TBA"
+            "John Ford (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -1498,7 +1527,7 @@
           "remaining": "10",
           "capacity": "10",
           "instructor": [
-            "Stephen B. Guetersloh (P)"
+            "Mark Kimber (P)"
           ],
           "credits": "1-23",
           "course": "691",
@@ -1521,11 +1550,11 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "609",
           "title": "RESEARCH",
-          "remaining": "15",
-          "capacity": "15",
+          "remaining": "24",
+          "capacity": "25",
           "instructor": [
             "Yassin Hassan (P)"
           ],
@@ -1555,10 +1584,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "27",
           "section": "500",
           "title": "COMP APPL IN NUC ENGR",
-          "remaining": "27",
+          "remaining": "3",
           "capacity": "30",
           "instructor": [
             "Jim Morel (P)"
@@ -1623,10 +1652,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "500",
           "title": "TECH COMM ISS IN NUC ENG",
-          "remaining": "20",
+          "remaining": "14",
           "capacity": "20",
           "instructor": [
             "John Poston (P)"
@@ -1657,10 +1686,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "19",
           "section": "500",
           "title": "ENVRNMNTL NUCLEAR ENGR",
-          "remaining": "39",
+          "remaining": "25",
           "capacity": "44",
           "instructor": [
             "Gamal Akabani Hneide (P)"
@@ -1798,10 +1827,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "5",
           "section": "600",
           "title": "NUCLEAR REACTOR DES",
-          "remaining": "27",
+          "remaining": "25",
           "capacity": "30",
           "instructor": [
             "Pavel V. Tsvetkov (P)",
@@ -1837,10 +1866,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "WASTE MGMT NUCLEAR IND",
-          "remaining": "15",
+          "remaining": "14",
           "capacity": "15",
           "instructor": [
             "TBA"
@@ -1905,10 +1934,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "17",
           "section": "500",
           "title": "FUEL ASSM 3D CORE DESIGN",
-          "remaining": "45",
+          "remaining": "29",
           "capacity": "46",
           "instructor": [
             "Jean C. Ragusa (P)"
@@ -1939,10 +1968,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "MULTIPHYS COMP NUCL SCI",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Jean C. Ragusa (P)"
@@ -1973,10 +2002,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "6",
           "section": "500",
           "title": "SEMINAR",
-          "remaining": "49",
+          "remaining": "44",
           "capacity": "50",
           "instructor": [
             "Yassin Hassan (P)"
@@ -2041,10 +2070,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "11",
           "section": "500",
           "title": "MATL SCI NUCLEAR ENERGY",
-          "remaining": "57",
+          "remaining": "56",
           "capacity": "67",
           "instructor": [
             "Sean McDeavitt (P)"
@@ -2191,10 +2220,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "524",
           "title": "DIRECTED STUDIES",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Lin Shao (P)"
@@ -2301,6 +2330,35 @@
             "TBA"
           ],
           "crn": "19515"
+        },
+        "505": {
+          "select": "SR",
+          "subject": "NUEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "0",
+          "section": "505",
+          "title": "DIRECTED STUDIES",
+          "remaining": "5",
+          "capacity": "5",
+          "instructor": [
+            "Sunil S. Chirayath (P)"
+          ],
+          "credits": "1-6",
+          "course": "485",
+          "days": [
+            " "
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "TBA"
+          ],
+          "time": [
+            "TBA"
+          ],
+          "crn": "28745"
         },
         "527": {
           "select": "C",
@@ -2410,7 +2468,7 @@
           "credits": "1",
           "course": "101",
           "days": [
-            "T"
+            "R"
           ],
           "date (mm/dd)": [
             "08/29-12/14"
@@ -2562,8 +2620,8 @@
           "active": "2",
           "section": "500",
           "title": "INTRO TO NUC ENGR I",
-          "remaining": "78",
-          "capacity": "80",
+          "remaining": "43",
+          "capacity": "45",
           "instructor": [
             "Lin Shao (P)"
           ],
@@ -2582,6 +2640,35 @@
             "11:30 am-12:20 pm"
           ],
           "crn": "21175"
+        },
+        "501": {
+          "select": "SR",
+          "subject": "NUEN",
+          "campus": "CS",
+          "classes": 1,
+          "active": "1",
+          "section": "501",
+          "title": "INTRO TO NUC ENGR I",
+          "remaining": "44",
+          "capacity": "45",
+          "instructor": [
+            "TBA"
+          ],
+          "credits": "3",
+          "course": "201",
+          "days": [
+            "MWF"
+          ],
+          "date (mm/dd)": [
+            "08/29-12/14"
+          ],
+          "location": [
+            "CHEN 111"
+          ],
+          "time": [
+            "10:20 am-11:10 am"
+          ],
+          "crn": "28744"
         }
       }
     },
@@ -2854,10 +2941,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "609",
           "title": "DIRECTED STUDIES",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Yassin Hassan (P)"
@@ -2888,10 +2975,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "14",
           "section": "500",
           "title": "NUCLEAR REACTOR THEORY",
-          "remaining": "37",
+          "remaining": "26",
           "capacity": "40",
           "instructor": [
             "Marvin Adams (P)"
@@ -2917,10 +3004,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "22",
           "section": "501",
           "title": "NUCLEAR REACTOR THEORY",
-          "remaining": "33",
+          "remaining": "23",
           "capacity": "45",
           "instructor": [
             "Marvin Adams (P)"
@@ -3014,10 +3101,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "NUCL HEAT TRANS FLUIDS",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Yassin Hassan (P)"
@@ -3180,14 +3267,14 @@
           "crn": "27066"
         },
         "901": {
-          "select": "SR",
+          "select": "C",
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "901",
           "title": "NUCL ENGR EXPERIMENTS",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "John Ford (P)",
@@ -3214,14 +3301,14 @@
           "crn": "16031"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "902",
           "title": "NUCL ENGR EXPERIMENTS",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "John Ford (P)",
@@ -3248,14 +3335,14 @@
           "crn": "16032"
         },
         "903": {
-          "select": "SR",
+          "select": "C",
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "8",
           "section": "903",
           "title": "NUCL ENGR EXPERIMENTS",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "John Ford (P)",
@@ -3282,14 +3369,14 @@
           "crn": "16033"
         },
         "904": {
-          "select": "SR",
+          "select": "C",
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "904",
           "title": "NUCL ENGR EXPERIMENTS",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "John Ford (P)",
@@ -3316,14 +3403,14 @@
           "crn": "16034"
         },
         "905": {
-          "select": "SR",
+          "select": "C",
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "905",
           "title": "NUCL ENGR EXPERIMENTS",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "John Ford (P)",
@@ -3350,14 +3437,14 @@
           "crn": "16035"
         },
         "906": {
-          "select": "SR",
+          "select": "C",
           "subject": "NUEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "8",
           "section": "906",
           "title": "NUCL ENGR EXPERIMENTS",
-          "remaining": "8",
+          "remaining": "0",
           "capacity": "8",
           "instructor": [
             "John Ford (P)",
@@ -3393,10 +3480,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "37",
           "section": "500",
           "title": "NUC ENGR SYS AND DES",
-          "remaining": "44",
+          "remaining": "11",
           "capacity": "48",
           "instructor": [
             "Karen Vierow (P)"
@@ -3568,10 +3655,10 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "12",
           "section": "500",
           "title": "RADIOLOGICAL SAFETY",
-          "remaining": "30",
+          "remaining": "23",
           "capacity": "35",
           "instructor": [
             "John Ford (P)"
@@ -3597,13 +3684,13 @@
           "subject": "NUEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "15",
           "section": "501",
           "title": "RADIOLOGICAL SAFETY",
-          "remaining": "29",
+          "remaining": "20",
           "capacity": "35",
           "instructor": [
-            "TBA"
+            "John Ford (P)"
           ],
           "credits": "3",
           "course": "309",
@@ -3659,5 +3746,5 @@
     }
   },
   "title": "NUEN - Nuclear Engineering",
-  "updated": "Mon, 11 Apr 2016 at 12:49 AM"
+  "updated": "Wed, Apr 13 2016 at 01:33 AM"
 }

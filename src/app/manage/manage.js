@@ -3,8 +3,8 @@
 
     angular
         .module('app.manage')
-        .controller('Manage', Manage)
-    
+        .controller('Manage', Manage);
+
     Manage.$inject = ['$rootScope', '$scope', '$http', '$q', 'common', 'config'];
 
     /* @ngInject */
@@ -73,11 +73,15 @@
             function getSectionListing(subject, course) {
                 var list = {};
                 $.each($scope.subjects[subject].courses[course].sections, function (key, value) {
-                    if (!list[value.instructor[0]]) {
-                        list[value.instructor[0]] = {};
+                    if (!list[value.title]) {
+                        list[value.title] = {};
                     }
-                    list[value.instructor[0]][value.section] = value;
+                    if (!list[value.title][value.instructor[0]]) {
+                        list[value.title][value.instructor[0]] = {};
+                    }
+                    list[value.title][value.instructor[0]][value.section] = value;
                 });
+
                 return list;
             }
 

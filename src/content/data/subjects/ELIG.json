@@ -11,8 +11,8 @@
           "active": "0",
           "section": "101",
           "title": "BASIC GRAMMAR",
-          "remaining": "22",
-          "capacity": "22",
+          "remaining": "26",
+          "capacity": "26",
           "instructor": [
             "TBA"
           ],
@@ -31,35 +31,6 @@
             "09:10 am-10:00 am"
           ],
           "crn": "26594"
-        },
-        "102": {
-          "select": "SR",
-          "subject": "ELIG",
-          "campus": "EL",
-          "classes": 1,
-          "active": "0",
-          "section": "102",
-          "title": "BASIC GRAMMAR",
-          "remaining": "22",
-          "capacity": "22",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "100",
-          "days": [
-            "MWF"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "10:20 am-11:10 am"
-          ],
-          "crn": "13447"
         }
       }
     },
@@ -134,11 +105,11 @@
           "subject": "ELIG",
           "campus": "EL",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "301",
           "title": "ADVANCED GRAMMAR",
-          "remaining": "25",
-          "capacity": "25",
+          "remaining": "22",
+          "capacity": "23",
           "instructor": [
             "TBA"
           ],
@@ -157,70 +128,12 @@
             "11:30 am-12:20 pm"
           ],
           "crn": "11138"
-        },
-        "302": {
-          "select": "SR",
-          "subject": "ELIG",
-          "campus": "EL",
-          "classes": 1,
-          "active": "0",
-          "section": "302",
-          "title": "ADVANCED GRAMMAR",
-          "remaining": "22",
-          "capacity": "22",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "300",
-          "days": [
-            "MWF"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "ETB 1035"
-          ],
-          "time": [
-            "10:20 am-11:10 am"
-          ],
-          "crn": "13475"
         }
       }
     },
     "250": {
       "title": "INTERMEDIATE GRAMMAR II",
       "sections": {
-        "100": {
-          "select": "C",
-          "subject": "ELIG",
-          "campus": "EL",
-          "classes": 1,
-          "active": "0",
-          "section": "100",
-          "title": "INTERMEDIATE GRAMMAR II",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "250",
-          "days": [
-            "MWF"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "09:10 am-10:00 am"
-          ],
-          "crn": "14105"
-        },
         "252": {
           "select": "SR",
           "subject": "ELIG",
@@ -229,8 +142,8 @@
           "active": "0",
           "section": "252",
           "title": "INTERMEDIATE GRAMMAR II",
-          "remaining": "22",
-          "capacity": "22",
+          "remaining": "16",
+          "capacity": "16",
           "instructor": [
             "TBA"
           ],
@@ -254,5 +167,5 @@
     }
   },
   "title": "ELIG - Grammar",
-  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
+  "updated": "Wed, Apr 13 2016 at 01:26 AM"
 }

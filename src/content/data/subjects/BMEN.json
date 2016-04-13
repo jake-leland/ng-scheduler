@@ -622,10 +622,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "9",
           "section": "200",
           "title": "HNR-STATISTICS FOR BMEN",
-          "remaining": "2",
+          "remaining": "1",
           "capacity": "10",
           "instructor": [
             "Alvin Yeh (P)"
@@ -680,10 +680,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "12",
+          "active": "22",
           "section": "500",
           "title": "STATISTICS FOR BMEN",
-          "remaining": "38",
+          "remaining": "28",
           "capacity": "50",
           "instructor": [
             "Alvin Yeh (P)"
@@ -709,10 +709,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "501",
           "title": "STATISTICS FOR BMEN",
-          "remaining": "48",
+          "remaining": "43",
           "capacity": "50",
           "instructor": [
             "Alvin Yeh (P)"
@@ -1705,10 +1705,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "500",
           "title": "THERMODYN BIOMOLECUL SYS",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Wonmuk Hwang (P)"
@@ -1739,10 +1739,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "21",
+          "active": "63",
           "section": "501",
           "title": "ANALYSIS & DESIGN PROJ I",
-          "remaining": "49",
+          "remaining": "7",
           "capacity": "70",
           "instructor": [
             "John P. Hanks (P)"
@@ -1841,10 +1841,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "23",
           "section": "500",
           "title": "POLYMERIC BIOMATERIALS",
-          "remaining": "21",
+          "remaining": "2",
           "capacity": "25",
           "instructor": [
             "TBA"
@@ -1875,10 +1875,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "200",
           "title": "HNR:POLYMERIC BIOMATRL SYNTH",
-          "remaining": "3",
+          "remaining": "2",
           "capacity": "5",
           "instructor": [
             "Daniel L. Alge (P)"
@@ -1904,10 +1904,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "14",
           "section": "500",
           "title": "POLYMERIC BIOMATRL SYNTH",
-          "remaining": "17",
+          "remaining": "6",
           "capacity": "20",
           "instructor": [
             "Daniel L. Alge (P)"
@@ -2030,10 +2030,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "11",
           "section": "500",
           "title": "BIOFLUID MECHANICS",
-          "remaining": "43",
+          "remaining": "39",
           "capacity": "50",
           "instructor": [
             "John Criscione (P)"
@@ -2059,10 +2059,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "17",
           "section": "501",
           "title": "BIOFLUID MECHANICS",
-          "remaining": "43",
+          "remaining": "33",
           "capacity": "50",
           "instructor": [
             "John Criscione (P)"
@@ -2369,10 +2369,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "500",
           "title": "INTRO TO BIOMEDICAL ENGR",
-          "remaining": "59",
+          "remaining": "58",
           "capacity": "60",
           "instructor": [
             "Kristen Maitland (P), Anthony Guiseppielie"
@@ -2432,10 +2432,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "7",
           "section": "200",
           "title": "HNR-BIOMEDICAL ELECTRONICS",
-          "remaining": "4",
+          "remaining": "3",
           "capacity": "10",
           "instructor": [
             "Javier Jo (P)"
@@ -2490,10 +2490,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "21",
           "section": "500",
           "title": "BIOMEDICAL ELECTRONICS",
-          "remaining": "37",
+          "remaining": "29",
           "capacity": "50",
           "instructor": [
             "Javier Jo (P)"
@@ -2519,10 +2519,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "6",
           "section": "501",
           "title": "BIOMEDICAL ELECTRONICS",
-          "remaining": "50",
+          "remaining": "44",
           "capacity": "50",
           "instructor": [
             "Javier Jo (P)"
@@ -2549,14 +2549,14 @@
       "title": "INTRO TO BIOMATERIALS",
       "sections": {
         "200": {
-          "select": "SR",
+          "select": "C",
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "9",
+          "active": "10",
           "section": "200",
           "title": "HNR-INTRO TO BIOMATERIALS",
-          "remaining": "1",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Melissa Grunlan (P)"
@@ -2611,10 +2611,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "500",
           "title": "INTRO TO BIOMATERIALS",
-          "remaining": "47",
+          "remaining": "44",
           "capacity": "50",
           "instructor": [
             "Melissa Grunlan (P)"
@@ -2640,10 +2640,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "12",
           "section": "501",
           "title": "INTRO TO BIOMATERIALS",
-          "remaining": "46",
+          "remaining": "38",
           "capacity": "50",
           "instructor": [
             "Melissa Grunlan (P)"
@@ -2704,14 +2704,14 @@
       "title": "BIOMECHANICS EXPER LAB",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "11",
+          "active": "16",
           "section": "500",
           "title": "BIOMECHANICS EXPER LAB",
-          "remaining": "5",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Maurice A. Brewer (P)",
@@ -2738,14 +2738,14 @@
           "crn": "21320"
         },
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "16",
           "section": "501",
           "title": "BIOMECHANICS EXPER LAB",
-          "remaining": "12",
+          "remaining": "0",
           "capacity": "16",
           "instructor": [
             "Maurice A. Brewer (P)",
@@ -2776,10 +2776,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "3",
+          "active": "15",
           "section": "502",
           "title": "BIOMECHANICS EXPER LAB",
-          "remaining": "13",
+          "remaining": "1",
           "capacity": "16",
           "instructor": [
             "Maurice A. Brewer (P)",
@@ -2810,10 +2810,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "14",
           "section": "503",
           "title": "BIOMECHANICS EXPER LAB",
-          "remaining": "14",
+          "remaining": "2",
           "capacity": "16",
           "instructor": [
             "Maurice A. Brewer (P)",
@@ -2912,10 +2912,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "13",
           "section": "501",
           "title": "SPTP: MOTION BIOMECHANICS",
-          "remaining": "22",
+          "remaining": "12",
           "capacity": "25",
           "instructor": [
             "Michael L. Madigan (P)"
@@ -2942,14 +2942,14 @@
       "title": "ADVANCED BIOMECHANICS",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "19",
+          "active": "45",
           "section": "500",
           "title": "ADVANCED BIOMECHANICS",
-          "remaining": "26",
+          "remaining": "0",
           "capacity": "45",
           "instructor": [
             "Roland Kaunas (P)"
@@ -2975,10 +2975,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "18",
           "section": "501",
           "title": "ADVANCED BIOMECHANICS",
-          "remaining": "44",
+          "remaining": "27",
           "capacity": "45",
           "instructor": [
             "Roland Kaunas (P)"
@@ -3043,10 +3043,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "501",
           "title": "BIOINSTRUMENTATION",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Kristen Maitland (P)",
@@ -3077,10 +3077,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "11",
+          "active": "18",
           "section": "502",
           "title": "BIOINSTRUMENTATION",
-          "remaining": "9",
+          "remaining": "2",
           "capacity": "20",
           "instructor": [
             "Kristen Maitland",
@@ -3111,10 +3111,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "503",
           "title": "BIOINSTRUMENTATION",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Kristen Maitland",
@@ -3179,10 +3179,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "10",
           "section": "505",
           "title": "BIOINSTRUMENTATION",
-          "remaining": "14",
+          "remaining": "10",
           "capacity": "20",
           "instructor": [
             "Kristen Maitland",
@@ -3213,10 +3213,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "506",
           "title": "BIOINSTRUMENTATION",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Kristen Maitland",
@@ -3311,7 +3311,7 @@
           ],
           "time": [
             "12:40 pm-01:30 pm",
-            "03:55 pm-07:05 pm"
+            "05:00 pm-07:50 pm"
           ],
           "crn": "26466"
         },
@@ -3320,10 +3320,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "COMPUTING FOR BMEN",
-          "remaining": "60",
+          "remaining": "59",
           "capacity": "60",
           "instructor": [
             "Brian Applegate (P)",
@@ -3345,7 +3345,7 @@
           ],
           "time": [
             "08:00 am-08:50 am",
-            "03:55 pm-07:05 pm"
+            "05:00 pm-07:50 pm"
           ],
           "crn": "21315"
         },
@@ -3379,7 +3379,7 @@
           ],
           "time": [
             "12:40 pm-01:30 pm",
-            "03:55 pm-07:05 pm"
+            "05:00 pm-07:50 pm"
           ],
           "crn": "21316"
         }
@@ -3389,14 +3389,14 @@
       "title": "MAGNETIC RESONANCE ENGR",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "5",
           "section": "501",
           "title": "MAGNETIC RESONANCE ENGR",
-          "remaining": "3",
+          "remaining": "0",
           "capacity": "5",
           "instructor": [
             "TBA",
@@ -3427,10 +3427,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "1",
           "section": "502",
           "title": "MAGNETIC RESONANCE ENGR",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "TBA",
@@ -3495,10 +3495,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "2",
           "section": "504",
           "title": "MAGNETIC RESONANCE ENGR",
-          "remaining": "5",
+          "remaining": "3",
           "capacity": "5",
           "instructor": [
             "TBA",
@@ -3568,10 +3568,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "13",
           "section": "500",
           "title": "MED DEVICE PATH TO MRKT",
-          "remaining": "46",
+          "remaining": "37",
           "capacity": "50",
           "instructor": [
             "Maurice A. Brewer (P)"
@@ -3602,10 +3602,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "4",
+          "active": "14",
           "section": "500",
           "title": "MICROCNTRL AND COMM IN MED",
-          "remaining": "26",
+          "remaining": "16",
           "capacity": "30",
           "instructor": [
             "Roozbeh Jafari (P)",
@@ -3636,10 +3636,10 @@
           "subject": "BMEN",
           "campus": "CS",
           "classes": 2,
-          "active": "6",
+          "active": "13",
           "section": "501",
           "title": "MICROCNTRL AND COMM IN MED",
-          "remaining": "24",
+          "remaining": "17",
           "capacity": "30",
           "instructor": [
             "Roozbeh Jafari (P)",
@@ -3912,5 +3912,5 @@
     }
   },
   "title": "BMEN - Biomedical Engineering",
-  "updated": "Mon, 11 Apr 2016 at 12:39 AM"
+  "updated": "Wed, Apr 13 2016 at 01:23 AM"
 }

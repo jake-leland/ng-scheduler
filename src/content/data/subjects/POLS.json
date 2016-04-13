@@ -76,10 +76,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "19",
           "section": "501",
           "title": "INTRO WORLD POLITICS",
-          "remaining": "17",
+          "remaining": "11",
           "capacity": "30",
           "instructor": [
             "Timm L. Betz (P)"
@@ -134,10 +134,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "9",
           "section": "504",
           "title": "INTRO WORLD POLITICS",
-          "remaining": "27",
+          "remaining": "21",
           "capacity": "30",
           "instructor": [
             "Timm L. Betz (P)"
@@ -193,14 +193,14 @@
           "crn": "21704"
         },
         "502": {
-          "select": "SR",
+          "select": "C",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "13",
+          "active": "30",
           "section": "502",
           "title": "CONST RTS & LIBERTIES",
-          "remaining": "17",
+          "remaining": "0",
           "capacity": "30",
           "instructor": [
             "Judith Baer (P)"
@@ -231,10 +231,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "10",
           "section": "500",
           "title": "GOVT & THE ECONOMY",
-          "remaining": "28",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -435,10 +435,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "23",
           "section": "501",
           "title": "POLITICAL PARTIES",
-          "remaining": "25",
+          "remaining": "7",
           "capacity": "30",
           "instructor": [
             "Robert Harmel (P)"
@@ -499,14 +499,14 @@
       "title": "AMERICAN PRESIDENCY",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "28",
           "section": "500",
           "title": "AMERICAN PRESIDENCY",
-          "remaining": "26",
+          "remaining": "0",
           "capacity": "28",
           "instructor": [
             "TBA"
@@ -533,15 +533,15 @@
       "title": "RESEARCH SEMINAR",
       "sections": {
         "902": {
-          "select": "C",
+          "select": "SR",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "6",
           "section": "902",
           "title": "MODEL 1 IR (GENERIC)",
-          "remaining": "-1",
-          "capacity": "0",
+          "remaining": "4",
+          "capacity": "10",
           "instructor": [
             "Quan Li (P)"
           ],
@@ -562,15 +562,15 @@
           "crn": "21845"
         },
         "904": {
-          "select": "C",
+          "select": "SR",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "904",
           "title": "SNR RESEARCH SEMINAR",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "7",
+          "capacity": "10",
           "instructor": [
             "Robert Harmel (P)"
           ],
@@ -600,10 +600,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "14",
           "section": "501",
           "title": "LAT AMERICAN POL THOUGHT",
-          "remaining": "26",
+          "remaining": "16",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -789,10 +789,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "530",
           "title": "DIRECTED STUDIES",
-          "remaining": "0",
+          "remaining": "-2",
           "capacity": "0",
           "instructor": [
             "John Robertson (P)"
@@ -1142,11 +1142,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "34",
           "section": "500",
           "title": "W EUROPEAN GOVT & POL",
           "remaining": "0",
-          "capacity": "10",
+          "capacity": "34",
           "instructor": [
             "John Robertson (P)"
           ],
@@ -1356,15 +1356,15 @@
       "title": "POL SYS OF LATIN AMER",
       "sections": {
         "900": {
-          "select": "C",
+          "select": "SR",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "7",
           "section": "900",
           "title": "POL SYS OF LATIN AMER",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "3",
+          "capacity": "10",
           "instructor": [
             "Michelle Taylor (P)"
           ],
@@ -1394,11 +1394,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "10",
           "section": "900",
           "title": "WOMEN IN GOVT IN COMPAR",
-          "remaining": "-1",
-          "capacity": "0",
+          "remaining": "0",
+          "capacity": "10",
           "instructor": [
             "TBA"
           ],
@@ -1565,7 +1565,7 @@
           "remaining": "0",
           "capacity": "0",
           "instructor": [
-            "Alexander Pacek (P)"
+            "TBA"
           ],
           "credits": "3",
           "course": "326",
@@ -1627,10 +1627,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "6",
+          "active": "7",
           "section": "200",
           "title": "HNR-AMER NATNL GOVT",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -1685,11 +1685,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "20",
           "section": "501",
           "title": "AMER NATNL GOVT",
-          "remaining": "2",
-          "capacity": "18",
+          "remaining": "8",
+          "capacity": "28",
           "instructor": [
             "TBA"
           ],
@@ -1714,11 +1714,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "15",
+          "active": "14",
           "section": "502",
           "title": "AMER NATNL GOVT",
-          "remaining": "3",
-          "capacity": "18",
+          "remaining": "14",
+          "capacity": "28",
           "instructor": [
             "TBA"
           ],
@@ -1743,11 +1743,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "10",
+          "active": "13",
           "section": "503",
           "title": "AMER NATNL GOVT",
-          "remaining": "8",
-          "capacity": "18",
+          "remaining": "15",
+          "capacity": "28",
           "instructor": [
             "TBA"
           ],
@@ -1772,11 +1772,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "11",
+          "active": "14",
           "section": "504",
           "title": "AMER NATNL GOVT",
-          "remaining": "7",
-          "capacity": "18",
+          "remaining": "14",
+          "capacity": "28",
           "instructor": [
             "Jon Bond (P)"
           ],
@@ -1801,11 +1801,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "505",
           "title": "AMER NATNL GOVT",
-          "remaining": "16",
-          "capacity": "18",
+          "remaining": "25",
+          "capacity": "28",
           "instructor": [
             "Jon Bond (P)"
           ],
@@ -1830,11 +1830,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "28",
           "section": "506",
           "title": "AMER NATNL GOVT",
           "remaining": "0",
-          "capacity": "18",
+          "capacity": "28",
           "instructor": [
             "Christine Lipsmeyer (P)"
           ],
@@ -1859,11 +1859,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "23",
           "section": "507",
           "title": "AMER NATNL GOVT",
-          "remaining": "1",
-          "capacity": "18",
+          "remaining": "5",
+          "capacity": "28",
           "instructor": [
             "TBA"
           ],
@@ -1888,11 +1888,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "28",
           "section": "508",
           "title": "AMER NATNL GOVT",
           "remaining": "0",
-          "capacity": "18",
+          "capacity": "28",
           "instructor": [
             "Sarah Fulton (P)"
           ],
@@ -1913,15 +1913,15 @@
           "crn": "12484"
         },
         "509": {
-          "select": "SR",
+          "select": "C",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "16",
+          "active": "28",
           "section": "509",
           "title": "AMER NATNL GOVT",
-          "remaining": "2",
-          "capacity": "18",
+          "remaining": "0",
+          "capacity": "28",
           "instructor": [
             "Sarah Fulton (P)"
           ],
@@ -1985,10 +1985,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "17",
           "section": "200",
           "title": "HNR-STATE & LOCAL GOVT",
-          "remaining": "2",
+          "remaining": "3",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -2014,13 +2014,13 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "33",
           "section": "510",
           "title": "STATE & LOCAL GOVT",
           "remaining": "0",
-          "capacity": "18",
+          "capacity": "33",
           "instructor": [
-            "TBA"
+            "Manuel P. Teodoro (P)"
           ],
           "credits": "3",
           "course": "207",
@@ -2043,11 +2043,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "33",
           "section": "501",
           "title": "STATE & LOCAL GOVT",
           "remaining": "0",
-          "capacity": "18",
+          "capacity": "33",
           "instructor": [
             "Dwight A. Roblyer (P)"
           ],
@@ -2072,13 +2072,13 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "33",
           "section": "502",
           "title": "STATE & LOCAL GOVT",
           "remaining": "0",
-          "capacity": "18",
+          "capacity": "33",
           "instructor": [
-            "TBA"
+            "Dwight A. Roblyer (P)"
           ],
           "credits": "3",
           "course": "207",
@@ -2101,13 +2101,13 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "33",
           "section": "503",
           "title": "STATE & LOCAL GOVT",
           "remaining": "0",
-          "capacity": "18",
+          "capacity": "33",
           "instructor": [
-            "TBA"
+            "Dwight A. Roblyer (P)"
           ],
           "credits": "3",
           "course": "207",
@@ -2130,13 +2130,13 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "20",
+          "active": "33",
           "section": "504",
           "title": "STATE & LOCAL GOVT",
           "remaining": "0",
-          "capacity": "20",
+          "capacity": "33",
           "instructor": [
-            "TBA"
+            "Jason M. Smith (P)"
           ],
           "credits": "3",
           "course": "207",
@@ -2159,13 +2159,13 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "20",
+          "active": "33",
           "section": "505",
           "title": "STATE & LOCAL GOVT",
           "remaining": "0",
-          "capacity": "20",
+          "capacity": "33",
           "instructor": [
-            "TBA"
+            "Jason M. Smith (P)"
           ],
           "credits": "3",
           "course": "207",
@@ -2188,13 +2188,13 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "20",
+          "active": "33",
           "section": "506",
           "title": "STATE & LOCAL GOVT",
           "remaining": "0",
-          "capacity": "20",
+          "capacity": "33",
           "instructor": [
-            "TBA"
+            "Jason M. Smith (P)"
           ],
           "credits": "3",
           "course": "207",
@@ -2213,17 +2213,17 @@
           "crn": "12490"
         },
         "507": {
-          "select": "SR",
+          "select": "C",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "17",
+          "active": "33",
           "section": "507",
           "title": "STATE & LOCAL GOVT",
-          "remaining": "1",
-          "capacity": "18",
+          "remaining": "0",
+          "capacity": "33",
           "instructor": [
-            "TBA"
+            "Phaik Lim (P)"
           ],
           "credits": "3",
           "course": "207",
@@ -2246,13 +2246,13 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "18",
+          "active": "33",
           "section": "508",
           "title": "STATE & LOCAL GOVT",
           "remaining": "0",
-          "capacity": "18",
+          "capacity": "33",
           "instructor": [
-            "TBA"
+            "Phaik Lim (P)"
           ],
           "credits": "3",
           "course": "207",
@@ -2401,10 +2401,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "908",
           "title": "INTRO TO POLS RES METH",
-          "remaining": "16",
+          "remaining": "15",
           "capacity": "17",
           "instructor": [
             "TBA"
@@ -2459,10 +2459,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "5",
           "section": "902",
           "title": "INTRO TO POLS RES METH",
-          "remaining": "13",
+          "remaining": "12",
           "capacity": "17",
           "instructor": [
             "Nehemia Geva (P)"
@@ -2488,10 +2488,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "5",
           "section": "903",
           "title": "INTRO TO POLS RES METH",
-          "remaining": "14",
+          "remaining": "12",
           "capacity": "17",
           "instructor": [
             "Nehemia Geva (P)"
@@ -3524,15 +3524,15 @@
       "title": "INTERNATIONAL CONFLICT",
       "sections": {
         "501": {
-          "select": "SR",
+          "select": "C",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "24",
+          "active": "36",
           "section": "501",
           "title": "INTERNATIONAL CONFLICT",
-          "remaining": "6",
-          "capacity": "30",
+          "remaining": "0",
+          "capacity": "36",
           "instructor": [
             "Ahmer Tarar (P)"
           ],
@@ -3587,15 +3587,15 @@
       "title": "INTL POLITICAL ECONOMY",
       "sections": {
         "901": {
-          "select": "C",
+          "select": "SR",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "901",
           "title": "INTL POLITICAL ECONOMY",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "7",
+          "capacity": "10",
           "instructor": [
             "Amy Pond (P)"
           ],
@@ -3616,15 +3616,15 @@
           "crn": "25306"
         },
         "902": {
-          "select": "C",
+          "select": "SR",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "4",
           "section": "902",
           "title": "INTL POLITICAL ECONOMY",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "6",
+          "capacity": "10",
           "instructor": [
             "Amy Pond (P)"
           ],
@@ -3654,11 +3654,11 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "11",
           "section": "900",
           "title": "AMERICAN FOREIGN POLIC",
           "remaining": "-1",
-          "capacity": "0",
+          "capacity": "10",
           "instructor": [
             "Michael Koch (P)"
           ],
@@ -3684,15 +3684,15 @@
       "title": "GOVT&POLS FRMR SOVT UN",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "28",
+          "active": "36",
           "section": "500",
           "title": "GOVT&POLS FRMR SOVT UN",
-          "remaining": "2",
-          "capacity": "30",
+          "remaining": "0",
+          "capacity": "36",
           "instructor": [
             "Alexander Pacek (P)"
           ],
@@ -3718,14 +3718,14 @@
       "title": "INTRO TO PUBLIC ADMIN",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "30",
           "section": "500",
           "title": "INTRO TO PUBLIC ADMIN",
-          "remaining": "22",
+          "remaining": "0",
           "capacity": "30",
           "instructor": [
             "Mitchell Rice (P)"
@@ -3790,10 +3790,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "10",
           "section": "501",
           "title": "LATINO POLITICS IN US",
-          "remaining": "27",
+          "remaining": "20",
           "capacity": "30",
           "instructor": [
             "Francisco Pedraza (P)"
@@ -3819,10 +3819,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "6",
           "section": "502",
           "title": "LATINO POLITICS IN US",
-          "remaining": "28",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "Francisco Pedraza (P)"
@@ -3887,10 +3887,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "501",
           "title": "COMPARATIVE POLITICS",
-          "remaining": "27",
+          "remaining": "24",
           "capacity": "30",
           "instructor": [
             "TBA"
@@ -3916,10 +3916,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "5",
+          "active": "7",
           "section": "502",
           "title": "COMPARATIVE POLITICS",
-          "remaining": "45",
+          "remaining": "43",
           "capacity": "50",
           "instructor": [
             "TBA"
@@ -3950,10 +3950,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "12",
           "section": "501",
           "title": "CONT POL PROB & ISSUES",
-          "remaining": "27",
+          "remaining": "18",
           "capacity": "30",
           "instructor": [
             "Mitchell Rice (P)"
@@ -3979,10 +3979,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "7",
+          "active": "16",
           "section": "503",
           "title": "CONT POL PROB & ISSUES",
-          "remaining": "23",
+          "remaining": "14",
           "capacity": "30",
           "instructor": [
             "Diego Von Vacano (P)"
@@ -4013,10 +4013,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "17",
           "section": "500",
           "title": "GAME THEORETIC METHODS IN POLS",
-          "remaining": "30",
+          "remaining": "17",
           "capacity": "34",
           "instructor": [
             "Ian R. Turner (P)"
@@ -4042,10 +4042,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "7",
           "section": "501",
           "title": "GAME THEORETIC METHODS IN POLS",
-          "remaining": "32",
+          "remaining": "27",
           "capacity": "34",
           "instructor": [
             "Ian R. Turner (P)"
@@ -4110,10 +4110,10 @@
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "12",
           "section": "901",
           "title": "POLIMETRICS",
-          "remaining": "18",
+          "remaining": "7",
           "capacity": "19",
           "instructor": [
             "TBA"
@@ -4135,14 +4135,14 @@
           "crn": "16982"
         },
         "902": {
-          "select": "SR",
+          "select": "C",
           "subject": "POLS",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "19",
           "section": "902",
           "title": "POLIMETRICS",
-          "remaining": "16",
+          "remaining": "0",
           "capacity": "19",
           "instructor": [
             "Scott J. Cook (P)"
@@ -4167,5 +4167,5 @@
     }
   },
   "title": "POLS - Political Science",
-  "updated": "Mon, 11 Apr 2016 at 12:51 AM"
+  "updated": "Wed, Apr 13 2016 at 01:35 AM"
 }

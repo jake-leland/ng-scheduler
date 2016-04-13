@@ -81,10 +81,10 @@
           "subject": "KNFB",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "5",
           "section": "500",
           "title": "TECH TCHING 21ST CEN LRN",
-          "remaining": "9",
+          "remaining": "5",
           "capacity": "10",
           "instructor": [
             "TBA",
@@ -144,7 +144,7 @@
             "TBA"
           ],
           "time": [
-            "12:40 pm-02:40 pm",
+            "01:50 pm-03:50 pm",
             "TBA"
           ],
           "crn": "16822"
@@ -159,10 +159,10 @@
           "subject": "KNFB",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "500",
           "title": "ELEM SCHOOL PHYS ACTIV",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Ping Xiang (P)",
@@ -198,10 +198,10 @@
           "subject": "KNFB",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "7",
           "section": "901",
           "title": "MID & SEC SCH PHYS ACTIV",
-          "remaining": "-2",
+          "remaining": "-7",
           "capacity": "0",
           "instructor": [
             "TBA",
@@ -237,10 +237,10 @@
           "subject": "KNFB",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "10",
           "section": "554",
           "title": "SPRV STD TCH: IN-ABSENTIA",
-          "remaining": "16",
+          "remaining": "10",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -266,10 +266,10 @@
           "subject": "KNFB",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "8",
           "section": "504",
           "title": "SUPERVISED STD TCHNG",
-          "remaining": "18",
+          "remaining": "12",
           "capacity": "20",
           "instructor": [
             "TBA"
@@ -294,5 +294,5 @@
     }
   },
   "title": "KNFB - Kinesiology Field Based",
-  "updated": "Mon, 11 Apr 2016 at 12:46 AM"
+  "updated": "Wed, Apr 13 2016 at 01:30 AM"
 }

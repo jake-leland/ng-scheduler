@@ -94,35 +94,6 @@
             "01:50 pm-02:40 pm"
           ],
           "crn": "15944"
-        },
-        "204": {
-          "select": "SR",
-          "subject": "ELIR",
-          "campus": "EL",
-          "classes": 1,
-          "active": "0",
-          "section": "204",
-          "title": "INT. READING DEVELOPMENT",
-          "remaining": "20",
-          "capacity": "20",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "200",
-          "days": [
-            "MWF"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "09:10 am-10:00 am"
-          ],
-          "crn": "16247"
         }
       }
     },
@@ -137,8 +108,8 @@
           "active": "0",
           "section": "301",
           "title": "ADV. READING DEVELOPMENT",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "30",
+          "capacity": "30",
           "instructor": [
             "TBA"
           ],
@@ -200,8 +171,8 @@
           "active": "0",
           "section": "251",
           "title": "INTERMEDIATE READING II",
-          "remaining": "20",
-          "capacity": "20",
+          "remaining": "17",
+          "capacity": "17",
           "instructor": [
             "TBA"
           ],
@@ -220,39 +191,10 @@
             "12:40 pm-01:30 pm"
           ],
           "crn": "19797"
-        },
-        "252": {
-          "select": "C",
-          "subject": "ELIR",
-          "campus": "EL",
-          "classes": 1,
-          "active": "0",
-          "section": "252",
-          "title": "INTERMEDIATE READING II",
-          "remaining": "0",
-          "capacity": "0",
-          "instructor": [
-            "TBA"
-          ],
-          "credits": "3",
-          "course": "250",
-          "days": [
-            "MWF"
-          ],
-          "date (mm/dd)": [
-            "08/29-12/14"
-          ],
-          "location": [
-            "TBA"
-          ],
-          "time": [
-            "12:40 pm-01:30 pm"
-          ],
-          "crn": "23256"
         }
       }
     }
   },
   "title": "ELIR - Reading/Writing",
-  "updated": "Mon, 11 Apr 2016 at 12:42 AM"
+  "updated": "Wed, Apr 13 2016 at 01:26 AM"
 }

@@ -236,15 +236,15 @@
           "crn": "19961"
         },
         "625": {
-          "select": "SR",
+          "select": "C",
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "625",
-          "title": "RESEARCH",
-          "remaining": "2",
-          "capacity": "2",
+          "title": "RESEARCH (Syllabus)",
+          "remaining": "-1",
+          "capacity": "0",
           "instructor": [
             "Shari Yvon-Lewis (P)"
           ],
@@ -390,10 +390,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "510",
           "title": "OCEANOGRAPHY",
-          "remaining": "97",
+          "remaining": "96",
           "capacity": "98",
           "instructor": [
             "Wilford Gardner (P)"
@@ -419,10 +419,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "8",
+          "active": "20",
           "section": "598",
           "title": "OCEANOGRAPHY",
-          "remaining": "92",
+          "remaining": "80",
           "capacity": "100",
           "instructor": [
             "Jessica N. Fitzsimmons (P)"
@@ -448,10 +448,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "5",
           "section": "500",
           "title": "OCEANOGRAPHY",
-          "remaining": "68",
+          "remaining": "64",
           "capacity": "69",
           "instructor": [
             "David Brooks (P)"
@@ -535,10 +535,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "512",
           "title": "OCEANOGRAPHY",
-          "remaining": "60",
+          "remaining": "59",
           "capacity": "60",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -564,10 +564,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "7",
           "section": "502",
           "title": "OCEANOGRAPHY",
-          "remaining": "94",
+          "remaining": "91",
           "capacity": "98",
           "instructor": [
             "David Brooks (P)"
@@ -593,10 +593,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "513",
           "title": "OCEANOGRAPHY",
-          "remaining": "60",
+          "remaining": "58",
           "capacity": "60",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -651,10 +651,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "504",
           "title": "OCEANOGRAPHY",
-          "remaining": "96",
+          "remaining": "95",
           "capacity": "98",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -767,10 +767,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "4",
+          "active": "10",
           "section": "508",
           "title": "OCEANOGRAPHY",
-          "remaining": "94",
+          "remaining": "88",
           "capacity": "98",
           "instructor": [
             "Benjamin Giese (P)"
@@ -796,10 +796,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "6",
           "section": "509",
           "title": "OCEANOGRAPHY",
-          "remaining": "57",
+          "remaining": "54",
           "capacity": "60",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -1816,10 +1816,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "626",
           "title": "RESEARCH",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Niall Slowey (P)"
@@ -2227,10 +2227,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "4",
           "section": "513",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "19",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2256,10 +2256,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "514",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2314,10 +2314,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "516",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2343,10 +2343,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "517",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "19",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2372,10 +2372,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "3",
           "section": "518",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "18",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2546,10 +2546,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "523",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2575,10 +2575,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "5",
           "section": "524",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "19",
+          "remaining": "15",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2604,10 +2604,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "525",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2633,10 +2633,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "526",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2720,10 +2720,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "529",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2749,10 +2749,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "530",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -2981,10 +2981,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "538",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -3213,10 +3213,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "501",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -3271,10 +3271,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "502",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "20",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -3329,10 +3329,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "503",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -3387,10 +3387,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "504",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -3445,10 +3445,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "505",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -3474,10 +3474,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "506",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "18",
+          "remaining": "16",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -3503,10 +3503,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "507",
           "title": "OCEANOGRAPHY LAB",
-          "remaining": "20",
+          "remaining": "19",
           "capacity": "20",
           "instructor": [
             "Christina L. Wiederwohl (P)"
@@ -3595,10 +3595,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "3",
           "section": "500",
           "title": "MATH MODEL OCEAN CLIMATE",
-          "remaining": "19",
+          "remaining": "17",
           "capacity": "20",
           "instructor": [
             "Benjamin Giese (P)",
@@ -3634,10 +3634,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "600",
           "title": "HIGH-RES MARINE GEOP",
-          "remaining": "15",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Niall Slowey (P)"
@@ -3668,10 +3668,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "10",
           "section": "900",
           "title": "PHYSICAL OCEANOGRAPHY",
-          "remaining": "23",
+          "remaining": "15",
           "capacity": "25",
           "instructor": [
             "Achim Stoessel (P)"
@@ -3702,10 +3702,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 2,
-          "active": "1",
+          "active": "2",
           "section": "500",
           "title": "MATLAB PROG FOR OCEAN SCIENCES",
-          "remaining": "14",
+          "remaining": "13",
           "capacity": "15",
           "instructor": [
             "Christina L. Wiederwohl (P)",
@@ -3741,10 +3741,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "600",
           "title": "EX DESIGN AND ANALYSIS OCNG",
-          "remaining": "5",
+          "remaining": "4",
           "capacity": "5",
           "instructor": [
             "Steven Dimarco (P)"
@@ -3771,15 +3771,15 @@
       "title": "GEOPHYS DATA ASSIM",
       "sections": {
         "600": {
-          "select": "SR",
+          "select": "C",
           "subject": "OCNG",
           "campus": "CS",
           "classes": 2,
           "active": "0",
           "section": "600",
           "title": "GEOPHYS DATA ASSIM",
-          "remaining": "10",
-          "capacity": "10",
+          "remaining": "0",
+          "capacity": "0",
           "instructor": [
             "Robert Hetland (P)",
             "TBA"
@@ -3848,10 +3848,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 2,
-          "active": "2",
+          "active": "4",
           "section": "600",
           "title": "MATLAB PROG FOR OCEAN SCIENCES",
-          "remaining": "3",
+          "remaining": "1",
           "capacity": "5",
           "instructor": [
             "Christina L. Wiederwohl (P)",
@@ -3921,15 +3921,15 @@
     "281": {
       "title": "SEMINAR",
       "sections": {
-        "500": {
+        "900": {
           "select": "SR",
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
-          "section": "500",
+          "active": "1",
+          "section": "900",
           "title": "SEMINAR",
-          "remaining": "25",
+          "remaining": "24",
           "capacity": "25",
           "instructor": [
             "Shari Yvon-Lewis (P)"
@@ -3960,10 +3960,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "900",
           "title": "SEMINAR",
-          "remaining": "20",
+          "remaining": "18",
           "capacity": "20",
           "instructor": [
             "Mary J. Richardson (P)"
@@ -4053,14 +4053,14 @@
       "title": "BIOLOGICAL OCEANOGRAPHY",
       "sections": {
         "500": {
-          "select": "SR",
+          "select": "C",
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "3",
+          "active": "10",
           "section": "500",
           "title": "BIOLOGICAL OCEANOGRAPHY",
-          "remaining": "7",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Lisa Campbell (P)"
@@ -4082,14 +4082,14 @@
           "crn": "27847"
         },
         "900": {
-          "select": "SR",
+          "select": "C",
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "10",
           "section": "900",
           "title": "BIOLOGICAL OCEANOGRAPHY",
-          "remaining": "9",
+          "remaining": "0",
           "capacity": "10",
           "instructor": [
             "Lisa Campbell (P)"
@@ -4212,10 +4212,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "5",
           "section": "500",
           "title": "INTERDISCIPLINARY OCNG (Syllabus)",
-          "remaining": "24",
+          "remaining": "19",
           "capacity": "24",
           "instructor": [
             "Douglas Biggs (P)"
@@ -4241,10 +4241,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "2",
+          "active": "4",
           "section": "501",
           "title": "INTERDISCIPLINARY OCNG (Syllabus)",
-          "remaining": "22",
+          "remaining": "20",
           "capacity": "24",
           "instructor": [
             "Douglas Biggs (P)"
@@ -4271,17 +4271,17 @@
       "title": "SPECIAL TOPICS IN",
       "sections": {
         "500": {
-          "select": "C",
+          "select": "SR",
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "500",
           "title": "SPTP: VENTS & MID-OCN RIDGES",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "43",
+          "capacity": "45",
           "instructor": [
-            "TBA"
+            "Jessica N. Fitzsimmons (P), Jason B. Sylvan"
           ],
           "credits": "3",
           "course": "489",
@@ -4309,10 +4309,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "1",
           "section": "500",
           "title": "MICROBIAL OCEANOGRAPHY",
-          "remaining": "10",
+          "remaining": "9",
           "capacity": "10",
           "instructor": [
             "Daniel Thornton (P)"
@@ -4372,10 +4372,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 2,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "PYTHON FOR GEOSCIENCES",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Kristen M. Thyng (P)",
@@ -4407,15 +4407,15 @@
       "title": "SPECIAL TOPICS IN",
       "sections": {
         "600": {
-          "select": "C",
+          "select": "SR",
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
           "active": "0",
           "section": "600",
           "title": "SPTP: UPWELLING SYSTEMS",
-          "remaining": "0",
-          "capacity": "0",
+          "remaining": "15",
+          "capacity": "15",
           "instructor": [
             "Piers Chapman (P)"
           ],
@@ -4445,10 +4445,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "3",
           "section": "500",
           "title": "OCEAN OBSERVING SYSTEMS",
-          "remaining": "10",
+          "remaining": "7",
           "capacity": "10",
           "instructor": [
             "Steven Dimarco (P)"
@@ -4479,10 +4479,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "0",
+          "active": "2",
           "section": "651",
           "title": "DYNAMICS COLLOIDS ENVIR",
-          "remaining": "10",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Peter Santschi (P)"
@@ -4678,10 +4678,10 @@
           "subject": "OCNG",
           "campus": "CS",
           "classes": 1,
-          "active": "1",
+          "active": "2",
           "section": "600",
           "title": "DYNAMICAL OCEANOGRAPHY",
-          "remaining": "9",
+          "remaining": "8",
           "capacity": "10",
           "instructor": [
             "Robert Hetland (P)"
@@ -4706,5 +4706,5 @@
     }
   },
   "title": "OCNG - Oceanography",
-  "updated": "Mon, 11 Apr 2016 at 12:49 AM"
+  "updated": "Wed, Apr 13 2016 at 01:33 AM"
 }
