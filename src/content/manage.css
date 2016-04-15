@@ -63,3 +63,13 @@
 .manage md-list {
     padding: 0;
 }
+
+#remove {
+    padding: 4px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.manage .md-button.md-icon-button {
+    margin: auto !important;
+    margin-left: -12px !important;
+}

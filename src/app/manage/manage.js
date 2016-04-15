@@ -5,10 +5,10 @@
         .module('app.manage')
         .controller('Manage', Manage);
 
-    Manage.$inject = ['$rootScope', '$scope', '$http', '$q', 'common', 'config'];
+    Manage.$inject = ['$rootScope', '$scope', '$http', '$q', '$timeout', 'common', 'config'];
 
     /* @ngInject */
-    function Manage($rootScope, $scope, $http, $q, common, config) {
+    function Manage($rootScope, $scope, $http, $q, $timeout, common, config) {
         loadData();
         initManager();
 
@@ -85,7 +85,18 @@
                 return list;
             }
 
+            $timeout(afterNg, 0);
+
+            function afterNg() {
+                $('md-tabs-wrapper').wrap('<div id="custom-tab-top" class="layout-row"></div>');
+                $('md-tabs-wrapper').addClass('flex');
+                $('#custom-tab-top').append($('#remove'));
+            }
+
             $scope.addCourse = function (course) {
+                if(!$scope.showClose) {
+                    $scope.showClose = true;
+                }
                 var tab = {
                     title: course.subject + " " + course.course,
                     subject: course.subject,
@@ -107,6 +118,9 @@
                     var i = $rootScope.mySections.indexOf(value);
                     $rootScope.mySections.splice(i, 1);
                 });
+                if(tabs.length == 0) {
+                    $scope.showClose = false;
+                }
             };
             $scope.toggleSection = function (section) {
                 var i = $rootScope.mySections.indexOf(section);

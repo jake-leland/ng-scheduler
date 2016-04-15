@@ -1,16 +1,19 @@
 <md-content data-ng-controller="Manage" layout="column" layout-fill class="manage md-whiteframe-1dp">
     <md-content flex layout="column" class="md-padding">
+        <div id="remove">
+            <md-button class="md-icon-button md-accent" aria-label="Remove" ng-show="showClose"
+                       ng-click="removeCourse( tabs[selectedIndex] )">
+                <md-icon md-svg-icon="md-close"></md-icon>
+            </md-button>
+        </div>
         <md-tabs flex md-selected="selectedIndex" md-border-bottom md-autoselect>
             <md-tab ng-repeat="tab in tabs"
                     ng-disabled="tab.disabled"
                     label="{{tab.title}}">
                 <div class="demo-tab tab{{$index%4}}">
                     <md-list>
-                        <md-subheader class="md-no-sticky">
+                        <md-subheader>
                             Updated: {{subjects[tab.subject].updated}}
-                            <md-button class="md-raised" aria-label="Remove" ng-click="removeCourse( tab )">
-                                Remove
-                            </md-button>
                         </md-subheader>
                         <section ng-repeat="(title, instructors) in tab.sectionListing">
                             <md-toolbar>
