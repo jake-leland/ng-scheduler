@@ -1,9 +1,17 @@
 (function () {
     'use strict';
 
+    var colors = ['red', 'pink', 'purple', 'deep-purple', 'indigo', 'blue', 'teal', 'green', 'deep-orange', 'brown', 'blue-grey'];
+
     angular
         .module('app.schedule')
-        .controller('Schedule', Schedule);
+        .controller('Schedule', Schedule)
+        .config(function ($mdThemingProvider) {
+            $.each(colors, function (index, color) {
+                $mdThemingProvider.theme(color)
+                    .primaryPalette(color);
+            });
+        });
 
     Schedule.$inject = ['$rootScope', '$scope', '$http', '$timeout', 'common', 'config'];
 
@@ -33,15 +41,16 @@
             });
 
             function parseSection(section) {
+                var color = colors[Math.floor(Math.random() * (colors.length + 1))];
                 for (var i = 0; i < section.classes; i++) {
                     for (var j = 0; j < section.days[i].length; j++) {
                         if (section.time[i] != 'WEB' && section.time[i] != 'TBA') {
-                            createClass(section.crn + '-' + i, section.days[i][j], section.time[i]);
+                            createClass(section.crn + '-' + i, section.days[i][j], section.time[i], color);
                         }
                     }
                 }
 
-                function createClass(id, day, time) {
+                function createClass(id, day, time, color) {
                     var startTime = time.split('-')[0];
                     var endTime = time.split('-')[1];
                     $scope.classes[day][id] = {
@@ -54,7 +63,8 @@
                         subject: section.subject,
                         course: section.course,
                         section: section.section,
-                        time: time
+                        time: time,
+                        color: color
                     };
                 }
             }
@@ -72,7 +82,7 @@
             // timeout to wait until ng-repeat finishes
             $timeout(afterNg, 0);
 
-
+            // add lines and times
             function afterNg() {
                 $('.sched-day').before('<md-divider></md-divider>');
 
@@ -82,7 +92,6 @@
                 for (var i = Math.ceil(common.timeToHrs(config.schedule.minTime)); i <= Math.floor(common.timeToHrs(config.schedule.maxTime)); i++) {
                     $rootScope.times.push({
                         style: {
-                            // -6px assumes font size 10px
                             'top': h * common.hrsToPct(i) - 6 + 'px'
                         },
                         text: common.hrsToTime(i)

@@ -87,6 +87,7 @@
 
             $timeout(afterNg, 0);
 
+            // position remove button
             function afterNg() {
                 $('md-tabs-wrapper').wrap('<div id="custom-tab-top" class="layout-row"></div>');
                 $('md-tabs-wrapper').addClass('flex');

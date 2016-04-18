@@ -14,7 +14,7 @@
         <md-content flex>
             <hr ng-repeat="line in lines" class="sched-line" ng-style="line.style">
             <md-content ng-repeat="class in classes[day]" class="class" ng-style="class.style">
-                <md-button class="class md-raised md-accent layout-fill">
+                <md-button class="class md-raised md-primary" md-theme="{{class.color}}" layout-fill>
                     {{class.subject}} {{class.course}}-{{class.section}}
                 </md-button>
             </md-content>

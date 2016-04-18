@@ -18,7 +18,7 @@ hr.sched-line {
 md-content.class {
     /*display: block;*/
     box-sizing: border-box;
-    padding: 0 3px 5px 3px;
+    padding: 0 4px 8px 4px;
     font-size: 14px;
 }
 
